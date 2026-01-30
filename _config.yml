@@ -1,0 +1,24 @@
+title: "GPS Lab"
+description: "Research lab at Stanford University"
+url: "https://rlwang-GPSLab.github.io" # optional: set to https://<username>.github.io or custom domain
+baseurl: "/rlwang-GPSLab.github.io" # for user/organization site repo (username.github.io), keep ""
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+

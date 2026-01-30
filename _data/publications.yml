@@ -1,0 +1,19 @@
+- year: 2026
+  title: "A Unified Framework for Safe Autonomous Space Operations"
+  authors: "A. Lovelace, G. Hopper, K. Johnson"
+  venue: "Journal of Space Systems"
+  links:
+    - label: "PDF"
+      url: "https://example.com/paper.pdf"
+    - label: "DOI"
+      url: "https://doi.org/10.0000/example"
+
+- year: 2025
+  title: "Robust GNSS Integrity Monitoring with Data-Driven Fault Models"
+  authors: "G. Hopper, A. Lovelace"
+  venue: "ION GNSS+"
+  links:
+    - label: "arXiv"
+      url: "https://arxiv.org/abs/0000.00000"
+    - label: "Code"
+      url: "https://github.com/"
