@@ -1,0 +1,39 @@
+<!-- <div class="stanford-banner">
+  <div class="container stanford-banner-inner">
+    <a class="stanford-banner-link" href="https://www.stanford.edu" target="_blank" rel="noopener">
+      Stanford University
+    </a>
+  </div>
+</div> -->
+
+<!-- Stanford Identity Bar -->
+<div class="stanford-identitybar">
+  <a class="stanford-logo" href="https://www.stanford.edu" target="_blank" rel="noopener">
+    Stanford University
+  </a>
+</div>
+
+
+<nav class="nav" aria-label="Primary">
+  <div class="container nav-inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <span class="brand-title">{{ site.title }}</span>
+      <span class="brand-subtitle">Aeronautics & Astronautics</span>
+    </a>
+
+    <button class="nav-toggle" aria-expanded="false" aria-controls="navLinks">
+      <span class="sr-only">Toggle navigation</span>
+      ☰
+    </button>
+
+    <div id="navLinks" class="nav-links">
+      <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Home</a>
+      <a href="{{ '/people/' | relative_url }}"{% if page.url contains '/people/' %} aria-current="page"{% endif %}>People</a>
+      <a href="{{ '/research/' | relative_url }}"{% if page.url contains '/research/' %} aria-current="page"{% endif %}>Research</a>
+      <a href="{{ '/publications/' | relative_url }}"{% if page.url contains '/publications/' %} aria-current="page"{% endif %}>Publications</a>
+      <a href="{{ '/resources/' | relative_url }}"{% if page.url contains '/resources/' %} aria-current="page"{% endif %}>Resources</a>
+      <a href="{{ '/news/' | relative_url }}"{% if page.url contains '/news/' %} aria-current="page"{% endif %}>News</a>
+      <a href="{{ '/contact/' | relative_url }}"{% if page.url contains '/contact/' %} aria-current="page"{% endif %}>Contact</a>
+    </div>
+  </div>
+</nav>

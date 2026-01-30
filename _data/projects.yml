@@ -1,0 +1,17 @@
+- title: "On-orbit Rendezvous Safety"
+  subtitle: "Collision risk estimation and maneuver intent for dense orbital regimes."
+  thumbnail: "/assets/img/projects/rendezvous.jpg"
+  url: "/projects/on-orbit-rendezvous-safety/"
+  tags: ["Space Safety", "Estimation"]
+
+- title: "GNSS Integrity for Multi-Constellation"
+  subtitle: "Integrity monitoring and overbounding for next-gen GNSS."
+  thumbnail: "/assets/img/projects/gnss.jpg"
+  url: "/projects/gnss-integrity-multi-constellation/"
+  tags: ["GNSS", "Integrity"]
+
+- title: "Autonomous Planning in Uncertain Environments"
+  subtitle: "Planning and control with uncertainty-aware constraints."
+  thumbnail: "/assets/img/projects/planning.jpg"
+  url: "/projects/autonomous-planning-uncertainty/"
+  tags: ["Autonomy", "Planning"]
