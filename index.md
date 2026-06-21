@@ -10,6 +10,73 @@ layout: default
     alt="GPS Lab banner image">
 </section>
 
+<!-- Lab introduction -->
+<section class="section lab-intro">
+  <div class="container">
+    <h2 class="section-title">What We Do</h2>
+
+    <p class="lab-intro-text">
+      The GPS Research Lab works with the FAA, U.S. Air Force, NASA and the Department of Transportation to pioneer systems that augment the Global Positioning System (GPS) and the other Global Navigation Satellite Systems (GNSS). The laboratory is directed by Professor Todd Walter, Dr. Sherman Lo and Dr. Juan Blanch. It has about a dozen members including professional researchers, graduate students and supporting staff. These days, we focus on Satellite Based Augmentation Systems, Advanced Autonomous Integrity Monitoring (ARAIM), high precision GNSS for autonomous cars, and cyber security of navigation.
+    </p>
+
+  </div>
+</section>
+
+<!-- Lab links / centers / meetings -->
+<section class="section lab-highlights">
+  <div class="container">
+    <div class="grid-3">
+
+    <a class="card highlight-card" href="https://scpnt.stanford.edu/" target="_blank" rel="noopener">
+
+      <img
+        src="{{ '/assets/img/home/scpnt.jpg' | relative_url }}"
+        alt="SCPNT">
+
+      <div class="highlight-body">
+        <h3>Stanford Center for Position, Navigation & Time (SCPNT)</h3>
+        <p class="muted">
+          The GPS Lab is closely affiliated with SCPNT...
+        </p>
+      </div>
+
+    </a>
+
+    <a class="card highlight-card" href="https://www.iitcarnations.org/" target="_blank" rel="noopener">
+
+      <img
+        src="{{ '/assets/img/home/carnations.jpg' | relative_url }}"
+        alt="CARNATIONS">
+
+      <div class="highlight-body">
+        <h3>CARNATIONS</h3>
+        <p class="muted">
+          CARNATIONS pursues a three-pillar research strategy...
+        </p>
+      </div>
+
+    </a>
+
+    <a class="card highlight-card" href="https://gps.stanford.edu/people/sherman-lo" target="_blank" rel="noopener">
+
+      <img
+        src="{{ '/assets/img/home/labmeeting.jpg' | relative_url }}"
+        alt="GPS Seminar">
+
+      <div class="highlight-body">
+        <h3>Weekly Friday GPS/PNT Seminar</h3>
+        <p class="muted">
+          Fridays at 1 PM in Durand 450.
+        </p>
+      </div>
+
+    </a>
+
+  </div>
+
+  </div>
+</section>
+
 <section class="section">
   <div class="container">
     <div class="section-header">
@@ -31,6 +98,7 @@ layout: default
         <p class="muted">Planning and control under uncertainty for real-world systems.</p>
       </div>
     </div>
+
   </div>
 </section>
 
@@ -57,6 +125,7 @@ layout: default
         </div>
       {% endfor %}
     </div>
+
   </div>
 </section>
 
@@ -91,6 +160,6 @@ layout: default
 
       <div class="lab-carousel-dots" aria-label="Slide navigation"></div>
     </div>
+
   </div>
 </section>
-
