@@ -1,30 +1,116 @@
 ---
 layout: page
 title: People
-subtitle: "Faculty, students, and collaborators"
+subtitle: ""
+permalink: /people/
 ---
 
-{% assign people = site.data.people %}
+<!-- People page banner -->
+<section class="home-banner-full" aria-label="People page banner">
+  <img
+    src="{{ '/assets/img/lab/people_banner.jpg' | relative_url }}"
+    alt="GPS Lab members">
+</section>
 
-<h2>Team</h2>
-<div class="people-grid">
-  {% for p in people %}
-    <div class="person">
-      {% if p.headshot %}
-        <img src="{{ p.headshot | relative_url }}" alt="{{ p.name }} headshot">
-      {% endif %}
-      <div class="person-body">
-        <p class="person-name">{{ p.name }}</p>
-        <p class="person-role">{{ p.role }}{% if p.affiliation %} · {{ p.affiliation }}{% endif %}</p>
-        {% if p.interests %}
-          <p class="muted" style="margin:0 0 10px;">{{ p.interests }}</p>
-        {% endif %}
-        <div class="person-links">
-          {% if p.email %}<a href="mailto:{{ p.email }}">Email</a>{% endif %}
-          {% if p.website %}<a href="{{ p.website }}" target="_blank" rel="noopener">Website</a>{% endif %}
-          {% if p.scholar %}<a href="{{ p.scholar }}" target="_blank" rel="noopener">Scholar</a>{% endif %}
-        </div>
+<div class="people-layout">
+
+  <!-- Sidebar navigation -->
+  <aside class="people-sidebar" aria-label="People page navigation">
+    <nav>
+      <a href="#faculty">Faculty</a>
+
+      <div class="people-sidebar-group">
+        <span>Staff</span>
+        <a href="#research-staff">Research Staff</a>
+        <a href="#postdoctoral">Postdoctoral Scholars</a>
       </div>
-    </div>
-  {% endfor %}
+
+      <div class="people-sidebar-group">
+        <span>Students</span>
+        <a href="#phd">PhD Students</a>
+        <a href="#masters">Master's Students</a>
+        <a href="#undergrad">Undergraduate Students</a>
+      </div>
+
+      <a href="#alumni">Alumni</a>
+    </nav>
+
+  </aside>
+
+  <!-- Main people content -->
+  <div class="people-content">
+
+    {% assign sections =
+      "faculty|Faculty,
+       research-staff|Research Staff,
+       postdoctoral|Postdoctoral Scholars,
+       phd|PhD Students,
+       masters|Master's Students,
+       undergrad|Undergraduate Students,
+       alumni|Alumni" | split: "," %}
+
+    {% for section in sections %}
+      {% assign parts = section | strip | split: "|" %}
+      {% assign key = parts[0] %}
+      {% assign label = parts[1] %}
+      {% assign people = site.data.people | where: "subgroup", key %}
+
+      {% if people.size > 0 %}
+      <section class="people-section" id="{{ key }}">
+        <h2>{{ label }}</h2>
+
+        {% for person in people %}
+        <div class="person-list-card">
+          <div class="person-photo">
+            <img src="{{ person.headshot | relative_url }}" alt="{{ person.name }}">
+          </div>
+
+          <div class="person-info">
+            <h3>{{ person.name }}</h3>
+
+            {% if person.role %}
+            <p class="person-role">{{ person.role }}</p>
+            {% endif %}
+
+            {% if person.affiliation %}
+            <p><b>Affiliation:</b> {{ person.affiliation }}</p>
+            {% endif %}
+
+            {% if person.education %}
+            <div class="person-education">
+              <b>Education:</b>
+              <ul>
+                {% for degree in person.education %}
+                <li>{{ degree }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+            {% endif %}
+
+            {% if person.interests %}
+            <p><b>Research interests:</b> {{ person.interests }}</p>
+            {% endif %}
+
+            <div class="person-links">
+              {% if person.email %}
+              <a href="mailto:{{ person.email }}">Email</a>
+              {% endif %}
+              {% if person.website %}
+              <a href="{{ person.website }}" target="_blank" rel="noopener">Website</a>
+              {% endif %}
+              {% if person.scholar %}
+              <a href="{{ person.scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+              {% endif %}
+              {% if person.linkedin %}
+              <a href="{{ person.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        {% endfor %}
+      </section>
+      {% endif %}
+    {% endfor %}
+
+  </div>
 </div>
