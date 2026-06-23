@@ -22,3 +22,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
+collections:
+  news:
+    output: true
+    permalink: /news/:name/

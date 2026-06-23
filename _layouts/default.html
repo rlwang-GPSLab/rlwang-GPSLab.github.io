@@ -3,11 +3,14 @@
   <head>
     {% include head.html %}
   </head>
-  <body>
+
+  <body class="site">
     {% include nav.html %}
-    <main class="main">
-      {{ content }}
-    </main>
+
+    <main class="main site-content">{{ content }}</main>
+
     {% include footer.html %}
+
+    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   </body>
 </html>

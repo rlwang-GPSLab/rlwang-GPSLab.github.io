@@ -1,16 +1,35 @@
 ---
 layout: page
 title: News
-subtitle: "Updates, talks, awards, and lab announcements"
+subtitle: " "
+permalink: /news/
 ---
 
-{% assign items = site.data.news | sort: 'date' | reverse %}
-<div class="card">
+{% assign items = site.news | sort: "date" | reverse %}
+
+<div class="news-list">
   {% for n in items %}
-    <div class="pub-item" id="{{ n.id }}">
-      <p class="pub-title">{{ n.title }}</p>
-      <p class="pub-meta">{{ n.date | date: "%B %d, %Y" }}</p>
-      <p style="margin:8px 0 0;">{{ n.body }}</p>
+  <article class="news-list-item">
+    <div class="news-list-text">
+      <p class="pub-title">
+        <a href="{{ n.url | relative_url }}">{{ n.title }}</a>
+      </p>
+
+      <p class="pub-meta">
+        {{ n.date | date: "%B %d, %Y" }}
+      </p>
+
+      {% if n.description %}
+      <p class="news-description">{{ n.description }}</p>
+      {% endif %}
     </div>
+
+    {% if n.image %}
+    <a class="news-list-image" href="{{ n.url | relative_url }}" aria-label="{{ n.title }}">
+      <img src="{{ n.image | relative_url }}" alt="{{ n.title }}">
+    </a>
+    {% endif %}
+
+  </article>
   {% endfor %}
 </div>

@@ -36,7 +36,7 @@ layout: default
       <div class="highlight-body">
         <h3>Stanford Center for Position, Navigation & Time (SCPNT)</h3>
         <p class="muted">
-          The GPS Lab is closely affiliated with SCPNT...
+          The GPS Lab is closely affiliated with SCPNT. The SCPNT website provides both historical and current  information about GPS research at Stanford. Since 2007, SCPNT has been hosting an annual PNT Symposium, and the SCPNT website contains an archive of presentation files from all PNT synposia, plus a gallery of GPS/PNT photos and video.
         </p>
       </div>
 
@@ -51,7 +51,7 @@ layout: default
       <div class="highlight-body">
         <h3>CARNATIONS</h3>
         <p class="muted">
-          CARNATIONS pursues a three-pillar research strategy...
+          CARNATIONS pursues a three-pillar research strategy aimed at toughening, augmenting, and protecting PNT systems for multi-modal surface transportation.
         </p>
       </div>
 
@@ -73,6 +73,42 @@ layout: default
     </a>
 
   </div>
+
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">In the News</h2>
+      <a class="section-link" href="{{ '/news/' | relative_url }}">
+        View all news →
+      </a>
+    </div>
+
+    {% assign news_items = site.news | sort: "date" | reverse | slice: 0, 3 %}
+
+    <div class="card">
+      {% for item in news_items %}
+      <div class="pub-item">
+
+        <p class="pub-title">
+          <a href="{{ item.url | relative_url }}">
+            {{ item.title }}
+          </a>
+        </p>
+
+        <p class="pub-meta">
+          {{ item.date | date: "%B %d, %Y" }}
+        </p>
+
+        {% if item.description %}
+        <p class="muted">{{ item.description }}</p>
+        {% endif %}
+
+      </div>
+      {% endfor %}
+    </div>
 
   </div>
 </section>
@@ -134,7 +170,7 @@ layout: default
   <div class="container">
     <div class="section-header">
       <h2 class="section-title">Lab Life</h2>
-      <span class="muted">Field tests, conferences, and moments in the lab.</span>
+      <span class="muted"> </span>
     </div>
 
     <div class="lab-carousel" data-carousel aria-label="Lab photo carousel">
