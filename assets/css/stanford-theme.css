@@ -128,3 +128,27 @@ a:hover {
   grid-template-columns: 130px 1fr;
   gap: 20px;
 }
+
+.home-banner-full,
+.page-banner {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  overflow: hidden;
+}
+
+.home-banner-full img,
+.page-banner img {
+  width: 100%;
+  object-fit: cover;
+  object-position: center center;
+  display: block;
+}
+
+.page-banner img {
+  height: 320px;
+  object-position: center center;
+}
