@@ -1012,3 +1012,138 @@ main h1:first-of-type {
   font-weight: 700;
   margin-bottom: 12px;
 }
+
+.home-banner-full,
+.page-banner {
+  position: relative;
+  left: 50%;
+  right: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  margin-right: -50vw;
+  overflow: hidden;
+}
+
+.home-banner-full img,
+.page-banner img {
+  width: 100%;
+  object-fit: cover;
+  object-position: center center;
+  display: block;
+}
+
+.page-banner img {
+  height: 320px;
+  object-position: center center;
+}
+
+.news-article {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.news-date {
+  color: var(--muted);
+  font-weight: 600;
+  margin-top: 8px;
+}
+
+.news-hero-image {
+  margin: 30px auto 40px;
+  text-align: center;
+}
+
+.news-hero-image img {
+  width: 100%;
+  max-width: 1000px;
+  height: 500px;
+  object-fit: cover;
+  object-position: center center;
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+}
+
+.news-body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+.news-hero-image {
+  margin: 30px auto 40px;
+  text-align: center;
+}
+
+.news-hero-image img {
+  width: 100%;
+  max-width: 1000px;
+  height: 500px;
+  object-fit: cover;
+  object-position: center center;
+  display: block;
+  margin: 0 auto;
+  border-radius: 6px;
+}
+
+/* Space between navbar and page title */
+
+.page-header,
+.page-title {
+  margin-top: 32px;
+}
+
+.pub-layout {
+  display: grid;
+  grid-template-columns: 180px 1fr;
+  gap: 28px;
+  align-items: start;
+}
+
+.pub-sidebar {
+  position: sticky;
+  top: 96px;
+  border-left: 4px solid var(--stanford-cardinal);
+  padding-left: 16px;
+}
+
+.pub-sidebar h3 {
+  margin: 0.8rem 0 0.4rem;
+  font-size: 0.95rem;
+  color: var(--stanford-cardinal);
+}
+
+.pub-sidebar a {
+  display: block;
+  padding: 4px 0;
+  color: var(--muted);
+}
+
+.pub-section {
+  padding: 2rem 0;
+  border-top: 1px solid var(--line);
+  scroll-margin-top: 120px;
+}
+
+.pub-section:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+@media (max-width: 800px) {
+  .pub-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .pub-sidebar {
+    position: static;
+    border-left: 0;
+    border-top: 4px solid var(--stanford-cardinal);
+    padding-left: 0;
+    padding-top: 12px;
+  }
+
+  .pub-sidebar a {
+    display: inline-block;
+    margin-right: 12px;
+  }
+}
