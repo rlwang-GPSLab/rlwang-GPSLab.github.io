@@ -48,8 +48,12 @@
       if (userInitiated) restartAutoplay();
     }
 
-    function next(userInitiated = false) { goTo(index + 1, userInitiated); }
-    function prev(userInitiated = false) { goTo(index - 1, userInitiated); }
+    function next(userInitiated = false) {
+      goTo(index + 1, userInitiated);
+    }
+    function prev(userInitiated = false) {
+      goTo(index - 1, userInitiated);
+    }
 
     prevBtn?.addEventListener("click", () => prev(true));
     nextBtn?.addEventListener("click", () => next(true));
@@ -86,17 +90,25 @@
     let deltaX = 0;
     let touching = false;
 
-    carousel.addEventListener("touchstart", (e) => {
-      touching = true;
-      startX = e.touches[0].clientX;
-      deltaX = 0;
-      stopAutoplay();
-    }, { passive: true });
+    carousel.addEventListener(
+      "touchstart",
+      (e) => {
+        touching = true;
+        startX = e.touches[0].clientX;
+        deltaX = 0;
+        stopAutoplay();
+      },
+      { passive: true },
+    );
 
-    carousel.addEventListener("touchmove", (e) => {
-      if (!touching) return;
-      deltaX = e.touches[0].clientX - startX;
-    }, { passive: true });
+    carousel.addEventListener(
+      "touchmove",
+      (e) => {
+        if (!touching) return;
+        deltaX = e.touches[0].clientX - startX;
+      },
+      { passive: true },
+    );
 
     carousel.addEventListener("touchend", () => {
       if (!touching) return;

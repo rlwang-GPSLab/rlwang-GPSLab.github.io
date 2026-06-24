@@ -2,7 +2,6 @@
    Stanford-ish theme polish
    Loaded after main.css
    ================================ */
-
 :root {
   --text: #2e2d29;
   --muted: #6b6b6b;
@@ -13,7 +12,6 @@
   --max: 1500px;
 }
 
-/* Typography */
 html {
   font-size: 16px;
 }
@@ -26,30 +24,7 @@ body {
   line-height: 1.55;
 }
 
-/* Wider site layout with comfortable margins */
-.main,
-.page,
-.page-content {
-  width: 88vw;
-  max-width: var(--max);
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.container {
-  width: 100%;
-  max-width: none;
-  padding-left: 24px;
-  padding-right: 24px;
-}
-
-/* Keep full-bleed banners full width */
-.home-banner-full,
-.page-banner {
-  width: 100vw;
-}
-
-/* Headers: institutional, not playful */
+/* Institutional heading rhythm */
 h1,
 h2,
 h3 {
@@ -77,7 +52,6 @@ h4 {
   letter-spacing: 0.12rem;
 }
 
-/* Links */
 a {
   color: var(--stanford-cardinal);
 }
@@ -97,58 +71,42 @@ a:hover {
   padding-top: 1.5rem;
 }
 
-/* Navigation emphasis */
-.nav-links {
-  font-size: 18px;
-  font-weight: 600;
-  gap: 32px;
-}
-
-.nav-links a {
-  color: var(--text);
-}
-
-.nav-links a:hover,
-.nav-links a[aria-current="page"] {
-  color: var(--text);
-}
-
-.brand-title {
-  font-size: 28px;
-  font-weight: 700;
-}
-
-.brand-subtitle {
-  font-size: 13px;
-  letter-spacing: 0.1em;
-}
-
-/* People page spacing */
-.people-layout {
-  grid-template-columns: 130px 1fr;
-  gap: 20px;
-}
-
-.home-banner-full,
-.page-banner {
-  position: relative;
-  left: 50%;
-  right: 50%;
-  width: 100vw;
-  margin-left: -50vw;
-  margin-right: -50vw;
-  overflow: hidden;
-}
-
-.home-banner-full img,
+/* Optional image crop adjustment for page banners.
+   Use this only if a particular banner photo needs visual recentering. */
 .page-banner img {
+  object-position: center center;
+}
+
+/* Fix navbar content falling off page */
+.nav-inner {
   width: 100%;
-  object-fit: cover;
-  object-position: center center;
-  display: block;
+  max-width: 1500px;
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 
-.page-banner img {
-  height: 320px;
-  object-position: center center;
+.brand {
+  flex-shrink: 0;
+}
+
+.nav-links {
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 22px;
+}
+
+@media (max-width: 1100px) {
+  .nav-inner {
+    align-items: center;
+  }
+
+  .nav-links {
+    gap: 16px;
+    font-size: 16px;
+  }
+
+  .brand-title {
+    font-size: 24px;
+  }
 }
