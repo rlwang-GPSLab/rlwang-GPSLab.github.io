@@ -1227,9 +1227,98 @@ main h1:first-of-type {
 
 .people-page-banner img {
   width: 100%;
-  height: 320px;
+  height: 420px;
   object-fit: cover;
   object-position: center center;
   display: block;
   border-radius: 0;
+}
+
+.pub-year-heading {
+  margin-top: 48px;
+  margin-bottom: 18px;
+
+  font-size: 2rem;
+  font-weight: 700;
+
+  color: var(--stanford-cardinal);
+
+  border-bottom: 2px solid var(--line);
+  padding-bottom: 8px;
+}
+
+.pub-year-heading:first-child {
+  margin-top: 0;
+}
+
+.pub-year-heading {
+  margin: 36px 16px 10px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--line);
+  color: var(--stanford-cardinal);
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.pub-year-heading:first-child {
+  margin-top: 18px;
+}
+
+.pub-list {
+  background: transparent;
+  border: none;
+  box-shadow: none;
+  padding: 0;
+}
+
+.pub-year-heading {
+  margin: 36px 0 10px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--line);
+  color: var(--stanford-cardinal);
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.pub-year-heading.is-first-visible {
+  margin-top: 0;
+}
+
+.pub-year-heading + .pub-item {
+  border-top: none;
+  padding-top: 0;
+}
+
+.pub-item.is-first-visible-in-year {
+  border-top: none;
+  padding-top: 14px;
+}
+
+.pub-authors {
+  margin: 0 0 4px;
+  color: var(--text);
+  font-size: 0.95rem;
+  font-weight: 500;
+}
+
+.pub-title {
+  margin: 0 0 6px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  line-height: 1.35;
+}
+
+.pub-title a {
+  color: var(--stanford-cardinal);
+  text-decoration: none;
+}
+
+.pub-title a:hover {
+  text-decoration: underline;
+}
+
+.pub-meta {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
 }
