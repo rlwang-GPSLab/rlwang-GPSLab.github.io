@@ -126,3 +126,24 @@
     startAutoplay();
   });
 })();
+
+(function initResourceFilters() {
+  const buttons = document.querySelectorAll(".resource-filter");
+  const cards = document.querySelectorAll(".resource-card[data-category]");
+
+  if (!buttons.length || !cards.length) return;
+
+  buttons.forEach((button) => {
+    button.addEventListener("click", () => {
+      const filter = button.dataset.filter;
+
+      buttons.forEach((b) => b.classList.remove("is-active"));
+      button.classList.add("is-active");
+
+      cards.forEach((card) => {
+        const show = filter === "all" || card.dataset.category === filter;
+        card.hidden = !show;
+      });
+    });
+  });
+})();
