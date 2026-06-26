@@ -1,26 +1,52 @@
 ---
 layout: page
 title: Resources
-subtitle: "Lab resources"
 permalink: /resources/
 ---
 
-<div class="resources-grid">
-  {% for r in site.data.resources %}
-    <a class="resource-card" href="{{ r.url | relative_url }}">
-      <img src="{{ r.thumbnail | relative_url }}" alt="{{ r.title }} thumbnail">
-      <div class="resource-body">
-        <p class="resource-title">{{ r.title }}</p>
-        <p class="resource-subtitle">{{ r.subtitle }}</p>
+{% assign resources = site.data.resources %}
+{% assign categories = resources | map: "category" | uniq | sort %}
 
-        {% if r.tags %}
-          <div class="resource-tags" style="margin-top:10px;">
-            {% for t in r.tags %}
-              <span class="pill">{{ t }}</span>
-            {% endfor %}
+<div class="resource-layout">
+
+  <aside class="resource-sidebar" aria-label="Resource filters">
+    <h3>Browse</h3>
+
+    <button class="resource-filter is-active" type="button" data-filter="all">
+      All
+    </button>
+
+    {% for category in categories %}
+      <button class="resource-filter" type="button" data-filter="{{ category | slugify }}">
+        {{ category }}
+      </button>
+    {% endfor %}
+
+  </aside>
+
+  <div class="resource-content">
+    <div class="resource-grid" data-resource-grid>
+      {% for r in resources %}
+        <div class="resource-card" data-category="{{ r.category | slugify }}">
+          {% if r.image %}
+          <img src="{{ r.image | relative_url }}" alt="{{ r.title }}">
+          {% endif %}
+
+          <div class="resource-body">
+            <h3>
+              <a href="{{ r.url }}" target="_blank" rel="noopener">
+                {{ r.title }}
+              </a>
+            </h3>
+
+            {% if r.description %}
+            <p>{{ r.description }}</p>
+            {% endif %}
           </div>
-        {% endif %}
-      </div>
-    </a>
-  {% endfor %}
+        </div>
+      {% endfor %}
+    </div>
+
+  </div>
+
 </div>
