@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-subtitle: "Ongoing research and recent work"
+# subtitle: "Ongoing research and recent work"
 ---
 
 <div class="project-grid">

@@ -6,11 +6,11 @@ permalink: /people/
 ---
 
 <!-- People page banner -->
-<section class="home-banner-full" aria-label="People page banner">
+<div class="people-page-banner">
   <img
     src="{{ '/assets/img/lab/people_banner.jpg' | relative_url }}"
     alt="GPS Lab members">
-</section>
+</div>
 
 <div class="people-layout">
 
@@ -56,60 +56,69 @@ permalink: /people/
       {% assign people = site.data.people | where: "subgroup", key %}
 
       {% if people.size > 0 %}
-      <section class="people-section" id="{{ key }}">
-        <h2>{{ label }}</h2>
 
-        {% for person in people %}
-        <div class="person-list-card">
-          <div class="person-photo">
-            <img src="{{ person.headshot | relative_url }}" alt="{{ person.name }}">
-          </div>
+<section class="people-section" id="{{ key }}">
+  <h2>{{ label }}</h2>
 
-          <div class="person-info">
-            <h3>{{ person.name }}</h3>
+  <div class="people-grid">
 
-            {% if person.role %}
-            <p class="person-role">{{ person.role }}</p>
-            {% endif %}
+    {% for person in people %}
+    <div class="person-list-card">
 
-            {% if person.affiliation %}
-            <p><b>Affiliation:</b> {{ person.affiliation }}</p>
-            {% endif %}
+      <div class="person-photo">
+        <img src="{{ person.headshot | relative_url }}" alt="{{ person.name }}">
+      </div>
 
-            {% if person.education %}
-            <div class="person-education">
-              <b>Education:</b>
-              <ul>
-                {% for degree in person.education %}
-                <li>{{ degree }}</li>
-                {% endfor %}
-              </ul>
-            </div>
-            {% endif %}
+      <div class="person-info">
 
-            {% if person.interests %}
-            <p><b>Research interests:</b> {{ person.interests }}</p>
-            {% endif %}
+        <h3>{{ person.name }}</h3>
 
-            <div class="person-links">
-              {% if person.email %}
-              <a href="mailto:{{ person.email }}">Email</a>
-              {% endif %}
-              {% if person.website %}
-              <a href="{{ person.website }}" target="_blank" rel="noopener">Website</a>
-              {% endif %}
-              {% if person.scholar %}
-              <a href="{{ person.scholar }}" target="_blank" rel="noopener">Google Scholar</a>
-              {% endif %}
-              {% if person.linkedin %}
-              <a href="{{ person.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
-              {% endif %}
-            </div>
-          </div>
+        {% if person.role %}
+        <p class="person-role">{{ person.role }}</p>
+        {% endif %}
+
+        {% if person.affiliation %}
+        <p><b>Affiliation:</b> {{ person.affiliation }}</p>
+        {% endif %}
+
+        {% if person.education %}
+        <div class="person-education">
+          <b>Education:</b>
+          <ul>
+            {% for degree in person.education %}
+            <li>{{ degree }}</li>
+            {% endfor %}
+          </ul>
         </div>
-        {% endfor %}
-      </section>
-      {% endif %}
+        {% endif %}
+
+        {% if person.interests %}
+        <p><b>Research Interests:</b> {{ person.interests }}</p>
+        {% endif %}
+
+        <div class="person-links">
+          {% if person.email %}
+          <a href="mailto:{{ person.email }}">Email</a>
+          {% endif %}
+          {% if person.website %}
+          <a href="{{ person.website }}" target="_blank" rel="noopener">Website</a>
+          {% endif %}
+          {% if person.scholar %}
+          <a href="{{ person.scholar }}" target="_blank" rel="noopener">Google Scholar</a>
+          {% endif %}
+          {% if person.linkedin %}
+          <a href="{{ person.linkedin }}" target="_blank" rel="noopener">LinkedIn</a>
+          {% endif %}
+        </div>
+
+      </div>
+
+    </div>
+    {% endfor %}
+
+  </div>
+</section>
+{% endif %}
     {% endfor %}
 
   </div>

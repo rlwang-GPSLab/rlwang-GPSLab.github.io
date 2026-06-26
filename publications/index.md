@@ -5,74 +5,65 @@ title: Publications
 permalink: /publications/
 ---
 
+{% assign pubs = site.data.publications | sort: "year" | reverse %}
+{% assign categories = "journal|Journal,conference|Conference,magazine|Magazine,theses|Theses,books|Books" | split: "," %}
+{% assign current_year = "now" | date: "%Y" | plus: 0 %}
+
 <div class="pub-layout">
 
-  <aside class="pub-sidebar">
+  <aside class="pub-sidebar" aria-label="Publication filters">
     <h3>Category</h3>
-    <a href="#all">All</a>
-    <a href="#journal">Journal</a>
-    <a href="#conference">Conference</a>
-    <a href="#magazine">Magazine</a>
-    <a href="#theses">Theses</a>
-    <a href="#books">Books</a>
+    <button class="pub-filter is-active" type="button" data-filter="all">All</button>
+
+    {% for c in categories %}
+      {% assign parts = c | split: "|" %}
+      <button class="pub-filter" type="button" data-filter="{{ parts[0] }}">
+        {{ parts[1] }}
+      </button>
+    {% endfor %}
 
     <h3>Year</h3>
-    <a href="#year-all">All Years</a>
-    {% assign current_year = "now" | date: "%Y" | plus: 0 %}
     {% for y in (1991..current_year) reversed %}
-      <a href="#y{{ y }}">{{ y }}</a>
+      <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
     {% endfor %}
-    <a href="#y1990-earlier">1990 and Earlier</a>
+    <button class="pub-filter" type="button" data-filter="year-1990-earlier">
+      1990 and Earlier
+    </button>
 
   </aside>
 
   <div class="pub-content">
-    {% assign pubs = site.data.publications | sort: "year" | reverse %}
-
-    <section id="all" class="pub-section">
-      <h2>All Publications</h2>
+    <div class="card pub-list">
       {% for p in pubs %}
-        {% include publication-item.html p=p %}
-      {% endfor %}
-    </section>
-
-    {% assign categories = "journal|Journal,conference|Conference,magazine|Magazine,theses|Theses,books|Books" | split: "," %}
-    {% for c in categories %}
-      {% assign parts = c | split: "|" %}
-      {% assign key = parts[0] %}
-      {% assign label = parts[1] %}
-      {% assign category_pubs = pubs | where: "category", key %}
-      {% if category_pubs.size > 0 %}
-      <section id="{{ key }}" class="pub-section">
-        <h2>{{ label }}</h2>
-        {% for p in category_pubs %}
-          {% include publication-item.html p=p %}
-        {% endfor %}
-      </section>
+      {% assign year_filter = "year-" | append: p.year %}
+      {% if p.year_group == "1990 and Earlier" %}
+        {% assign year_filter = "year-1990-earlier" %}
       {% endif %}
-    {% endfor %}
 
-    {% for y in (1991..current_year) reversed %}
-      {% assign year_pubs = pubs | where: "year", y %}
-      {% if year_pubs.size > 0 %}
-      <section id="y{{ y }}" class="pub-section">
-        <h2>{{ y }}</h2>
-        {% for p in year_pubs %}
-          {% include publication-item.html p=p %}
-        {% endfor %}
-      </section>
-      {% endif %}
-    {% endfor %}
+      <div class="pub-item"
+           data-category="{{ p.category }}"
+           data-year="{{ year_filter }}">
 
-    {% assign older_pubs = pubs | where: "year_group", "1990 and Earlier" %}
-    {% if older_pubs.size > 0 %}
-    <section id="y1990-earlier" class="pub-section">
-      <h2>1990 and Earlier</h2>
-      {% for p in older_pubs %}
-        {% include publication-item.html p=p %}
+        <p class="pub-title">
+          {% if p.url %}
+          <a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>
+          {% else %}
+          {{ p.title }}
+          {% endif %}
+        </p>
+
+        {% if p.authors %}
+        <p class="pub-meta">{{ p.authors }}</p>
+        {% endif %}
+
+        <p class="pub-meta">
+          {% if p.venue %}<span class="muted">{{ p.venue }}</span>{% endif %}
+          {% if p.year %} · {{ p.year }}{% endif %}
+        </p>
+      </div>
       {% endfor %}
-    </section>
-    {% endif %}
+    </div>
 
   </div>
+
 </div>

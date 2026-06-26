@@ -11,7 +11,10 @@ Durand Building, Stanford University
 
 ## Email
 
-<a class="pill" href="mailto:twalter@stanford.edu">twalter@stanford.edu</a>
+<a class="contact-email"
+   href="mailto:twalter@stanford.edu">
+twalter@stanford.edu
+</a>
 
 ## Prospective Students
 
