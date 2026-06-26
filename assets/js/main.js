@@ -153,8 +153,37 @@
   const items = document.querySelectorAll(
     ".pub-item[data-category][data-year]",
   );
+  const headings = document.querySelectorAll(".pub-year-heading");
 
   if (!buttons.length || !items.length) return;
+
+  function updatePublicationDisplay() {
+    items.forEach((item) => {
+      item.classList.remove("is-first-visible-in-year");
+    });
+
+    headings.forEach((heading) => {
+      const year = heading.dataset.yearHeading;
+      const visibleItems = Array.from(
+        document.querySelectorAll(
+          `.pub-item[data-year="${year}"]:not([hidden])`,
+        ),
+      );
+
+      heading.hidden = visibleItems.length === 0;
+
+      if (visibleItems.length > 0) {
+        visibleItems[0].classList.add("is-first-visible-in-year");
+      }
+    });
+
+    const visibleHeadings = Array.from(headings).filter((h) => !h.hidden);
+    headings.forEach((h) => h.classList.remove("is-first-visible"));
+
+    if (visibleHeadings.length > 0) {
+      visibleHeadings[0].classList.add("is-first-visible");
+    }
+  }
 
   buttons.forEach((button) => {
     button.addEventListener("click", () => {
@@ -171,6 +200,10 @@
 
         item.hidden = !show;
       });
+
+      updatePublicationDisplay();
     });
   });
+
+  updatePublicationDisplay();
 })();

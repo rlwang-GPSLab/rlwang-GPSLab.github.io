@@ -5,7 +5,7 @@ title: Publications
 permalink: /publications/
 ---
 
-{% assign pubs = site.data.publications | sort: "year" | reverse %}
+{% assign pubs = site.data.publications | sort: "first_author_last" | sort: "year" | reverse %}
 {% assign categories = "journal|Journal,conference|Conference,magazine|Magazine,theses|Theses,books|Books" | split: "," %}
 {% assign current_year = "now" | date: "%Y" | plus: 0 %}
 
@@ -33,37 +33,56 @@ permalink: /publications/
   </aside>
 
   <div class="pub-content">
-    <div class="card pub-list">
-      {% for p in pubs %}
+  <div class="pub-list">
+
+    {% assign displayed_year = "" %}
+
+    {% for p in pubs %}
       {% assign year_filter = "year-" | append: p.year %}
       {% if p.year_group == "1990 and Earlier" %}
         {% assign year_filter = "year-1990-earlier" %}
+      {% endif %}
+
+      {% if displayed_year != p.year %}
+        {% assign displayed_year = p.year %}
+        <h2 class="pub-year-heading" data-year-heading="{{ year_filter }}">
+          {% if p.year_group == "1990 and Earlier" %}
+            1990 and Earlier
+          {% else %}
+            {{ p.year }}
+          {% endif %}
+        </h2>
       {% endif %}
 
       <div class="pub-item"
            data-category="{{ p.category }}"
            data-year="{{ year_filter }}">
 
-        <p class="pub-title">
-          {% if p.url %}
-          <a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>
-          {% else %}
-          {{ p.title }}
-          {% endif %}
-        </p>
+{% if p.authors %}
 
-        {% if p.authors %}
-        <p class="pub-meta">{{ p.authors }}</p>
-        {% endif %}
+<p class="pub-authors">{{ p.authors }}</p>
+{% endif %}
 
-        <p class="pub-meta">
-          {% if p.venue %}<span class="muted">{{ p.venue }}</span>{% endif %}
-          {% if p.year %} · {{ p.year }}{% endif %}
-        </p>
+<p class="pub-title">
+  {% if p.url %}
+  <a href="{{ p.url }}" target="_blank" rel="noopener">{{ p.title }}</a>
+  {% else %}
+  {{ p.title }}
+  {% endif %}
+</p>
+
+<p class="pub-meta">
+  {% if p.venue %}
+    Published in <span class="muted">{{ p.venue }}</span>
+  {% endif %}
+  {% if p.year %}
+    , {{ p.year }}
+  {% endif %}
+</p>
       </div>
-      {% endfor %}
-    </div>
+    {% endfor %}
 
   </div>
+</div>
 
 </div>
