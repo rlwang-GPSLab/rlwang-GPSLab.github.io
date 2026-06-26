@@ -147,3 +147,30 @@
     });
   });
 })();
+
+(function initPublicationFilters() {
+  const buttons = document.querySelectorAll(".pub-filter");
+  const items = document.querySelectorAll(
+    ".pub-item[data-category][data-year]",
+  );
+
+  if (!buttons.length || !items.length) return;
+
+  buttons.forEach((button) => {
+    button.addEventListener("click", () => {
+      const filter = button.dataset.filter;
+
+      buttons.forEach((b) => b.classList.remove("is-active"));
+      button.classList.add("is-active");
+
+      items.forEach((item) => {
+        const show =
+          filter === "all" ||
+          item.dataset.category === filter ||
+          item.dataset.year === filter;
+
+        item.hidden = !show;
+      });
+    });
+  });
+})();
