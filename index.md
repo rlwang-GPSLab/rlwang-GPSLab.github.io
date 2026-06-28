@@ -138,7 +138,7 @@ layout: default
   </div>
 </section> -->
 
-<section class="section">
+<!-- <section class="section">
   <div class="container">
     <div class="section-header">
       <h2 class="section-title">Featured Publications</h2>
@@ -163,7 +163,7 @@ layout: default
     </div>
 
   </div>
-</section>
+</section> -->
 
 <!-- Large, true carousel (one image at a time, auto-advances) -->
 <section class="section section-carousel" aria-label="Lab life photo carousel section">

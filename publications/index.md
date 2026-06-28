@@ -70,8 +70,9 @@ permalink: /publications/
 
         <p class="pub-meta">
           Published in
-          <span class="muted">{{ p.venue }}</span>{% if p.details %}, {{ p.details }}{% endif %}{% if p.month %}, {{ p.month }}{% endif %}{% if p.day %} {{ p.day }},{% endif %}{% if p.year %} {{ p.year }}{% endif %}{% if p.doi %}, DOI {{ p.doi }}{% endif %}.
-        </p>
+          <span class="muted">{{ p.venue }}</span>{% if p.details %}, {{ p.details }}{% endif %}{% if p.month %}, {{ p.month }}{% endif %}{% if p.day %} {{ p.day }},{% endif %}{% if p.year %} {{ p.year }}{% endif %}{% if p.doi %}, DOI {{ p.doi }}{% endif %}.{% if p.awards %}{% for award in p.awards %} <strong class="pub-award">&ast;</strong> <strong class="pub-award">{{ award }}</strong>{% endfor %}{% endif %}
+
+</p>
 
       </div>
 

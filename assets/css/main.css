@@ -1322,3 +1322,39 @@ main h1:first-of-type {
   color: var(--muted);
   font-size: 0.9rem;
 }
+
+.pub-awards {
+  margin-top: 4px;
+  color: var(--stanford-cardinal);
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.pub-awards strong {
+  font-weight: 700;
+}
+
+.pub-award {
+  color: #000;
+  font-weight: 700;
+}
+
+/* ========================================
+   Individual News Pages
+   ======================================== */
+
+.news-page-image {
+  max-width: 1100px;
+  margin: 36px auto 42px;
+  text-align: center;
+}
+
+.news-page-image img {
+  width: 100%;
+  max-width: 1000px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
+}

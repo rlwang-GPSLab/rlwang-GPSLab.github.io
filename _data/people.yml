@@ -19,11 +19,13 @@
   role: "Professor (Research) of Aeronautics & Astronautics"
   education:
     - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "M.S., Stanford University"
+    - "B.S., Rensselaer Polytechnic Institute"
   interests: ""
   headshot: "/assets/img/people/profile_walter_todd.jpg"
   email: "twalter@stanford.edu"
+  website: "https://example.com"
+  scholar: "https://scholar.google.com/citations?user=CAlBP2MAAAAJ&hl=en"
 
 - name: "Bradford Parkinson"
   group: "faculty"
@@ -42,8 +44,8 @@
   role: "Professor of Aeronautics & Astronautics and of Mechanical Engineering, Emeritus"
   education:
     - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "M.S., Stanford University"
+    - "B.S., Massachusetts Institute of Technology"
   interests: ""
   headshot: "/assets/img/people/profile_powell_david.jpg"
 
