@@ -118,3 +118,435 @@
   authors: "Wang, Rebecca, Min, Donghan, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_PPNT_2026_Time_Corr_Errs.pdf"
+
+- year: 2025
+  month: March
+  day: 17
+  first_author_last: "Anderson"
+  category: journal
+  title: "Time Synchronization of TESLA-enabled GNSS Receivers"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Early Access"
+  doi: "10.1109/TAES.2025.3552074"
+  url: "https://ieeexplore.ieee.org/document/10930432"
+
+- year: 2025
+  month: June
+  first_author_last: "Anderson"
+  category: journal
+  title: "Combinatorial Watermarking Under Limited SCER Adversarial Models"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "NAVIGATION: Journal of the Institute of Navigation"
+  details: "Vol. 72 No. 2, navi.696"
+  doi: "10.33012/navi.696"
+  url: "https://navi.ion.org/content/72/2/navi.696"
+
+- year: 2025
+  month: September
+  first_author_last: "Babcock-Chi"
+  category: conference
+  title: "TDOA-Based Spoofing Source Localization Using Multi-Constellation Unsynchronized Receivers"
+  authors: "Babcock-Chi, Jade, Lo, Sherman, Chen, Yu-Hsuan, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Babcock-Chi_ION_GNSS_2025_TDOA_Spoofing_Localization.pdf"
+
+- year: 2025
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Gaussian Bounding for Multivariate Distributions with an Application to GNSS Integrity"
+  authors: "Blanch, Juan, Wang, Rebecca, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_ITM_2025_multivariate_bounding.pdf"
+
+- year: 2025
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "Determining Protection Levels Using Multiple Antennas under Spoofing Conditions"
+  authors: "Blanch, Juan, Lo, Sherman, Chen Yu-Hsuan, Kriezis, Argyris, and Walter, Todd"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_IEEE_PLANS_2025_spoofing_protection_level.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Protection Levels Against Spoofing Using Dual Antennas: a Practical Approach"
+  authors: "Blanch, Juan, Lo, Sherman, Chen, Yu-Hsuan, Kreizis, Anargyros, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_GNSS_2025_dual_antennas.pdf"
+
+- year: 2025
+  month: January
+  first_author_last: "Chen"
+  category: conference
+  title: "Combining ADS-B, LCM and DPA to Detect and Locate the Interference in a Massive GNSS Jammer Test"
+  authors: "Chen, Yu-Hsuan, Liu, Zixi, Kriezis, Argyris, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Chen_ION_ITM_2025_Jammertest.pdf"
+
+- year: 2025
+  month: January
+  first_author_last: "Kriezis"
+  category: conference
+  title: "Real-World Spoofing Detection and Characterization Using Low-Cost Receivers"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kreizis_ION_ITM_2025_Real_World_Spoofing_Detection.pdf"
+
+- year: 2025
+  month: March
+  day: 31
+  first_author_last: "Kriezis"
+  category: magazine
+  title: "How Can Measurements of Low-Cost Receivers be Used to Detect and Analyze RF Interference?"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, Pullen, Sam and Akos, Dennis"
+  venue: "Inside GNSS"
+  url: "https://insidegnss.com/how-can-measurements-of-low-cost-receivers-be-used-to-detect-and-analyze-rf-interference/"
+
+- year: 2025
+  month: September
+  first_author_last: "Kriezis"
+  category: conference
+  title: "Utilizing SBAS Signals for RFI Detection and Characterization"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Lo, Akos, Dennis, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kreizis_ION_GNSS_2025_RFI_Detection_SBAS_Satellites.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Kriezis"
+  category: journal
+  title: "GNSS Jamming and Spoofing Monitoring Using Low-Cost COTS Receivers"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
+  venue: "Submitted to NAVIGATION"
+  doi: "10.48550/arXiv.2509.13600"
+  url: "https://arxiv.org/abs/2509.13600"
+
+- year: 2025
+  month: January
+  first_author_last: "Lai"
+  category: conference
+  title: "Protecting Against Receiver Faults to a PPP Ground-Based Integrity Monitor System"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_ITM_2025_PPP_rcvr_fault.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Lai"
+  category: conference
+  title: "User Range Error Corrections with Latency from PPP Ground-Based Integrity Monitor System"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_GNSS_2025_PPP_Integrity.pdf"
+
+- year: 2025
+  month: Fall
+  first_author_last: "Liu"
+  category: journal
+  title: "Locating GNSS Interference Sources using ADS-B with Non-linear Least Squares"
+  authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan, Chen, Yu-Hsuan, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 72 No. 3"
+  doi: "10.33012/navi.716"
+  url: "https://navi.ion.org/content/72/3/navi.716"
+
+- year: 2025
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "A Scalable Pipeline for Real-Time Global Detection and Localization of GNSS Interference Using ADS-B"
+  authors: "Liu, Zixi, Lo, Sherman, Chen, Yu-Hsuan, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Liu_ION_GNSS_2025_ADSB_Interference_Localization.pdf"
+
+- year: 2025
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Observations of GNSS Spoofing in Russia in 2023-2024"
+  authors: "Lo, Sherman, Liu, Zixi, Ibrahim, Lyla, Chen, Yu-Hsuan, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lo_ION_ITM_2025_Russia_Spoofing.pdf"
+
+- year: 2025
+  month: April
+  first_author_last: "Oak"
+  category: conference
+  title: "Exploitation of Modernized GPS Crosslinks to Improve User Integrity and Availability with ARAIM"
+  authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Crews, Mark, Jackson, Robert, and Frey, Charles"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_ION_IEEE_PLANS_2025_crosslinks_araim.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Oak"
+  category: conference
+  title: "Inter-Satellite Ranging Using Modernized GPS Crosslinks for Real-Time Integrity Monitoring and ARAIM ISM"
+  authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Crews, Mark, Jackson, Robert, and Frey, Charles"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_ION_GNSS_2025_Crosslink_Ranging.pdf"
+
+- year: 2025
+  month: April
+  first_author_last: "Wang"
+  category: conference
+  title: "Overbounding Time-correlated Errors for a Multi-constellation Precise Point Positioning Integrity Service"
+  authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_IEEE_PLANS_2025_NonGaussian_Overbound.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Wang"
+  category: conference
+  title: "Overbounding Time-Correlated Clock & Ephemeris Errors for Precise Point Positioning"
+  authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_GNSS_2025_Overbounding_Time_Correlated.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Anderson"
+  category: conference
+  title: "Combinatorial Watermarking for GNSS Signal Authentication"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Anderson_ION_ITM_2024_Watermark.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Anderson"
+  category: conference
+  title: "Revisiting Combinatorial Watermarking under SCER Adversarial Models"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Anderson_ION_PPNT_2024_Watermark_SCER.pdf"
+
+- year: 2024
+  month: Fall
+  first_author_last: "Anderson"
+  category: journal
+  title: "Authentication Security of Combinatorial Watermarking for GNSS Signal Authentication"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 71 No. 3"
+  doi: "10.33012/navi.655"
+  url: "https://navi.ion.org/content/71/3/navi.655"
+
+- year: 2024
+  month: December
+  first_author_last: "Anderson"
+  category: theses
+  title: "Designing Cryptography Systems for GNSS Data and Ranging Authentication"
+  authors: "Anderson, Jason"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  awards:
+    - "RTCA Jackson Award Winner"
+    - "Ballhaus Award Winner for Best Ph.D. in Aero/Astro"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/theses/JasonAndersonThesis2024.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Advanced RAIM for Mega-Constellations"
+  authors: "Blanch, Juan, Oak, Sukrut, Pullen, Sam, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_ITM_2024_ARAIM_for_Megaconstellations.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "Integrity-based estimators for Precise Point Positioning and other applications"
+  authors: "Blanch, Juan, Lai, Yu_Fang, and Walter, Todd"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_PPNT2024_Integrity_Estimators_PPP.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Models for the effect of integrity monitors on GNSS user error range distributions"
+  authors: "Blanch, Juan, Lai, Frank, Walter, Todd, and Silva, Pedro"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_GNSS_2024_integrity_mon.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Capua"
+  category: conference
+  title: "Development of RTCM SC-134 Messages for High-Integrity Precise Positioning"
+  authors: "Capua, Roberto, Pullen, Sam, Joerger, Mathieu, Martini, Ilaria, Neri, Alessandro, and Leahy, Edmond"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Capua_ION_GNSS_2024_RTCM_SC_134_High_Integrity_Messages.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Dennis"
+  category: conference
+  title: "SBAS Authentication Standards"
+  authors: "Dennis, Jed, Walter, Todd, Anderson, Jason, Fernandez-Hernandez, Ignacio, Canestri, Ettore, Mabilleau, Mikael, and Châtre, Eric"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Dennis_ION_GNSS_2024_SBAS_Authentication_Standards.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Headlee"
+  category: conference
+  title: "Exploring the Utility of Doppler Shift Measurements for Enhanced GNSS Positioning"
+  authors: "Headlee, Lennon, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Headlee_ION_GNSS_2024_DopplerUtility.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Kriezis"
+  category: conference
+  title: "Identifying Low Cost GNSS Monitor Metrics for Robust RFI Detection"
+  authors: "Kriezis, Anargyros, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kriezis_ION_ITM_2024_Low_Cost_Monitor_Metrics.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Kriezis"
+  category: conference
+  title: "GNSS RFI Detection and Impact Characterization in Various Interference Environments using Low-Cost Receivers"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kriezis_ION_GNSS_2024_RFI_DetectionLow_Cost_Receivers.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Lai"
+  category: conference
+  title: "PPP Range Error Integrity Using a Network of Ground Monitors"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_ITM_2024_PPP_Ground_Monitoring.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Lai"
+  category: conference
+  title: "Ground-Based Integrity Monitors for PPP Correction Services"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_PPNT_2024_PPP_Integrity.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Lai"
+  category: conference
+  title: "State Determination in EKF using Singular Value Decomposition for PPP Integrity Monitor System"
+  authors: "Lai, Frank, Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_GNSS_2024_GNSS_SVD_EKF.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "Identifying the Source of October 2022 Texas Jamming Incident Using ADS-B Data with an Improvement in the Model Confidence"
+  authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Liu_ION_ITM_2024_Detecting_Dallas_RFI.pdf"
+
+- year: 2024
+  month: March
+  day: 26
+  first_author_last: "Liu"
+  category: magazine
+  title: "GNSS Spoofing and Jamming in Eastern Europe"
+  authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan, Chen, Yu-Hsuan, Walter, Todd, and Pullen, Sam"
+  venue: "Inside GNSS"
+  url: "https://insidegnss.com/gnss-spoofing-and-jamming-in-eastern-europe/"
+
+- year: 2024
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "GNSS Spoofing Detection and Localization Using ADS-B Data"
+  authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Liu_ION_GNSS_2024_ADSB_Spoof_Detection.pdf"
+
+- year: 2024
+  month: November
+  day: 26
+  first_author_last: "Liu"
+  category: magazine
+  title: "What has been learned recently about GNSS RF jamming and spoofing events? What tools are available online to track and investigate these events?"
+  authors: "Liu, Zixi, Lo, Sherman, Walter, Todd, and Pullen, Sam"
+  venue: "Inside GNSS"
+  url: "https://insidegnss.com/q-what-has-been-learned-recently-about-gnss-rf-jamming-and-spoofing-events-what-tools-are-available-online-to-track-and-investigate-these-events/"
+
+- year: 2024
+  month: April
+  first_author_last: "Oak"
+  category: conference
+  title: "LEO Satellite Augmentation of GNSS: Impact of LEO Ranging Quality on ARAIM"
+  authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Colobong, Isaiah, Blanch, Juan, Walter, Todd, Crews, Mark, and Jackson, Robert"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_ION_PPNT_2024_LEO_Ranging_ARAIM.pdf"
+
+- year: 2024
+  month: May
+  day: 24
+  first_author_last: "Oak"
+  category: magazine
+  title: "Humanity's Journey Towards Precise Navigation"
+  authors: "Oak, Sukrut"
+  venue: "The Overview"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_Overview_2024_Humanitys_Journey_Towards_Precise_Navigation.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Patil"
+  category: conference
+  title: "Detecting and Localizing Space Based Interference on GNSS Signals using Machine Learning"
+  authors: "Patil, Akshata, Phelts, R. Eric, Walter, Todd, and Thoelert, Steffen"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Patil_ION_ITM_2024_Detecting_Space_RFI.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Walter"
+  category: conference
+  title: "Implementation of Data Authentication on SBAS"
+  authors: "Walter, Todd, Anderson, Jason, and Lo, Sherman"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Walter_ION_PPNT_2024_Implementation_SBAS_NMA.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Wang"
+  category: conference
+  title: "Characterization of Recent GPS Satellite Clock Jumps"
+  authors: "Wang, Rebecca, Lai, Yu-Fang, Blanch, Juan, Akos, Dennis, Phelts, Eric, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_ITM_2024_GPS_Clock_Jumps.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Wang"
+  category: conference
+  title: "Performance Characterization of the BeiDou-3 Constellation"
+  authors: "Wang, Rebecca and Walter, Todd"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_PPNT_2024_BDS_Characterization.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Wang"
+  category: conference
+  title: "Constellation Fault Monitoring to Support a Precise Point Positioning (PPP) Integrity Service"
+  authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_GNSS_2024_Const_Mon_for_PPP.pdf"
