@@ -1,13 +1,18 @@
 ---
 layout: page
 title: Contact
-# subtitle: "Get in touch / Join the lab"
 ---
 
+<div class="people-page-banner">
+  <img
+    src="{{ '/assets/img/lab/contact_banner.jpg' | relative_url }}"
+    alt="GPS Lab Contact">
+</div>
 ## Location
 
 Durand Building, Stanford University  
-496 Lomita Mall, Stanford, CA
+496 Lomita Mall  
+Stanford, CA 94305
 
 ## Email
 
@@ -18,8 +23,6 @@ twalter@stanford.edu
 
 ## Prospective Students
 
-We welcome motivated students interested in positioniong, autonomy, estimation, cryptography, RFI, and safety.
-Please email a short note with your interests and (optionally) a CV.
+We welcome motivated students interested in positioning, autonomy, estimation, cryptography, RFI, and safety.
 
-<!-- ## Openings
-_Edit this section in `contact/index.md`._ -->
+Please email a short note describing your interests and (optionally) include a CV.
