@@ -10,5 +10,6 @@ Jade Babcock-Chi wins Dr. Sharon Kay Stanaway Award during the Aero/Astro gradua
 
 <div class="news-page-image">
   <img src="{{ page.image | relative_url }}"
-       alt="{{ page.title }}">
+       alt="{{ page.title }}"
+       style="max-width: 550px;">
 </div>
