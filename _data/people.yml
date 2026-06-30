@@ -131,7 +131,7 @@
   education:
     - "Ph.D., Yonsei University"
     - "M.S., Yonsei University"
-    - "B.S., "
+    - "B.S., Yonsei University"
   interests: ""
   headshot: "/assets/img/people/profile_lee_halim.jpg"
 
@@ -176,15 +176,15 @@
   interests: ""
   headshot: "/assets/img/people/profile_lai_frank.jpg"
 
-- name: "Zixi Liu"
-  group: "students"
-  subgroup: "phd"
-  role: "PhD Candidate"
-  education:
-    - "M.S., Stanford University"
-    - "B.S., "
-  interests: ""
-  headshot: "/assets/img/people/profile_liu_zixi.jpg"
+# - name: "Zixi Liu"
+#   group: "students"
+#   subgroup: "phd"
+#   role: "PhD Candidate"
+#   education:
+#     - "M.S., Stanford University"
+#     - "B.S., "
+#   interests: ""
+#   headshot: "/assets/img/people/profile_liu_zixi.jpg"
 
 - name: "Rebecca Wang"
   group: "students"
@@ -221,7 +221,14 @@
 #   headshot: "/assets/img/people/profile_anderson_jason.jpg"
 #   linkedin: "https://www.linkedin.com/in/jand271/"
 
+- name: "Zixi Liu"
+  group: "alumni"
+  subgroup: "phd-alumni"
+  linkedin: "https://www.linkedin.com/in/zixi-liu-8b5658123/"
+
 - name: "Jason Anderson"
   group: "alumni"
   subgroup: "phd-alumni"
   linkedin: "https://www.linkedin.com/in/jand271/"
+
+
