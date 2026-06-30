@@ -99,7 +99,7 @@
   role: "Administrative Associate"
   education:
     - "B.S., Ohlone College"
-  interests: ""
+  # interests: ""
   headshot: "/assets/img/people/profile_rose_matthew.jpg"
 
 - name: "Robert (Eric) Phelts"
