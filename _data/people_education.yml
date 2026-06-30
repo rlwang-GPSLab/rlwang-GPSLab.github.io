@@ -1,30 +1,15 @@
-# - name: "Prof. Ada Lovelace"
-#   group: "faculty"
-#   subgroup: "faculty"
-#   role: "Principal Investigator"
-#   affiliation: "Stanford Aero/Astro"
-#   education:
-#     - "Ph.D., Stanford University"
-#     - "M.S., University of Cambridge"
-#     - "B.S., University of London"
-#   interests: "Autonomy, estimation, space safety"
-#   headshot: "/assets/img/people/ada.jpg"
-#   email: "ada@stanford.edu"
-#   website: "https://example.com"
-#   scholar: "https://scholar.google.com"
-
 - name: "Todd Walter"
   group: "faculty"
   subgroup: "faculty"
   role: "Professor (Research) of Aeronautics & Astronautics"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., Stanford University"
-    - "B.S., Rensselaer Polytechnic Institute"
+    - "Ph.D., Stanford University, Applied Physics"
+    - "M.S., Stanford University, Applied Physics"
+    - "B.S., Rensselaer Polytechnic Institute, Physics"
   interests: ""
   headshot: "/assets/img/people/profile_walter_todd.jpg"
   email: "twalter@stanford.edu"
-  website: "https://example.com"
+  website: "https://gps.stanford.edu/people/todd-walter"
   scholar: "https://scholar.google.com/citations?user=CAlBP2MAAAAJ&hl=en"
 
 - name: "Bradford Parkinson"
@@ -32,9 +17,9 @@
   subgroup: "faculty"
   role: "Edward C. Wells Professor in the School of Engineering, Emeritus"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., Stanford University, Aeronautics and Astronautics"
+    - "M.S., Massachusetts Institute of Technology, Aeronautics and Astronautics"
+    - "B.S., United States Naval Academy, General Engineering"
   interests: ""
   headshot: "/assets/img/people/profile_parkinson_bradford.jpg"
 
@@ -54,9 +39,10 @@
   subgroup: "research-staff"
   role: "Casual"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., Ohio University, Electrical and Computer Engineering"
+    - "M.S., Ohio University, Mathematics"
+    - "M.S., Ohio University, Electrical and Computer Engineering"
+    - "B.S., Ohio University, Electrical and Computer Engineering"
   interests: ""
   headshot: "/assets/img/people/profile_akos_dennis.jpg"
 
@@ -65,9 +51,10 @@
   subgroup: "research-staff"
   role: "Sr. Research Engineer"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., Stanford University, Aeronautics and Astronautics"
+    - "M.S., Stanford University, Aeronautics and Astronautics"
+    - "M.S., Stanford University, Electrical Engineering"
+    - "Graduate, Ecole Polytechnique, France"
   interests: ""
   headshot: "/assets/img/people/profile_blanch_juan.jpg"
 
@@ -76,9 +63,7 @@
   subgroup: "research-staff"
   role: "Research Engineer"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., National Cheng Kung University, Electrical Engineering"
   interests: ""
   headshot: "/assets/img/people/profile_chen_yuhsuan.jpg"
 
@@ -87,9 +72,11 @@
   subgroup: "research-staff"
   role: "Sr. Research Engineer, Executive Director SCPNT"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., Stanford University, Aeronautics and Astronautics"
+    - "M.S., Stanford University, Aeronautics and Astronautics"
+    - "M.S., Stanford University, EES&OR / Management Science & Engineering"
+    - "B.S., University of Maryland, College Park, Aerospace Engineering"
+    - "B.S., University of Maryland, College Park, Mathematics"
   interests: ""
   headshot: "/assets/img/people/profile_lo_sherman.jpg"
 
@@ -97,10 +84,6 @@
   group: "staff"
   subgroup: "research-staff"
   role: "Administrative Associate"
-  education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
   interests: ""
   headshot: "/assets/img/people/profile_rose_matthew.jpg"
 
@@ -109,9 +92,9 @@
   subgroup: "research-staff"
   role: "Research Engineer"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., Stanford University, Mechanical Engineering"
+    - "M.S., Stanford University, Mechanical Engineering"
+    - "B.S., Georgia Institute of Technology, Mechanical Engineering"
   interests: ""
   headshot: "/assets/img/people/profile_phelts_robert.jpg"
 
@@ -120,9 +103,7 @@
   subgroup: "research-staff"
   role: "Technical Consultant"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., Stanford University, Aeronautics and Astronautics"
   interests: ""
   headshot: "/assets/img/people/profile_pullen_sam.jpg"
 
@@ -130,10 +111,6 @@
   group: "staff"
   subgroup: "postdoctoral"
   role: "Postdoctoral Scholar"
-  education:
-    - "Ph.D., "
-    - "M.S., "
-    - "B.S., "
   interests: ""
   headshot: "/assets/img/people/profile_lee_halim.jpg"
 
@@ -142,9 +119,9 @@
   subgroup: "postdoctoral"
   role: "Postdoctoral Scholar"
   education:
-    - "Ph.D., KAIST"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., KAIST, Aerospace Engineering"
+    - "M.S., KAIST, Aerospace Engineering"
+    - "B.S., Sungkyunkwan University, Mechanical Engineering"
   interests: ""
   headshot: "/assets/img/people/profile_min_dongchan.jpg"
 
@@ -153,8 +130,8 @@
   subgroup: "phd"
   role: "PhD Student"
   education:
-    - "M.S., Stanford University"
-    - "B.S., "
+    - "M.S., University of Colorado Boulder, Aerospace Engineering"
+    - "B.S., University of Colorado Boulder, Aerospace Engineering"
   interests: ""
   headshot: "/assets/img/people/profile_bc_jade.jpg"
 
@@ -164,7 +141,7 @@
   role: "PhD Student"
   education:
     - "M.S., Stanford University"
-    - "B.S., "
+    - "B.S., Olin College of Engineering, Mechanical Engineering"
   interests: ""
   headshot: "/assets/img/people/profile_kriezis_argyris.jpg"
 
@@ -173,8 +150,8 @@
   subgroup: "phd"
   role: "PhD Student"
   education:
-    - "M.S., Stanford University"
-    - "B.S., "
+    - "M.S., Stanford University, Aeronautics and Astronautics"
+    - "B.S., National Cheng Kung University, Aeronautics and Astronautics"
   interests: ""
   headshot: "/assets/img/people/profile_lai_frank.jpg"
 
@@ -184,7 +161,7 @@
   role: "PhD Student"
   education:
     - "M.S., Stanford University"
-    - "B.S., "
+    - "B.S., Purdue University"
   interests: ""
   headshot: "/assets/img/people/profile_liu_zixi.jpg"
 
@@ -193,8 +170,9 @@
   subgroup: "phd"
   role: "PhD Student"
   education:
-    - "M.S., Stanford University"
-    - "B.S., "
+    - "M.S., Stanford University, Aeronautics and Astronautics"
+    - "B.S., University of Texas at Austin, Aerospace Engineering"
+    - "B.A., University of Texas at Austin, Mathematics"
   interests: ""
   headshot: "/assets/img/people/profile_wang_rebecca.jpg"
 
@@ -203,8 +181,8 @@
   subgroup: "masters"
   role: "Master's Student"
   education:
-    - "M.S., Stanford University"
-    - "B.S., Stanford University"
+    - "M.S., Stanford University, Computer Science"
+    - "B.S., Stanford University, Computer Science"
   interests: ""
   headshot: "/assets/img/people/profile_oak_sukrut.jpg"
 
@@ -212,13 +190,13 @@
   group: "students"
   subgroup: "undergrad"
   role: "Undergraduate Student"
-  education:
-    - " "
   interests: ""
   headshot: "/assets/img/people/profile_oak_sukrut.jpg"
 
 - name: "Jason Anderson"
   group: "alumni"
   subgroup: "alumni"
+  education:
+    - "Ph.D., Stanford University"
   headshot: "/assets/img/people/profile_anderson_jason.jpg"
   linkedin: "https://www.linkedin.com/in/jand271/"
