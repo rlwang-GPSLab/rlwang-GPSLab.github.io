@@ -1381,3 +1381,54 @@ main h1:first-of-type {
     columns: 1;
   }
 }
+
+.alumni-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 16px;
+}
+
+.alumni-list li {
+  margin-bottom: 8px;
+  break-inside: avoid;
+}
+
+.alumni-list a {
+  color: var(--stanford-cardinal);
+  font-weight: 600;
+}
+
+.alumni-list-phd {
+  columns: 3;
+  column-gap: 40px;
+}
+
+.small-alumni-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 36px;
+}
+
+.small-alumni-section {
+  border-top: 1px solid var(--line);
+}
+
+.alumni-list-small {
+  columns: 1;
+}
+
+@media (max-width: 900px) {
+  .alumni-list-phd {
+    columns: 2;
+  }
+
+  .small-alumni-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 650px) {
+  .alumni-list-phd {
+    columns: 1;
+  }
+}
