@@ -63,7 +63,7 @@ permalink: /people/
        phd-alumni|PhD Alumni,
        masters-alumni|Master's Alumni,
        undergrad-alumni|Undergraduate Alumni,
-       postdoc-alumni|Postdoctoral Alumni | split: "," %}
+       postdoc-alumni|Postdoctoral Alumni" | split: "," %}
 
     {% for section in sections %}
       {% assign parts = section | strip | split: "|" %}
