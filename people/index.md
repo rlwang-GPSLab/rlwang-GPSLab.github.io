@@ -27,7 +27,7 @@ permalink: /people/
         <span>Staff</span>
         <a href="#research-staff">Research Staff</a>
         <a href="#postdoctoral">Postdoctoral Scholars</a>
-        <a href="#admin-staff">Administrative Staff</a>
+        <a href="#admin-staff">Administrative</a>
       </div>
 
       <div class="people-sidebar-group">
@@ -50,7 +50,7 @@ permalink: /people/
        emeritus|Emeritus Faculty,
        research-staff|Research Staff,
        postdoctoral|Postdoctoral Scholars,
-       admin-staff|Administrative Staff,
+       admin-staff|Administrative,
        phd|PhD Students,
        masters|Master's Students,
        undergrad|Undergraduate Students,
