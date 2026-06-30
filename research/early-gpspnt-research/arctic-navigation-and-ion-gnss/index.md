@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Arctic Navigation and ION GNSS"
+title: "Research"
 permalink: /research/early-gpspnt-research/arctic-navigation-and-ion-gnss/
 ---
 

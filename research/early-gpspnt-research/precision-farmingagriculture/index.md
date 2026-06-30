@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Precision Farming/Agriculture"
+title: "Research"
 permalink: /research/early-gpspnt-research/precision-farmingagriculture/
 ---
 

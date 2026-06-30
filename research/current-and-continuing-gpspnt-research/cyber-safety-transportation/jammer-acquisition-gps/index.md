@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "JAGER"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/cyber-safety-transportation/jammer-acquisition-gps/
 ---
 

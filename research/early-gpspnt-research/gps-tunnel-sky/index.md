@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GPS Tunnel in the Sky"
+title: "Research"
 permalink: /research/early-gpspnt-research/gps-tunnel-sky/
 ---
 

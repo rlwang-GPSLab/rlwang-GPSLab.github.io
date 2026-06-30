@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GPS for Airplane Navigation, Takeoffs and Landings"
+title: "Research"
 permalink: /research/early-gpspnt-research/gps-airplane-navigation-takeoffs-and-landings/
 ---
 

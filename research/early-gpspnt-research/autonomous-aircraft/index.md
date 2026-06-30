@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Autonomous Aircraft"
+title: "Research"
 permalink: /research/early-gpspnt-research/autonomous-aircraft/
 ---
 
