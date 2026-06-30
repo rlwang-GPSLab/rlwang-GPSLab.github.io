@@ -231,4 +231,19 @@
   subgroup: "phd-alumni"
   linkedin: "https://www.linkedin.com/in/jand271/"
 
+- name: "Test"
+  group: "alumni"
+  subgroup: "masters-alumni"
+  linkedin: "https://www.linkedin.com/in/jand271/"
+
+- name: "Test1"
+  group: "alumni"
+  subgroup: "undergrad-alumni"
+  linkedin: "https://www.linkedin.com/in/jand271/"
+
+- name: "Test2"
+  group: "alumni"
+  subgroup: "postdoc-alumni"
+  linkedin: "https://www.linkedin.com/in/jand271/"
+
 
