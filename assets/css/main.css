@@ -1359,28 +1359,9 @@ main h1:first-of-type {
   box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
 }
 
-.alumni-list {
-  columns: 2;
-  list-style: none;
-  padding-left: 0;
-  margin-top: 16px;
-}
-
-.alumni-list li {
-  margin-bottom: 8px;
-  break-inside: avoid;
-}
-
-.alumni-list a {
-  color: var(--stanford-cardinal);
-  font-weight: 600;
-}
-
-@media (max-width: 800px) {
-  .alumni-list {
-    columns: 1;
-  }
-}
+/* ================================
+   Alumni lists
+   ================================ */
 
 .alumni-list {
   list-style: none;
@@ -1407,10 +1388,17 @@ main h1:first-of-type {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 36px;
+  border-top: 1px solid var(--line);
+  padding-top: 2rem;
 }
 
 .small-alumni-section {
-  border-top: 1px solid var(--line);
+  border-top: 0;
+  padding-top: 0;
+}
+
+.small-alumni-section h2 {
+  margin-top: 0;
 }
 
 .alumni-list-small {
