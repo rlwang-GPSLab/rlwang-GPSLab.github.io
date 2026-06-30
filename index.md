@@ -177,16 +177,28 @@ layout: default
       <div class="lab-carousel-viewport">
         <div class="lab-carousel-track">
           <div class="lab-carousel-slide">
-            <img src="{{ '/assets/img/carousel/01.jpg' | relative_url }}" alt="GNSS field test setup">
+            <img src="{{ '/assets/img/carousel/01.jpg' | relative_url }}" alt="ion gnss+ 2025">
           </div>
           <div class="lab-carousel-slide">
-            <img src="{{ '/assets/img/carousel/02.jpg' | relative_url }}" alt="Team photo at a conference">
+            <img src="{{ '/assets/img/carousel/02.jpg' | relative_url }}" alt="2024 ski trip">
           </div>
           <div class="lab-carousel-slide">
-            <img src="{{ '/assets/img/carousel/03.jpg' | relative_url }}" alt="Lab meeting session">
+            <img src="{{ '/assets/img/carousel/03.jpg' | relative_url }}" alt="2025 ski trip">
           </div>
           <div class="lab-carousel-slide">
-            <img src="{{ '/assets/img/carousel/04.jpg' | relative_url }}" alt="Antenna hardware closeup">
+            <img src="{{ '/assets/img/carousel/04.jpg' | relative_url }}" alt="temp">
+          </div>
+          <div class="lab-carousel-slide">
+            <img src="{{ '/assets/img/carousel/05.jpg' | relative_url }}" alt="GNSS field test setup">
+          </div>
+          <div class="lab-carousel-slide">
+            <img src="{{ '/assets/img/carousel/06.jpg' | relative_url }}" alt="pacific pnt 2024">
+          </div>
+          <div class="lab-carousel-slide">
+            <img src="{{ '/assets/img/carousel/07.jpg' | relative_url }}" alt="2026 ski trip">
+          </div>
+          <div class="lab-carousel-slide">
+            <img src="{{ '/assets/img/carousel/08.jpg' | relative_url }}" alt="dana retirement">
           </div>
         </div>
       </div>
