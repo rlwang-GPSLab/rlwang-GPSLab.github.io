@@ -1,16 +1,15 @@
 title: "GPS Lab"
 description: "Research lab at Stanford University"
-url: "https://rlwang-GPSLab.github.io" # optional: set to https://<username>.github.io or custom domain
-# baseurl: "/rlwang-GPSLab.github.io" # for user/organization site repo (username.github.io), keep ""
-baseurl: "" # for user/organization site repo (username.github.io), keep ""
-
+url: "https://rlwang-GPSLab.github.io"
+baseurl: ""
 
 markdown: kramdown
 permalink: pretty
 
 collections:
-  pages:
+  news:
     output: true
+    permalink: /news/:name/
 
 defaults:
   - scope:
@@ -23,8 +22,3 @@ exclude:
   - vendor
   - Gemfile
   - Gemfile.lock
-
-collections:
-  news:
-    output: true
-    permalink: /news/:name/
