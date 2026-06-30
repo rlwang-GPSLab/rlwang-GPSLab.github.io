@@ -33,8 +33,8 @@
   role: "Edward C. Wells Professor in the School of Engineering, Emeritus"
   education:
     - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "M.S., Massachusetts Institute of Technology"
+    - "B.S., United States Naval Academy"
   interests: ""
   headshot: "/assets/img/people/profile_parkinson_bradford.jpg"
 
@@ -54,9 +54,9 @@
   subgroup: "research-staff"
   role: "Casual"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., Ohio University"
+    - "M.S., Ohio University"
+    - "B.S., Ohio University"
   interests: ""
   headshot: "/assets/img/people/profile_akos_dennis.jpg"
 
@@ -66,8 +66,8 @@
   role: "Sr. Research Engineer"
   education:
     - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "M.S., Stanford University"
+    - "B.S., Ecole Polytechnique"
   interests: ""
   headshot: "/assets/img/people/profile_blanch_juan.jpg"
 
@@ -76,9 +76,9 @@
   subgroup: "research-staff"
   role: "Research Engineer"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., National Cheng Kung University"
+    - "M.S., National Cheng Kung University"
+    - "B.S., National Sun Yat-sen University"
   interests: ""
   headshot: "/assets/img/people/profile_chen_yuhsuan.jpg"
 
@@ -88,19 +88,17 @@
   role: "Sr. Research Engineer, Executive Director SCPNT"
   education:
     - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "M.S., Stanford University"
+    - "B.S., University of Maryland, College Park"
   interests: ""
   headshot: "/assets/img/people/profile_lo_sherman.jpg"
 
 - name: "Matthew Rose"
   group: "staff"
-  subgroup: "research-staff"
+  subgroup: "admin-staff"
   role: "Administrative Associate"
   education:
-    - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "B.S., Ohlone College"
   interests: ""
   headshot: "/assets/img/people/profile_rose_matthew.jpg"
 
@@ -110,8 +108,8 @@
   role: "Research Engineer"
   education:
     - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "M.S., Stanford University"
+    - "B.S., Georgia Institute of Technology"
   interests: ""
   headshot: "/assets/img/people/profile_phelts_robert.jpg"
 
@@ -121,8 +119,8 @@
   role: "Technical Consultant"
   education:
     - "Ph.D., Stanford University"
-    - "M.S., "
-    - "B.S., "
+    - "M.S., Stanford University"
+    - "B.S., Massachusetts Institute of Technology"
   interests: ""
   headshot: "/assets/img/people/profile_pullen_sam.jpg"
 
@@ -131,7 +129,7 @@
   subgroup: "postdoctoral"
   role: "Postdoctoral Scholar"
   education:
-    - "Ph.D., "
+    - "Ph.D., Yonsei University"
     - "M.S., "
     - "B.S., "
   interests: ""
@@ -142,9 +140,9 @@
   subgroup: "postdoctoral"
   role: "Postdoctoral Scholar"
   education:
-    - "Ph.D., KAIST"
-    - "M.S., "
-    - "B.S., "
+    - "Ph.D., Korea Advanced Institute of Science and Technology"
+    - "M.S., Korea Advanced Institute of Science and Technology"
+    - "B.S., Sungkyunkwan University"
   interests: ""
   headshot: "/assets/img/people/profile_min_dongchan.jpg"
 
@@ -154,7 +152,7 @@
   role: "PhD Student"
   education:
     - "M.S., Stanford University"
-    - "B.S., "
+    - "B.S., University of Colorado, Boulder"
   interests: ""
   headshot: "/assets/img/people/profile_bc_jade.jpg"
 
@@ -164,7 +162,7 @@
   role: "PhD Student"
   education:
     - "M.S., Stanford University"
-    - "B.S., "
+    - "B.S., Olin College of Engineering"
   interests: ""
   headshot: "/assets/img/people/profile_kriezis_argyris.jpg"
 
@@ -174,7 +172,7 @@
   role: "PhD Student"
   education:
     - "M.S., Stanford University"
-    - "B.S., "
+    - "B.S., National Cheng Kung University"
   interests: ""
   headshot: "/assets/img/people/profile_lai_frank.jpg"
 
@@ -194,7 +192,7 @@
   role: "PhD Student"
   education:
     - "M.S., Stanford University"
-    - "B.S., "
+    - "B.S., The University of Texas at Austin"
   interests: ""
   headshot: "/assets/img/people/profile_wang_rebecca.jpg"
 
