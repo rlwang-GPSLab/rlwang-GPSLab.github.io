@@ -17,7 +17,11 @@ permalink: /people/
   <!-- Sidebar navigation -->
   <aside class="people-sidebar" aria-label="People page navigation">
     <nav>
-      <a href="#faculty">Faculty</a>
+      <div class="people-sidebar-group">
+        <span>Faculty</span>
+        <a href="#faculty">Faculty</a>
+        <a href="#emeritus">Emeritus</a>
+      </div>
 
       <div class="people-sidebar-group">
         <span>Staff</span>
@@ -42,6 +46,7 @@ permalink: /people/
 
     {% assign sections =
       "faculty|Faculty,
+       emeritus|Emeritus Faculty,
        research-staff|Research Staff,
        postdoctoral|Postdoctoral Scholars,
        phd|PhD Students,
