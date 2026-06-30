@@ -8,3 +8,8 @@ description: "Dr. Juan Blanch and Dr. Sherman Lo presented research on GNSS inte
 ---
 
 Dr. Juan Blanch and Dr. Sherman Lo presented research on GNSS integrity monitoring with ARAIM and aviation spoofing incidents with ADS-B at the ION ITM conference.
+
+<div class="news-page-image">
+  <img src="{{ page.image | relative_url }}"
+       alt="{{ page.title }}">
+</div>
