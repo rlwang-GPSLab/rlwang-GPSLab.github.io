@@ -1388,8 +1388,11 @@ main h1:first-of-type {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 36px;
-  border-top: 1px solid var(--line);
-  padding-top: 2rem;
+
+  /* Remove the separator */
+  margin-top: 32px;
+  padding-top: 0;
+  align-items: start;
 }
 
 .small-alumni-section {
@@ -1421,13 +1424,3 @@ main h1:first-of-type {
   }
 }
 
-.small-alumni-grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 36px;
-
-  /* Remove the separator */
-  margin-top: 32px;
-  padding-top: 0;
-  align-items: start;
-}
