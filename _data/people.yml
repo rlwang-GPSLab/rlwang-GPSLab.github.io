@@ -130,7 +130,7 @@
   role: "Postdoctoral Scholar"
   education:
     - "Ph.D., Yonsei University"
-    - "M.S., "
+    - "M.S., Yonsei University"
     - "B.S., "
   interests: ""
   headshot: "/assets/img/people/profile_lee_halim.jpg"
@@ -149,7 +149,7 @@
 - name: "Jade Babcock-Chi"
   group: "students"
   subgroup: "phd"
-  role: "PhD Student"
+  role: "PhD Candidate"
   education:
     - "M.S., Stanford University"
     - "B.S., University of Colorado, Boulder"
@@ -159,7 +159,7 @@
 - name: "Argyris Kriezis"
   group: "students"
   subgroup: "phd"
-  role: "PhD Student"
+  role: "PhD Candidate"
   education:
     - "M.S., Stanford University"
     - "B.S., Olin College of Engineering"
@@ -169,7 +169,7 @@
 - name: "Frank Lai"
   group: "students"
   subgroup: "phd"
-  role: "PhD Student"
+  role: "PhD Candidate"
   education:
     - "M.S., Stanford University"
     - "B.S., National Cheng Kung University"
@@ -179,7 +179,7 @@
 - name: "Zixi Liu"
   group: "students"
   subgroup: "phd"
-  role: "PhD Student"
+  role: "PhD Candidate"
   education:
     - "M.S., Stanford University"
     - "B.S., "
@@ -189,7 +189,7 @@
 - name: "Rebecca Wang"
   group: "students"
   subgroup: "phd"
-  role: "PhD Student"
+  role: "PhD Candidate"
   education:
     - "M.S., Stanford University"
     - "B.S., The University of Texas at Austin"
@@ -215,8 +215,13 @@
   interests: ""
   headshot: "/assets/img/people/profile_oak_sukrut.jpg"
 
+# - name: "Jason Anderson"
+#   group: "alumni"
+#   subgroup: "alumni"
+#   headshot: "/assets/img/people/profile_anderson_jason.jpg"
+#   linkedin: "https://www.linkedin.com/in/jand271/"
+
 - name: "Jason Anderson"
   group: "alumni"
-  subgroup: "alumni"
-  headshot: "/assets/img/people/profile_anderson_jason.jpg"
+  subgroup: "phd-alumni"
   linkedin: "https://www.linkedin.com/in/jand271/"
