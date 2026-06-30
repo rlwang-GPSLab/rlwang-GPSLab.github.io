@@ -1358,3 +1358,26 @@ main h1:first-of-type {
   border-radius: 8px;
   box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
 }
+
+.alumni-list {
+  columns: 2;
+  list-style: none;
+  padding-left: 0;
+  margin-top: 16px;
+}
+
+.alumni-list li {
+  margin-bottom: 8px;
+  break-inside: avoid;
+}
+
+.alumni-list a {
+  color: var(--stanford-cardinal);
+  font-weight: 600;
+}
+
+@media (max-width: 800px) {
+  .alumni-list {
+    columns: 1;
+  }
+}

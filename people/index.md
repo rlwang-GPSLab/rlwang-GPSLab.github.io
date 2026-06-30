@@ -37,7 +37,13 @@ permalink: /people/
         <a href="#undergrad">Undergraduate Students</a>
       </div>
 
-      <a href="#alumni">Alumni</a>
+      <div class="people-sidebar-group">
+        <span>Alumni</span>
+        <a href="#phd-alumni">PhD Alumni</a>
+        <a href="#masters-alumni">Master's Alumni</a>
+        <a href="#undergrad-alumni">Undergraduate Alumni</a>
+        <a href="#postdoc-alumni">Postdoctoral Alumni</a>
+      </div>
     </nav>
 
   </aside>
@@ -54,7 +60,10 @@ permalink: /people/
        phd|PhD Students,
        masters|Master's Students,
        undergrad|Undergraduate Students,
-       alumni|Alumni" | split: "," %}
+       phd-alumni|PhD Alumni,
+       masters-alumni|Master's Alumni,
+       undergrad-alumni|Undergraduate Alumni,
+       postdoc-alumni|Postdoctoral Alumni | split: "," %}
 
     {% for section in sections %}
       {% assign parts = section | strip | split: "|" %}
@@ -66,6 +75,21 @@ permalink: /people/
 
 <section class="people-section" id="{{ key }}">
   <h2>{{ label }}</h2>
+
+  {% if key contains "alumni" %}
+  {% assign alumni_sorted = people | sort: "name" %}
+  <ul class="alumni-list">
+    {% for person in alumni_sorted %}
+      <li>
+        {% if person.linkedin %}
+          <a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>
+        {% else %}
+          {{ person.name }}
+        {% endif %}
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
 
   <div class="people-grid">
 
@@ -124,6 +148,7 @@ permalink: /people/
     {% endfor %}
 
   </div>
+  {% endif %}
 </section>
 {% endif %}
     {% endfor %}
