@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Anti-Spoofing"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/cyber-safety-transportation/anti-spoofing/
 ---
 

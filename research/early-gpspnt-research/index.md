@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Early GPS/PNT Research"
+title: "Research"
 permalink: /research/early-gpspnt-research/
 ---
 

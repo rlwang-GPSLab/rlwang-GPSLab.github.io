@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "JPALS"
+title: "Research"
 permalink: /research/early-gpspnt-research/jpals/
 ---
 

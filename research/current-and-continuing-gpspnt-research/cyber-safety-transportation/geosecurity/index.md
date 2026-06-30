@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Geosecurity"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/cyber-safety-transportation/geosecurity/
 ---
 

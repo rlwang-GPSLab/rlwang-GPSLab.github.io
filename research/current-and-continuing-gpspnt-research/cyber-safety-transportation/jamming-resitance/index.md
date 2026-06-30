@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Jamming Resistance"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/cyber-safety-transportation/jamming-resitance/
 ---
 

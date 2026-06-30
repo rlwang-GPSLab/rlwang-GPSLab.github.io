@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GPS for Spacecraft Attitude & Translation Control"
+title: "Research"
 permalink: /research/early-gpspnt-research/gps-spacecraft-attitude-translation-control/
 ---
 

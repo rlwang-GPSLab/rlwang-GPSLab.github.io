@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "RAIM"
+title: "Research"
 permalink: /research/early-gpspnt-research/raim/
 ---
 

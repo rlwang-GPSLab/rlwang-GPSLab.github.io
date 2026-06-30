@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "eLORAN"
+title: "Research"
 permalink: /research/early-gpspnt-research/eloran/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Cyber Safety for Transportation"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/cyber-safety-transportation/
 ---
 
