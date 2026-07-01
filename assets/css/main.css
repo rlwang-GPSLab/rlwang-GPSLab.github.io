@@ -1560,4 +1560,23 @@ main h1:first-of-type {
   }
 }
 
+.pub-sidebar-group {
+  margin: 6px 0;
+}
+
+.pub-sidebar-group summary {
+  cursor: pointer;
+  color: var(--muted);
+  font-weight: 600;
+  padding: 5px 0;
+}
+
+.pub-sidebar-group summary:hover {
+  color: var(--stanford-cardinal);
+}
+
+.pub-sidebar-group .pub-filter {
+  padding-left: 16px;
+}
+
 
