@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Current and Continuing GPS/PNT Research"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/
 ---
 

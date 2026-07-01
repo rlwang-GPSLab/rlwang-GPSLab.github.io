@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "IMU — Development & Testing"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/imu-development-testing/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Positive Train Control"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/positive-train-control/
 ---
 

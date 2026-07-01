@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "GNSS Software Receiver"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/gnss-software-receiver/
 ---
 

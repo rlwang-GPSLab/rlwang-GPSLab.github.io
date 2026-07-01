@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Multi-Constellation GNSS"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/multi-constellation-gnss/
 ---
 

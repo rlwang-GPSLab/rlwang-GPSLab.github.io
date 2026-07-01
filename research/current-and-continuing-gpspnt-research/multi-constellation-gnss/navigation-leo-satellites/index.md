@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Navigation Via LEO Satellites"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/multi-constellation-gnss/navigation-leo-satellites/
 ---
 
