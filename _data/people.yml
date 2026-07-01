@@ -231,6 +231,16 @@
   subgroup: "phd-alumni"
   linkedin: "https://www.linkedin.com/in/jand271/"
 
+- name: "Fabian Rothmaier"
+  group: "alumni"
+  subgroup: "phd-alumni"
+  linkedin: "https://www.linkedin.com/in/fabian-rothmaier-3a0b96118/"
+
+- name: "Kazuma Gunning"
+  group: "alumni"
+  subgroup: "phd-alumni"
+  linkedin: "https://www.linkedin.com/in/kgunning/"
+
 - name: "Test"
   group: "alumni"
   subgroup: "masters-alumni"
