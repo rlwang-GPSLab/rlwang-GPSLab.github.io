@@ -1382,8 +1382,12 @@ main h1:first-of-type {
 }
 
 .alumni-list-phd {
-  columns: 3;
-  column-gap: 40px;
+  columns: auto;
+  column-gap: normal;
+
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 8px 40px;
 }
 
 .small-alumni-grid {
