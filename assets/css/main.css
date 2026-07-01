@@ -859,10 +859,12 @@ a:hover {
 
 .news-list-image img {
   width: 320px;
-  height: 200px;
-  object-fit: cover;
+  height: 220px;
+  object-fit: contain;
+  object-position: center top;
   display: block;
   border-radius: 4px;
+  background: #f7f7f7;
 }
 
 .news-description {
