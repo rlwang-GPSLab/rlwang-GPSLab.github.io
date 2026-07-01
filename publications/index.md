@@ -22,13 +22,39 @@ permalink: /publications/
       </button>
     {% endfor %}
 
-    <h3>Year</h3>
-    {% for y in (1991..current_year) reversed %}
-      <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
-    {% endfor %}
-    <button class="pub-filter" type="button" data-filter="year-1990-earlier">
-      1990 and Earlier
-    </button>
+<h3>Year</h3>
+
+<details class="pub-sidebar-group">
+  <summary>2020s</summary>
+  {% for y in (2020..current_year) reversed %}
+    <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
+  {% endfor %}
+</details>
+
+<details class="pub-sidebar-group">
+  <summary>2010s</summary>
+  {% for y in (2010..2019) reversed %}
+    <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
+  {% endfor %}
+</details>
+
+<details class="pub-sidebar-group">
+  <summary>2000s</summary>
+  {% for y in (2000..2009) reversed %}
+    <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
+  {% endfor %}
+</details>
+
+<details class="pub-sidebar-group">
+  <summary>1990s</summary>
+  {% for y in (1991..1999) reversed %}
+    <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
+  {% endfor %}
+</details>
+
+<button class="pub-filter" type="button" data-filter="year-1990-earlier">
+  1990 and Earlier
+</button>
 
   </aside>
 
