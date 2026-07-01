@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "WAAS/SBAS"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/waassbas/
 ---
 

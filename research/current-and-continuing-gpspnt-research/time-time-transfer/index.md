@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Time & Time Transfer"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/time-time-transfer/
 ---
 

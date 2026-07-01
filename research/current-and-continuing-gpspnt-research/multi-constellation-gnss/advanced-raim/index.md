@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Advanced RAIM"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/multi-constellation-gnss/advanced-raim/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Marine Animals Tracking"
+title: "Research"
 permalink: /research/current-and-continuing-gpspnt-research/marine-animals-tracking/
 ---
 
