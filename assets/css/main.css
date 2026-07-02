@@ -1619,4 +1619,22 @@ main h1:first-of-type {
     box-shadow: none;
 }
 
+.stanford-identitybar {
+  padding: 0 20px;
+  height: 36px;
+  display: flex;
+  align-items: center;
+}
+
+.stanford-logo {
+  display: flex;
+  align-items: center;
+}
+
+.stanford-logo img {
+  height: 22px;
+  width: auto;
+  display: block;
+}
+
 
