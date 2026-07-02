@@ -78,32 +78,32 @@ layout: default
 </section>
 
 <section class="section">
-  <div class="section-header">
-    <h2 class="section-title">Announcements</h2>
-  </div>
+  <div class="container">
+    <div class="section-header">
+      <h2 class="section-title">Announcements</h2>
+    </div>
 
-  <div class="news-list">
+    {% assign announcements = site.data.announcements | slice: 0, 3 %}
 
-    {% for a in site.data.announcements %}
+    <div class="card">
+      {% for a in announcements %}
+      <div class="pub-item">
 
-    <article class="news-list-item announcement-item">
-
-      <div>
-        <div class="news-date">{{ a.date }}</div>
-
-        <h3 class="pub-title">
+        <p class="pub-title">
           {{ a.title }}
-        </h3>
-
-        <p class="news-description">
-          {{ a.description }}
         </p>
 
+        <p class="pub-meta">
+          {{ a.date }}
+        </p>
+
+        {% if a.description %}
+        <p class="muted">{{ a.description }}</p>
+        {% endif %}
+
       </div>
-
-    </article>
-
-    {% endfor %}
+      {% endfor %}
+    </div>
 
   </div>
 </section>
