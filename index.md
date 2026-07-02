@@ -119,27 +119,48 @@ layout: default
 
     {% assign news_items = site.news | sort: "date" | reverse | slice: 0, 3 %}
 
-    <div class="card">
-      {% for item in news_items %}
-      <div class="pub-item">
+    <div class="news-list">
 
-        <p class="pub-title">
-          <a href="{{ item.url | relative_url }}">
-            {{ item.title }}
-          </a>
-        </p>
+{% for item in news_items %}
 
-        <p class="pub-meta">
-          {{ item.date | date: "%B %d, %Y" }}
-        </p>
+<article class="news-list-item">
 
-        {% if item.description %}
-        <p class="muted">{{ item.description }}</p>
-        {% endif %}
+  <div>
 
-      </div>
-      {% endfor %}
+    <div class="news-date">
+      {{ item.date | date: "%B %d, %Y" }}
     </div>
+
+    <h3 class="pub-title">
+      <a href="{{ item.url | relative_url }}">
+        {{ item.title }}
+      </a>
+    </h3>
+
+    {% if item.description %}
+    <p class="news-description">
+      {{ item.description }}
+    </p>
+    {% endif %}
+
+  </div>
+
+  {% if item.image %}
+  <div class="news-list-image">
+    <a href="{{ item.url | relative_url }}">
+      <img
+        src="{{ item.image | relative_url }}"
+        alt="{{ item.title }}"
+        loading="lazy">
+    </a>
+  </div>
+  {% endif %}
+
+</article>
+
+{% endfor %}
+
+</div>
 
   </div>
 </section>
