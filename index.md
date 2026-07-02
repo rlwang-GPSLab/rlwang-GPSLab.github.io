@@ -100,10 +100,8 @@ layout: default
 
     {% assign announcements = site.data.announcements | slice: 0, 3 %}
 
-    <div class="announcement-card">
-
+    <div class="card">
       {% for a in announcements %}
-
       <div class="pub-item">
 
         <p class="pub-title">
@@ -115,15 +113,11 @@ layout: default
         </p>
 
         {% if a.description %}
-        <p class="muted">
-          {{ a.description }}
-        </p>
+        <p class="muted">{{ a.description }}</p>
         {% endif %}
 
       </div>
-
       {% endfor %}
-
     </div>
 
   </div>
