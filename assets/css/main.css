@@ -1586,4 +1586,28 @@ main h1:first-of-type {
   padding-left: 16px;
 }
 
+/* ========================================
+   Homepage announcements
+   ======================================== */
+
+.announcement-list {
+    border-top: 1px solid var(--line);
+}
+
+.announcement-item {
+    padding: 26px 0;
+    border-bottom: 1px solid var(--line);
+}
+
+.announcement-title {
+    margin: 6px 0 8px;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+.announcement-description {
+    margin: 0;
+    color: var(--muted);
+}
+
 
