@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: page
 title: "Jason Wins ION Parkinson Award"
 date: 2025-09-12
 category: "Awards"
