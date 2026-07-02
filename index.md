@@ -22,6 +22,19 @@ layout: default
   </div>
 </section>
 
+
+<!-- Lab History -->
+<section class="section lab-intro">
+  <div class="container">
+    <h2 class="section-title">Our History</h2>
+
+    <p class="lab-intro-text">
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    </p>
+
+  </div>
+</section>
+
 <!-- Lab links / centers / meetings -->
 <section class="section lab-highlights">
   <div class="container">
