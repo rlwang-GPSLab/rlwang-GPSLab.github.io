@@ -1620,7 +1620,7 @@ main h1:first-of-type {
 }
 
 .stanford-identitybar {
-  padding: 0 20px;
+  padding: 0 20px 0 48px;
   height: 36px;
   display: flex;
   align-items: center;
