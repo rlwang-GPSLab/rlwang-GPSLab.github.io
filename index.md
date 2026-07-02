@@ -27,21 +27,6 @@ layout: default
   <div class="container">
     <div class="grid-3">
 
-    <a class="card highlight-card" href="https://scpnt.stanford.edu/" target="_blank" rel="noopener">
-
-      <img
-        src="{{ '/assets/img/home/scpnt.jpg' | relative_url }}"
-        alt="SCPNT">
-
-      <div class="highlight-body">
-        <h3>Stanford Center for Position, Navigation & Time (SCPNT)</h3>
-        <p class="muted">
-          The GPS Lab is closely affiliated with SCPNT. The SCPNT website provides both historical and current  information about GPS research at Stanford. Since 2007, SCPNT has been hosting an annual PNT Symposium, and the SCPNT website contains an archive of presentation files from all PNT synposia, plus a gallery of GPS/PNT photos and video.
-        </p>
-      </div>
-
-    </a>
-
     <a class="card highlight-card" href="https://www.iitcarnations.org/" target="_blank" rel="noopener">
 
       <img
@@ -52,6 +37,21 @@ layout: default
         <h3>CARNATIONS</h3>
         <p class="muted">
           CARNATIONS pursues a three-pillar research strategy aimed at toughening, augmenting, and protecting PNT systems for multi-modal surface transportation.
+        </p>
+      </div>
+
+    </a>
+
+    <a class="card highlight-card" href="https://scpnt.stanford.edu/" target="_blank" rel="noopener">
+
+      <img
+        src="{{ '/assets/img/home/scpnt.jpg' | relative_url }}"
+        alt="SCPNT">
+
+      <div class="highlight-body">
+        <h3>Stanford Center for Position, Navigation & Time (SCPNT)</h3>
+        <p class="muted">
+          The GPS Lab is closely affiliated with SCPNT. The SCPNT website provides both historical and current  information about GPS research at Stanford. Since 2007, SCPNT has been hosting an annual PNT Symposium, and the SCPNT website contains an archive of presentation files from all PNT synposia, plus a gallery of GPS/PNT photos and video.
         </p>
       </div>
 
