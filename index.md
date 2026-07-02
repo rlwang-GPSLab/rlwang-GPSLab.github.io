@@ -78,6 +78,37 @@ layout: default
 </section>
 
 <section class="section">
+  <div class="section-header">
+    <h2 class="section-title">Announcements</h2>
+  </div>
+
+  <div class="news-list">
+
+    {% for a in site.data.announcements %}
+
+    <article class="news-list-item announcement-item">
+
+      <div>
+        <div class="news-date">{{ a.date }}</div>
+
+        <h3 class="pub-title">
+          {{ a.title }}
+        </h3>
+
+        <p class="news-description">
+          {{ a.description }}
+        </p>
+
+      </div>
+
+    </article>
+
+    {% endfor %}
+
+  </div>
+</section>
+
+<section class="section">
   <div class="container">
     <div class="section-header">
       <h2 class="section-title">In the News</h2>
