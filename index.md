@@ -39,6 +39,7 @@ layout: default
 <section class="section lab-highlights">
   <div class="container">
   <h2 class="section-title">Quick Links</h2>
+  
     <div class="grid-3">
 
     <a class="card highlight-card" href="https://www.iitcarnations.org/" target="_blank" rel="noopener">
