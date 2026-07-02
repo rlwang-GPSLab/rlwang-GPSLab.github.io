@@ -39,7 +39,7 @@ layout: default
 <section class="section lab-highlights">
   <div class="container">
   <h2 class="section-title">Quick Links</h2>
-  
+
     <div class="grid-3">
 
     <a class="card highlight-card" href="https://www.iitcarnations.org/" target="_blank" rel="noopener">
@@ -100,25 +100,31 @@ layout: default
 
     {% assign announcements = site.data.announcements | slice: 0, 3 %}
 
-    <div class="card">
-      {% for a in announcements %}
-      <div class="pub-item">
+    <div class="announcement-list">
 
-        <p class="pub-title">
-          {{ a.title }}
-        </p>
+  {% for a in announcements %}
 
-        <p class="pub-meta">
-          {{ a.date }}
-        </p>
+  <article class="announcement-item">
 
-        {% if a.description %}
-        <p class="muted">{{ a.description }}</p>
-        {% endif %}
-
-      </div>
-      {% endfor %}
+    <div class="news-date">
+      {{ a.date }}
     </div>
+
+    <h3 class="announcement-title">
+      {{ a.title }}
+    </h3>
+
+    {% if a.description %}
+    <p class="announcement-description">
+      {{ a.description }}
+    </p>
+    {% endif %}
+
+  </article>
+
+  {% endfor %}
+
+</div>
 
   </div>
 </section>
