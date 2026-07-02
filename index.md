@@ -100,31 +100,31 @@ layout: default
 
     {% assign announcements = site.data.announcements | slice: 0, 3 %}
 
-    <div class="announcement-list">
+    <div class="announcement-card">
 
-  {% for a in announcements %}
+      {% for a in announcements %}
 
-  <article class="announcement-item">
+      <div class="pub-item">
 
-    <div class="news-date">
-      {{ a.date }}
+        <p class="pub-title">
+          {{ a.title }}
+        </p>
+
+        <p class="pub-meta">
+          {{ a.date }}
+        </p>
+
+        {% if a.description %}
+        <p class="muted">
+          {{ a.description }}
+        </p>
+        {% endif %}
+
+      </div>
+
+      {% endfor %}
+
     </div>
-
-    <h3 class="announcement-title">
-      {{ a.title }}
-    </h3>
-
-    {% if a.description %}
-    <p class="announcement-description">
-      {{ a.description }}
-    </p>
-    {% endif %}
-
-  </article>
-
-  {% endfor %}
-
-</div>
 
   </div>
 </section>

@@ -1610,4 +1610,13 @@ main h1:first-of-type {
     color: var(--muted);
 }
 
+/* Homepage Announcements */
+
+.announcement-card {
+    background: transparent;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+}
+
 
