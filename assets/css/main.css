@@ -173,7 +173,7 @@ a:hover {
   gap: 4px;
 }
 
-.brand-title {
+/* .brand-title {
   font-size: 28px;
   font-weight: 700;
   line-height: 1.1;
@@ -184,7 +184,7 @@ a:hover {
   color: var(--muted);
   letter-spacing: 0.1em;
   text-transform: uppercase;
-}
+} */
 
 .nav-links {
   display: flex;
@@ -1637,4 +1637,15 @@ main h1:first-of-type {
   display: block;
 }
 
+.brand {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.brand-logo {
+    height: 56px;
+    width: auto;
+    display: block;
+}
 
