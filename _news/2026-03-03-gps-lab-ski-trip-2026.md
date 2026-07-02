@@ -7,6 +7,10 @@ description: "The GPS Lab went on a group trip to Palisades Tahoe. Lots of skiin
 image: "/assets/img/news/gps-lab-ski-trip-2026.jpg"
 ---
 
+<p class="news-date">
+  {{ page.date | date: "%B %-d, %Y" }}
+</p>
+
 The GPS Lab went on a group trip to Palisades Tahoe. Lots of skiing and sun! ☀️
 
 <div class="news-page-image">

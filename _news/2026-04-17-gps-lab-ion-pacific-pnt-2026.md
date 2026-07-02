@@ -6,6 +6,10 @@ date: 2026-04-17
 image: "/assets/img/news/ion-pacific-pnt-2026.jpg"
 ---
 
+<p class="news-date">
+  {{ page.date | date: "%B %-d, %Y" }}
+</p>
+
 Sherman Lo, Todd Walter, Juan Blanch, Frank Lai, Rebecca Wang, Argyris Kriezis, and Jade Babcock-Chi presented papers at ION Pacific PNT in Honolulu, Hawaii.
 
 <div class="news-page-image">

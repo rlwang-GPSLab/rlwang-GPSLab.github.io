@@ -7,6 +7,10 @@ description: "Seven GPS Lab members presented research focusing on GNSS integrit
 image: "/assets/img/news/gps-lab-attends-ion-gnss-2025.jpg"
 ---
 
+<p class="news-date">
+  {{ page.date | date: "%B %-d, %Y" }}
+</p>
+
 Seven GPS Lab members presented research focusing on GNSS integrity and interference monitoring at the ION GNSS+ conference.
 
 <div class="news-page-image">

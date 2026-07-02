@@ -7,6 +7,10 @@ description: "Dr. Juan Blanch and Dr. Sherman Lo presented research on GNSS inte
 # image: "/assets/img/news/gps-lab-attends-ion-itmptti-2026.jpg"
 ---
 
+<p class="news-date">
+  {{ page.date | date: "%B %-d, %Y" }}
+</p>
+
 Dr. Juan Blanch and Dr. Sherman Lo presented research on GNSS integrity monitoring with ARAIM and aviation spoofing incidents with ADS-B at the ION ITM conference.
 
 <div class="news-page-image">

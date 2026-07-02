@@ -6,6 +6,10 @@ date: 2026-06-03
 image: "/assets/img/news/carnations-episode-1-2026.jpg"
 ---
 
+<p class="news-date">
+  {{ page.date | date: "%B %-d, %Y" }}
+</p>
+
 Watch the episode here:
 <a href="https://www.youtube.com/watch?v=FZb8mB6l4Pg"
    target="_blank"

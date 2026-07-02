@@ -7,6 +7,10 @@ image: "/assets/img/news/Aero-Astro Commencement_June 14 2026_09.jpeg"
 image2: "/assets/img/news/Aero-Astro Commencement_June 14 2026_192.jpeg"
 ---
 
+<p class="news-date">
+  {{ page.date | date: "%B %-d, %Y" }}
+</p>
+
 Frank Lai was hooded by Professor Todd Walter during the Aero/Astro graduation ceremony. Congrats Frank!
 
 <div class="news-image-grid">
