@@ -1436,12 +1436,12 @@ main h1:first-of-type {
    ======================================== */
 
 .news-image-grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 28px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 28px;
 
-    max-width: 1200px;
-    margin: 36px auto 42px;
+  max-width: 1200px;
+  margin: 36px auto 42px;
 }
 
 .news-image-item img {
@@ -1452,17 +1452,17 @@ main h1:first-of-type {
   display: block;
   background: #f7f7f7;
   border-radius: 8px;
-  box-shadow: 0 6px 24px rgba(0,0,0,.12);
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
 }
 
 @media (max-width: 900px) {
-    .news-image-grid {
-        grid-template-columns: 1fr;
-    }
+  .news-image-grid {
+    grid-template-columns: 1fr;
+  }
 
-    .news-image-item img {
-        height: auto;
-    }
+  .news-image-item img {
+    height: auto;
+  }
 }
 
 /* Research pages */
@@ -1591,32 +1591,32 @@ main h1:first-of-type {
    ======================================== */
 
 .announcement-list {
-    border-top: 1px solid var(--line);
+  border-top: 1px solid var(--line);
 }
 
 .announcement-item {
-    padding: 26px 0;
-    border-bottom: 1px solid var(--line);
+  padding: 26px 0;
+  border-bottom: 1px solid var(--line);
 }
 
 .announcement-title {
-    margin: 6px 0 8px;
-    font-size: 1.2rem;
-    font-weight: 700;
+  margin: 6px 0 8px;
+  font-size: 1.2rem;
+  font-weight: 700;
 }
 
 .announcement-description {
-    margin: 0;
-    color: var(--muted);
+  margin: 0;
+  color: var(--muted);
 }
 
 /* Homepage Announcements */
 
 .announcement-card {
-    background: transparent;
-    border: none;
-    border-radius: 0;
-    box-shadow: none;
+  background: transparent;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
 }
 
 /* .stanford-identitybar {
@@ -1726,4 +1726,47 @@ main h1:first-of-type {
   height: 84px;
   width: auto;
   display: block;
+}
+
+.resource-sidebar-group {
+  margin: 8px 0;
+}
+
+.resource-sidebar-group summary {
+  cursor: pointer;
+  color: var(--stanford-cardinal);
+  font-weight: 700;
+  padding: 5px 0;
+}
+
+.resource-sidebar-group a {
+  display: block;
+  padding: 4px 0 4px 16px;
+  color: var(--muted);
+}
+
+.resource-sidebar a.is-active {
+  color: var(--stanford-cardinal);
+  font-weight: 700;
+}
+
+.resource-intro {
+  font-size: 1.25rem;
+  line-height: 1.7;
+  color: var(--text);
+  margin: 0 0 2.5rem;
+  max-width: 900px;
+}
+
+.resource-page-title {
+  margin-top: 0.2rem;
+  margin-bottom: 2rem;
+
+  font-size: 2rem;
+  font-weight: 600;
+
+  color: var(--text);
+
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 0.75rem;
 }

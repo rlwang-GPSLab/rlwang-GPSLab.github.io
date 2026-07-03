@@ -1,52 +1,34 @@
 ---
-layout: page
+layout: resource
 title: Resources
+resource_title: Resource Home
 permalink: /resources/
 ---
 
+<p class="resource-intro">
+The web pages in this section contain links to various types of resources related to the GPS Lab that researchers have found useful over the years.
+</p>
+
 {% assign resources = site.data.resources %}
-{% assign categories = resources | map: "category" | uniq | sort %}
 
-<div class="resource-layout">
+<div class="resource-grid" data-resource-grid>
+  {% for r in resources %}
+  <a class="resource-card"
+     data-category="{{ r.category | slugify }}"
+     href="{{ '/resources/' | append: r.slug | append: '/' | relative_url }}">
 
-  <aside class="resource-sidebar" aria-label="Resource filters">
-    <h3>Browse</h3>
+    {% if r.image %}
+    <img src="{{ r.image | relative_url }}" alt="{{ r.title }}">
+    {% endif %}
 
-    <button class="resource-filter is-active" type="button" data-filter="all">
-      All
-    </button>
+    <div class="resource-body">
+      <h3>{{ r.title }}</h3>
 
-    {% for category in categories %}
-      <button class="resource-filter" type="button" data-filter="{{ category | slugify }}">
-        {{ category }}
-      </button>
-    {% endfor %}
-  </aside>
-
-  <div class="resource-content">
-    <div class="resource-grid" data-resource-grid>
-
-      {% for r in resources %}
-      <a class="resource-card"
-         data-category="{{ r.category | slugify }}"
-         href="{{ '/resources/' | append: r.slug | append: '/' | relative_url }}">
-
-        {% if r.image %}
-        <img src="{{ r.image | relative_url }}" alt="{{ r.title }}">
-        {% endif %}
-
-        <div class="resource-body">
-          <h3>{{ r.title }}</h3>
-
-          {% if r.description %}
-          <p>{{ r.description }}</p>
-          {% endif %}
-        </div>
-
-      </a>
-      {% endfor %}
-
+      {% if r.description %}
+      <p>{{ r.description }}</p>
+      {% endif %}
     </div>
-  </div>
 
+  </a>
+  {% endfor %}
 </div>

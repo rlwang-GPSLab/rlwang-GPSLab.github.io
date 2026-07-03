@@ -1,7 +1,8 @@
 ---
-layout: page
-title: WAAS Performance
+layout: resource
+title: Resources
+resource_title: WAAS Performance
 permalink: /resources/waas-performance/
 ---
 
-Write your resource page content here.
+Write your page content here.
