@@ -21,32 +21,32 @@ permalink: /resources/
         {{ category }}
       </button>
     {% endfor %}
-
   </aside>
 
   <div class="resource-content">
     <div class="resource-grid" data-resource-grid>
+
       {% for r in resources %}
-        <div class="resource-card" data-category="{{ r.category | slugify }}">
-          {% if r.image %}
-          <img src="{{ r.image | relative_url }}" alt="{{ r.title }}">
+      <a class="resource-card"
+         data-category="{{ r.category | slugify }}"
+         href="{{ '/resources/' | append: r.slug | append: '/' | relative_url }}">
+
+        {% if r.image %}
+        <img src="{{ r.image | relative_url }}" alt="{{ r.title }}">
+        {% endif %}
+
+        <div class="resource-body">
+          <h3>{{ r.title }}</h3>
+
+          {% if r.description %}
+          <p>{{ r.description }}</p>
           {% endif %}
-
-          <div class="resource-body">
-            <h3>
-              <a href="{{ r.url }}" target="_blank" rel="noopener">
-                {{ r.title }}
-              </a>
-            </h3>
-
-            {% if r.description %}
-            <p>{{ r.description }}</p>
-            {% endif %}
-          </div>
         </div>
-      {% endfor %}
-    </div>
 
+      </a>
+      {% endfor %}
+
+    </div>
   </div>
 
 </div>

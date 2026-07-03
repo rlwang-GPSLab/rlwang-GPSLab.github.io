@@ -1,5 +1,12 @@
+- title: "WAAS Performance"
+  category: "Tools"
+  slug: "waas-performance"
+  image: "/assets/img/resources/waas.jpg"
+  description: "WAAS performance monitoring resources."
+
 - title: "Presentations"
   category: "Presentations"
+  slug: 
   description: "PowerPoint and PDF presentations covering GPS, GNSS, WAAS, LAAS, integrity monitoring, and related research topics."
   image: "/assets/img/resources/presentations.jpg"
   url: "https://gps.stanford.edu/resources-overview/presentations"
