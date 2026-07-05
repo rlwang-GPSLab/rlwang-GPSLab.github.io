@@ -1,8 +1,16 @@
 ---
-layout: resource
+layout: page
 title: Resources
-resource_title: WAAS Performance
 permalink: /resources/waas-performance/
 ---
 
-Write your page content here.
+<div class="resource-layout">
+  {% include resource-sidebar.html %}
+
+  <div class="resource-content">
+    <h1>WAAS Performance</h1>
+
+    <p>Write your WAAS Performance content here.</p>
+
+  </div>
+</div>

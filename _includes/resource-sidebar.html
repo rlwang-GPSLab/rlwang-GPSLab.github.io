@@ -13,6 +13,7 @@ map: "category" | uniq | sort %}
     <summary>{{ category }}</summary>
 
     {% for r in category_resources %}
+
     <a
       href="{{ '/resources/' | append: r.slug | append: '/' | relative_url }}"
       {%
@@ -27,7 +28,27 @@ map: "category" | uniq | sort %}
     >
       {{ r.title }}
     </a>
-    {% endfor %}
+
+    {% if r.children %}
+    <div class="resource-submenu">
+      {% for child in r.children %}
+      <a
+        href="{{ '/resources/' | append: child.slug | append: '/' | relative_url }}"
+        {%
+        if
+        page.url
+        contains
+        child.slug
+        %}class="is-active"
+        {%
+        endif
+        %}
+      >
+        {{ child.title }}
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %} {% endfor %}
   </details>
   {% endfor %}
 </aside>

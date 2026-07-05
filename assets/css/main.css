@@ -1770,3 +1770,74 @@ main h1:first-of-type {
   border-bottom: 1px solid var(--line);
   padding-bottom: 0.75rem;
 }
+
+.resource-layout {
+  display: grid;
+  grid-template-columns: 270px 1fr;
+  gap: 36px;
+  align-items: start;
+}
+
+.resource-content h1 {
+  margin-top: 0;
+}
+
+.resource-link-list {
+  margin: 1.5rem 0 0;
+  padding-left: 1.3rem;
+  font-size: 1.05rem;
+  line-height: 1.8;
+}
+
+.resource-link-list li {
+  margin-bottom: 0.35rem;
+}
+
+.resource-link-list a {
+  color: var(--stanford-cardinal);
+  font-weight: 600;
+}
+
+.resource-software-list {
+  margin-top: 2rem;
+}
+
+.resource-software-item {
+  margin-bottom: 2.75rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.resource-software-item:last-child {
+  border-bottom: none;
+}
+
+.resource-subheading {
+  margin-top: 2.2rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.resource-software-item p {
+  margin-bottom: 1rem;
+  line-height: 1.7;
+}
+
+.resource-submenu {
+  margin-left: 16px;
+  margin-top: 2px;
+  margin-bottom: 8px;
+}
+
+.resource-submenu a {
+  font-size: 0.92rem;
+  padding: 3px 0 3px 12px;
+}
+
+.resource-body-text {
+  margin: 1.25rem 0 0.75rem;
+  line-height: 1.7;
+  color: var(--text);
+}
