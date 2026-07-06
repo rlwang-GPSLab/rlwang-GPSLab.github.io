@@ -38,11 +38,17 @@ permalink: /people/
       <div class="people-sidebar-group">
         <span>Alumni</span>
         <a href="#phd-alumni">PhD Alumni</a>
+        <a href="#engineer-alumni">Engineer's Degree Alumni</a>
         <a href="#masters-alumni">Master's Alumni</a>
         <a href="#undergrad-alumni">Undergraduate Alumni</a>
         <a href="#postdoc-alumni">Postdoctoral Alumni</a>
+        <a href="#researcher-alumni">Researcher Alumni</a>
+        <a href="#visiting-scholar-alumni">Visiting Scholar Alumni</a>
+        <a href="#visiting-student-alumni">Visiting Student Alumni</a>
+        <a href="#other-alumni">Other Alumni</a>
       </div>
     </nav>
+
   </aside>
 
   <div class="people-content">
@@ -128,6 +134,11 @@ permalink: /people/
     {% assign masters_alumni = site.data.people | where: "subgroup", "masters-alumni" | sort: "name" %}
     {% assign undergrad_alumni = site.data.people | where: "subgroup", "undergrad-alumni" | sort: "name" %}
     {% assign postdoc_alumni = site.data.people | where: "subgroup", "postdoc-alumni" | sort: "name" %}
+    {% assign engineer_alumni = site.data.people | where: "subgroup", "engineer-alumni" | sort: "name" %}
+    {% assign researcher_alumni = site.data.people | where: "subgroup", "researcher-alumni" | sort: "name" %}
+    {% assign visiting_scholar_alumni = site.data.people | where: "subgroup", "visiting-scholar-alumni" | sort: "name" %}
+    {% assign visiting_student_alumni = site.data.people | where: "subgroup", "visiting-student-alumni" | sort: "name" %}
+    {% assign other_alumni = site.data.people | where: "subgroup", "other-alumni" | sort: "name" %}
 
     {% if phd_alumni.size > 0 %}
     <section class="people-section" id="phd-alumni">
@@ -148,9 +159,20 @@ permalink: /people/
 
     <div class="small-alumni-grid">
 
+      {% if engineer_alumni.size > 0 %}
+      <section class="people-section small-alumni-section" id="engineer-alumni">
+        <h2>Engineer’s Degree</h2>
+        <ul class="alumni-list alumni-list-small">
+          {% for person in engineer_alumni %}
+          <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+          {% endfor %}
+        </ul>
+      </section>
+      {% endif %}
+
       {% if masters_alumni.size > 0 %}
       <section class="people-section small-alumni-section" id="masters-alumni">
-        <h2>Master's Alumni</h2>
+        <h2>Master's</h2>
         <ul class="alumni-list alumni-list-small">
           {% for person in masters_alumni %}
           <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
@@ -161,7 +183,7 @@ permalink: /people/
 
       {% if undergrad_alumni.size > 0 %}
       <section class="people-section small-alumni-section" id="undergrad-alumni">
-        <h2>Undergraduate Alumni</h2>
+        <h2>Undergraduate</h2>
         <ul class="alumni-list alumni-list-small">
           {% for person in undergrad_alumni %}
           <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
@@ -172,7 +194,7 @@ permalink: /people/
 
       {% if postdoc_alumni.size > 0 %}
       <section class="people-section small-alumni-section" id="postdoc-alumni">
-        <h2>Postdoctoral Alumni</h2>
+        <h2>Postdoctoral</h2>
         <ul class="alumni-list alumni-list-small">
           {% for person in postdoc_alumni %}
           <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
@@ -180,6 +202,54 @@ permalink: /people/
         </ul>
       </section>
       {% endif %}
+
+      {% if researcher_alumni.size > 0 %}
+
+<section class="people-section small-alumni-section" id="researcher-alumni">
+  <h2>Researchers</h2>
+  <ul class="alumni-list alumni-list-small">
+    {% for person in researcher_alumni %}
+    <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if visiting_scholar_alumni.size > 0 %}
+
+<section class="people-section small-alumni-section" id="visiting-scholar-alumni">
+  <h2>Visiting Scholars</h2>
+  <ul class="alumni-list alumni-list-small">
+    {% for person in visiting_scholar_alumni %}
+    <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if visiting_student_alumni.size > 0 %}
+
+<section class="people-section small-alumni-section" id="visiting-student-alumni">
+  <h2>Visiting Students</h2>
+  <ul class="alumni-list alumni-list-small">
+    {% for person in visiting_student_alumni %}
+    <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+{% if other_alumni.size > 0 %}
+
+<section class="people-section small-alumni-section" id="other-alumni">
+  <h2>Other</h2>
+  <ul class="alumni-list alumni-list-small">
+    {% for person in other_alumni %}
+    <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
 
     </div>
 

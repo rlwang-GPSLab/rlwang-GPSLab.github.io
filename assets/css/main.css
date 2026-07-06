@@ -1387,14 +1387,18 @@ main h1:first-of-type {
   column-gap: normal;
 
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 8px 40px;
+}
+
+.alumni-list-phd li {
+  margin-bottom: 0;
 }
 
 .small-alumni-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 36px;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 2rem 2.5rem;
 
   /* Remove the separator */
   margin-top: 32px;
@@ -1417,7 +1421,7 @@ main h1:first-of-type {
 
 @media (max-width: 900px) {
   .alumni-list-phd {
-    columns: 2;
+    grid-template-columns: repeat(2, 1fr);
   }
 
   .small-alumni-grid {
