@@ -1234,3 +1234,310 @@
   authors: "Walter, Todd, Anderson, Jason, and Lo, Sherman"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
   url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Stress Testing Advanced RAIM Airborne Algorithms"
+  authors: "Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "Solution Separation-based FD to Mitigate the Effects of Local Threats on PPP Integrity"
+  authors: "Blanch, Juan, Gunning, Kazuma, Walter, Todd, de Groot, Lance, and Norman, Laura"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon"
+  url: ""
+
+- year: 2020
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Bounding Temporally Correlated Measurement Noise with an Application to GNSS Integrity"
+  authors: "Blanch, Juan, Phelts, Eric, Gunning, Kazuma, and Walter, Todd"
+  venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2020
+  month: December
+  first_author_last: "de Paula"
+  category: journal
+  title: "Performance of 6 Different Global Navigation Satellite System Receivers at Low Latitude Under Moderate and Strong Scintillation"
+  authors: "de Paula, Eurico R., Martinon, Andre R. F., Moraes, Alison O., Carrano, Charles, Neto, A. C., Doherty, Patricia, Groves, Keith, Valladares, Cesar E., Crowley, Geoff, Azeem, Irfan, Reynolds, Adam, Akos, Dennis M., Walter, Todd, Beach, Ted L., and Slewaegen, Jean-Marie"
+  venue: "Earth and Space Science"
+  details: "8, e2020EA001314"
+  doi: "10.1029/2020EA001314"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Fernandez-Hernandez"
+  category: conference
+  title: "Independent Time Synchronization for Resilient GNSS Receivers"
+  authors: "Fernandez-Hernandez, Ignacio, Walter, Todd, Neish, Andrew, and O'Driscoll, Cillian"
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  month: April
+  first_author_last: "Jheng"
+  category: journal
+  title: "1090 MHz ADS-B Based Wide Area Multilateration System for Alternative Positioning Navigation and Timing"
+  authors: "Jheng, Siang-Lin, Jan, Shau-Shiun, Chen, Yu-Hsuan, and Lo, Sherman"
+  venue: "IEEE Sensors Journal"
+  doi: "10.1109/JSEN.2020.2988514"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Joerger"
+  category: conference
+  title: "ARAIM Continuity and Availability Assertions, Assumptions, and Evaluation Methods"
+  authors: "Joerger, M., Zhai, Y., Martini, I., Blanch, J., and Pervan, B."
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  season: Winter
+  first_author_last: "Lewis"
+  category: journal
+  title: "GNSS Interferometric Reflectometry Signature-based Defense"
+  authors: "Lewis, Steven W., Chow, Edward C., Nievinski, Felipe G., Akos, Dennis M., and Lo, Sherman"
+  venue: "NAVIGATION"
+  details: "Vol. 67 No. 4, pp. 727-743"
+  doi: "10.1002/navi.393"
+  url: ""
+
+- year: 2020
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "Characterization of ADS-B Performance under GNSS Interference"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2020), Virtual"
+  url: ""
+
+- year: 2020
+  month: November
+  first_author_last: "Liu"
+  category: conference
+  title: "GNSS Interference Characterization and Localization Using OpenSky ADS-B Data"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the OpenSky Symposium"
+  doi: "10.3390/proceedings2020059010"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Developing a Dual Polarization Antenna (DPA) for High Dynamic Applications"
+  authors: "Lo, S., Chen, Y.H., Rothmaier, F., Zhang, G., and Lee, C."
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  season: Fall
+  first_author_last: "Lo"
+  category: journal
+  title: "Flight Test of a Pseudo-Ranging Signal Compatible with Existing Distance Measuring Equipment (DME) Ground Stations"
+  authors: "Lo, Sherman, Chen, Yu-Hsuan, Enge, Per, Pelgrum, Wouter, Li, Kuangmin, Weida, George, and Soelte, Achim"
+  venue: "NAVIGATION"
+  details: "Vol. 67 No. 3, pp. 567-582"
+  doi: "10.1002/navi.376"
+  url: ""
+
+- year: 2020
+  month: November
+  first_author_last: "Lo"
+  category: conference
+  title: "Message Design for a Robust Time Signal Using Distance Measuring Equipment (DME) Pulse Pair Position Modulated (PPPM) Pseudolite"
+  authors: "Lo, Sherman and Chen, Yu-Hsuan"
+  venue: "Proceedings of the 2020 European Navigation Conference, Virtual"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Lo"
+  category: book
+  title: "Chapter 61: Navigation for Aviation"
+  authors: "Lo, Sherman"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: April
+  first_author_last: "Milner"
+  category: conference
+  title: "Evaluating Integrity and Continuity Over Time in Advanced RAIM"
+  authors: "Milner, Carl, Pervan, Boris, Blanch, Juan, and Joerger, Mathieu"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon"
+  url: ""
+
+- year: 2020
+  season: Fall
+  first_author_last: "Miralles"
+  category: journal
+  title: "An Assessment of GPS Spoofing Detection Via Radio Power and Signal Quality Monitoring for Aviation Safety Operations"
+  authors: "Miralles, Damian, Bornot, Aurelie, Rouquette, Paul, Levigne, Nathan, Akos, Dennis M., Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "IEEE Intelligent Transportation Systems Magazine"
+  details: "Vol. 12 No. 3, pp. 136-146"
+  doi: "10.1109/MITS.2020.2994117"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Neish"
+  category: conference
+  title: "Receiver States for SBAS Data Authentication"
+  authors: "Neish, Andrew, Walter, Todd, and Fernandez-Hernandez, Ignacio"
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  month: May
+  first_author_last: "Neish"
+  category: magazine
+  title: "Securing GNSS – A Trip Down Cryptography Lane"
+  authors: "Neish, Andrew and Walter, Todd"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2020
+  month: August
+  first_author_last: "Neish"
+  category: theses
+  title: "Establishing Trust Through Authentication in Satellite Based Augmentation Systems"
+  authors: "Neish, Andrew"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Parkinson"
+  category: book
+  title: "Chapter 1: Introduction, Early History, and Assuring PNT (PTA)"
+  authors: "Parkinson, Bradford W., Morton, Y. T. Jade, van Diggelen, Frank, and Spilker, James J. Jr."
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: March
+  first_author_last: "Perkins"
+  category: theses
+  title: "Fast Interference Localization to Protect Global Navigation Satellite Service Operations"
+  authors: "Perkins, Adrien"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Phelts"
+  category: conference
+  title: "Evaluating the Application of PPP Techniques to ARAIM Using Flight Data"
+  authors: "Phelts, R.E., Gunning, K., Blanch, J., and Walter, T."
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  month: June
+  day: 13
+  first_author_last: "Phelts"
+  category: magazine
+  title: "Innovation: Improving ARAIM"
+  authors: "Phelts, R. Eric, Gunning, Kazuma, Blanch, Juan, and Walter, Todd"
+  venue: "GPS World"
+  url: ""
+
+- year: 2020
+  month: January
+  day: 26
+  first_author_last: "Pullen"
+  category: magazine
+  title: "What Freeware or Open-Source Software Packages Are Available to Support GNSS Performance Evaluations?"
+  authors: "Pullen, Sam"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Pullen"
+  category: book
+  title: "Chapter 23: GNSS Integrity"
+  authors: "Pullen, Sam and Joerger, Mathieu"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Reid"
+  category: book
+  title: "Chapter 43: Navigation from Low Earth Orbit"
+  authors: "Reid, Tyler G. R., Walter, Todd, Enge, Per K., Lawrence, David, Cobb, H. Stewart, Gutt, Greg, O'Conner, Michael, and Whelan, David"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Reid"
+  category: book
+  title: "Chapter 64: Navigation in the Arctic"
+  authors: "Reid, Tyler G. R., Walter, Todd, Guinness, Robert, Thombre, Sarang, Kuusniemi, Heidi, and Kjerstad, Norvald"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: September
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "Optimal Sequential Spoof Detection Based on Direction of Arrival Measurements"
+  authors: "Rothmaier, Fabian"
+  venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual"
+  awards:
+    - "Student Paper Award Winner"
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2020
+  month: April
+  first_author_last: "Walter"
+  category: conference
+  title: "A Rigid Message Scheduler for SBAS"
+  authors: "Walter, Todd, Neish, Andrew, and Blanch, Juan"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Walter"
+  category: book
+  title: "Chapter 13: Satellite Based Augmentation Systems"
+  authors: "Walter, Todd"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
