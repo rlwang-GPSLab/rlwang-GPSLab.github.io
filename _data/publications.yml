@@ -996,3 +996,241 @@
   authors: "Yuan, Matthew and Lo, Sherman"
   venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
   url: ""
+
+  - year: 2021
+  month: September
+  first_author_last: "Anderson"
+  category: conference
+  title: "On SBAS Authentication with OTAR Schemes"
+  authors: "Anderson, Jason, Lo, Sherman, Neish, Andrew, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: February
+  first_author_last: "Blanch"
+  category: journal
+  title: "Fast Protection Levels for Fault Detection With an Application to Advanced RAIM"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 57 No. 1, pp. 55-65"
+  doi: "10.1109/TAES.2020.3011997"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Gaussian Bounding Improvements and an Analysis of the Bias-Sigma Tradeoff for GNSS Integrity"
+  authors: "Blanch, Juan, Liu, Xinwei, and Walter, Todd"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Analysis of GNSS Constellation Performance for Advanced RAIM"
+  authors: "Blanch, Juan, Liu, Xinwei, Gunning, Kaz, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "A Fault Detection and Exclusion Estimator Designed for Integrity"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Fernández-Hernández"
+  category: conference
+  title: "SBAS Message Authentication: A Review of Protocols, Figures of Merit and Standardization Plans"
+  authors: "Fernández-Hernández, Ignacio, Walter, Todd, Neish, Andrew M., Anderson, Jason, Mabilleau, Mikael, Vecchione, Giovanni, and Châtre, Eric"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Fernández-Hernández"
+  category: conference
+  title: "Message Authentication Candidates for the SBAS Dual Frequency Multi-Constellation Standard"
+  authors: "Fernández-Hernández, Ignacio, Walter, Todd, Mabilleau, Mikael, Tosato, Luciano, Dalla Chiara, Andrea, Pozza, Daniele, Pozzobon, Oscar, Calabrese, Alessandra, Anderson, Jason, and Châtre, Eric"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: March
+  first_author_last: "Gunning"
+  category: theses
+  title: "Safety Critical Bounds for Precise Positioning for Aviation and Autonomy"
+  authors: "Gunning, Kazuma"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Hirschberger"
+  category: conference
+  title: "Reevaluating the Message Loss Rate of the Wide Area Augmentation System (WAAS) in Flight"
+  authors: "Hirschberger, Matthew, Lo, Sherman and Walter, Todd"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Katz"
+  category: conference
+  title: "ARAIM for Military Users: ISM Parameters, Constellation-Check Procedure and Performance Estimates"
+  authors: "Katz, Alec, Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Katronick, Andrew, Crews, Mark, and Jackson, Robert"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "GNSS Interference Detection Using Machine Learning Algorithms on ADS-B Data"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Developing a Practical GNSS Spoofing Detection Thresholds for Receiver Power Monitoring"
+  authors: "Lo, Sherman, Rothmaier, Fabian, Miralles, Damian, Akos, Dennis, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: February
+  first_author_last: "Marini-Pereira"
+  category: journal
+  title: "Reexamining Low-Latitude Ionospheric Error Bounds: An SBAS Approach for Brazil"
+  authors: "Marini-Pereira, Leonardo, Pullen, Sam P., and de Oliveira Moraes, Alison"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 57 No. 1, pp. 674-689"
+  doi: "10.1109/TAES.2020.3029623"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Nam"
+  category: conference
+  title: "Enhanced Local-Area DGNSS for Autonomous Vehicle Navigation: Optimal Smoothing Strategy"
+  authors: "Nam, Gihun, Kim, Dongwoo, Kim, Noah Minchan, Jiyun Lee, and Pullen, Sam"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  title: "Ground Monitoring to Support ARAIM for Military Users: Alternatives for Rapid and Rare Update Rates"
+  authors: "Pullen, Sam, Lo, Sherman, Katz, Alec, Blanch, Juan, Walter, Todd, Katronick, Andrew, Crews, Mark, and Johnson, Robert"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "GNSS Spoofing Mitigation in the Position Domain"
+  authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  season: Summer
+  first_author_last: "Rothmaier"
+  category: journal
+  title: "GNSS Spoof Detection through Spatial Processing"
+  authors: "Rothmaier, Fabian, Chen, Yu Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 68 No. 2, pp. 243-258"
+  doi: "10.1002/navi.420"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "GNSS Spoofing Detection through Metric Combinations: Calibration and Application of a General Framework"
+  authors: "Rothmaier, Fabian, Taleghani, Leila, Chen, Yu-Hsuan, Lo, Sherman, Phelts, Eric, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "Providing Continuity and Integrity in the Presence of GNSS Spoofing"
+  authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: December
+  first_author_last: "Rothmaier"
+  category: journal
+  title: "A Framework for GNSS Spoofing Detection through Combinations of Metrics"
+  authors: "Rothmaier, Fabian, Chen, Yu Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 57 Issue 6, pp. 3633-3647"
+  doi: "10.1109/TAES.2021.3082673"
+  url: ""
+
+- year: 2021
+  month: December
+  first_author_last: "Rothmaier"
+  category: theses
+  title: "Statistical Inference for Safe and Continuous Navigation in the Presence of GNSS Spoofing"
+  authors: "Rothmaier, Fabian"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Investigation into September 2020 GPS SVN 74 Performance Anomaly"
+  authors: "Walter, Todd, Liu, Zixi, Blanch, Juan, Pham, Kristy, Mick, John, and Wanner, William"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Assessment of Ionospheric Correction Behavior for Use with Precise Point Positioning (PPP)"
+  authors: "Walter, Todd, Blanch, Juan, de Groot, Lance, and Norman, Laura"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: August
+  day: 1
+  first_author_last: "Walter"
+  category: magazine
+  title: "Innovation: Ionospheric corrections for precise point positioning"
+  authors: "Walter, Todd, Blanch, Juan, and Norman, Laura B."
+  venue: "GPS World"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  title: "SBAS Message Schemes to Support Inline Message Authentication"
+  authors: "Walter, Todd, Anderson, Jason, and Lo, Sherman"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
