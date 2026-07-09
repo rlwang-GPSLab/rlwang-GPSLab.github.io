@@ -550,3 +550,449 @@
   authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_GNSS_2024_Const_Mon_for_PPP.pdf"
+
+- year: 2023
+  month: January
+  first_author_last: "Anderson"
+  category: conference
+  title: "Addressing a Critical Vulnerability in upcoming Broadcast-only TESLA-based GNSS-enabled Systems"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  season: Fall
+  first_author_last: "Anderson"
+  category: journal
+  title: "Authentication of Satellite-Based Augmentation Systems with Over-the-Air Rekeying Schemes"
+  authors: "Anderson, Jason, Lo, Sherman, Neish, Andrew, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 70 No. 3"
+  doi: "10.33012/navi.595"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Anderson"
+  category: conference
+  title: "Authentication Security of Combinatorial Watermarking for GNSS Signal Authentication"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Evaluation of Tropospheric and Mixed Single - Dual Frequency Error Models in Advanced RAIM"
+  authors: "Blanch, Juan, Walter, Todd, and Lai, Yu-Fang"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "An Evaluation of the Advanced RAIM Threat Model"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, CA"
+  details: "pp. 408-413"
+  doi: "10.1109/PLANS53410.2023.10139928"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Approaches to Improve Advanced RAIM Protection Levels"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Chen"
+  category: conference
+  title: "An RFI Testbed for Examining GNSS Integrity in the Various Environments"
+  authors: "Chen, Yu-Hsuan, Liu, Zixi, Blanch, Juan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Dacus"
+  category: conference
+  title: "Approximating Regional GNSS Interference Sources as a Convex Optimization Problem using ADS-B Data"
+  authors: "Dacus, Michael, Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Lai"
+  category: conference
+  title: "Troposphere Delay Model Error Analysis With Application to Vertical Protection Level Calculation"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Lai"
+  category: conference
+  title: "Prototyping Integrity Monitors for PPP Fault Detections"
+  authors: "Lai, Yu-Fang, Blanch, Juan, Walter, Todd, Kahr, Erin, Leahy, Edmond, Silva, Pedro, and Ellum, Cameron"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "Satellite Clock and Ephemeris Error Bounding Characterization for Galileo and Estimated CNAV"
+  authors: "Liu, Xinwei, Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: June
+  first_author_last: "Liu"
+  category: theses
+  title: "Characterization of the Clock and Ephemeris Error Distributions of the Global Satellite Navigation System (GNSS)"
+  authors: "Liu, Xinwei"
+  venue: "Stanford University"
+  details: "Engineer Degree Dissertation"
+  url: ""
+
+- year: 2023
+  month: May
+  day: 26
+  first_author_last: "Liu"
+  category: magazine
+  title: "GNSS Interference: Getting to the Source"
+  authors: "Liu, Zixi, Lo, Sherman, Walter, Todd, and Blanch, Juan"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "Investigation of GPS interference events with refinement on the localization algorithm"
+  authors: "Liu, Zixi, Blanch, Juan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "Real Time Detection and Estimation of GNSS Interference Affected Region using ADS-B Data and Bayesian Modeling"
+  authors: "Liu, Zixi, Blanch, Juan, Lo, Sherman, Chen, Yu-Hsuan, and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Examining Cross Frequency Interference Effects in Multi-Frequency GNSS Receivers"
+  authors: "Lo, Sherman, Chen, Yu-Hsuan, San Miguel, Nicolas, Walter, Todd and Akos, Dennis"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Oak"
+  category: conference
+  title: "GNSS Augmentation by Low-Earth-Orbit (LEO) Satellites: Integrity Performance Under Non-Ideal Conditions"
+  authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Colobong, Isaiah, Blanch, Juan, Walter, Todd, Crews, Mark, and Jackson, Robert"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Patil"
+  category: conference
+  title: "Detecting Space Based Interference on GNSS Signals"
+  authors: "Patil, Akshata, Phelts, R. Eric, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2023
+  month: November
+  day: 27
+  first_author_last: "Patil"
+  category: magazine
+  title: "Can RF interference to GNSS signals be generated by satellites in orbit? Has this occurred, and how can it be detected?"
+  authors: "Patil, Akshata, Phelts, R. Eric, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Pullen"
+  category: conference
+  title: "GNSS Constellation Performance Using ARAIM with Inclined Geosynchronous Satellite and Low-Earth-Orbit Satellite Augmentation"
+  authors: "Pullen, Sam, Lo, Sherman, Colobong, Isaiah, Oak, Sukrut, Blanch, Juan, Walter, Todd, Crews, Mark, Jackson, Robert, Young, Stephen, and Huttenhoff, Kevin"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: April
+  first_author_last: "San Miguel"
+  category: conference
+  title: "Calibration of RFI Detection Levels in a Low-Cost GNSS Monitor"
+  authors: "San Miguel, Nicolas Roberto, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, and Akos, Dennis"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium, Monterey, CA"
+  url: ""
+
+- year: 2023
+  first_author_last: "Taylor"
+  category: journal
+  title: "Software Defined Radio for GNSS Radio Frequency Interference Localization"
+  authors: "Taylor, Fred, Gattis, Evan, Trapani, Lucca, Akos, Dennis, Lo, Sherman, Walter, Todd, and Chen, Yu-Hsuan"
+  venue: "Sensors"
+  details: "Vol. 24 No. 1: 72"
+  doi: "10.3390/s24010072"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Wang"
+  category: conference
+  title: "Characterization and Comparison of Galileo and GPS Anomalies"
+  authors: "Wang, Rebecca and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: March
+  day: 20
+  first_author_last: "Wang"
+  category: magazine
+  title: "What are typical features of GNSS satellite faults in recent years? Are there any differences between satellite constellations?"
+  authors: "Wang, Rebecca, Walter, Todd, and Pullen, Sam"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Anderson"
+  category: conference
+  title: "Cryptographic Ranging Authentication with TESLA, Rapid Re-keying, and a PRF"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Anderson"
+  category: conference
+  title: "Efficient and Secure Use of Cryptography for Watermarked Signal Authentication"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Anderson"
+  category: conference
+  title: "Time Synchronization for TESLA-based GNSS-enabled Systems"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Baseline Advanced RAIM User Algorithm: Proposed Updates"
+  authors: "Blanch, Juan, Walter, Todd, Milner, Carl, Joerger, Mathieu, Pervan, Boris, Bouvet, Denis"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Design of Estimators with Integrity in the Presence of Error Model Uncertainty"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Dacus"
+  category: conference
+  title: "Improved RFI Localization Through Aircraft Position Estimation During Losses in ADS-B Reception"
+  authors: "Dacus, Michael, Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "Investigation into Satellite Clock and Ephemeris Errors Bounding Uncertainty and Predictability"
+  authors: "Liu, Xinwei, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "Evaluation of Satellite Clock and Ephemeris Error Bounding Predictability for Integrity Applications"
+  authors: "Liu, Xinwei, Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "GNSS Interference Source Localization Using ADS-B data"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: August
+  day: 8
+  first_author_last: "Liu"
+  category: magazine
+  title: "Protecting GNSS for Safe Aviation"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "Real-time Detection and Localization of GNSS Interference Source"
+  authors: "Liu, Zixi, Lo, Sherman, Walter, Todd, and Blanch, Juan"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Demonstrating and Improving the Performance of a GNSS Dual Polarization Antenna (DPA) for Spoof Detection in Flight"
+  authors: "Lo, Sherman, Chen, Yu Hsuan, Rothmaier, Fabian, and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Marini-Pereira"
+  category: conference
+  title: "A Simple and Effective Approach to Real-Time Ionospheric Monitoring for GBAS in Low Latitudes"
+  authors: "Marini-Pereira, Leonardo, de Oliveira Moraes, Alison, and Pullen, Sam"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Nam"
+  category: conference
+  title: "Networked UAV Detection and Alerting of Ionospheric Anomalies within LADGNSS Navigation Framework"
+  authors: "Nam, Gihun, Sun, K. Andrew, Lee, Jiyun, and Pullen, Sam"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Phelts"
+  category: conference
+  title: "Nominal GPS Signal Deformations: 10 years of WAAS Signal Quality Monitoring"
+  authors: "Phelts, R. Eric, Walter, Todd, and Sanchez, Rhiannon"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Phelts"
+  category: conference
+  title: "Characterizing GPS Signal Deformations using the WAAS Signal Quality Monitor"
+  authors: "Phelts, R. Eric and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Pullen"
+  category: conference
+  title: "Inclined Geosynchronous Satellite Augmentation to Maximize Availability of Integrity for Future SBAS and ARAIM Users"
+  authors: "Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Katronick, Andrew, Crews, Mark, Jackson, Robert, and Huttenhoff, Kevin"
+  venue: "2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  details: "Presented at"
+  url: ""
+
+- year: 2022
+  month: May
+  day: 24
+  first_author_last: "Pullen"
+  category: magazine
+  title: "What commitments have the various constellation providers made to GNSS users regarding the integrity of their signals and services? How are these commitments transmitted to users, and how can they be updated if circumstances require?"
+  authors: "Pullen, Sam, Walter, Todd, Blanch, Juan, and Wang, Rebecca"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "San Miguel"
+  category: conference
+  title: "Stress Testing of a Low-Cost GNSS RFI Monitor"
+  authors: "San Miguel, Nicolas Roberto, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, and Akos, Dennis"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  season: Winter
+  first_author_last: "Sparks"
+  category: journal
+  title: "WAAS and the ionosphere – a historical perspective: Monitoring storms"
+  authors: "Sparks, Lawrence, Altshuler, Eric, Pandya, Nitin, Blanch, Juan, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 69 No. 1, pp. 243-258"
+  doi: "10.33012/navi.503"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Taleghani"
+  category: conference
+  title: "Low cost RFI monitor for continuous observation and characterization of localized interference sources"
+  authors: "Taleghani, Leila, Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, Akos, Dennis, and Granite Gattis, Benon"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: August
+  day: 17
+  first_author_last: "Taleghani"
+  category: magazine
+  title: "Innovation: Monitoring GNSS interference and spoofing — a low-cost approach"
+  authors: "Taleghani, Leila, Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, Akos, Dennis, Granite Gattis, Benon, and Langley, Richard B."
+  venue: "GPS World"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Yuan"
+  category: conference
+  title: "Examining Reception of GNSS Underwater using a Smartphone"
+  authors: "Yuan, Matthew and Lo, Sherman"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
