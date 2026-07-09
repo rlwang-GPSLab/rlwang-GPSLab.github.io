@@ -13,7 +13,6 @@
   title: "Geometry-Based Discrimination of Authentic and Spoofed GNSS Signals Using Double Differencing"
   authors: "Babcock-Chi, Jade and Walter, Todd"
   venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Babcock-Chi_ION_Pacific_PNT_2026_.DoubleDiff_Spoof.pdf"
 
 - year: 2026
@@ -23,7 +22,6 @@
   title: "Efficient Monitoring of Constellation Clock Offset Faults in Advanced RAIM and Related Systems"
   authors: "Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 2026 International Technical Meeting of The Institute of Navigation, Anaheim, CA"
-  citation: Presented at the 2026 International Technical Meeting of The Institute of Navigation, Anaheim, CA, January 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_ITM_2026_Clock_Monitoring.pdf"
 
 - year: 2026
@@ -33,7 +31,6 @@
   title: "Testing Continuity and Integrity for Advanced RAIM and Similar Systems"
   authors: "Blanch, Juan, Walter, Todd, and Liu, Fan"
   venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026"
-  citation: Presented at the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_PPNT_2026_ARAIM_testing.pdf"
 
 - year: 2026
@@ -43,7 +40,6 @@
   title: "Framework for Determining Lateral Minimum Separation Distance Using ADS-B Information"
   authors: "Kim, Junsoo, Nam, Gihun, Lee, Jiyun, Min, Dongchan, and Pullen, Sam"
   venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kim_ION_PPNT_2026_UAM_Separation.pdf"
 
 - year: 2026
@@ -53,7 +49,6 @@
   title: "Power-Based RFI Localization Using a Network of Unmodified COTS GNSS Receivers"
   authors: "Kriezis, Argyris, Blanch, Juan, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kriezis_ION_PPNT_2026_LCM_PDOA.pdf"
 
 - year: 2026
@@ -63,7 +58,6 @@
   title: "Performance Evaluation for Ground-Based Integrity Monitor Network"
   authors: "Lai, Yu-Fang, Blanch, Juan, Walter, Todd"
   venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_PPNT_2026_PPP_Integrity.pdf"
 
 - year: 2026
@@ -74,7 +68,6 @@
   authors: "Liu, Zixi"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, March 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/theses/Zixi_Liu_Dissertation_2026.pdf"
 
 - year: 2026
@@ -84,7 +77,6 @@
   title: "Global Incidents of Aviation Spoofing in 2024-2025 Detected with Automatic Dependent Surveillance Broadcast"
   authors: "Lo, Sherman, Liu, Zixi, Ibrahim, Lyla, Chen, Yu Hsuan, Akos, Dennis, and Walter, Todd"
   venue: "Proceedings of the 2026 International Technical Meeting of The Institute of Navigation, Anaheim, CA"
-  citation: Presented at the 2026 International Technical Meeting of The Institute of Navigation, Anaheim, CA, January 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lo_ION_ITM_2026_Observations_of_Spoofing.pdf"
 
 - year: 2026
@@ -116,7 +108,6 @@
   title: "Limiting the Potential Impact of SBAS Spoofing"
   authors: "Walter, Todd, Wang, Rebecca, and Blanch, Juan"
   venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Walter_ION_PPNT_2026_Limiting_SBAS_Spoofing.pdf"
 
 - year: 2026
@@ -126,7 +117,6 @@
   title: "User Domain Overbounding with Integrity of Time-Correlated Errors for Precise Point Positioning"
   authors: "Wang, Rebecca, Min, Donghan, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026.
   url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_PPNT_2026_Time_Corr_Errs.pdf"
 
 - year: 2025
@@ -159,7 +149,6 @@
   title: "TDOA-Based Spoofing Source Localization Using Multi-Constellation Unsynchronized Receivers"
   authors: "Babcock-Chi, Jade, Lo, Sherman, Chen, Yu-Hsuan, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
-  citation: Presented at the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD, September 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Babcock-Chi_ION_GNSS_2025_TDOA_Spoofing_Localization.pdf"
 
 - year: 2025
@@ -169,7 +158,6 @@
   title: "Gaussian Bounding for Multivariate Distributions with an Application to GNSS Integrity"
   authors: "Blanch, Juan, Wang, Rebecca, and Walter, Todd"
   venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_ITM_2025_multivariate_bounding.pdf"
 
 - year: 2025
@@ -179,7 +167,6 @@
   title: "Determining Protection Levels Using Multiple Antennas under Spoofing Conditions"
   authors: "Blanch, Juan, Lo, Sherman, Chen Yu-Hsuan, Kriezis, Argyris, and Walter, Todd"
   venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT"
-  citation: Presented at the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT, April 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_IEEE_PLANS_2025_spoofing_protection_level.pdf"
 
 - year: 2025
@@ -189,7 +176,6 @@
   title: "Protection Levels Against Spoofing Using Dual Antennas: a Practical Approach"
   authors: "Blanch, Juan, Lo, Sherman, Chen, Yu-Hsuan, Kreizis, Anargyros, and Walter, Todd"
   venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
-  citation: Presented at the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD, September 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_GNSS_2025_dual_antennas.pdf"
 
 - year: 2025
@@ -199,7 +185,6 @@
   title: "Combining ADS-B, LCM and DPA to Detect and Locate the Interference in a Massive GNSS Jammer Test"
   authors: "Chen, Yu-Hsuan, Liu, Zixi, Kriezis, Argyris, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Chen_ION_ITM_2025_Jammertest.pdf"
 
 - year: 2025
@@ -209,7 +194,6 @@
   title: "Real-World Spoofing Detection and Characterization Using Low-Cost Receivers"
   authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kreizis_ION_ITM_2025_Real_World_Spoofing_Detection.pdf"
 
 - year: 2025
@@ -229,7 +213,6 @@
   title: "Utilizing SBAS Signals for RFI Detection and Characterization"
   authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Lo, Akos, Dennis, Sherman, and Walter, Todd"
   venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
-  citation: Presented at the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD, September 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kreizis_ION_GNSS_2025_RFI_Detection_SBAS_Satellites.pdf"
 
 - year: 2025
@@ -249,7 +232,6 @@
   title: "Protecting Against Receiver Faults to a PPP Ground-Based Integrity Monitor System"
   authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_ITM_2025_PPP_rcvr_fault.pdf"
 
 - year: 2025
@@ -259,7 +241,6 @@
   title: "User Range Error Corrections with Latency from PPP Ground-Based Integrity Monitor System"
   authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
-  citation: Presented at the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD, September 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_GNSS_2025_PPP_Integrity.pdf"
 
 - year: 2025
@@ -280,7 +261,6 @@
   title: "A Scalable Pipeline for Real-Time Global Detection and Localization of GNSS Interference Using ADS-B"
   authors: "Liu, Zixi, Lo, Sherman, Chen, Yu-Hsuan, and Walter, Todd"
   venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
-  citation: Presented at the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD, September 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Liu_ION_GNSS_2025_ADSB_Interference_Localization.pdf"
 
 - year: 2025
@@ -290,7 +270,6 @@
   title: "Observations of GNSS Spoofing in Russia in 2023-2024"
   authors: "Lo, Sherman, Liu, Zixi, Ibrahim, Lyla, Chen, Yu-Hsuan, and Walter, Todd"
   venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lo_ION_ITM_2025_Russia_Spoofing.pdf"
 
 - year: 2025
@@ -300,7 +279,6 @@
   title: "Exploitation of Modernized GPS Crosslinks to Improve User Integrity and Availability with ARAIM"
   authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Crews, Mark, Jackson, Robert, and Frey, Charles"
   venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT"
-  citation: Presented at the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT, April 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_ION_IEEE_PLANS_2025_crosslinks_araim.pdf"
 
 - year: 2025
@@ -310,7 +288,6 @@
   title: "Inter-Satellite Ranging Using Modernized GPS Crosslinks for Real-Time Integrity Monitoring and ARAIM ISM"
   authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Crews, Mark, Jackson, Robert, and Frey, Charles"
   venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
-  citation: Presented at the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD, September 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_ION_GNSS_2025_Crosslink_Ranging.pdf"
 
 - year: 2025
@@ -320,7 +297,6 @@
   title: "Overbounding Time-correlated Errors for a Multi-constellation Precise Point Positioning Integrity Service"
   authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT"
-  citation: Presented at the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT, April 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_IEEE_PLANS_2025_NonGaussian_Overbound.pdf"
 
 - year: 2025
@@ -330,7 +306,6 @@
   title: "Overbounding Time-Correlated Clock & Ephemeris Errors for Precise Point Positioning"
   authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
-  citation: Presented at the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD, September 2025.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_GNSS_2025_Overbounding_Time_Correlated.pdf"
 
 - year: 2024
@@ -340,7 +315,6 @@
   title: "Combinatorial Watermarking for GNSS Signal Authentication"
   authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Anderson_ION_ITM_2024_Watermark.pdf"
 
 - year: 2024
@@ -350,7 +324,6 @@
   title: "Revisiting Combinatorial Watermarking under SCER Adversarial Models"
   authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii, April 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Anderson_ION_PPNT_2024_Watermark_SCER.pdf"
 
 - year: 2024
@@ -373,9 +346,8 @@
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
   awards:
-  - "RTCA Jackson Award Winner"
-  - "Ballhaus Award Winner for Best Ph.D. in Aero/Astro"
-  citation: Ph.D. Dissertation, Stanford University, December 2024.
+    - "RTCA Jackson Award Winner"
+    - "Ballhaus Award Winner for Best Ph.D. in Aero/Astro"
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/theses/JasonAndersonThesis2024.pdf"
 
 - year: 2024
@@ -385,7 +357,6 @@
   title: "Advanced RAIM for Mega-Constellations"
   authors: "Blanch, Juan, Oak, Sukrut, Pullen, Sam, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_ITM_2024_ARAIM_for_Megaconstellations.pdf"
 
 - year: 2024
@@ -395,7 +366,6 @@
   title: "Integrity-based estimators for Precise Point Positioning and other applications"
   authors: "Blanch, Juan, Lai, Yu_Fang, and Walter, Todd"
   venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii, April 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_PPNT2024_Integrity_Estimators_PPP.pdf"
 
 - year: 2024
@@ -405,7 +375,6 @@
   title: "Models for the effect of integrity monitors on GNSS user error range distributions"
   authors: "Blanch, Juan, Lai, Frank, Walter, Todd, and Silva, Pedro"
   venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
-  citation: Presented at the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD, September 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_GNSS_2024_integrity_mon.pdf"
 
 - year: 2024
@@ -415,7 +384,6 @@
   title: "Development of RTCM SC-134 Messages for High-Integrity Precise Positioning"
   authors: "Capua, Roberto, Pullen, Sam, Joerger, Mathieu, Martini, Ilaria, Neri, Alessandro, and Leahy, Edmond"
   venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
-  citation: Presented at the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD, September 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Capua_ION_GNSS_2024_RTCM_SC_134_High_Integrity_Messages.pdf"
 
 - year: 2024
@@ -425,7 +393,6 @@
   title: "SBAS Authentication Standards"
   authors: "Dennis, Jed, Walter, Todd, Anderson, Jason, Fernandez-Hernandez, Ignacio, Canestri, Ettore, Mabilleau, Mikael, and Châtre, Eric"
   venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
-  citation: Presented at the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD, September 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Dennis_ION_GNSS_2024_SBAS_Authentication_Standards.pdf"
 
 - year: 2024
@@ -435,7 +402,6 @@
   title: "Exploring the Utility of Doppler Shift Measurements for Enhanced GNSS Positioning"
   authors: "Headlee, Lennon, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
-  citation: Presented at the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD, September 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Headlee_ION_GNSS_2024_DopplerUtility.pdf"
 
 - year: 2024
@@ -445,7 +411,6 @@
   title: "Identifying Low Cost GNSS Monitor Metrics for Robust RFI Detection"
   authors: "Kriezis, Anargyros, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kriezis_ION_ITM_2024_Low_Cost_Monitor_Metrics.pdf"
 
 - year: 2024
@@ -455,7 +420,6 @@
   title: "GNSS RFI Detection and Impact Characterization in Various Interference Environments using Low-Cost Receivers"
   authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
-  citation: Presented at the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD, September 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kriezis_ION_GNSS_2024_RFI_DetectionLow_Cost_Receivers.pdf"
 
 - year: 2024
@@ -465,7 +429,6 @@
   title: "PPP Range Error Integrity Using a Network of Ground Monitors"
   authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_ITM_2024_PPP_Ground_Monitoring.pdf"
 
 - year: 2024
@@ -475,7 +438,6 @@
   title: "Ground-Based Integrity Monitors for PPP Correction Services"
   authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii, April 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_PPNT_2024_PPP_Integrity.pdf"
 
 - year: 2024
@@ -485,7 +447,6 @@
   title: "State Determination in EKF using Singular Value Decomposition for PPP Integrity Monitor System"
   authors: "Lai, Frank, Blanch, Juan and Walter, Todd"
   venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
-  citation: Presented at the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD, September 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_GNSS_2024_GNSS_SVD_EKF.pdf"
 
 - year: 2024
@@ -495,7 +456,6 @@
   title: "Identifying the Source of October 2022 Texas Jamming Incident Using ADS-B Data with an Improvement in the Model Confidence"
   authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Liu_ION_ITM_2024_Detecting_Dallas_RFI.pdf"
 
 - year: 2024
@@ -515,7 +475,6 @@
   title: "GNSS Spoofing Detection and Localization Using ADS-B Data"
   authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan and Walter, Todd"
   venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
-  citation: Presented at the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD, September 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Liu_ION_GNSS_2024_ADSB_Spoof_Detection.pdf"
 
 - year: 2024
@@ -535,7 +494,6 @@
   title: "LEO Satellite Augmentation of GNSS: Impact of LEO Ranging Quality on ARAIM"
   authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Colobong, Isaiah, Blanch, Juan, Walter, Todd, Crews, Mark, and Jackson, Robert"
   venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii, April 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_ION_PPNT_2024_LEO_Ranging_ARAIM.pdf"
 
 - year: 2024
@@ -555,7 +513,6 @@
   title: "Detecting and Localizing Space Based Interference on GNSS Signals using Machine Learning"
   authors: "Patil, Akshata, Phelts, R. Eric, Walter, Todd, and Thoelert, Steffen"
   venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Patil_ION_ITM_2024_Detecting_Space_RFI.pdf"
 
 - year: 2024
@@ -565,7 +522,6 @@
   title: "Implementation of Data Authentication on SBAS"
   authors: "Walter, Todd, Anderson, Jason, and Lo, Sherman"
   venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii, April 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Walter_ION_PPNT_2024_Implementation_SBAS_NMA.pdf"
 
 - year: 2024
@@ -575,7 +531,6 @@
   title: "Characterization of Recent GPS Satellite Clock Jumps"
   authors: "Wang, Rebecca, Lai, Yu-Fang, Blanch, Juan, Akos, Dennis, Phelts, Eric, and Walter, Todd"
   venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_ITM_2024_GPS_Clock_Jumps.pdf"
 
 - year: 2024
@@ -585,7 +540,6 @@
   title: "Performance Characterization of the BeiDou-3 Constellation"
   authors: "Wang, Rebecca and Walter, Todd"
   venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii, April 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_PPNT_2024_BDS_Characterization.pdf"
 
 - year: 2024
@@ -595,7 +549,6 @@
   title: "Constellation Fault Monitoring to Support a Precise Point Positioning (PPP) Integrity Service"
   authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
-  citation: Presented at the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD, September 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_GNSS_2024_Const_Mon_for_PPP.pdf"
 
 - year: 2023
@@ -605,7 +558,6 @@
   title: "Addressing a Critical Vulnerability in upcoming Broadcast-only TESLA-based GNSS-enabled Systems"
   authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2023.
   url: ""
 
 - year: 2023
@@ -627,8 +579,7 @@
   authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO, September 2023.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2023
@@ -638,7 +589,6 @@
   title: "Evaluation of Tropospheric and Mixed Single - Dual Frequency Error Models in Advanced RAIM"
   authors: "Blanch, Juan, Walter, Todd, and Lai, Yu-Fang"
   venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2023.
   url: ""
 
 - year: 2023
@@ -650,7 +600,6 @@
   venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, CA"
   details: "pp. 408-413"
   doi: "10.1109/PLANS53410.2023.10139928"
-  citation: Presented at the IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, CA, April 2023.
   url: ""
 
 - year: 2023
@@ -660,7 +609,6 @@
   title: "Approaches to Improve Advanced RAIM Protection Levels"
   authors: "Blanch, Juan and Walter, Todd"
   venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
-  citation: Presented at the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO, September 2023.
   url: ""
 
 - year: 2023
@@ -670,7 +618,6 @@
   title: "An RFI Testbed for Examining GNSS Integrity in the Various Environments"
   authors: "Chen, Yu-Hsuan, Liu, Zixi, Blanch, Juan, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2023.
   url: ""
 
 - year: 2023
@@ -680,7 +627,6 @@
   title: "Approximating Regional GNSS Interference Sources as a Convex Optimization Problem using ADS-B Data"
   authors: "Dacus, Michael, Liu, Zixi, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
-  citation: Presented at the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO, September 2023.
   url: ""
 
 - year: 2023
@@ -690,7 +636,6 @@
   title: "Troposphere Delay Model Error Analysis With Application to Vertical Protection Level Calculation"
   authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2023.
   url: ""
 
 - year: 2023
@@ -700,7 +645,6 @@
   title: "Prototyping Integrity Monitors for PPP Fault Detections"
   authors: "Lai, Yu-Fang, Blanch, Juan, Walter, Todd, Kahr, Erin, Leahy, Edmond, Silva, Pedro, and Ellum, Cameron"
   venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
-  citation: Presented at the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO, September 2023.
   url: ""
 
 - year: 2023
@@ -710,7 +654,6 @@
   title: "Satellite Clock and Ephemeris Error Bounding Characterization for Galileo and Estimated CNAV"
   authors: "Liu, Xinwei, Wang, Rebecca, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2023.
   url: ""
 
 - year: 2023
@@ -721,7 +664,6 @@
   authors: "Liu, Xinwei"
   venue: "Stanford University"
   details: "Engineer Degree Dissertation"
-  citation: Engineer Degree Dissertation, Stanford University, June 2023.
   url: ""
 
 - year: 2023
@@ -741,7 +683,6 @@
   title: "Investigation of GPS interference events with refinement on the localization algorithm"
   authors: "Liu, Zixi, Blanch, Juan, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2023.
   url: ""
 
 - year: 2023
@@ -751,7 +692,6 @@
   title: "Real Time Detection and Estimation of GNSS Interference Affected Region using ADS-B Data and Bayesian Modeling"
   authors: "Liu, Zixi, Blanch, Juan, Lo, Sherman, Chen, Yu-Hsuan, and Walter, Todd"
   venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
-  citation: Presented at the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO, September 2023.
   url: ""
 
 - year: 2023
@@ -761,7 +701,6 @@
   title: "Examining Cross Frequency Interference Effects in Multi-Frequency GNSS Receivers"
   authors: "Lo, Sherman, Chen, Yu-Hsuan, San Miguel, Nicolas, Walter, Todd and Akos, Dennis"
   venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2023.
   url: ""
 
 - year: 2023
@@ -771,7 +710,6 @@
   title: "GNSS Augmentation by Low-Earth-Orbit (LEO) Satellites: Integrity Performance Under Non-Ideal Conditions"
   authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Colobong, Isaiah, Blanch, Juan, Walter, Todd, Crews, Mark, and Jackson, Robert"
   venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
-  citation: Presented at the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO, September 2023.
   url: ""
 
 - year: 2023
@@ -782,8 +720,7 @@
   authors: "Patil, Akshata, Phelts, R. Eric, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO, September 2023.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2023
@@ -803,7 +740,6 @@
   title: "GNSS Constellation Performance Using ARAIM with Inclined Geosynchronous Satellite and Low-Earth-Orbit Satellite Augmentation"
   authors: "Pullen, Sam, Lo, Sherman, Colobong, Isaiah, Oak, Sukrut, Blanch, Juan, Walter, Todd, Crews, Mark, Jackson, Robert, Young, Stephen, and Huttenhoff, Kevin"
   venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2023.
   url: ""
 
 - year: 2023
@@ -813,7 +749,6 @@
   title: "Calibration of RFI Detection Levels in a Low-Cost GNSS Monitor"
   authors: "San Miguel, Nicolas Roberto, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, and Akos, Dennis"
   venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium, Monterey, CA"
-  citation: Presented at the IEEE/ION Position Location and Navigation Symposium, Monterey, CA, April 2023.
   url: ""
 
 - year: 2023
@@ -833,7 +768,6 @@
   title: "Characterization and Comparison of Galileo and GPS Anomalies"
   authors: "Wang, Rebecca and Walter, Todd"
   venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2023.
   url: ""
 
 - year: 2023
@@ -853,7 +787,6 @@
   title: "Cryptographic Ranging Authentication with TESLA, Rapid Re-keying, and a PRF"
   authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2022.
   url: ""
 
 - year: 2022
@@ -863,7 +796,6 @@
   title: "Efficient and Secure Use of Cryptography for Watermarked Signal Authentication"
   authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2022.
   url: ""
 
 - year: 2022
@@ -874,8 +806,7 @@
   authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2022
@@ -885,7 +816,6 @@
   title: "Baseline Advanced RAIM User Algorithm: Proposed Updates"
   authors: "Blanch, Juan, Walter, Todd, Milner, Carl, Joerger, Mathieu, Pervan, Boris, Bouvet, Denis"
   venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2022.
   url: ""
 
 - year: 2022
@@ -895,7 +825,6 @@
   title: "Design of Estimators with Integrity in the Presence of Error Model Uncertainty"
   authors: "Blanch, Juan and Walter, Todd"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
 - year: 2022
@@ -905,7 +834,6 @@
   title: "Improved RFI Localization Through Aircraft Position Estimation During Losses in ADS-B Reception"
   authors: "Dacus, Michael, Liu, Zixi, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
 - year: 2022
@@ -915,7 +843,6 @@
   title: "Investigation into Satellite Clock and Ephemeris Errors Bounding Uncertainty and Predictability"
   authors: "Liu, Xinwei, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2022.
   url: ""
 
 - year: 2022
@@ -926,8 +853,7 @@
   authors: "Liu, Xinwei, Wang, Rebecca, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2022
@@ -937,7 +863,6 @@
   title: "GNSS Interference Source Localization Using ADS-B data"
   authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2022.
   url: ""
 
 - year: 2022
@@ -957,7 +882,6 @@
   title: "Real-time Detection and Localization of GNSS Interference Source"
   authors: "Liu, Zixi, Lo, Sherman, Walter, Todd, and Blanch, Juan"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
 - year: 2022
@@ -967,7 +891,6 @@
   title: "Demonstrating and Improving the Performance of a GNSS Dual Polarization Antenna (DPA) for Spoof Detection in Flight"
   authors: "Lo, Sherman, Chen, Yu Hsuan, Rothmaier, Fabian, and Walter, Todd"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
 - year: 2022
@@ -977,7 +900,6 @@
   title: "A Simple and Effective Approach to Real-Time Ionospheric Monitoring for GBAS in Low Latitudes"
   authors: "Marini-Pereira, Leonardo, de Oliveira Moraes, Alison, and Pullen, Sam"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
 - year: 2022
@@ -987,7 +909,6 @@
   title: "Networked UAV Detection and Alerting of Ionospheric Anomalies within LADGNSS Navigation Framework"
   authors: "Nam, Gihun, Sun, K. Andrew, Lee, Jiyun, and Pullen, Sam"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
 - year: 2022
@@ -997,7 +918,6 @@
   title: "Nominal GPS Signal Deformations: 10 years of WAAS Signal Quality Monitoring"
   authors: "Phelts, R. Eric, Walter, Todd, and Sanchez, Rhiannon"
   venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2022.
   url: ""
 
 - year: 2022
@@ -1007,7 +927,6 @@
   title: "Characterizing GPS Signal Deformations using the WAAS Signal Quality Monitor"
   authors: "Phelts, R. Eric and Walter, Todd"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
 - year: 2022
@@ -1018,7 +937,6 @@
   authors: "Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Katronick, Andrew, Crews, Mark, Jackson, Robert, and Huttenhoff, Kevin"
   venue: "2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
   details: "Presented at"
-  citation: Presented at 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2022.
   url: ""
 
 - year: 2022
@@ -1038,7 +956,6 @@
   title: "Stress Testing of a Low-Cost GNSS RFI Monitor"
   authors: "San Miguel, Nicolas Roberto, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, and Akos, Dennis"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
-  citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
 - year: 2022
@@ -1059,7 +976,6 @@
   title: "Low cost RFI monitor for continuous observation and characterization of localized interference sources"
   authors: "Taleghani, Leila, Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, Akos, Dennis, and Granite Gattis, Benon"
   venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2022.
   url: ""
 
 - year: 2022
@@ -1079,7 +995,6 @@
   title: "Examining Reception of GNSS Underwater using a Smartphone"
   authors: "Yuan, Matthew and Lo, Sherman"
   venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
-  citation: Presented at the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA, January 2022.
   url: ""
 
 - year: 2021
@@ -1089,7 +1004,6 @@
   title: "On SBAS Authentication with OTAR Schemes"
   authors: "Anderson, Jason, Lo, Sherman, Neish, Andrew, and Walter, Todd"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2021
@@ -1110,7 +1024,6 @@
   title: "Gaussian Bounding Improvements and an Analysis of the Bias-Sigma Tradeoff for GNSS Integrity"
   authors: "Blanch, Juan, Liu, Xinwei, and Walter, Todd"
   venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
-  citation: Presented at the 2021 International Technical Meeting of The Institute of Navigation, Virtual, January 2021.
   url: ""
 
 - year: 2021
@@ -1120,7 +1033,6 @@
   title: "Analysis of GNSS Constellation Performance for Advanced RAIM"
   authors: "Blanch, Juan, Liu, Xinwei, Gunning, Kaz, and Walter, Todd"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2021
@@ -1130,7 +1042,6 @@
   title: "A Fault Detection and Exclusion Estimator Designed for Integrity"
   authors: "Blanch, Juan and Walter, Todd"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2021
@@ -1140,7 +1051,6 @@
   title: "SBAS Message Authentication: A Review of Protocols, Figures of Merit and Standardization Plans"
   authors: "Fernández-Hernández, Ignacio, Walter, Todd, Neish, Andrew M., Anderson, Jason, Mabilleau, Mikael, Vecchione, Giovanni, and Châtre, Eric"
   venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
-  citation: Presented at the 2021 International Technical Meeting of The Institute of Navigation, Virtual, January 2021.
   url: ""
 
 - year: 2021
@@ -1150,7 +1060,6 @@
   title: "Message Authentication Candidates for the SBAS Dual Frequency Multi-Constellation Standard"
   authors: "Fernández-Hernández, Ignacio, Walter, Todd, Mabilleau, Mikael, Tosato, Luciano, Dalla Chiara, Andrea, Pozza, Daniele, Pozzobon, Oscar, Calabrese, Alessandra, Anderson, Jason, and Châtre, Eric"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2021
@@ -1161,7 +1070,6 @@
   authors: "Gunning, Kazuma"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, March 2021.
   url: ""
 
 - year: 2021
@@ -1171,7 +1079,6 @@
   title: "Reevaluating the Message Loss Rate of the Wide Area Augmentation System (WAAS) in Flight"
   authors: "Hirschberger, Matthew, Lo, Sherman and Walter, Todd"
   venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
-  citation: Presented at the 2021 International Technical Meeting of The Institute of Navigation, Virtual, January 2021.
   url: ""
 
 - year: 2021
@@ -1181,7 +1088,6 @@
   title: "ARAIM for Military Users: ISM Parameters, Constellation-Check Procedure and Performance Estimates"
   authors: "Katz, Alec, Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Katronick, Andrew, Crews, Mark, and Jackson, Robert"
   venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
-  citation: Presented at the 2021 International Technical Meeting of The Institute of Navigation, Virtual, January 2021.
   url: ""
 
 - year: 2021
@@ -1191,7 +1097,6 @@
   title: "GNSS Interference Detection Using Machine Learning Algorithms on ADS-B Data"
   authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2021
@@ -1201,7 +1106,6 @@
   title: "Developing a Practical GNSS Spoofing Detection Thresholds for Receiver Power Monitoring"
   authors: "Lo, Sherman, Rothmaier, Fabian, Miralles, Damian, Akos, Dennis, and Walter, Todd"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2021
@@ -1222,7 +1126,6 @@
   title: "Enhanced Local-Area DGNSS for Autonomous Vehicle Navigation: Optimal Smoothing Strategy"
   authors: "Nam, Gihun, Kim, Dongwoo, Kim, Noah Minchan, Jiyun Lee, and Pullen, Sam"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2021
@@ -1232,7 +1135,6 @@
   title: "Ground Monitoring to Support ARAIM for Military Users: Alternatives for Rapid and Rare Update Rates"
   authors: "Pullen, Sam, Lo, Sherman, Katz, Alec, Blanch, Juan, Walter, Todd, Katronick, Andrew, Crews, Mark, and Johnson, Robert"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2021
@@ -1242,7 +1144,6 @@
   title: "GNSS Spoofing Mitigation in the Position Domain"
   authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
-  citation: Presented at the 2021 International Technical Meeting of The Institute of Navigation, Virtual, January 2021.
   url: ""
 
 - year: 2021
@@ -1264,8 +1165,7 @@
   authors: "Rothmaier, Fabian, Taleghani, Leila, Chen, Yu-Hsuan, Lo, Sherman, Phelts, Eric, and Walter, Todd"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2021
@@ -1275,7 +1175,6 @@
   title: "Providing Continuity and Integrity in the Presence of GNSS Spoofing"
   authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2021
@@ -1297,7 +1196,6 @@
   authors: "Rothmaier, Fabian"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, December 2021.
   url: ""
 
 - year: 2021
@@ -1307,7 +1205,6 @@
   title: "Investigation into September 2020 GPS SVN 74 Performance Anomaly"
   authors: "Walter, Todd, Liu, Zixi, Blanch, Juan, Pham, Kristy, Mick, John, and Wanner, William"
   venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
-  citation: Presented at the 2021 International Technical Meeting of The Institute of Navigation, Virtual, January 2021.
   url: ""
 
 - year: 2021
@@ -1317,7 +1214,6 @@
   title: "Assessment of Ionospheric Correction Behavior for Use with Precise Point Positioning (PPP)"
   authors: "Walter, Todd, Blanch, Juan, de Groot, Lance, and Norman, Laura"
   venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
-  citation: Presented at the 2021 International Technical Meeting of The Institute of Navigation, Virtual, January 2021.
   url: ""
 
 - year: 2021
@@ -1337,7 +1233,6 @@
   title: "SBAS Message Schemes to Support Inline Message Authentication"
   authors: "Walter, Todd, Anderson, Jason, and Lo, Sherman"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
-  citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
 - year: 2020
@@ -1347,7 +1242,6 @@
   title: "Stress Testing Advanced RAIM Airborne Algorithms"
   authors: "Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
-  citation: Presented at the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California, January 2020.
   url: ""
 
 - year: 2020
@@ -1357,7 +1251,6 @@
   title: "Solution Separation-based FD to Mitigate the Effects of Local Threats on PPP Integrity"
   authors: "Blanch, Juan, Gunning, Kazuma, Walter, Todd, de Groot, Lance, and Norman, Laura"
   venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon"
-  citation: Presented at the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon, April 2020.
   url: ""
 
 - year: 2020
@@ -1368,8 +1261,7 @@
   authors: "Blanch, Juan, Phelts, Eric, Gunning, Kazuma, and Walter, Todd"
   venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual, September 2020.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2020
@@ -1390,7 +1282,6 @@
   title: "Independent Time Synchronization for Resilient GNSS Receivers"
   authors: "Fernandez-Hernandez, Ignacio, Walter, Todd, Neish, Andrew, and O'Driscoll, Cillian"
   venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
-  citation: Presented at the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California, January 2020.
   url: ""
 
 - year: 2020
@@ -1410,7 +1301,6 @@
   title: "ARAIM Continuity and Availability Assertions, Assumptions, and Evaluation Methods"
   authors: "Joerger, M., Zhai, Y., Martini, I., Blanch, J., and Pervan, B."
   venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
-  citation: Presented at the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California, January 2020.
   url: ""
 
 - year: 2020
@@ -1431,7 +1321,6 @@
   title: "Characterization of ADS-B Performance under GNSS Interference"
   authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2020), Virtual"
-  citation: Presented at the 33rd International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2020), Virtual, September 2020.
   url: ""
 
 - year: 2020
@@ -1442,7 +1331,6 @@
   authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the OpenSky Symposium"
   doi: "10.3390/proceedings2020059010"
-  citation: Presented at the OpenSky Symposium, November 2020.
   url: ""
 
 - year: 2020
@@ -1452,7 +1340,6 @@
   title: "Developing a Dual Polarization Antenna (DPA) for High Dynamic Applications"
   authors: "Lo, S., Chen, Y.H., Rothmaier, F., Zhang, G., and Lee, C."
   venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
-  citation: Presented at the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California, January 2020.
   url: ""
 
 - year: 2020
@@ -1473,7 +1360,6 @@
   title: "Message Design for a Robust Time Signal Using Distance Measuring Equipment (DME) Pulse Pair Position Modulated (PPPM) Pseudolite"
   authors: "Lo, Sherman and Chen, Yu-Hsuan"
   venue: "Proceedings of the 2020 European Navigation Conference, Virtual"
-  citation: Presented at the 2020 European Navigation Conference, Virtual, November 2020.
   url: ""
 
 - year: 2020
@@ -1486,7 +1372,6 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
   url: ""
 
 - year: 2020
@@ -1496,7 +1381,6 @@
   title: "Evaluating Integrity and Continuity Over Time in Advanced RAIM"
   authors: "Milner, Carl, Pervan, Boris, Blanch, Juan, and Joerger, Mathieu"
   venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon"
-  citation: Presented at the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon, April 2020.
   url: ""
 
 - year: 2020
@@ -1517,7 +1401,6 @@
   title: "Receiver States for SBAS Data Authentication"
   authors: "Neish, Andrew, Walter, Todd, and Fernandez-Hernandez, Ignacio"
   venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
-  citation: Presented at the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California, January 2020.
   url: ""
 
 - year: 2020
@@ -1537,7 +1420,6 @@
   authors: "Neish, Andrew"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, August 2020.
   url: ""
 
 - year: 2020
@@ -1550,7 +1432,6 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
   url: ""
 
 - year: 2020
@@ -1561,7 +1442,6 @@
   authors: "Perkins, Adrien"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, March 2020.
   url: ""
 
 - year: 2020
@@ -1571,7 +1451,6 @@
   title: "Evaluating the Application of PPP Techniques to ARAIM Using Flight Data"
   authors: "Phelts, R.E., Gunning, K., Blanch, J., and Walter, T."
   venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
-  citation: Presented at the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California, January 2020.
   url: ""
 
 - year: 2020
@@ -1604,7 +1483,6 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
   url: ""
 
 - year: 2020
@@ -1617,7 +1495,6 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
   url: ""
 
 - year: 2020
@@ -1630,7 +1507,6 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
   url: ""
 
 - year: 2020
@@ -1641,9 +1517,8 @@
   authors: "Rothmaier, Fabian"
   venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual"
   awards:
-  - "Student Paper Award Winner"
-  - "Best Presentation Award"
-  citation: Presented at the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual, September 2020.
+    - "Student Paper Award Winner"
+    - "Best Presentation Award"
   url: ""
 
 - year: 2020
@@ -1653,7 +1528,6 @@
   title: "A Rigid Message Scheduler for SBAS"
   authors: "Walter, Todd, Neish, Andrew, and Blanch, Juan"
   venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon"
-  citation: Presented at the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon, April 2020.
   url: ""
 
 - year: 2020
@@ -1666,7 +1540,6 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
   url: ""
 
 - year: 2019
@@ -1676,7 +1549,6 @@
   title: "Development and Evaluation of Airborne Multipath Error Bounds for L1-L5"
   authors: "Blanch, Juan, Walter, Todd, and Phelts, R. Eric"
   venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2019.
   url: ""
 
 - year: 2019
@@ -1686,7 +1558,6 @@
   title: "Reducing Computational Load in Solution Separation for Kalman Filters and an Application to PPP Integrity"
   authors: "Blanch, Juan, Gunning, Kaz, Walter, Todd, de Groot, Lance, and Norman, Laura"
   venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2019.
   url: ""
 
 - year: 2019
@@ -1696,7 +1567,6 @@
   title: "Lower Bounds in Optimal Integrity Monitoring"
   authors: "Blanch, Juan and Walter, Todd"
   venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii, April 2019.
   url: ""
 
 - year: 2019
@@ -1706,7 +1576,6 @@
   title: "Development of Advanced RAIM Minimum Operational Performance Standards"
   authors: "Blanch, Juan, Walter, Todd, Berz, Gary, Burns, Jason, Clark, Barbara, Joerger, Mathieu, Mabilleau, Mikael, Martini, Ilaria, Milner, Carl, Pervan, Boris, and Lee, Young"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
-  citation: Presented at the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
   url: ""
 
 - year: 2019
@@ -1716,7 +1585,6 @@
   title: "Increasing International Civil Aviation Resilience: A Proposal for Nomenclature, Categorization and Treatment of New Interference Threats"
   authors: "Fernández-Hernández, Ignacio, Walter, Todd, Alexander, Ken, Clark, Barbara, Châtre, Eric, Hegarty, Chris, Appel, Manuel, and Meurer, Michael"
   venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2019.
   url: ""
 
 - year: 2019
@@ -1726,7 +1594,6 @@
   title: "SBAS Corrections for PPP Integrity with Solution Separation"
   authors: "Gunning, Kazuma, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2019.
   url: ""
 
 - year: 2019
@@ -1736,7 +1603,6 @@
   title: "SIS Monitoring for ARAIM in the Absence of Precise Clock Estimates"
   authors: "Gunning, Kazuma, Walter, Todd, and Powell, J. David"
   venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii, April 2019.
   url: ""
 
 - year: 2019
@@ -1756,7 +1622,6 @@
   title: "Integrity for Tightly Coupled PPP and IMU"
   authors: "Gunning, Kazuma, Blanch, Juan, Walter, Todd, de Groot, Lance, and Norman, Laura"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
-  citation: Presented at the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
   url: ""
 
 - year: 2019
@@ -1766,7 +1631,6 @@
   title: "Accommodating Direction Ambiguities in Direction of Arrival Based GNSS Spoof Detection"
   authors: "Jain, Hridayangam, Lo, Sherman, Chen, Yu-Hsuan, Rothmaier, Fabian, and Powell, J. David"
   venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii, April 2019.
   url: ""
 
 - year: 2019
@@ -1776,7 +1640,6 @@
   title: "Analysis of Raw GNSS Measurements Derived Navigation Solutions from Mobile Devices with Inertial Sensors"
   authors: "Lee, Dong-Kyeong, Petit, Matthias, Miralles, Damian, Lo, Sherman, and Akos, Dennis"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
-  citation: Presented at the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
   url: ""
 
 - year: 2019
@@ -1786,7 +1649,6 @@
   title: "Tests of Crowdsourced Smartphones Measurements to Detect GNSS Spoofing and Other Disruptions"
   authors: "Lo, Sherman, Chen, Yu-Hsuan, Akos, Dennis, Cotts, Brandon, and Miralles, Damian"
   venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2019.
   url: ""
 
 - year: 2019
@@ -1808,8 +1670,7 @@
   authors: "Neish, Andrew, Walter, Todd, and Powell, J. David"
   venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
   awards:
-  - "Best Paper Award"
-  citation: Presented at the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii, April 2019.
+    - "Best Paper Award"
   url: ""
 
 - year: 2019
@@ -1820,8 +1681,7 @@
   authors: "Neish, Andrew, Walter, Todd, and Powell, J. David"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2019
@@ -1842,7 +1702,6 @@
   title: "Paper Trends in ION Conferences from 2007–2018"
   authors: "Perkins, Adrien and Walter, Todd"
   venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii, April 2019.
   url: ""
 
 - year: 2019
@@ -1852,7 +1711,6 @@
   title: "Measurement Characterization for Localizing Multiple RFI Sources Simultaneously from a UAS"
   authors: "Perkins, Adrien, Lo, Sherman, and Powell, J. David"
   venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii, April 2019.
   url: ""
 
 - year: 2019
@@ -1863,8 +1721,7 @@
   authors: "Perkins, Adrien, Chen, Yu-Hsuan, Lo, Sherman, Lee, Chiawei, and Powell, J. David"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2019
@@ -1874,7 +1731,6 @@
   title: "Signal Deformation Monitoring for Anomalous Multipath Threats"
   authors: "Phelts, R. Eric and Walter, Todd"
   venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii, April 2019.
   url: ""
 
 - year: 2019
@@ -1885,8 +1741,7 @@
   authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, and Powell, J. David"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2019
@@ -1896,7 +1751,6 @@
   title: "Improvements to Steady State Spoof Detection with Experimental Validation Using a Dual Polarization Antenna"
   authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, and Lo, Sherman"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
-  citation: Presented at the 32nd International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
   url: ""
 
 - year: 2019
@@ -1906,7 +1760,6 @@
   title: "Safety Analysis of Ranging Biases on the WAAS GEOs"
   authors: "Walter, Todd, Blanch, Juan, and Altshuler, Eric"
   venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2019.
   url: ""
 
 - year: 2019
@@ -1916,7 +1769,6 @@
   title: "Standards for ARAIM ISM Data Analysis"
   authors: "Walter, Todd, Blanch, Juan, and Gunning, Kazuma"
   venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
-  citation: Presented at the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii, April 2019.
   url: ""
 
 - year: 2019
@@ -1937,7 +1789,6 @@
   title: "Fixed Subset Selection to Reduce Advanced RAIM Complexity"
   authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
   venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2018.
   url: ""
 
 - year: 2018
@@ -1948,7 +1799,6 @@
   authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California, April 2018.
   url: ""
 
 - year: 2018
@@ -1958,7 +1808,6 @@
   title: "A Proposed Concept of Operations for Advanced Receiver Autonomous Integrity Monitoring (ARAIM)"
   authors: "Blanch, Juan, Walter, Todd, Burns, Jason, Martini, Ilaria, Boyero, Juan Pablo, Mabilleau, Mikael, and Berz, Gerhard"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
 - year: 2018
@@ -1978,7 +1827,6 @@
   title: "Demonstrating Single Element Null Steering Antenna Direction Finding for Interference Detection"
   authors: "Chen, Yu-Hsuan, Lo, Sherman, Perkins, Adrien, Rothmaier, Fabian, Akos, Dennis, and Enge, Per"
   venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2018.
   url: ""
 
 - year: 2018
@@ -1989,7 +1837,6 @@
   authors: "Dressel, Louis"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, December 2018.
   url: ""
 
 - year: 2018
@@ -1999,7 +1846,6 @@
   title: "Effective GPS Spoofing Detection Utilizing Metrics from Commercial Receivers"
   authors: "Garbin Manfredini, Esteban, Akos, Dennis M., Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, and Enge, Per"
   venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2018.
   url: ""
 
 - year: 2018
@@ -2010,8 +1856,7 @@
   authors: "Gunning, Kazuma, Blanch, Juan, Walter, Todd, de Groot, Lance, and Norman, Laura"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2018
@@ -2021,7 +1866,6 @@
   title: "Spoofing Detection for Airborne GNSS Equipment"
   authors: "Hegarty, Christopher, Odeh, Ali, Shallberg, Karl, Wesson, Kyle, Walter, Todd, and Alexander, Ken"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
 - year: 2018
@@ -2031,7 +1875,6 @@
   title: "Android Raw GNSS Measurements as a New Anti-Spoofing and Anti-Jamming Solution"
   authors: "Miralles, Damian, Levigne, Nathan, Akos, Dennis M., Blanch, Juan, and Lo, Sherman"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
 - year: 2018
@@ -2041,7 +1884,6 @@
   title: "Robust GNSS Spoof Detection using Direction of Arrival: Methods and Practice"
   authors: "Lo, Sherman, Chen, Yu-Hsuan, Jain, Hridayangam, and Enge, Per"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
 - year: 2018
@@ -2051,7 +1893,6 @@
   title: "Quantum Resistant Authentication Algorithms for Satellite-Based Augmentation Systems"
   authors: "Neish, Andrew, Walter, Todd, and Enge, Per"
   venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2018.
   url: ""
 
 - year: 2018
@@ -2062,8 +1903,7 @@
   authors: "Neish, Andrew, Walter, Todd, and Enge, Per"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2018
@@ -2073,7 +1913,6 @@
   title: "Uncoupled Accelerometer Based GNSS Spoof Detection for Automobiles using Statistic and Wavelet Based Tests"
   authors: "Neish, Andrew, Lo, Sherman, Chen, Yu-Hsuan, and Enge, Per"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
 - year: 2018
@@ -2083,7 +1922,6 @@
   title: "Unmanned Aerial System for RFI Localization and GPS Denied Navigation"
   authors: "Perkins, Adrien, Chen, Yu-Hsuan, Lo, Sherman, and Enge, Per"
   venue: "Proceedings of the International Flight Inspection Symposium (IFIS), Monterey, California"
-  citation: Presented at the International Flight Inspection Symposium (IFIS), Monterey, California, April 2018.
   url: ""
 
 - year: 2018
@@ -2093,7 +1931,6 @@
   title: "Vision Based UAS Navigation For RFI Localization"
   authors: "Perkins, Adrien, Chen, Yu-Hsuan, Lo, Sherman, and Enge, Per"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
 - year: 2018
@@ -2103,7 +1940,6 @@
   title: "Effect of Aircraft Banking on ARAIM Performance"
   authors: "Phelts, R. Eric, Blanch, Juan, Gunning, Kazuma, Walter, Todd, and Enge, Per"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
 - year: 2018
@@ -2114,7 +1950,6 @@
   authors: "Ramakrishnan, Shankar"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, October 2018.
   url: ""
 
 - year: 2018
@@ -2146,7 +1981,6 @@
   title: "Crowdsourcing GNSS Jamming Detection and Localization"
   authors: "Strizic, Luka, Akos, Dennis M., and Lo, Sherman"
   venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2018.
   url: ""
 
 - year: 2018
@@ -2156,7 +1990,6 @@
   title: "WAAS at 15"
   authors: "Walter, Todd, Shallberg, Karl, Altshuler, Eric, Wanner, William, Harris, Chris, and Stimmler, Robert"
   venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
-  citation: Presented at the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia, January 2018.
   url: ""
 
 - year: 2018
@@ -2177,7 +2010,6 @@
   title: "Ionospheric Rates of Change"
   authors: "Walter, Todd, Blanch, Juan, de Groot, Lance, Norman, Laura, and Joerger, Mathieu"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
-  citation: Presented at the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
 - year: 2018
@@ -2199,7 +2031,6 @@
   authors: "Zhang, Shiwen, Lo, Sherman, Chen, Yu-Hsuan, Walter, Todd, and Enge, Per"
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California, April 2018.
   url: ""
 
 - year: 2017
@@ -2209,7 +2040,6 @@
   title: "Initial Results of a Multi-Constellation ARAIM Airborne Prototype"
   authors: "Blanch, Juan, Phelts, R. Eric, Chen, Yu-Hsuan, and Enge, Per"
   venue: "Proceedings of the 2017 International Technical Meeting of The Institute of Navigation, Monterey, California"
-  citation: Presented at the 2017 International Technical Meeting of The Institute of Navigation, Monterey, California, January 2017.
   url: ""
 
 - year: 2017
@@ -2231,7 +2061,6 @@
   authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2017.
   url: ""
 
 - year: 2017
@@ -2252,7 +2081,6 @@
   authors: "Bisnath, S., Uijt de Haag, M., Diggle, D. W., Hegarty, C., Milbert, D., and Walter, T."
   venue: "Understanding GPS/GNSS: Principles and Applications, Third Edition"
   details: "Artech House, ISBN: 9781630810580"
-  citation: 'Published in Understanding GPS/GNSS: Principles and Applications, Third Edition, Artech House, ISBN: 9781630810580, 2017.'
   url: ""
 
 - year: 2017
@@ -2262,7 +2090,6 @@
   title: "Towards a Practical Single Element Null Steering Antenna"
   authors: "Chen, Yu-Hsuan, Rothmaier, Fabian, Akos, Dennis, Lo, Sherman, and Enge, Per"
   venue: "Proceedings of the 2017 International Technical Meeting of The Institute of Navigation, Monterey, California"
-  citation: Presented at the 2017 International Technical Meeting of The Institute of Navigation, Monterey, California, January 2017.
   url: ""
 
 - year: 2017
@@ -2273,7 +2100,6 @@
   authors: "Closas, Pau, Gusi-Amigó, Adrià, and Blanch, Juan"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2017.
   url: ""
 
 - year: 2017
@@ -2283,7 +2109,6 @@
   title: "Characterization of GLONASS Broadcast Clock and Ephemeris: Nominal Performance and Fault Trends for ARAIM"
   authors: "Gunning, Kazuma, Walter, Todd, and Enge, Per"
   venue: "Proceedings of the 2017 International Technical Meeting of The Institute of Navigation, Monterey, California"
-  citation: Presented at the 2017 International Technical Meeting of The Institute of Navigation, Monterey, California, January 2017.
   url: ""
 
 - year: 2017
@@ -2294,7 +2119,6 @@
   authors: "Gunning, Kazuma, Walter, Todd, and Enge, Per"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2017.
   url: ""
 
 - year: 2017
@@ -2304,7 +2128,6 @@
   authors: "Hegarty, Chris, Leva, Joe, Van Dyke, Karen, and Walter, Todd"
   venue: "Understanding GPS/GNSS: Principles and Applications, Third Edition"
   details: "Artech House, ISBN: 9781630810580"
-  citation: 'Published in Understanding GPS/GNSS: Principles and Applications, Third Edition, Artech House, ISBN: 9781630810580, 2017.'
   url: ""
 
 - year: 2017
@@ -2315,7 +2138,6 @@
   authors: "Kuusniemi, Heidi, Blanch, Juan, Chen, Yu-Hsuan, Lo, Sherman, Innac, Anna, Ferrara, Giorgia, Honkala, Salomon, Bhuiyan, M. Zahidul H., Thombre, Sarang, Söderholm, Stefan, Walter, Todd, Phelts, R. Eric, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2017.
   url: ""
 
 - year: 2017
@@ -2336,7 +2158,6 @@
   authors: "Lo, Sherman, Chen, Yu Hsuan, Reid, Tyler, Perkins, Adrien, Walter, Todd, and Enge, Per"
   venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii, May 2017.
   url: ""
 
 - year: 2017
@@ -2357,7 +2178,6 @@
   authors: "Lo, Sherman, Pullen, Sam, Blanch, Juan, Enge, Per, Neri, Alessandro, Palma, Veronica, Salvitti, Maurizio, and Stallo, Cosimo"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2017.
   url: ""
 
 - year: 2017
@@ -2368,7 +2188,6 @@
   authors: "Perkins, Adrien, Chen, Yu-Hsuan, Lee, Wei, Lo, Sherman, and Enge, Per"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2017.
   url: ""
 
 - year: 2017
@@ -2379,7 +2198,6 @@
   authors: "Phelts, R. Eric, Shallberg, Karl, Walter, Todd, and Enge, Per"
   venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii, May 2017.
   url: ""
 
 - year: 2017
@@ -2390,7 +2208,6 @@
   authors: "Pullen, Sam, Cassell, Rick, Johnson, Bruce, Brenner, Mats, Weed, Doug, Cypriano, Lucas, Topland, Morten, Stakkeland, Morten, Pervan, Boris, Harris, Matt, Saito, Susumu, Lee, Jiyun, Clark, Barbara, Beauchamp, Shelly, and Dennis, Joseph"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2017.
   url: ""
 
 - year: 2017
@@ -2401,7 +2218,6 @@
   authors: "Reid, Tyler"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, May 2017.
   url: ""
 
 - year: 2017
@@ -2423,7 +2239,6 @@
   authors: "Shallberg, Karl W., Ericson, Swen D., Phelts, Eric, Walter, Todd, Kovach, Karl, and Altshuler, Eric"
   venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
   details: "Presented at, pp. 508-520"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Monterey, California, January 2017.
   url: ""
 
 - year: 2017
@@ -2434,7 +2249,6 @@
   authors: "Walter, Todd, Gunning, Kazuma, Phelts, R. Eric, and Blanch, Juan"
   venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii, May 2017.
   url: ""
 
 - year: 2017
@@ -2456,7 +2270,6 @@
   venue: "Springer Handbook of Global Navigation Satellite Systems"
   details: "Springer International Publishing Switzerland"
   doi: "10.1007/978-3-319-42928-1"
-  citation: Published in Springer Handbook of Global Navigation Satellite Systems, Springer International Publishing Switzerland, 2017, DOI 10.1007/978-3-319-42928-1.
   url: ""
 
 - year: 2017
@@ -2489,7 +2302,6 @@
   authors: "Blanch, Juan, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Monterey, California, January 2016.
   url: ""
 
 - year: 2016
@@ -2500,7 +2312,6 @@
   authors: "Blanch, Juan, Chen, Yu-Hsuan, Phelts, R. Eric, Walter, Todd, and Enge, Per"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2016.
   url: ""
 
 - year: 2016
@@ -2511,7 +2322,6 @@
   authors: "Chen, Yu-Hsuan, Perkins, Adrien L. H., Lo, Sherman C., Akos, Dennis M., Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Monterey, California, January 2016.
   url: ""
 
 - year: 2016
@@ -2522,7 +2332,6 @@
   authors: "Lo, Sherman C., Chen, Yu-Hsuan, Pelgrum, Wouter, Li, Kuangmin, Weida, George, Soelter, Achim, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Monterey, California, January 2016.
   url: ""
 
 - year: 2016
@@ -2533,7 +2342,6 @@
   authors: "Lo, Sherman C., Chen, Yu-Hsuan, Barrows, Andrew K., Perkins, Adrien L. H., Reid, Tyler G. R., Jan, Shau-Shiun, and Enge, Per K."
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Savannah, Georgia"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Savannah, Georgia, April 2016.
   url: ""
 
 - year: 2016
@@ -2544,7 +2352,6 @@
   authors: "McMilin, Emily"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, March 2016.
   url: ""
 
 - year: 2016
@@ -2555,7 +2362,6 @@
   authors: "Neri, Alessandro, Palma, Veronica, Rispoli, Francesco, Pullen, Sam, Zhang, Shiwen, Lo, Sherman, and Enge, Per"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2016.
   url: ""
 
 - year: 2016
@@ -2566,7 +2372,6 @@
   authors: "Park, Young Shin"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, August 2016.
   url: ""
 
 - year: 2016
@@ -2578,8 +2383,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2016.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2016
@@ -2590,7 +2394,6 @@
   authors: "Perkins, Adrien and Enge, Per"
   venue: "International Flight Inspection Symposium (IFIS), Belgrade, Serbia"
   details: "Presented at"
-  citation: Presented at International Flight Inspection Symposium (IFIS), Belgrade, Serbia, June 2016.
   url: ""
 
 - year: 2016
@@ -2601,7 +2404,6 @@
   authors: "Phelts, R. Eric, Blanch, Juan, Chen, Yu-Hsuan, Enge, Per, and Riley, Stuart"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2016.
   url: ""
 
 - year: 2016
@@ -2613,8 +2415,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2016.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2016
@@ -2647,7 +2448,6 @@
   authors: "Walter, Todd, Gunning, Kazuma, and Blanch, Juan"
   venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Monterey, California, January 2016.
   url: ""
 
 - year: 2016
@@ -2658,7 +2458,6 @@
   authors: "Walter, Todd and Blanch, Juan"
   venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Monterey, California, January 2016.
   url: ""
 
 - year: 2016
@@ -2669,7 +2468,6 @@
   authors: "Walter, Todd, Blanch, Juan, Joerger, Mathieu, and Pervan, Boris S."
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Savannah, Georgia"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Savannah, Georgia, April 2016.
   url: ""
 
 - year: 2016
@@ -2680,7 +2478,6 @@
   authors: "Walter, Todd, Blanch, Juan, and Kropp, Victoria"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2016.
   url: ""
 
 - year: 2016
@@ -2700,7 +2497,6 @@
   authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, Dana Point, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Dana Point, California, January 2015.
   url: ""
 
 - year: 2015
@@ -2731,7 +2527,6 @@
   authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Pervan, Boris, Joerger, Mathieu, Khanafseh, S., Burns, J., Alexander, K., Boyero, J. P., Lee, Y., Kropp, V., Macabiau, C., Suard, N., Berz, G., Rippl, M., Martini, I., and Perea, S."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2015.
   url: ""
 
 - year: 2015
@@ -2753,7 +2548,6 @@
   authors: "Lo, Sherman C., Chen, Yu-Hsuan, Enge, Per K., and Narins, Mitchell J."
   venue: "Institute of Navigation (ION) International Technical Meeting, Dana Point, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Dana Point, California, January 2015.
   url: ""
 
 - year: 2015
@@ -2764,7 +2558,6 @@
   authors: "Lo, Sherman C., Chen, Yu-Hsuan, Enge, Per K., and Akos, Dennis M."
   venue: "Institute of Navigation (ION) International Technical Meeting, Dana Point, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Dana Point, California, January 2015.
   url: ""
 
 - year: 2015
@@ -2786,7 +2579,6 @@
   authors: "Lo, Sherman, Chen, Yu-Hsuan, and Enge, Per."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2015.
   url: ""
 
 - year: 2015
@@ -2797,7 +2589,6 @@
   authors: "McMilin, Emily B., Chen, Yu-Hsuan, De Lorenzo, David S., Lo, Sherman C., Akos, Dennis M., and Enge, Per K."
   venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii, April 2015.
   url: ""
 
 - year: 2015
@@ -2808,7 +2599,6 @@
   authors: "McMilin, Emily B. and De Lorenzo, David S."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2015.
   url: ""
 
 - year: 2015
@@ -2829,7 +2619,6 @@
   authors: "Narins, Mitchell J., Lo, Sherman C., Chen, Yu-Hsuan, and Enge, Per K."
   venue: "European Navigation Conference (ENC GNSS 2015), Bordeaux, France"
   details: "Presented at"
-  citation: Presented at European Navigation Conference (ENC GNSS 2015), Bordeaux, France, April 2015.
   url: ""
 
 - year: 2015
@@ -2840,7 +2629,6 @@
   authors: "Perkins, Adrien L. H., Dressel, Louis K., Lo, Sherman C., and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2015.
   url: ""
 
 - year: 2015
@@ -2851,7 +2639,6 @@
   authors: "Phelts, R. Eric, Altshuler, Eric, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii, April 2015.
   url: ""
 
 - year: 2015
@@ -2863,8 +2650,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2015.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2015
@@ -2885,7 +2671,6 @@
   authors: "Walter, Todd and Blanch, Juan A."
   venue: "Institute of Navigation (ION) International Technical Meeting, Dana Point, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Dana Point, California, January 2015.
   url: ""
 
 - year: 2015
@@ -2896,7 +2681,6 @@
   authors: "Walter, Todd and Blanch, Juan A."
   venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii, April 2015.
   url: ""
 
 - year: 2015
@@ -2917,7 +2701,6 @@
   authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2014.
   url: ""
 
 - year: 2014
@@ -2928,7 +2711,6 @@
   authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Stern, Abe, and Altshuler, Eric"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2014.
   url: ""
 
 - year: 2014
@@ -2939,7 +2721,6 @@
   authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Pervan, Boris S., Joerger, Mathieu, Khanafseh, Samer, Burns, Jason, Alexander, Ken, Boyero, Juan Pablo, Lee, Young, Kropp, Victoria, Milner, Carl, Macabiau, Christophe, Suard, Norbert, Berz, Gerhard, and Rippl, Markus"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2014.
   url: ""
 
 - year: 2014
@@ -2950,7 +2731,6 @@
   authors: "Chen, Yu-Hsuan, Lo, Sherman C., Akos, Dennis M., Choi, Myungjun, Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2014.
   url: ""
 
 - year: 2014
@@ -2961,7 +2741,6 @@
   authors: "Chen, Yu-Hsuan, Lo, Sherman C., Akos, Dennis M., and Enge, Per K."
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California, May 2014.
   url: ""
 
 - year: 2014
@@ -2972,7 +2751,6 @@
   authors: "Chen, Yu-Hsuan, Lo, Sherman C., Jan, Shau-Shiun, and Enge, Per K."
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California, May 2014.
   url: ""
 
 - year: 2014
@@ -2983,7 +2761,6 @@
   authors: "Chen, Yu-Hsuan, Lo, Sherman C., Jan, Shau-Shiun, Liou, Guan-Jhih, Akos, Dennis M., and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2014.
   url: ""
 
 - year: 2014
@@ -2994,7 +2771,6 @@
   authors: "Choi, Myungjun"
   venue: "Stanford University"
   details: "Engineer Degree Dissertation"
-  citation: Engineer Degree Dissertation, Stanford University, December 2014.
   url: ""
 
 - year: 2014
@@ -3016,7 +2792,6 @@
   authors: "Jan, Shau-Shiun, Jheng, Siang-Lin, Chen, Yu-Hsuan, and Lo, Sherman C."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2014.
   url: ""
 
 - year: 2014
@@ -3027,7 +2802,6 @@
   authors: "Lo, Sherman C., Chen, Yu-Hsuan, Segal, Benjamin, Peterson, Benjamin B., Lilley, Robert, Erikson, Robert, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2014.
   url: ""
 
 - year: 2014
@@ -3038,7 +2812,6 @@
   authors: "Lo, Sherman C., Chen, Yu-Hsuan, Zhang, Shiwen, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2014.
   url: ""
 
 - year: 2014
@@ -3049,7 +2822,6 @@
   authors: "McMilin, Emily B., De Lorenzo, David S., Walter, Todd, Lee, Thomas H., and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2014.
   url: ""
 
 - year: 2014
@@ -3060,7 +2832,6 @@
   authors: "Narins, Mitchell J., Enge, Per K., Lo, Sherman C., Chen, Yu-Hsuan, and Harrison, Michael"
   venue: "European Navigation Conference (ENC GNSS 2014), Rotterdam, Netherlands"
   details: "Presented at"
-  citation: Presented at European Navigation Conference (ENC GNSS 2014), Rotterdam, Netherlands, April 2014.
   url: ""
 
 - year: 2014
@@ -3071,7 +2842,6 @@
   authors: "Phelts, R. Eric, Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2014.
   url: ""
 
 - year: 2014
@@ -3082,7 +2852,6 @@
   authors: "Reid, Tyler G. R. and Tarantino, Paul M."
   venue: "International Conference on Machine Learning Applications (ICMLA), Detroit, Michigan"
   details: "Presented at"
-  citation: Presented at International Conference on Machine Learning Applications (ICMLA), Detroit, Michigan, December 2014.
   url: ""
 
 - year: 2014
@@ -3094,8 +2863,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2014.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2014
@@ -3116,7 +2884,6 @@
   authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2014.
   url: ""
 
 - year: 2014
@@ -3137,7 +2904,6 @@
   authors: "Wong, Gabriel"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, June 2014.
   url: ""
 
 - year: 2014
@@ -3148,7 +2914,6 @@
   authors: "Wong, Gabriel H. W., Chen, Yu-Hsuan, Phelts, R. Eric, Walter, Todd, and Enge, Per K."
   venue: "Proceedings of the 27th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2014), Tampa, Florida"
   details: "pp. 3129-3147"
-  citation: Presented at the 27th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2014), Tampa, Florida, September 2014.
   url: ""
 
 - year: 2013
@@ -3159,7 +2924,6 @@
   authors: "Bang, Eugene, Lee, Jinsil, Lee, Jiyun, Seo, Jiwon, and Walter, Todd F."
   venue: "Institute of Navigation (ION) Pacific PNT Meeting, Honolulu, Hawaii"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Pacific PNT Meeting, Honolulu, Hawaii, April 2013.
   url: ""
 
 - year: 2013
@@ -3170,7 +2934,6 @@
   authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2013.
   url: ""
 
 - year: 2013
@@ -3181,7 +2944,6 @@
   authors: "Blanch, Juan A., Walter, Todd, Phelts, R. Eric, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2013.
   url: ""
 
 - year: 2013
@@ -3212,7 +2974,6 @@
   authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS) Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS) Conference, Nashville, Tennessee, September 2013.
   url: ""
 
 - year: 2013
@@ -3223,7 +2984,6 @@
   authors: "Chen, Yu-Hsuan, Lo, Sherman C., Akos, Dennis M., De Lorenzo, David S., and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2013.
   url: ""
 
 - year: 2013
@@ -3243,7 +3003,6 @@
   authors: "Chen, Yu-Hsuan, Lo, Sherman C., Akos, Dennis M., Wong, Gabriel H. W., and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2013.
   url: ""
 
 - year: 2013
@@ -3254,7 +3013,6 @@
   authors: "Lee, Chiawei, Chen, Yu-Hsuan, Wong, Gabriel H. W., Lo, Sherman C., and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2013.
   url: ""
 
 - year: 2013
@@ -3266,8 +3024,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2013.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2013
@@ -3278,7 +3035,6 @@
   authors: "Phelts, R. Eric, Wong, Gabriel H. W., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2013.
   url: ""
 
 - year: 2013
@@ -3289,7 +3045,6 @@
   authors: "Pullen, Samuel P., Enge, Per K., and Lee, Jiyun"
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2013.
   url: ""
 
 - year: 2013
@@ -3300,7 +3055,6 @@
   authors: "Pullen, Samuel P."
   venue: "ENRI International Workshop on ATM/CNS (EIWAC 2013), Tokyo, Japan"
   details: "Presented at"
-  citation: Presented at ENRI International Workshop on ATM/CNS (EIWAC 2013), Tokyo, Japan, February 2013.
   url: ""
 
 - year: 2013
@@ -3311,7 +3065,6 @@
   authors: "Pullen, Samuel P. and Lee, Jiyun"
   venue: "Institute of Navigation (ION) Pacific PNT Meeting, Honolulu, Hawaii"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Pacific PNT Meeting, Honolulu, Hawaii, April 2013.
   url: ""
 
 - year: 2013
@@ -3332,7 +3085,6 @@
   authors: "Pullen, Samuel P., Enge, Per K., Shaw, Stuart, Frey, Charles, Frye, John, and Souder, Michael"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2013.
   url: ""
 
 - year: 2013
@@ -3343,7 +3095,6 @@
   authors: "Ramakrishnan, Shankararaman, Reid, Tyler G. R., and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2013.
   url: ""
 
 - year: 2013
@@ -3354,7 +3105,6 @@
   authors: "Reid, Tyler G. R., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2013.
   url: ""
 
 - year: 2013
@@ -3365,7 +3115,6 @@
   authors: "Reid, Tyler G. R., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2013.
   url: ""
 
 - year: 2013
@@ -3376,7 +3125,6 @@
   authors: "Walter, Todd, Blanch, Juan A., Choi, Myungjun, Reid, Tyler G. R., and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2013.
   url: ""
 
 - year: 2013
@@ -3387,7 +3135,6 @@
   authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2013.
   url: ""
 
 - year: 2012
@@ -3398,7 +3145,6 @@
   authors: "Azoulai, Laurent, Neri, Pierre, Milner, Carl, Macabiau, Christophe, and Walter, Todd F."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
 - year: 2012
@@ -3409,7 +3155,6 @@
   authors: "Bang, Eugene, Lee, Jiyun, Seo, Jiwon, Pullen, Samuel P., and Close, Sigrid"
   venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Newport Beach, California, January 2012.
   url: ""
 
 - year: 2012
@@ -3420,7 +3165,6 @@
   authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Newport Beach, California, January 2012.
   url: ""
 
 - year: 2012
@@ -3440,7 +3184,6 @@
   authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Lee, Young, Pervan, Boris S., Rippl, Markus, and Spletter, Alex"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
 - year: 2012
@@ -3461,8 +3204,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
   awards:
-  - "Student Paper Award Winner"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
+    - "Student Paper Award Winner"
   url: ""
 
 - year: 2012
@@ -3482,7 +3224,6 @@
   authors: "Choi, Myungjun, Blanch, Juan A., Walter, Todd, Akos, Dennis M., and Enge, Per K."
   venue: "Proceedings of the 25th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS 2012), Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at the 25th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS 2012), Nashville, Tennessee, September 2012.
   url: ""
 
 - year: 2012
@@ -3494,8 +3235,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
   awards:
-  - "Student Paper Award Winner"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
+    - "Student Paper Award Winner"
   url: ""
 
 - year: 2012
@@ -3516,7 +3256,6 @@
   authors: "Gao, Grace Xingxin, Gunning, Kazuma, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
 - year: 2012
@@ -3527,7 +3266,6 @@
   authors: "Heng, Liang"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, December 2012.
   url: ""
 
 - year: 2012
@@ -3538,7 +3276,6 @@
   authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Newport Beach, California, January 2012.
   url: ""
 
 - year: 2012
@@ -3549,7 +3286,6 @@
   authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California, May 2012.
   url: ""
 
 - year: 2012
@@ -3561,8 +3297,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2012
@@ -3583,7 +3318,6 @@
   authors: "Kim, M., Lee, Jiyun, Pullen, Samuel P., and Gillespie, J."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
 - year: 2012
@@ -3594,7 +3328,6 @@
   authors: "Lee, Jiyun, Jung, Sungwook, Kim, Minchan, Seo, Jiwon, Pullen, Samuel P., and Close, Sigrid"
   venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Newport Beach, California, January 2012.
   url: ""
 
 - year: 2012
@@ -3605,7 +3338,6 @@
   authors: "Lo, Sherman C. and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, Newport Beach, California, January 2012.
   url: ""
 
 - year: 2012
@@ -3638,7 +3370,6 @@
   authors: "Narins, Mitchell J. and Lo, Sherman C."
   venue: "Integrated Communications Navigation and Surveillance (ICNS) Conference, Alexandria, Virginia"
   details: "Published in proceedings"
-  citation: Presented at Integrated Communications Navigation and Surveillance (ICNS) Conference, Alexandria, Virginia, April 2012.
   url: ""
 
 - year: 2012
@@ -3649,7 +3380,6 @@
   authors: "Narins, Mitchell J. and Lo, Sherman C."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
 - year: 2012
@@ -3679,7 +3409,6 @@
   authors: "Pullen, Samuel P., Gao, Grace Xingxin, Tedeschi, Carmen, and Warburton, John"
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2012.
   url: ""
 
 - year: 2012
@@ -3710,7 +3439,6 @@
   authors: "Sundlisæter, Tale, Reid, Tyler G. R., Johnson, Christopher, and Wan, Stephanie"
   venue: "63rd International Astronautical Congress, Naples, Italy"
   details: "Presented at"
-  citation: Presented at 63rd International Astronautical Congress, Naples, Italy, October 2012.
   url: ""
 
 - year: 2012
@@ -3731,7 +3459,6 @@
   authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
 - year: 2012
@@ -3742,7 +3469,6 @@
   authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
 - year: 2012
@@ -3773,7 +3499,6 @@
   authors: "Wong, Gabriel H. W., Chen, Yu-Hsuan, Phelts, R. Eric, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
 - year: 2011
@@ -3784,7 +3509,6 @@
   authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2011.
   url: ""
 
 - year: 2011
@@ -3795,7 +3519,6 @@
   authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2011
@@ -3806,7 +3529,6 @@
   authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Waller, Stefan, Fernandez, Francisco, Dellago, Riccardo, Ioannides, Pervan, Boris S., Hernandez, Ignacio, Belabbas, Boubeker, Spletter, Alexandru, and Rippl, Markus"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2011
@@ -3817,7 +3539,6 @@
   authors: "Carroll, Jonathan, Chan, Bryan, Harner, Charles, Reid, Tyler G. R., Tarantino, Paul M., and Yu, Chi Yau Tony"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2011
@@ -3828,7 +3549,6 @@
   authors: "Chen, Yu-Hsuan"
   venue: "National Cheng Kung University, Tainan, Taiwan, R.O.C."
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, National Cheng Kung University, Tainan, Taiwan, R.O.C, November 2011.
   url: ""
 
 - year: 2011
@@ -3839,7 +3559,6 @@
   authors: "Chen, Yu-Hsuan, Juang, Jyh-Ching, De Lorenzo, David S., Seo, Jiwon, Lo, Sherman C., Enge, Per K., and Akos, Dennis M."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2011
@@ -3850,7 +3569,6 @@
   authors: "Choi, Myungjun, Blanch, Juan A., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2011.
   url: ""
 
 - year: 2011
@@ -3861,7 +3579,6 @@
   authors: "Choi, Myungjun, Blanch, Juan A., Akos, Dennis M., Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2011
@@ -3882,7 +3599,6 @@
   authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2011.
   url: ""
 
 - year: 2011
@@ -3893,7 +3609,6 @@
   authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2011
@@ -3914,7 +3629,6 @@
   authors: "Lee, Jiyun, Jung, Sungwook, and Pullen, Samuel P."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2011.
   url: ""
 
 - year: 2011
@@ -3934,7 +3648,6 @@
   authors: "Lo, Sherman C. and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2011.
   url: ""
 
 - year: 2011
@@ -3945,7 +3658,6 @@
   authors: "Lo, Sherman C., Peterson, Benjamin B., Akos, Dennis M., Narins, Mitchell J., Loh, Robert, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2011
@@ -3955,7 +3667,6 @@
   authors: "Misra, Pratap and Enge, Per"
   venue: "Ganga-Jamuna Press"
   details: "Revised 2nd Edition"
-  citation: Published in Ganga-Jamuna Press, Revised 2nd Edition, 2011.
   url: ""
 
 - year: 2011
@@ -3966,7 +3677,6 @@
   authors: "Pullen, Samuel P., Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2011.
   url: ""
 
 - year: 2011
@@ -3986,7 +3696,6 @@
   authors: "Pullen, Samuel P. and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2011
@@ -3997,7 +3706,6 @@
   authors: "Seo, Jiwon, Chen, Yu-Hsuan, De Lorenzo, David S., Lo, Sherman C., Enge, Per K., and Akos, Dennis M."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2011.
   url: ""
 
 - year: 2011
@@ -4056,7 +3764,6 @@
   authors: "Thoelert, Steffen, Erker, Stefan, Furthner, Johann, Meurer, Michael, Gao, Grace Xingxin, Heng, Liang, Walter, Todd, and Enge, Per"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2011
@@ -4068,8 +3775,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2011
@@ -4080,7 +3786,6 @@
   authors: "Wong, Gabriel H. W., Phelts, R. Eric, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2011.
   url: ""
 
 - year: 2011
@@ -4091,7 +3796,6 @@
   authors: "Wong, Gabriel H. W., Phelts, R. Eric, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
 - year: 2010
@@ -4101,7 +3805,6 @@
   authors: "Becker, Georg T., Lo, Sherman C., De Lorenzo, David S., Enge, Per K., and Paar, Christof"
   venue: "Proceedings of DBSec 2010, the IFIP WG 11.3 Conference on Data and Applications Security"
   details: "pp. 366-373"
-  citation: Presented at DBSec 2010, the IFIP WG 11.3 Conference on Data and Applications Security, 2010.
   url: ""
 
 - year: 2010
@@ -4122,7 +3825,6 @@
   authors: "Blanch, Juan A., Choi, Myungjun, Walter, Todd, Enge, Per K., and Suzuki, Kazushi"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
 - year: 2010
@@ -4133,7 +3835,6 @@
   authors: "Chen, Yu-Hsuan, Juang, Jyh-Ching, De Lorenzo, David S., Seo, Jiwon, Lo, Sherman C., Enge, Per K., and Akos, Dennis M."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
 - year: 2010
@@ -4144,7 +3845,6 @@
   authors: "Chiou, Tsung-Yu"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, May 2010.
   url: ""
 
 - year: 2010
@@ -4165,7 +3865,6 @@
   authors: "De Lorenzo, David S., Lo, Sherman C., Seo, Jiwon, Chen, Yu-Hsuan, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
 - year: 2010
@@ -4176,7 +3875,6 @@
   authors: "Eldredge, Leo, Enge, Per K., Harrison, Mike, Kenagy, Randy, Lo, Sherman C., Loh, Robert, Lilly, Robert, Narins, Mitchell J., and Niles, Rick"
   venue: "International Civil Aviation Organization (ICAO) Navigation Systems Panel (NSP) Working Group Meetings, Montreal, Canada"
   details: "Presented at"
-  citation: Presented at International Civil Aviation Organization (ICAO) Navigation Systems Panel (NSP) Working Group Meetings, Montreal, Canada, May 2010.
   url: ""
 
 - year: 2010
@@ -4188,8 +3886,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2010
@@ -4200,7 +3897,6 @@
   authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2010.
   url: ""
 
 - year: 2010
@@ -4211,7 +3907,6 @@
   authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
 - year: 2010
@@ -4222,7 +3917,6 @@
   authors: "Khanafseh, Samer, Yang, Fan, Pervan, Boris S., Pullen, Samuel P., and Warburton, John"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
 - year: 2010
@@ -4243,7 +3937,6 @@
   authors: "Koenig, Michael"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, March 2010.
   url: ""
 
 - year: 2010
@@ -4254,7 +3947,6 @@
   authors: "Lee, Jiyun, Jung, Sungwook, Bang, Eugene, Pullen, Samuel P., and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
 - year: 2010
@@ -4265,7 +3957,6 @@
   authors: "Lo, Sherman C., Enge, Per K., Niles, Frederick, Loh, Robert, Eldredge, Leo, and Narins, Mitchell J."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2010.
   url: ""
 
 - year: 2010
@@ -4276,7 +3967,6 @@
   authors: "Lo, Sherman C. and Enge, Per K."
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Palm Springs, California"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Palm Springs, California, May 2010.
   url: ""
 
 - year: 2010
@@ -4306,7 +3996,6 @@
   authors: "Murphy, Tim, Harris, Matt, Park, Young Shin, and Pullen, Samuel P."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2010.
   url: ""
 
 - year: 2010
@@ -4317,7 +4006,6 @@
   authors: "Narins, Mitchell J., Eldredge, Leo, Enge, Per K., Harrison, Mike, Kenagy, Randy, and Lo, Sherman C."
   venue: "Royal Institute of Navigation, Westminster, London, UK"
   details: "Published in proceedings"
-  citation: Presented at Royal Institute of Navigation, Westminster, London, UK, November-December 2010.
   url: ""
 
 - year: 2010
@@ -4328,7 +4016,6 @@
   authors: "Park, Young Shin, Pullen, Samuel P., and Enge, Per K."
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Palm Springs, California"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Palm Springs, California, May 2010.
   url: ""
 
 - year: 2010
@@ -4340,8 +4027,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2010
@@ -4352,7 +4038,6 @@
   authors: "Peterson, Benjamin B., Lo, Sherman C., and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2010.
   url: ""
 
 - year: 2010
@@ -4372,7 +4057,6 @@
   authors: "Powell, J. David, and Walter, Todd F."
   venue: "International Flight Inspection Symposium (IFIS), Beijing, China"
   details: "Presented at"
-  citation: Presented at International Flight Inspection Symposium (IFIS), Beijing, China, June 2010.
   url: ""
 
 - year: 2010
@@ -4383,7 +4067,6 @@
   authors: "Pullen, Samuel P., Luo, Ming, Walter, Todd, and Enge, Per K."
   venue: "ENRI International Workshop on ATM/CNS, Tokyo, Japan"
   details: "Published in proceedings"
-  citation: Presented at ENRI International Workshop on ATM/CNS, Tokyo, Japan, September 2010.
   url: ""
 
 - year: 2010
@@ -4405,7 +4088,6 @@
   authors: "Seo, Jiwon"
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
-  citation: Ph.D. Dissertation, Stanford University, June 2010.
   url: ""
 
 - year: 2010
@@ -4416,7 +4098,6 @@
   authors: "Sparks, Lawrence, Blanch, Juan, and Pandya, Nitin"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
 - year: 2010
@@ -4427,7 +4108,6 @@
   authors: "Suzuki, Kazushi, Pullen, Samuel P., Enge, Per K., and Ono, Takeshi"
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
 - year: 2010
@@ -4438,7 +4118,6 @@
   authors: "Tang, Haochen, Pullen, Samuel P., Enge, Per K., Grattton, Livio, Pervan, Boris S., Brenner, Mats, Scheitlin, Joe, and Kline, Paul"
   venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Indian Wells, California"
   details: "Presented at"
-  citation: Presented at IEEE/ION Position Location and Navigation Symposium (PLANS), Indian Wells, California, May 2010.
   url: ""
 
 - year: 2010
@@ -4458,7 +4137,6 @@
   authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
   venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) International Technical Meeting, San Diego, California, January 2010.
   url: ""
 
 - year: 2010
@@ -4489,8 +4167,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
+    - "Best Presentation Award"
   url: ""
 
 - year: 2010
@@ -4500,7 +4177,6 @@
   authors: "Walter, Todd"
   venue: "Yearbook of Science & Technology"
   details: "Published by McGraw-Hill"
-  citation: Published in Yearbook of Science & Technology, Published by McGraw-Hill, 2010.
   url: ""
 
 - year: 2010
@@ -4511,5 +4187,4 @@
   authors: "Wong, Gabriel H. W., Phelts, Eric, Walter, Todd, and Enge, Per K."
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
-  citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
