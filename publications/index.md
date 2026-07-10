@@ -127,6 +127,71 @@ permalink: /publications/
 
 {% endfor %}
 
+{% assign sorted_early_pubs = pubs | sort: "first_author_last" %}
+{% assign has_early_pubs = false %}
+
+{% for p in sorted_early_pubs %}
+{% if p.year <= 1990 %}
+{% assign has_early_pubs = true %}
+{% endif %}
+{% endfor %}
+
+{% if has_early_pubs %}
+
+  <h2 class="pub-year-heading"
+      data-year-heading="year-1990-earlier">
+    1990 and Earlier
+  </h2>
+
+{% for p in sorted_early_pubs %}
+{% if p.year <= 1990 %}
+
+      <div class="pub-item"
+           data-category="{{ p.category }}"
+           data-year="year-1990-earlier">
+
+        {% if p.authors %}
+        <p class="pub-authors">{{ p.authors }}</p>
+        {% endif %}
+
+        <p class="pub-title">
+          {% if p.url %}
+          <a href="{{ p.url }}" target="_blank" rel="noopener">
+            {{ p.title }}
+          </a>
+          {% else %}
+          {{ p.title }}
+          {% endif %}
+        </p>
+
+        {% if p.citation %}
+        <p class="pub-meta">
+          {{ p.citation }}
+          {% if p.awards %}
+            {% for award in p.awards %}
+              <strong class="pub-award"> * {{ award }}</strong>
+            {% endfor %}
+          {% endif %}
+        </p>
+        {% else %}
+        <p class="pub-meta">
+          {% if p.category == "conference" %}
+            Presented at
+          {% else %}
+            Published in
+          {% endif %}
+          <span class="muted">{{ p.venue }}</span>{% if p.details %}, {{ p.details }}{% endif %}{% if p.month %}, {{ p.month }}{% endif %}{% if p.day %} {{ p.day }},{% endif %}{% if p.year %} {{ p.year }}{% endif %}{% if p.doi %}, DOI {{ p.doi }}{% endif %}.
+        </p>
+        {% endif %}
+
+      </div>
+
+    {% endif %}
+
+{% endfor %}
+
+{% endif %}
+
   </div>
 </div>
 

@@ -1480,7 +1480,7 @@
   month: December
   day: 15
   first_author_last: "Lo"
-  category: book
+  category: books
   title: "Chapter 61: Navigation for Aviation"
   authors: "Lo, Sherman"
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
@@ -1544,7 +1544,7 @@
   month: December
   day: 15
   first_author_last: "Parkinson"
-  category: book
+  category: books
   title: "Chapter 1: Introduction, Early History, and Assuring PNT (PTA)"
   authors: "Parkinson, Bradford W., Morton, Y. T. Jade, van Diggelen, Frank, and Spilker, James J. Jr."
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
@@ -1598,7 +1598,7 @@
   month: December
   day: 15
   first_author_last: "Pullen"
-  category: book
+  category: books
   title: "Chapter 23: GNSS Integrity"
   authors: "Pullen, Sam and Joerger, Mathieu"
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
@@ -1611,7 +1611,7 @@
   month: December
   day: 15
   first_author_last: "Reid"
-  category: book
+  category: books
   title: "Chapter 43: Navigation from Low Earth Orbit"
   authors: "Reid, Tyler G. R., Walter, Todd, Enge, Per K., Lawrence, David, Cobb, H. Stewart, Gutt, Greg, O'Conner, Michael, and Whelan, David"
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
@@ -1624,7 +1624,7 @@
   month: December
   day: 15
   first_author_last: "Reid"
-  category: book
+  category: books
   title: "Chapter 64: Navigation in the Arctic"
   authors: "Reid, Tyler G. R., Walter, Todd, Guinness, Robert, Thombre, Sarang, Kuusniemi, Heidi, and Kjerstad, Norvald"
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
@@ -1660,7 +1660,7 @@
   month: December
   day: 15
   first_author_last: "Walter"
-  category: book
+  category: books
   title: "Chapter 13: Satellite Based Augmentation Systems"
   authors: "Walter, Todd"
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
@@ -2247,7 +2247,7 @@
 
 - year: 2017
   first_author_last: "Bisnath"
-  category: book
+  category: books
   title: "Chapter 12: Differential GNSS and Precise Point Positioning"
   authors: "Bisnath, S., Uijt de Haag, M., Diggle, D. W., Hegarty, C., Milbert, D., and Walter, T."
   venue: "Understanding GPS/GNSS: Principles and Applications, Third Edition"
@@ -2299,7 +2299,7 @@
 
 - year: 2017
   first_author_last: "Hegarty"
-  category: book
+  category: books
   title: "Chapter 11: Performance of Stand-Alone GNSS"
   authors: "Hegarty, Chris, Leva, Joe, Van Dyke, Karen, and Walter, Todd"
   venue: "Understanding GPS/GNSS: Principles and Applications, Third Edition"
@@ -2450,7 +2450,7 @@
 
 - year: 2017
   first_author_last: "Walter"
-  category: book
+  category: books
   title: "Chapter 12: Satellite Based Augmentation Systems"
   authors: "Walter, Todd"
   venue: "Springer Handbook of Global Navigation Satellite Systems"
@@ -3950,7 +3950,7 @@
 
 - year: 2011
   first_author_last: "Misra"
-  category: textbook
+  category: books
   title: "Global Positioning System: Signals, Measurements and Performance"
   authors: "Misra, Pratap and Enge, Per"
   venue: "Ganga-Jamuna Press"
@@ -5718,7 +5718,7 @@
 
 - year: 2006
   first_author_last: "Walter"
-  category: book
+  category: books
   authors: "Walter, Todd and Enge, Per"
   title: "The Wide-Area Augmentation System"
   citation: "Published in EGNOS: The European Geostationary Navigation Overlay System — A Cornerstone of Galileo, ESA Publications, 2006."
@@ -8747,7 +8747,7 @@
   citation: "Published in Proceedings of the IEEE, Vol. 71, No. 10, pp. 1177-1186, October 1983."
   url: ""
 
-- year: 1990 and Earlier
+- year: 1982
   season: Summer
   first_author_last: "Beser"
   category: journal
