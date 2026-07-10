@@ -1845,3 +1845,94 @@ main h1:first-of-type {
   line-height: 1.7;
   color: var(--text);
 }
+
+/* ========================================
+   Research landing page card sections
+   ======================================== */
+
+.research-home-section {
+  padding: 2.5rem 0;
+  border-top: 1px solid var(--line);
+  scroll-margin-top: 120px;
+}
+
+.research-home-section:first-of-type {
+  padding-top: 1rem;
+  border-top: 0;
+}
+
+.research-section-title {
+  margin: 0 0 0.85rem;
+  font-size: 2rem;
+  line-height: 1.2;
+  color: var(--stanford-cardinal);
+}
+
+.research-section-intro {
+  max-width: 950px;
+  margin: 0 0 2rem;
+  font-size: 1.08rem;
+  line-height: 1.7;
+}
+
+.research-focus-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.research-focus-card {
+  display: flex;
+  min-height: 220px;
+  transition:
+    transform 0.2s ease,
+    border-color 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.research-focus-card .resource-body {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.research-focus-card h3 {
+  color: var(--stanford-cardinal);
+  line-height: 1.3;
+}
+
+.research-focus-card p {
+  margin-bottom: 0;
+  color: var(--text);
+  line-height: 1.6;
+}
+
+.research-focus-card:hover {
+  border-color: var(--stanford-cardinal);
+  box-shadow: 0 6px 18px rgba(17, 24, 39, 0.08);
+  transform: translateY(-2px);
+  text-decoration: none;
+}
+
+.research-section-link {
+  margin: 1.5rem 0 0;
+}
+
+.research-section-link a {
+  color: var(--stanford-cardinal);
+  font-weight: 700;
+}
+
+@media (max-width: 1150px) {
+  .research-focus-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 700px) {
+  .research-focus-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .research-focus-card {
+    min-height: 0;
+  }
+}

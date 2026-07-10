@@ -5723,3 +5723,213 @@
   title: "The Wide-Area Augmentation System"
   citation: "Published in EGNOS: The European Geostationary Navigation Overlay System — A Cornerstone of Galileo, ESA Publications, 2006."
   url: ""
+
+- year: 2005
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Error Bound Optimization Using Second Order Cone Programming"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2005."
+  url: ""
+
+- year: 2005
+  month: July
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Protection Level Calculation in the Presence of Heavy Tail Errors Using Measurement Residuals"
+  citation: "Presented at the European Navigation Conference GNSS 2005, Munich, Germany, July 2005."
+  url: ""
+
+- year: 2005
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Protection Level Calculation Using Measurement Residuals: Theory and Results"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2005."
+  url: ""
+
+- year: 2005
+  month: June
+  first_author_last: "Boyce"
+  category: conference
+  authors: "Boyce, Lee, Lo, Sherman C., Powell, J. David, and Enge, Per K."
+  title: "Noise Assessment and Mitigation for Loran for Aviation"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Cambridge, Massachusetts, June 2005."
+  url: ""
+
+- year: 2005
+  month: October
+  first_author_last: "Boyce"
+  category: conference
+  authors: "Boyce, Lee, Lo, Sherman C., Powell, J. David, and Enge, Per K."
+  title: "Atmospheric Noise: Data Collection and Analysis"
+  citation: "Presented at the International Loran Association 34th Annual Meeting, Santa Barbara, California, October 2005."
+  url: ""
+
+- year: 2005
+  month: September
+  first_author_last: "Chiou"
+  category: conference
+  authors: "Chiou, Tsung-Yu"
+  title: "GPS Receiver Performance Using Inertial-Aided Carrier Tracking Loop"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2005."
+  url: ""
+
+- year: 2005
+  month: June
+  first_author_last: "Datta-Barua"
+  category: conference
+  authors: "Datta-Barua, Seebany, Walter, Todd, Konno, Hiroyuki, Blanch, Juan A., and Enge, Per K."
+  title: "Verification of Low Latitude Ionosphere Effects on WAAS during October 2003 Geomagnetic Storm"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Cambridge, Massachusetts, June 2005."
+  url: ""
+
+- year: 2005
+  month: May
+  first_author_last: "Datta-Barua"
+  category: conference
+  authors: "Datta-Barua, Seebany, Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  title: "Can WAAS Availability Be Inferred From Geomagnetic Data? An Analysis"
+  citation: "Published in the Proceedings of the Ionospheric Effects Symposium 2005, Alexandria, Virginia, May 3-5, 2005."
+  url: ""
+
+- year: 2005
+  month: September
+  first_author_last: "De Lorenzo"
+  category: conference
+  authors: "De Lorenzo, David S., Gautier, Jennifer D., Rife, Jason H., Enge, Per K., and Akos, Dennis M."
+  title: "Adaptive Array Processing for GPS Interference Rejection"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2005."
+  url: ""
+
+- year: 2005
+  month: June
+  first_author_last: "Do"
+  category: conference
+  authors: "Do, Juyong, Rabinowitz, Matthew, and Enge, Per K."
+  title: "Linear Time-of-Arrival Estimation in a Multipath Environment by Inverse Correlation Method"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Cambridge, Massachusetts, June 2005."
+  url: ""
+
+- year: 2005
+  month: January
+  first_author_last: "Ene"
+  category: conference
+  authors: "Ene, Alexandru, Qiu, Di, Luo, Ming, Pullen, Samuel P., and Enge, Per K."
+  title: "A Comprehensive Ionosphere Storm Data Analysis Method to Support LAAS Threat Model Development"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2005."
+  url: ""
+
+- year: 2005
+  season: Summer
+  first_author_last: "Gebre-Egziabher"
+  category: journal
+  authors: "Gebre-Egziabher, Demoz, Razavi, Alireza, Enge, Per K., Gautier, Jennifer, Pullen, Sam, Pervan, Boris S., and Akos, Dennis M."
+  title: "Sensitivity and Performance Analysis of Doppler-Aided GPS Carrier-Tracking Loops"
+  citation: "Published in NAVIGATION, Vol. 52, No. 2, Summer 2005, pp. 49-60."
+  url: ""
+
+- year: 2005
+  month: September
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Ung-Souk"
+  title: "Analysis of Carrier Phase and Group Delay Biases Introduced by CRPA Hardware"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2005."
+  awards:
+    - "Student Paper Award"
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2005
+  month: September
+  first_author_last: "Koenig"
+  category: conference
+  authors: "Koenig, Michael, Rife, Jason H., Pullen, Samuel P., and Enge, Per K."
+  title: "Optimizing Channel Selection for the JPALS Land-Based Integrity Monitor"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2005."
+  url: ""
+
+- year: 2005
+  month: January
+  first_author_last: "Konno"
+  category: conference
+  authors: "Konno, Hiroyuki, Pullen, Samuel P., Luo, Ming, and Enge, Per K."
+  title: "Analysis of Ionosphere Gradient Using Japan GEONET Data"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2005."
+  url: ""
+
+- year: 2005
+  month: March
+  first_author_last: "Lee"
+  category: theses
+  authors: "Lee, Jiyun"
+  title: "GPS-Based Aircraft Landing Systems with Enhanced Performance Beyond Accuracy"
+  citation: "Ph.D. Dissertation, Stanford University, March 2005."
+  url: ""
+
+- year: 2005
+  month: October
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., Morris, Peter, and Enge, Per K."
+  title: "Early Skywave Detection Network: Preliminary Design and Analysis"
+  citation: "Presented at the International Loran Association 34th Annual Meeting, Santa Barbara, California, October 2005."
+  url: ""
+
+- year: 2005
+  month: September
+  first_author_last: "Luo"
+  category: conference
+  authors: "Luo, Ming, Pullen, Samuel P., Datta-Barua, Seebany, Zhang, Godwin, Walter, Todd, and Enge, Per K."
+  title: "LAAS Study of Slow-Moving Ionosphere Anomalies and Their Potential Impacts PRESENTATION (in PowerPoint)"
+  citation: "Presented at the Institute of Navigation GNSS Meeting, Long Beach, California, September 2005."
+  url: ""
+
+- year: 2005
+  month: November
+  first_author_last: "Powell"
+  category: conference
+  authors: "Powell, J. David, Jennings, Chad W., and Holforty, Wendy L."
+  title: "Use of ADS-B and Perspective Displays to Enhance Airport Capacity"
+  citation: "Presented at the 24th Digital Avionics Systems Conference, Washington, D.C., November 2005."
+  url: ""
+
+- year: 2005
+  month: June
+  first_author_last: "Rife"
+  category: conference
+  authors: "Rife, Jason H. and Pullen, Samuel P."
+  title: "The Impact of Measurement Biases on Availability for CAT III LAAS"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Cambridge, Massachusetts, June 2005."
+  url: ""
+
+- year: 2005
+  month: June
+  first_author_last: "Rife"
+  category: conference
+  authors: "Rife, Jason H., Pullen, Samuel P., Walter, Todd, and Enge, Per K."
+  title: "Vertical Protection Levels for a Local Airport Monitor for WAAS"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Cambridge, Massachusetts, June 2005."
+  url: ""
+
+- year: 2005
+  month: May
+  first_author_last: "Sparks"
+  category: conference
+  authors: "Sparks, L., Komjathy, A., Mannucci, A. J., Altshuler, E., Walter, T., Blanch, J., El-Arini, M. B., and Lejeune, R."
+  title: "Extreme Ionospheric Storms and Their Impact on WAAS"
+  citation: "Published in the Proceedings of the Ionospheric Effects Symposium, Alexandria, Virginia, May 2005."
+  url: ""
+
+- year: 2005
+  month: July
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Pullen, Samuel P., Rife, Jason H., Seo, Jiwon, and Enge, Per K."
+  title: "The Advantages of Local Monitoring and VHF Data Broadcast for SBAS"
+  citation: "Presented at the European Navigation Conference GNSS 2005, Munich, Germany, July 2005."
+  url: ""
