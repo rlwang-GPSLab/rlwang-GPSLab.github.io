@@ -5080,3 +5080,646 @@
   title: "Worldwide Vertical Guidance of Aircraft Based on Modernized GPS and New Integrity Augmentations"
   citation: "Published in Proceedings of the IEEE, Vol. 96, No. 12, December 2008."
   url: ""
+
+- year: 2007
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Understanding PHMI for Safety of Life Applications in GNSS"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2007."
+  url: ""
+
+- year: 2007
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Ene, Alex, Walter, Todd, and Enge, Per K."
+  title: "An Optimized Multiple Hypothesis RAIM Algorithm for Vertical Guidance"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2007."
+  url: ""
+
+- year: 2007
+  month: June
+  first_author_last: "Boyce"
+  category: theses
+  authors: "Boyce, C. O. Lee"
+  title: "Atmospheric Noise Mitigation for Loran"
+  citation: "Ph.D. Dissertation, Stanford University, June 2007."
+  url: ""
+
+- year: 2007
+  month: January
+  first_author_last: "Chiou"
+  category: conference
+  authors: "Chiou, Tsung-Yu, Walter, Todd, Gebre-Egziahber, Demoz, Akos, Dennis M., and Enge, Per K."
+  title: "Model Analysis on the Performance of an Inertial Aided FLL-Assisted-PLL Carrier-Tracking Loop in the Presence of Ionospheric Scintillations"
+  citation: "Presented at the Institute of Navigation (ION) National Technical Meeting, San Diego, California, January 2007."
+  url: ""
+
+- year: 2007
+  month: September
+  first_author_last: "Chiou"
+  category: conference
+  authors: "Chiou, Tsung-Yu"
+  title: "On the Probability Density Function and Stability Properties for a Cross-Product Frequency-Locked Loop"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Fort Worth, Texas, September 2007."
+  url: ""
+
+- year: 2007
+  month: December
+  first_author_last: "Datta-Barua"
+  category: theses
+  authors: "Datta-Barua, Seebany"
+  title: "Ionospheric Threats to the Integrity of Airborne GPS Users"
+  citation: "Ph.D. Dissertation, Stanford University, December 2007."
+  url: ""
+
+- year: 2007
+  month: September
+  first_author_last: "Datta-Barua"
+  category: conference
+  authors: "Datta-Barua, Seebany, Walter, Todd, Pullen, Samuel P., and Enge, Per K."
+  title: "Modeling the 20 November 2003 Ionosphere Storm with GRACE"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2007."
+  url: ""
+
+- year: 2007
+  month: August
+  first_author_last: "De Lorenzo"
+  category: theses
+  authors: "De Lorenzo, David"
+  title: "Navigation Accuracy and Interference Rejection for GPS Adaptive Antenna Arrays"
+  citation: "Ph.D. Dissertation, Stanford University, August 2007."
+  url: ""
+
+- year: 2007
+  month: May
+  first_author_last: "De Lorenzo"
+  category: conference
+  authors: "De Lorenzo, David S., Antreich, Felix, Denks, Holmer, Hornbostel, Achim, Weber, Christian, and Enge, Per K."
+  title: "Testing of Adaptive Beamsteering for Interference Rejection in GNSS Receivers"
+  citation: "Presented at the European Navigation Conference GNSS/TimeNav 2007, Geneva, Switzerland, May 2007."
+  url: ""
+
+- year: 2007
+  month: April
+  first_author_last: "Do"
+  category: theses
+  authors: "Do, Ju-Yong"
+  title: "Road to Seamless Positioning: Hybrid Positioning System Combining GPS and Television Signals"
+  citation: "Ph.D., Stanford University, May 2008. Presentation delivered in April 2007."
+  url: ""
+
+- year: 2007
+  month: January
+  first_author_last: "Do"
+  category: conference
+  authors: "Do, Ju-Yong, Rabinowitz, Matthew, and Enge, Per K."
+  title: "Multi-Fault Tolerant RAIM Algorithm for Hybrid GPS/TV Positioning"
+  citation: "Presented at the Institute of Navigation (ION) National Technical Meeting, San Diego, California, January 2007."
+  url: ""
+
+- year: 2007
+  first_author_last: "Do"
+  category: journal
+  authors: "Do, Ju-Yong, Rabinowitz, Matthew, and Enge, Per K."
+  title: "Robustness of TOA and TDOA Positioning Under Suboptimal Weighting Conditions"
+  citation: "Published in IEEE Transactions on Aerospace and Electronic Systems, 2007."
+  url: ""
+
+- year: 2007
+  month: January
+  first_author_last: "Ene"
+  category: conference
+  authors: "Ene, Alexandru, Blanch, Juan A., and Powell, J. David"
+  title: "Fault Detection and Elimination for Galileo-GPS Vertical Guidance"
+  citation: "Presented at the Institute of Navigation (ION) National Technical Meeting, San Diego, California, January 2007."
+  url: ""
+
+- year: 2007
+  month: May
+  first_author_last: "Ene"
+  category: conference
+  authors: "Ene, Alexandru"
+  title: "Multiple Hypothesis RAIM with Real-Time FDE and Forecasted Availability for Combined Galileo-GPS Vertical Guidance"
+  citation: "Presented at the European Navigation Conference GNSS/TimeNav 2007, Geneva, Switzerland, May 2007."
+  url: ""
+
+- year: 2007
+  month: January
+  first_author_last: "Gao"
+  category: conference
+  authors: "Gao, Grace Xingxin, De Lorenzo, David S., Lo, Sherman C., Akos, Dennis M., Chen, Alan, Walter, Todd, and Enge, Per K."
+  title: "Galileo GIOVE-A Broadcast E5 Codes and Their Application to Acquisition and Tracking"
+  citation: "Presented at the Institute of Navigation (ION) National Technical Meeting, San Diego, California, January 2007."
+  url: ""
+
+- year: 2007
+  month: April
+  first_author_last: "Gao"
+  category: conference
+  authors: "Gao, Grace Xingxin, Datta-Barua, Seebany, Walter, Todd, and Enge, Per K."
+  title: "Ionosphere Effects for Wideband GNSS Signals"
+  citation: "Presented at the Institute of Navigation (ION) Annual Meeting, Cambridge, Massachusetts, April 2007."
+  url: ""
+
+- year: 2007
+  month: May
+  first_author_last: "Gao"
+  category: conference
+  authors: "Gao, Grace Xingxin, De Lorenzo, David S., Walter, Todd, and Enge, Per K."
+  title: "Acquisition and Tracking of GIOVE-A Broadcast L1/E5/E6 Signals and Analysis of DME/TACAN Interference on Receiver Design"
+  citation: "Presented at the European Navigation Conference GNSS/TimeNav 2007, Geneva, Switzerland, May 2007."
+  url: ""
+
+- year: 2007
+  season: "July/August"
+  first_author_last: "Gao"
+  category: magazine
+  authors: "Gao, Grace Xingxin, Chen, Alan, Lo, Sherman C., De Lorenzo, David S., and Enge, Per K."
+  title: "GNSS over China: The Compass MEO Satellite Codes"
+  citation: "Published in Inside GNSS, July/August 2007, pp. 36-43."
+  url: ""
+
+- year: 2007
+  month: September
+  first_author_last: "Gao"
+  category: conference
+  authors: "Gao, Grace Xingxin"
+  title: "DME/TACAN Interference and Its Mitigation in L5/E5 Bands"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2007."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2007
+  month: January
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Euiho, Walter, Todd, and Powell, J. David"
+  title: "Adaptive Carrier Smoothing Using Code and Carrier Divergence"
+  citation: "Presented at the Institute of Navigation (ION) National Technical Meeting, San Diego, California, January 2007."
+  url: ""
+
+- year: 2007
+  month: April
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Euiho, Walter, Todd, and Powell, J. David"
+  title: "WAAS-Based Flight Inspection System"
+  citation: "Presented at the Institute of Navigation (ION) Annual Meeting, Cambridge, Massachusetts, April 2007."
+  url: ""
+
+- year: 2007
+  month: May
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Euiho, Walter, Todd, and Powell, J. David"
+  title: "Standalone GPS-Based Flight Inspection System"
+  citation: "Presented at the European Navigation Conference GNSS/TimeNav 2007, Geneva, Switzerland, May 2007."
+  url: ""
+
+- year: 2007
+  month: March
+  first_author_last: "Kim"
+  category: theses
+  authors: "Kim, Ung Suok"
+  title: "Mitigation of Signal Biases Introduced by Controlled Reception Pattern Antennas in a High Integrity Carrier Phase Differential GPS System"
+  citation: "Ph.D. Dissertation, Stanford University, March 2007."
+  url: ""
+
+- year: 2007
+  month: December
+  first_author_last: "Konno"
+  category: theses
+  authors: "Konno, Hiroyuki"
+  title: "Design of an Aircraft Landing System Using Dual-Frequency GNSS"
+  citation: "Ph.D. Dissertation, Stanford University, December 2007."
+  url: ""
+
+- year: 2007
+  month: September
+  first_author_last: "Konno"
+  category: conference
+  authors: "Konno, Hiroyuki"
+  title: "Dual-Frequency Smoothing for CAT III LAAS: Performance Assessment Considering Ionosphere Anomalies"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2007."
+  url: ""
+
+- year: 2007
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., Peterson, Benjamin B., and Enge, Per K."
+  title: "Proving the Integrity of the Weighted Sum Squared Error (WSSE) Loran Cycle Confidence Algorithm"
+  citation: "Presented at the Institute of Navigation (ION) National Technical Meeting, San Diego, California, January 2007."
+  url: ""
+
+- year: 2007
+  month: April
+  first_author_last: "Lo"
+  category: journal
+  authors: "Lo, Sherman C., Peterson, Benjamin B., Swaszek, Peter, and Enge, Per K."
+  title: "Loran Data Modulation: Extensions and Examples"
+  citation: "Published in IEEE Transactions on Aerospace and Electronic Systems, April 2007."
+  url: ""
+
+- year: 2007
+  month: September
+  first_author_last: "Lo"
+  category: magazine
+  authors: "Lo, Sherman C., Peterson, Benjamin B., and Enge, Per K."
+  title: "Loran Data Modulation: A Primer"
+  citation: "Published in IEEE Aerospace and Electronic Systems Magazine, Tutorial IV, September 2007."
+  url: ""
+
+- year: 2007
+  month: October
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., Johnson, Greg, Swaszek, Peter, Wenzel, Robert, Morris, Peter, and Enge, Per K."
+  title: "Using Seasonal Monitor Data to Assess Aviation Integrity"
+  citation: "Presented at the International Loran Association 36th Annual Meeting, Orlando, Florida, October 2007."
+  url: ""
+
+- year: 2007
+  first_author_last: "Lo"
+  category: journal
+  authors: "Lo, Sherman C., Peterson, Benjamin B., and Enge, Per K."
+  title: "Proving the Integrity of the Weighted Sum Squared Error (WSSE) Loran Cycle Confidence Algorithm"
+  citation: "Published in NAVIGATION: The Journal of the Institute of Navigation, Vol. 54, No. 4, 2007."
+  url: ""
+
+- year: 2007
+  month: September
+  first_author_last: "Park"
+  category: conference
+  authors: "Park, Young Shin, Zhang, Godwin, Pullen, Samuel P., Lee, Jiyun, and Enge, Per K."
+  title: "Data-Replay Analysis of LAAS Safety during Ionosphere Storms"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2007."
+  url: ""
+
+- year: 2007
+  month: May
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric"
+  title: "Range Biases on Modernized GNSS Codes"
+  citation: "Presented at the European Navigation Conference GNSS/TimeNav 2007, Geneva, Switzerland, May 2007."
+  url: ""
+
+- year: 2007
+  month: November
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P."
+  title: "Worldwide Trends in GNSS Development and Their Implications for Civil User Performance and Safety"
+  citation: "Presented at the Japan GNSS/GPS Symposium, Tokyo, Japan, November 2007."
+  url: ""
+
+- year: 2007
+  month: January
+  first_author_last: "Qiu"
+  category: conference
+  authors: "Qiu, Di, Lo, Sherman C., Peterson, Benjamin B., and Enge, Per K."
+  title: "Geoencryption Using Loran"
+  citation: "Presented at the Institute of Navigation (ION) National Technical Meeting, San Diego, California, January 2007."
+  url: ""
+
+- year: 2007
+  month: September
+  first_author_last: "Qiu"
+  category: conference
+  authors: "Qiu, Di"
+  title: "Security Analysis of Geoencryption: A Case Study Using Loran"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2007."
+  url: ""
+
+- year: 2007
+  month: October
+  first_author_last: "Qiu"
+  category: conference
+  authors: "Qiu, Di, Lo, Sherman C., and Enge, Per K."
+  title: "Geoencryption with Loran"
+  citation: "Presented at the International Loran Association 36th Annual Meeting, Orlando, Florida, October 2007."
+  url: ""
+
+- year: 2007
+  month: November
+  first_author_last: "Qiu"
+  category: magazine
+  authors: "Qiu, Di, Lo, Sherman C., and Enge, Per K."
+  title: "Security for Insecure Times: Geoencryption with Loran"
+  citation: "Published in GPS World, November 2007."
+  url: ""
+
+- year: 2007
+  month: September
+  first_author_last: "Quigley"
+  category: conference
+  authors: "Quigley, Morgan, Abbeel, Pieter, De Lorenzo, David S., Gu, Yi, Bolouki, Sara, Akos, Dennis M., and Ng, Andrew Y."
+  title: "Portable GPS Baseband Logging"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2007."
+  url: ""
+
+- year: 2007
+  month: June
+  first_author_last: "Seo"
+  category: conference
+  authors: "Seo, Jiwon, Walter, Todd, Marks, Edward, Chiou, Tsung-Yu, and Enge, Per K."
+  title: "Ionospheric Scintillation Effects on GPS Receivers during Solar Minimum and Maximum"
+  citation: "Presented at the International Beacon Satellite Symposium, Boston, Massachusetts, June 2007."
+  url: ""
+
+- year: 2007
+  month: October
+  first_author_last: "Swaszek"
+  category: conference
+  authors: "Swaszek, Peter, Johnson, Gregory, Hartnett, Richard, and Lo, Sherman C."
+  title: "An Investigation into the Temporal Correlation at the ASF Monitor Sites"
+  citation: "Presented at the International Loran Association 36th Annual Meeting, Orlando, Florida, October 2007."
+  url: ""
+
+- year: 2007
+  month: December
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  title: "L5 Satellite Based Augmentation Systems Protection Level Equations"
+  citation: "Presented at the International Global Navigation Satellite Systems (IGNSS) Symposium, Sydney, Australia, December 2007."
+  url: ""
+
+- year: 2007
+  month: January
+  first_author_last: "Zhang"
+  category: conference
+  authors: "Zhang, Godwin, Lee, Jiyun, Datta-Barua, Seebany, Pullen, Samuel P., and Enge, Per K."
+  title: "Low-Elevation Ionosphere Spatial Anomalies Discovered from the 20 November 2003 Storm"
+  citation: "Presented at the Institute of Navigation (ION) National Technical Meeting, San Diego, California, January 2007."
+  url: ""
+
+- year: 2006
+  month: September
+  first_author_last: "Boyce"
+  category: conference
+  authors: "Boyce, C. O. Lee, Lo, Sherman C., Powell, J. David, and Enge, Per K."
+  title: "Mitigating Atmospheric Noise for Loran"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2006."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2006
+  month: October
+  first_author_last: "Boyce"
+  category: conference
+  authors: "Boyce, C. O. Lee, Lo, Sherman C., Powell, J. David, and Enge, Per K."
+  title: "Analysis of Noise and Cycle Selection in a Loran Receiver"
+  citation: "Presented at the International Loran Association 35th Annual Meeting, Groton, Connecticut, October 2006."
+  url: ""
+
+- year: 2006
+  month: September
+  first_author_last: "Datta-Barua"
+  category: conference
+  authors: "Datta-Barua, Seebany, Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  title: "Bounding Higher Order Ionosphere Errors for the Dual Frequency GPS User"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2006."
+  url: ""
+
+- year: 2006
+  month: September
+  first_author_last: "De Lorenzo"
+  category: conference
+  authors: "De Lorenzo, David S., Rife, Jason H., Enge, Per K., and Akos, Dennis M."
+  title: "Navigation Accuracy and Interference Rejection for an Adaptive GPS Antenna Array"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2006."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2006
+  month: January
+  first_author_last: "Do"
+  category: conference
+  authors: "Do, Ju-Yong, Rabinowitz, Matthew, and Enge, Per K."
+  title: "Performance of TOA and TDOA in a Non-Homogeneous Transmitter Network Combining GPS and Terrestrial Signals"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Monterey, California, January 2006."
+  url: ""
+
+- year: 2006
+  month: April
+  first_author_last: "Do"
+  category: conference
+  authors: "Do, Ju-Yong, Rabinowitz, Matthew, and Enge, Per K."
+  title: "Performance of Hybrid Positioning System Combining GPS and Television Signals"
+  citation: "Presented at the IEEE/ION Position Location and Navigation Symposium, San Diego, California, April 2006."
+  url: ""
+
+- year: 2006
+  month: January
+  first_author_last: "Ene"
+  category: conference
+  authors: "Ene, Alexandru, Blanch, Juan A., and Walter, Todd F."
+  title: "Galileo-GPS RAIM for Vertical Guidance"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Monterey, California, January 2006."
+  url: ""
+
+- year: 2006
+  month: September
+  first_author_last: "Ene"
+  category: conference
+  authors: "Ene, Alexandru"
+  title: "Further Development of Galileo-GPS RAIM for Vertical Guidance"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2006."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2006
+  month: September
+  first_author_last: "Gao"
+  category: conference
+  authors: "Gao, Grace Xingxin, Spilker, James J., Walter, Todd, Enge, Per K., and Pratt, Anthony"
+  title: "Code Generation Scheme and Property Analysis of Broadcast Galileo L1 and E6 Signals"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2006."
+  url: ""
+
+- year: 2006
+  month: January
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Euiho, Walter, Todd, and Powell, J. David"
+  title: "A Reference Point-Based Precise Relative Positioning Method Using a Single Frequency Receiver"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Monterey, California, January 2006."
+  url: ""
+
+- year: 2006
+  month: April
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Euiho, Peled, Uri, Walter, Todd, and Powell, J. David"
+  title: "A Development of WAAS-Aided Flight Inspection Truth System"
+  citation: "Presented at the IEEE/ION Position Location and Navigation Symposium, San Diego, California, April 2006."
+  url: ""
+
+- year: 2006
+  month: June
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Euiho, Walter, Todd, and Powell, J. David"
+  title: "WAAS-Aided Flight Inspection Truth System"
+  citation: "Presented at the 14th International Flight Inspection Symposium (IFIS), Toulouse, France, June 2006."
+  url: ""
+
+- year: 2006
+  month: September
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Euiho, Walter, Todd, and Powell, J. David"
+  title: "Optimizing WAAS Accuracy/Stability for a Single Frequency Receiver"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2006."
+  url: ""
+
+- year: 2006
+  month: January
+  first_author_last: "Konno"
+  category: conference
+  authors: "Konno, Hiroyuki, Pullen, Samuel P., Rife, Jason H., and Enge, Per K."
+  title: "Evaluation of Two Types of Dual-Frequency Differential GPS Techniques under Anomalous Ionosphere Conditions"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Monterey, California, January 2006."
+  url: ""
+
+- year: 2006
+  month: September
+  first_author_last: "Konno"
+  category: conference
+  authors: "Konno, Hiroyuki, Pullen, Samuel P., Rife, Jason H., and Enge, Per K."
+  title: "Ionosphere Monitoring Methodology for Hybrid Dual-Frequency LAAS"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2006."
+  url: ""
+
+- year: 2006
+  month: April
+  first_author_last: "Lee"
+  category: conference
+  authors: "Lee, Jiyun, Pullen, Samuel P., Datta-Barua, Seebany, and Enge, Per K."
+  title: "Assessment of Nominal Ionosphere Spatial Decorrelation for LAAS"
+  citation: "Presented at the IEEE/ION Position Location and Navigation Symposium, San Diego, California, April 2006."
+  url: ""
+
+- year: 2006
+  season: "May/June"
+  first_author_last: "Lee"
+  category: journal
+  authors: "Lee, Jiyun, Pullen, Samuel P., Enge, Per K., Pervan, Boris S., and Gratton, Livio"
+  title: "Monitoring GPS Satellite Orbit Errors for Aircraft Landing Systems"
+  citation: "Published in Journal of Aircraft, Vol. 43, No. 3, May-June 2006."
+  url: ""
+
+- year: 2006
+  month: September
+  first_author_last: "Lee"
+  category: conference
+  authors: "Lee, Jiyun, Luo, Ming, Pullen, Samuel P., Park, Young Shin, Enge, Per K., and Brenner, Mats"
+  title: "Position-Domain Geometry Screening to Maximize LAAS Availability in the Presence of Ionosphere Anomalies"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Fort Worth, Texas, September 2006."
+  url: ""
+
+- year: 2006
+  month: October
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., Peterson, Benjamin B., and Enge, Per K."
+  title: "Assessing the Loran Cycle Confidence Algorithm"
+  citation: "Presented at the International Loran Association 35th Annual Meeting, Groton, Connecticut, October 2006."
+  url: ""
+
+- year: 2006
+  month: October
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C. and Enge, Per K."
+  title: "Preliminary Assessment of Loran for Required Navigation Performance 1.0"
+  citation: "Presented at the International Loran Association 35th Annual Meeting, Groton, Connecticut, October 2006."
+  url: ""
+
+- year: 2006
+  first_author_last: "Phelts"
+  category: journal
+  authors: "Phelts, R. Eric and Akos, Dennis M."
+  title: "Effects of Signal Deformations on Modernized GNSS Signals"
+  citation: "Published in Journal of Global Positioning Systems, Vol. 5, Nos. 1-2, 2006."
+  url: ""
+
+- year: 2006
+  month: April
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P., Rife, Jason H., and Enge, Per K."
+  title: "Prior Probability Model Development to Support System Safety Verification in the Presence of Anomalies"
+  citation: "Presented at the IEEE/ION Position Location and Navigation Symposium, San Diego, California, April 2006."
+  url: ""
+
+- year: 2006
+  month: January
+  first_author_last: "Rife"
+  category: conference
+  authors: "Rife, Jason H. and Phelts, R. Eric"
+  title: "Formulation of a Time-Varying Maximum Allowable Error for Ground-Based Augmentation Systems"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Monterey, California, January 2006."
+  url: ""
+
+- year: 2006
+  month: April
+  first_author_last: "Rife"
+  category: conference
+  authors: "Rife, Jason H., Pullen, Samuel P., Walter, Todd, Phelts, R. Eric, Pervan, Boris S., and Enge, Per K."
+  title: "WAAS-Based Threat Monitoring for a Local Airport Monitor (LAM) that Supports Category I Precision Approach"
+  citation: "Presented at the IEEE/ION Position Location and Navigation Symposium, San Diego, California, April 2006."
+  url: ""
+
+- year: 2006
+  month: October
+  first_author_last: "Rife"
+  category: journal
+  authors: "Rife, Jason H., Pullen, Samuel P., Enge, Per K., and Pervan, Boris S."
+  title: "Paired Overbounding for Nonideal LAAS and WAAS Error Distributions"
+  citation: "Published in IEEE Transactions on Aerospace and Electronic Systems, Vol. 42, No. 4, October 2006."
+  url: ""
+
+- year: 2006
+  month: January
+  first_author_last: "Seo"
+  category: conference
+  authors: "Seo, Jiwon, Rife, Jason H., Pullen, Samuel P., Walter, Todd, and Enge, Per K."
+  title: "Field Data Analysis for a Range-Based Local Airport Monitor for WAAS"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Monterey, California, January 2006."
+  url: ""
+
+- year: 2006
+  season: "March/April"
+  first_author_last: "Walter"
+  category: journal
+  authors: "Walter, Todd and Powell, J. David"
+  title: "Satellite-Based Approaches Facilitate More Efficient Inspection Process"
+  citation: "Published in ICAO Journal, Vol. 61, No. 2, March/April 2006."
+  url: ""
+
+- year: 2006
+  month: June
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd and Powell, J. David"
+  title: "Flight Inspection of GNSS SBAS Procedures"
+  citation: "Presented at the 14th International Flight Inspection Symposium (IFIS), Toulouse, France, June 2006."
+  url: ""
+
+- year: 2006
+  first_author_last: "Walter"
+  category: book
+  authors: "Walter, Todd and Enge, Per"
+  title: "The Wide-Area Augmentation System"
+  citation: "Published in EGNOS: The European Geostationary Navigation Overlay System — A Cornerstone of Galileo, ESA Publications, 2006."
+  url: ""

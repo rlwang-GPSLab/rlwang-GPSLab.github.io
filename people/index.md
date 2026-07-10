@@ -146,8 +146,9 @@ permalink: /people/
       <ul class="alumni-list alumni-list-phd">
         {% for person in phd_alumni %}
         <li>
-          {% if person.linkedin %}
-          <a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>
+          {% assign linkedin_url = person.linkedin | default: "" | strip %}
+          {% if linkedin_url != "" %}
+          <a href="{{ linkedin_url }}" target="_blank" rel="noopener">{{ person.name }}</a>
           {% else %}
           {{ person.name }}
           {% endif %}
@@ -164,7 +165,7 @@ permalink: /people/
         <h2>Engineer’s Degree</h2>
         <ul class="alumni-list alumni-list-small">
           {% for person in engineer_alumni %}
-          <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+          <li>{% assign linkedin_url = person.linkedin | default: "" | strip %}{% if linkedin_url != "" %}<a href="{{ linkedin_url }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
           {% endfor %}
         </ul>
       </section>
@@ -175,7 +176,7 @@ permalink: /people/
         <h2>Master's</h2>
         <ul class="alumni-list alumni-list-small">
           {% for person in masters_alumni %}
-          <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+          <li>{% assign linkedin_url = person.linkedin | default: "" | strip %}{% if linkedin_url != "" %}<a href="{{ linkedin_url }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
           {% endfor %}
         </ul>
       </section>
@@ -186,7 +187,7 @@ permalink: /people/
         <h2>Undergraduate</h2>
         <ul class="alumni-list alumni-list-small">
           {% for person in undergrad_alumni %}
-          <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+          <li>{% assign linkedin_url = person.linkedin | default: "" | strip %}{% if linkedin_url != "" %}<a href="{{ linkedin_url }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
           {% endfor %}
         </ul>
       </section>
@@ -197,7 +198,7 @@ permalink: /people/
         <h2>Postdoctoral</h2>
         <ul class="alumni-list alumni-list-small">
           {% for person in postdoc_alumni %}
-          <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+          <li>{% assign linkedin_url = person.linkedin | default: "" | strip %}{% if linkedin_url != "" %}<a href="{{ linkedin_url }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
           {% endfor %}
         </ul>
       </section>
@@ -209,7 +210,7 @@ permalink: /people/
   <h2>Researchers</h2>
   <ul class="alumni-list alumni-list-small">
     {% for person in researcher_alumni %}
-    <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+    <li>{% assign linkedin_url = person.linkedin | default: "" | strip %}{% if linkedin_url != "" %}<a href="{{ linkedin_url }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
     {% endfor %}
   </ul>
 </section>
@@ -221,7 +222,7 @@ permalink: /people/
   <h2>Visiting Scholars</h2>
   <ul class="alumni-list alumni-list-small">
     {% for person in visiting_scholar_alumni %}
-    <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+    <li>{% assign linkedin_url = person.linkedin | default: "" | strip %}{% if linkedin_url != "" %}<a href="{{ linkedin_url }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
     {% endfor %}
   </ul>
 </section>
@@ -233,7 +234,7 @@ permalink: /people/
   <h2>Visiting Students</h2>
   <ul class="alumni-list alumni-list-small">
     {% for person in visiting_student_alumni %}
-    <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+    <li>{% assign linkedin_url = person.linkedin | default: "" | strip %}{% if linkedin_url != "" %}<a href="{{ linkedin_url }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
     {% endfor %}
   </ul>
 </section>
@@ -245,7 +246,7 @@ permalink: /people/
   <h2>Other</h2>
   <ul class="alumni-list alumni-list-small">
     {% for person in other_alumni %}
-    <li>{% if person.linkedin %}<a href="{{ person.linkedin }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
+    <li>{% assign linkedin_url = person.linkedin | default: "" | strip %}{% if linkedin_url != "" %}<a href="{{ linkedin_url }}" target="_blank" rel="noopener">{{ person.name }}</a>{% else %}{{ person.name }}{% endif %}</li>
     {% endfor %}
   </ul>
 </section>
