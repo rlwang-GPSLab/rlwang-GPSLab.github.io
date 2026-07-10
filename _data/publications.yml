@@ -6486,3 +6486,235 @@
   title: "Integrity Lessons from the WAAS Integrity Performance Panel (WIPP)"
   citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2003."
   url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Alban"
+  category: conference
+  authors: "Alban, Santiago"
+  title: "An Inexpensive and Robust GPS/INS Attitude System for Automobiles"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
+
+- year: 2002
+  month: June
+  first_author_last: "Bauregger"
+  category: conference
+  authors: "Bauregger, Frank N., Walter, Todd, Akos, Dennis M., and Enge, Per K."
+  title: "A Novel Dual-Patch Anti-Jam GPS Antenna"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Albuquerque, New Mexico, June 2002."
+  url: ""
+
+- year: 2002
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Application of Spatial Statistics to Ionosphere Estimation for WAAS"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2002."
+  url: ""
+
+- year: 2002
+  season: Summer
+  first_author_last: "Blanch"
+  category: journal
+  authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
+  title: "Ionospheric Threat Model Methodology for WAAS"
+  citation: "Published in NAVIGATION, Vol. 49, No. 2, Summer 2002, pp. 103-107, DOI 10.1002/j.2161-4296.2002.tb00259.x."
+  url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A."
+  title: "An Ionospheric Estimation Algorithm for WAAS Based on Kriging"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
+
+- year: 2002
+  month: January
+  first_author_last: "Datta-Barua"
+  category: conference
+  authors: "Datta-Barua, Seebany, Walter, Todd, Pullen, Samuel P., Luo, Ming, Blanch, Juan, and Enge, Per K."
+  title: "Using WAAS Ionospheric Data to Estimate LAAS Short Baseline Gradients"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2002."
+  url: ""
+
+- year: 2002
+  month: March
+  first_author_last: "Gromov"
+  category: theses
+  authors: "Gromov, Konstantin"
+  title: "GIDL: Generalized Interference Detection and Localization System"
+  citation: "Ph.D. Dissertation, Stanford University, March 2002."
+  url: ""
+
+- year: 2002
+  month: March
+  first_author_last: "Hansen"
+  category: theses
+  authors: "Hansen, Andrew J."
+  title: "Tomographic Estimation of the Ionosphere Using Terrestrial GPS Sensors"
+  citation: "Ph.D. Dissertation, Stanford University, March 2002."
+  url: ""
+
+- year: 2002
+  month: January
+  first_author_last: "Jan"
+  category: conference
+  authors: "Jan, Shau-Shiun, Gebre-Egziabher, Demoz, Walter, Todd, and Enge, Per K."
+  title: "Worst-Case Analysis of a 3-Frequency Receiver to Land a General Aviation Airplane"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2002."
+  url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Jan"
+  category: conference
+  authors: "Jan, Shau-Shiun"
+  title: "Analysis of a Three-Frequency GPS/WAAS Receiver to Land an Airplane"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
+
+- year: 2002
+  first_author_last: "Jennings"
+  category: conference
+  authors: "Jennings, Chad W., Charafeddine, Mohamad, Powell, J. David, and Taamallah, Skander"
+  title: "Flight Demonstration of 3D Perspective Synthetic Vision and ADS-B for Closely Spaced Parallel Approaches"
+  citation: "Presented at the 21st Digital Avionics Systems Conference, Irvine, California, 2002."
+  url: ""
+
+- year: 2002
+  first_author_last: "Jennings"
+  category: conference
+  authors: "Jennings, Chad W. and Powell, J. David"
+  title: "Flight Test Measurement of Pilot Reaction Times to Runway Incursions: Out-the-Window vs. Synthetic Vision"
+  citation: "Presented at the 21st Digital Avionics Systems Conference, Irvine, California, 2002."
+  url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Koenig"
+  category: conference
+  authors: "Koenig, Michael, Gebre-Egziabher, Demoz, Pullen, Samuel P., Kim, Ung-Souk, Enge, Per K., Pervan, Boris S., Chan, Fang Cheng, and Colby, Glenn"
+  title: "Sensitivity Analysis of the JPALS Shipboard Relative GPS Measurement Quality Monitor"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
+
+- year: 2002
+  month: April
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "WAAS Performance in the 2001 Alaska Flight Trials of the High Speed Loran Data Channel"
+  citation: "Presented at the IEEE Position Location and Navigation Symposium, Palm Springs, California, April 2002."
+  url: ""
+
+- year: 2002
+  month: July
+  first_author_last: "Lo"
+  category: theses
+  authors: "Lo, Sherman C."
+  title: "Broadcasting GPS Integrity Information Using Loran-C"
+  citation: "Ph.D. Dissertation, Stanford University, July 2002."
+  url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "The Loran Integrity Performance Panel"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
+
+- year: 2002
+  month: October
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "The Loran Integrity Performance Panel (LORIPP)"
+  citation: "Presented at the International Loran Association 31st Annual Meeting, Washington, D.C., October 2002."
+  url: ""
+
+- year: 2002
+  month: June
+  first_author_last: "Luo"
+  category: conference
+  authors: "Luo, Ming, Pullen, Samuel P., Akos, Dennis M., Xie, Gang, Datta-Barua, Seebany, Walter, Todd, and Enge, Per K."
+  title: "Assessment of Ionospheric Impact on LAAS Using WAAS Supertruth Data"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Albuquerque, New Mexico, June 2002."
+  url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Mitelman"
+  category: conference
+  authors: "Mitelman, Alexander M., Akos, Dennis M., Pullen, Samuel P., and Enge, Per K."
+  title: "Estimation of ICAO Threat Model Parameters for Operational GPS Satellites"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Normark"
+  category: conference
+  authors: "Normark, Per-Ludvig, Akos, Dennis M., Xie, Gang, Pullen, Samuel P., Luo, Ming, and Enge, Per K."
+  title: "The Integrity Monitor Testbed and Multipath Limiting Antenna Test Results"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
+
+- year: 2002
+  month: May
+  first_author_last: "Opshaug"
+  category: conference
+  authors: "Opshaug, Guttorm and Enge, Per K."
+  title: "Integrated GPS and UWB Navigation System"
+  citation: "Presented at the IEEE UWB Science and Technology (UWBST) Conference, Baltimore, Maryland, May 2002."
+  url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Opshaug"
+  category: conference
+  authors: "Opshaug, Guttorm"
+  title: "Leapfrog Navigation System"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
+
+- year: 2002
+  month: June
+  first_author_last: "Peterson"
+  category: conference
+  authors: "Peterson, Benjamin B., Enge, Per K., Walter, Todd, Lo, Sherman C., Boyce, C. O. Lee, Wenzel, Robert, and Narins, Mitchell J."
+  title: "Hazardously Misleading Information Analysis for Loran LNAV"
+  citation: "Presented at the 3rd International Symposium on Integration of LORAN-C/Eurofix and EGNOS/Galileo, Munich, Germany, June 2002."
+  url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P., Luo, Ming, Xie, Gang, Lee, Jiyun, Phelts, R. Eric, Akos, Dennis M., and Enge, Per K."
+  title: "LAAS Ground Facility Design Improvements to Meet Proposed Requirements for Category II/III Operations"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
+
+- year: 2002
+  month: November
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P., Walter, Todd, and Enge, Per K."
+  title: "System Overview, Recent Developments, and Future Outlook for WAAS and LAAS"
+  citation: "Presented at the Tokyo University of Mercantile Marine GPS Symposium, Tokyo, Japan, November 11-13, 2002."
+  url: ""
+
+- year: 2002
+  month: September
+  first_author_last: "Schloss"
+  category: conference
+  authors: "Schloss, Peter, Phelts, R. Eric, Walter, Todd, and Enge, Per K."
+  title: "A Simple Method of Signal Quality Monitoring for WAAS LNAV/VNAV"
+  citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
+  url: ""
