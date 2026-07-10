@@ -6718,3 +6718,268 @@
   title: "A Simple Method of Signal Quality Monitoring for WAAS LNAV/VNAV"
   citation: "Presented at the Institute of Navigation GPS Meeting, Portland, Oregon, September 2002."
   url: ""
+
+- year: 2001
+  month: January
+  first_author_last: "Bauregger"
+  category: conference
+  authors: "Bauregger, Frank N., Walter, Todd, and Enge, Per K."
+  title: "The Dielectric Cavity Antenna — An Alternative to the Choke Ring Antenna"
+  citation: "Presented at the ION National Technical Meeting, Long Beach, California, January 2001."
+  url: ""
+
+- year: 2001
+  month: August
+  first_author_last: "Bevly"
+  category: theses
+  authors: "Bevly, David"
+  title: "High Speed, Dead Reckoning, and Towed Implement Control for Automatically Steered Farm Tractors Using GPS"
+  citation: "Ph.D. Dissertation, Stanford University, August 2001."
+  url: ""
+
+- year: 2001
+  month: June
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Ionospheric Threat Model Methodology for WAAS"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Albuquerque, New Mexico, June 2001."
+  url: ""
+
+- year: 2001
+  month: April
+  first_author_last: "Dai"
+  category: theses
+  authors: "Dai, Donghai"
+  title: "Interoperability of Space Based Augmentation Systems for Aircraft Navigation"
+  citation: "Ph.D. Dissertation, Stanford University, April 2001."
+  url: ""
+
+- year: 2001
+  month: May
+  first_author_last: "Elkaim"
+  category: conference
+  authors: "Elkaim, Gabriel H. and Parkinson, Bradford W."
+  title: "System Identification for Precision Control of a GPS-Autonomous Catamaran"
+  citation: "Presented at the International Conference on Integrated Navigation Systems, St. Petersburg, Russia, May 2001."
+  url: ""
+
+- year: 2001
+  month: December
+  first_author_last: "Elkaim"
+  category: theses
+  authors: "Elkaim, Gabriel H."
+  title: "System Identification for Precision Control of a Wingsailed GPS-Guided Catamaran"
+  citation: "Ph.D. Dissertation, Stanford University, December 2001."
+  url: ""
+
+- year: 2001
+  month: September
+  first_author_last: "Enge"
+  category: conference
+  authors: "Enge, Per K., Fan, Rod, Tiwari, Anil, Chou, Andrew, Mann, Wallace, Sahai, Anant, Stone, Jesse, and Van Roy, Ben"
+  title: "Improving GPS Coverage and Continuity: Indoors and Downtown"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2001."
+  url: ""
+
+- year: 2001
+  month: December
+  first_author_last: "Gebre-Egziabher"
+  category: theses
+  authors: "Gebre-Egziabher, Demoz"
+  title: "Design and Performance Analysis of a Low-Cost Aided Dead Reckoning Navigator"
+  citation: "Ph.D. Dissertation, Stanford University, December 2001."
+  url: ""
+
+- year: 2001
+  month: May
+  first_author_last: "Gebre-Egziabher"
+  category: conference
+  authors: "Gebre-Egziabher, Demoz, Powell, J. David, and Enge, Per K."
+  title: "Design and Performance Analysis of a Low-Cost Aided Dead Reckoning Navigation System"
+  citation: "Presented at the International Conference on Integrated Navigation Systems, St. Petersburg, Russia, May 2001."
+  url: ""
+
+- year: 2001
+  month: May
+  first_author_last: "Gebre-Egziabher"
+  category: conference
+  authors: "Gebre-Egziabher, Demoz, Elkaim, Gabriel H., Powell, J. David, and Parkinson, Bradford W."
+  title: "A Non-Linear, Two-Step Estimation Algorithm for Calibrating Solid-State Strapdown Magnetometers"
+  citation: "Presented at the International Conference on Integrated Navigation Systems, St. Petersburg, Russia, May 2001."
+  url: ""
+
+- year: 2001
+  month: October
+  first_author_last: "Holforty"
+  category: conference
+  authors: "Holforty, Wendy L. and Powell, J. David"
+  title: "Flight Deck Display of Airborne Traffic Wake Vortices"
+  citation: "Presented at the 20th Digital Avionics Systems Conference, Daytona Beach, Florida, October 14-18, 2001."
+  url: ""
+
+- year: 2001
+  month: April
+  first_author_last: "Houck"
+  category: theses
+  authors: "Houck, Sharon W."
+  title: "Multi Aircraft Dynamics, Navigation and Operation"
+  citation: "Ph.D. Dissertation, Stanford University, April 2001."
+  url: ""
+
+- year: 2001
+  month: August
+  first_author_last: "Houck"
+  category: conference
+  authors: "Houck, Sharon W. and Powell, J. David"
+  title: "Assessment of the Probability of a Midair Collision During an Ultra Closely Spaced Parallel Approach"
+  citation: "Presented at the AIAA Guidance, Navigation and Control Conference, Montreal, Canada, August 2001."
+  url: ""
+
+- year: 2001
+  month: January
+  first_author_last: "Jan"
+  category: conference
+  authors: "Jan, Shau-Shiun and Enge, Per K."
+  title: "Finding Source of Electromagnetic Interference (EMI) to GPS Using a Network of Sensors"
+  citation: "Presented at the ION National Technical Meeting, Long Beach, California, January 2001."
+  url: ""
+
+- year: 2001
+  month: September
+  first_author_last: "Jan"
+  category: conference
+  authors: "Jan, Shau-Shiun, Chan, Wyant, Walter, Todd, and Enge, Per K."
+  title: "Matlab Simulation Toolset for SBAS Availability Analysis"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2001."
+  url: ""
+
+- year: 2001
+  month: June
+  first_author_last: "Lee"
+  category: conference
+  authors: "Lee, Jiyun, Pullen, Samuel P., Xie, Gang, and Enge, Per K."
+  title: "LAAS Sigma-Mean Monitor Analysis and Failure-Test Verification"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Albuquerque, New Mexico, June 2001."
+  url: ""
+
+- year: 2001
+  month: August
+  first_author_last: "LeMaster"
+  category: conference
+  authors: "LeMaster, Edward A. and Rock, Stephen M."
+  title: "A Local-Area GPS Pseudolite-Based Mars Navigation System"
+  citation: "Presented at the IEEE 10th International Conference on Advanced Robotics, Budapest, Hungary, August 2001."
+  url: ""
+
+- year: 2001
+  month: February
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C. and Enge, Per K."
+  title: "Analysis of the Enhanced LORAN Data Channel"
+  citation: "Presented at the German Institute of Navigation Conference, Bonn, Germany, February 2001."
+  url: ""
+
+- year: 2001
+  month: September
+  first_author_last: "Luo"
+  category: conference
+  authors: "Luo, Ming, Akos, Dennis M., Koenig, Michael, Opshaug, Guttorm, Pullen, Samuel P., Enge, Per K., Erlandson, Bob, and Frodge, Sally"
+  title: "Testing and Research on Interference to GPS from UWB Transmitters"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2001."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2001
+  month: September
+  first_author_last: "Normark"
+  category: conference
+  authors: "Normark, Per-Ludvig, Xie, Gang, Akos, Dennis M., Pullen, Samuel P., Luo, Ming, Lee, Jiyun, and Enge, Per K."
+  title: "The Next Generation Integrity Monitor Testbed (IMT) for Ground System Development and Validation Testing"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2001."
+  url: ""
+
+- year: 2001
+  month: September
+  first_author_last: "Opshaug"
+  category: conference
+  authors: "Opshaug, Guttorm and Enge, Per K."
+  title: "GPS and UWB for Indoor Navigation"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2001."
+  url: ""
+
+- year: 2001
+  month: June
+  first_author_last: "Phelts"
+  category: theses
+  authors: "Phelts, R. Eric"
+  title: "Multicorrelator Techniques for Robust Mitigation of Threats to GPS Signal Quality"
+  citation: "Ph.D. Dissertation, Stanford University, June 2001."
+  url: ""
+
+- year: 2001
+  month: September
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric, Mitelman, Alexander M., Pullen, Samuel P., Akos, Dennis M., and Enge, Per K."
+  title: "Transient Performance Analysis of a Multicorrelator Signal Quality Monitor"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2001."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2001
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P., Lee, Jiyun, Luo, Ming, Pervan, Boris S., Chan, Fang-Chen, and Gratton, Livio"
+  title: "Ephemeris Protection Level Equations and Monitor Algorithms for GBAS"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2001."
+  url: ""
+
+- year: 2001
+  month: March
+  first_author_last: "Rekow"
+  category: theses
+  authors: "Rekow, Andrew"
+  title: "System Identification, Adaptive Control and Formation Driving of Farm Tractors"
+  citation: "Ph.D. Dissertation, Stanford University, March 2001."
+  url: ""
+
+- year: 2001
+  month: September
+  first_author_last: "Vidarsson"
+  category: conference
+  authors: "Vidarsson, Logi, Pullen, Samuel P., Green, Gaylord, and Enge, Per K."
+  title: "Satellite Autonomous Integrity Monitoring and Its Role in Enhancing GPS User Performance"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2001."
+  url: ""
+
+- year: 2001
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Hansen, Andrew J., and Enge, Per K."
+  title: "Message Type 28"
+  citation: "Presented at the ION National Technical Meeting, Long Beach, California, January 2001."
+  url: ""
+
+- year: 2001
+  season: Summer
+  first_author_last: "Walter"
+  category: journal
+  authors: "Walter, Todd, Hansen, Andrew, Blanch, Juan, Enge, Per, Mannucci, Tony, Pi, Xiaoqing, Sparks, Larry, Iijima, Byron, El-Arini, Bakry, Lejeune, Roland, Hagen, Mine, Altshuler, Eric, Fries, Rob, and Chu, Aleck"
+  title: "Robust Detection of Ionospheric Irregularities"
+  citation: "Published in NAVIGATION, Vol. 48, No. 2, Summer 2001, pp. 89-100, DOI 10.1002/j.2161-4296.2001.tb00231.x."
+  url: ""
+
+- year: 2001
+  month: June
+  first_author_last: "Xie"
+  category: conference
+  authors: "Xie, Gang, Pullen, Samuel P., Luo, Ming, Normark, Per-Ludvig, Akos, Dennis M., Lee, Jiyun, Enge, Per K., and Pervan, Boris S."
+  title: "Integrity Design and Updated Test Results for the Stanford LAAS Integrity Monitor Testbed"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Albuquerque, New Mexico, June 2001."
+  url: ""
