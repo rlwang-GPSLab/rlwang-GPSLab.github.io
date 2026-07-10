@@ -6983,3 +6983,1775 @@
   title: "Integrity Design and Updated Test Results for the Stanford LAAS Integrity Monitor Testbed"
   citation: "Presented at the Institute of Navigation Annual Meeting, Albuquerque, New Mexico, June 2001."
   url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Akos"
+  category: conference
+  authors: "Akos, Dennis M., Normark, Per-Ludvig, Lee, Jeong-Tack, Gromov, Konstantin, Tsui, James B. Y., and Schamus, John"
+  title: "Low Power Global Navigation Satellite System (GNSS) Signal Detection and Processing"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  url: ""
+
+- year: 2000
+  month: December
+  first_author_last: "Alter"
+  category: theses
+  authors: "Alter, Keith"
+  title: "Using Wide Area Differential GPS to Improve Total System Error for Precision Flight Operations"
+  citation: "Ph.D. Dissertation, Stanford University, December 2000."
+  url: ""
+
+- year: 2000
+  month: May
+  first_author_last: "Barrows"
+  category: theses
+  authors: "Barrows, Andrew"
+  title: "GPS 3-D Cockpit Displays: Sensors, Algorithms, and Flight Testing"
+  citation: "Ph.D. Dissertation, Stanford University, May 2000."
+  url: ""
+
+- year: 2000
+  month: January
+  first_author_last: "Barrows"
+  category: conference
+  authors: "Barrows, Andrew K. and Powell, J. David"
+  title: "Flying a Tunnel-in-the-Sky Display Within the Current Airspace System"
+  citation: "Presented at the AIAA 38th Aerospace Sciences Meeting, Reno, Nevada, January 2000."
+  url: ""
+
+- year: 2000
+  month: May
+  first_author_last: "Fuller"
+  category: theses
+  authors: "Fuller, Richard A."
+  title: "Aviation Utilization of Geostationary Satellites for the Augmentation of GPS: Ranging and Data Link"
+  citation: "Ph.D. Dissertation, Stanford University, May 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Fuller"
+  category: conference
+  authors: "Fuller, Richard A., Walter, Todd, and Enge, Per K."
+  title: "Burst Mode Message Loss Effects on WAAS Availability"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  url: ""
+
+- year: 2000
+  month: March
+  first_author_last: "Gebre-Egziabher"
+  category: conference
+  authors: "Gebre-Egziabher, Demoz and Powell, J. David"
+  title: "A DME Based Area Navigation System for GPS/WAAS Interference Mitigation in General Aviation Applications"
+  citation: "Presented at the IEEE Position Location and Navigation Symposium (PLANS), San Diego, California, March 2000."
+  url: ""
+
+- year: 2000
+  month: March
+  first_author_last: "Gebre-Egziabher"
+  category: conference
+  authors: "Gebre-Egziabher, Demoz, Elkaim, Gabriel H., and Powell, J. David"
+  title: "A Gyro-Free Quaternion-Based Attitude Determination System Suitable for Implementation Using Low Cost Sensors"
+  citation: "Presented at the IEEE Position Location and Navigation Symposium (PLANS), San Diego, California, March 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Gromov"
+  category: conference
+  authors: "Gromov, Konstantin, Akos, Dennis M., Pullen, Samuel P., Enge, Per K., and Parkinson, Bradford W."
+  title: "GIDL: Generalized Interference Detection and Localization System"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  url: ""
+
+- year: 2000
+  month: January
+  first_author_last: "Hansen"
+  category: conference
+  authors: "Hansen, Andrew J., Peterson, Eric, Walter, Todd, and Enge, Per K."
+  title: "Correlation Structure of Ionospheric Estimation and Correlation for WAAS"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Hansen"
+  category: conference
+  authors: "Hansen, Andrew J., Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Ionospheric Correlation Analysis for WAAS: Quiet and Stormy"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  url: ""
+
+- year: 2000
+  month: August
+  first_author_last: "Houck"
+  category: conference
+  authors: "Houck, Sharon W. and Powell, J. David"
+  title: "Visual, Cruise Formation Flying Dynamics"
+  citation: "Presented at the AIAA Atmospheric Flight Mechanics Conference, Denver, Colorado, August 2000."
+  url: ""
+
+- year: 2000
+  month: October
+  first_author_last: "Houck"
+  category: conference
+  authors: "Houck, Sharon W. and Powell, J. David"
+  title: "A Parametric Sensitivity Study of Ultra Closely Spaced Parallel Approaches"
+  citation: "Presented at the Digital Avionics Systems Conference, Philadelphia, Pennsylvania, October 2000."
+  url: ""
+
+- year: 2000
+  month: January
+  first_author_last: "Jan"
+  category: conference
+  authors: "Jan, James Shau-Shiun and Enge, Per K."
+  title: "Using GPS to Synthesize a Large Antenna Aperture When the Elements Are Mobile"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2000."
+  url: ""
+
+- year: 2000
+  month: October
+  first_author_last: "Jennings"
+  category: conference
+  authors: "Jennings, Chad and Powell, J. David"
+  title: "Synthetic Vision Displays for Instrument Landings and Traffic Awareness — Development and Flight Testing"
+  citation: "Presented at the Digital Avionics Systems Conference, Philadelphia, Pennsylvania, October 2000."
+  url: ""
+
+- year: 2000
+  month: August
+  first_author_last: "Jung"
+  category: theses
+  authors: "Jung, Jaewoo"
+  title: "High Integrity Carrier Phase Navigation Using Multiple Civil GPS Signals"
+  citation: "Ph.D. Dissertation, Stanford University, August 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Jung"
+  category: conference
+  authors: "Jung, Jaewoo, Enge, Per K., and Pervan, Boris"
+  title: "Optimization of Cascade Integer Resolution with Three Civil GPS Frequencies"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  url: ""
+
+- year: 2000
+  month: May
+  first_author_last: "Ko"
+  category: theses
+  authors: "Ko, Ping-Ya"
+  title: "GPS-Based Precision Approach Landing Navigation"
+  citation: "Ph.D. Dissertation, Stanford University, May 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "LeMaster"
+  category: conference
+  authors: "LeMaster, Edward A. and Rock, Stephen M."
+  title: "Field Test Results for a Self-Calibrating Pseudolite Array"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  url: ""
+
+- year: 2000
+  month: March
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C. and Enge, Per K."
+  title: "Broadcasting Data from an SBAS Reference Network over Low Rate Broadcast Channels"
+  citation: "Presented at the German Institute of Navigation Conference, Bonn, Germany, March 2000."
+  url: ""
+
+- year: 2000
+  month: June
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C. and Enge, Per K."
+  title: "Broadcasting Data from an SBAS Reference Network Using LORAN"
+  citation: "Presented at the Institute of Navigation Annual Meeting, San Diego, California, June 2000."
+  url: ""
+
+- year: 2000
+  month: November
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C. and Enge, Per K."
+  title: "Data Transmission Using LORAN-C"
+  citation: "Presented at the 29th Annual Convention and Technical Symposium of the International Loran Association, Washington, D.C., November 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Luo"
+  category: conference
+  authors: "Luo, Ming, Akos, Dennis M., Pullen, Samuel P., and Enge, Per K."
+  title: "Interference to GPS from UWB Transmitters"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Mitelman"
+  category: conference
+  authors: "Mitelman, Alexander M., Phelts, R. Eric, Akos, Dennis M., Pullen, Sam, and Enge, Per K."
+  title: "A Real-Time Signal Quality Monitor for GPS Augmentation Systems"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2000
+  season: Summer
+  first_author_last: "Nichols"
+  category: journal
+  authors: "Nichols, Jonathan, Hansen, Andrew, Walter, Todd, and Enge, Per"
+  title: "High-Latitude Measurements of Ionospheric Scintillation Using the NSTB"
+  citation: "Published in NAVIGATION, Vol. 47, No. 2, Summer 2000, pp. 112-120, DOI 10.1002/j.2161-4296.2000.tb00206.x."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Opshaug"
+  category: conference
+  authors: "Opshaug, Guttorm and Enge, Per K."
+  title: "Robotic Snow Cat"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2000
+  month: January
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric and Enge, Per K."
+  title: "The Case for Narrowband Receivers"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2000."
+  url: ""
+
+- year: 2000
+  month: March
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric and Enge, Per K."
+  title: "Multipath Mitigation for Narrowband Receivers"
+  citation: "Presented at the IEEE Position Location and Navigation Symposium (PLANS), San Diego, California, March 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric and Enge, Per K."
+  title: "The Multipath Invariance Approach for Code Multipath Mitigation"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric, Akos, Dennis, and Enge, Per K."
+  title: "Robust Signal Quality Monitoring and Detection of Evil Waveforms"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  url: ""
+
+- year: 2000
+  month: December
+  first_author_last: "Rabinowitz"
+  category: theses
+  authors: "Rabinowitz, Matthew"
+  title: "A Differential Carrier-Phase Navigation System Combining GPS with Low Earth Orbit Satellites for Rapid Resolution of Integer Cycle Ambiguities"
+  citation: "Ph.D. Dissertation, Stanford University, December 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Rabinowitz"
+  category: conference
+  authors: "Rabinowitz, Matthew, Parkinson, Bradford W., Gromov, Konstantin, and Cohen, Clark E."
+  title: "Architectures for Joint GPS/LEO Satellite Carrier Phase Receivers Designed for Rapid Robust Resolution of Carrier Cycle Ambiguities on Mobile Platforms"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Rabinowitz"
+  category: conference
+  authors: "Rabinowitz, Matthew, Parkinson, Bradford W., and Spilker, James J."
+  title: "Some Capabilities of a Joint GPS-LEO Navigation System"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  url: ""
+
+- year: 2000
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Hansen, Andrew J., Blanch, Juan A., and Enge, Per K."
+  title: "Robust Detection of Ionospheric Irregularities"
+  citation: "Presented at the Institute of Navigation GPS Conference, Salt Lake City, Utah, September 2000."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 1999
+  month: January
+  first_author_last: "Abbott"
+  category: journal
+  authors: "Abbott, Eric C. and Powell, J. David"
+  title: "Land-Vehicle Navigation Using GPS"
+  citation: "Published in Proceedings of the IEEE, Vol. 87, No. 1, pp. 145-162, January 1999."
+  url: ""
+
+- year: 1999
+  month: April
+  first_author_last: "Barrows"
+  category: conference
+  authors: "Barrows, Andrew K., Alter, Keith W., Jennings, Chad W., and Powell, J. David"
+  title: "Alaskan Flight Trials of a Synthetic Vision System for Instrument Landings of a Piston Twin Aircraft"
+  citation: "Presented at the SPIE Enhanced and Synthetic Vision Conference, Orlando, Florida, April 1999."
+  url: ""
+
+- year: 1999
+  month: June
+  first_author_last: "Barrows"
+  category: conference
+  authors: "Barrows, Andrew K. and Powell, J. David"
+  title: "Tunnel-in-the-Sky Cockpit Display for Complex Remote Sensing Flight Trajectories"
+  citation: "Presented at the Airborne Remote Sensing Conference, Ottawa, Canada, June 1999."
+  url: ""
+
+- year: 1999
+  month: June
+  first_author_last: "Bell"
+  category: theses
+  authors: "Bell, Thomas"
+  title: "Precision Robotic Control of Agricultural Vehicles on Realistic Farm Trajectories"
+  citation: "Ph.D. Dissertation, Stanford University, June 1999."
+  url: ""
+
+- year: 1999
+  month: January
+  first_author_last: "Christie"
+  category: conference
+  authors: "Christie, Jock R. I., Ko, Ping-Ya, Hansen, Andrew J., Dai, Donghai, Pullen, Samuel P., Pervan, Boris S., and Parkinson, Bradford W."
+  title: "The Effects of Local Ionospheric Decorrelation on LAAS: Theory and Experimental Results"
+  citation: "Presented at the ION National Technical Meeting, San Diego, California, January 1999."
+  url: ""
+
+- year: 1999
+  first_author_last: "Enge"
+  category: journal
+  authors: "Enge, Per and Misra, Pratap"
+  title: "Special Issue on Global Positioning System"
+  citation: "Published in Proceedings of the IEEE, Vol. 87, No. 1, pp. 3-15, 1999."
+  url: ""
+
+- year: 1999
+  first_author_last: "Enge"
+  category: journal
+  authors: "Enge, Per"
+  title: "Local Area Augmentation of GPS for the Precision Approach of Aircraft"
+  citation: "Published in Proceedings of the IEEE, Vol. 87, No. 1, pp. 111-132, DOI 10.1109/5.736345, 1999."
+  url: ""
+
+- year: 1999
+  month: October
+  day: 12
+  first_author_last: "Enge"
+  category: other
+  authors: "Enge, Per, Phelts, Eric, and Mitelman, Alexander"
+  title: "Detecting Anomalous Signals from GPS Satellites"
+  citation: "Unpublished draft paper, October 12, 1999. Includes figures for the paper."
+  url: ""
+
+- year: 1999
+  month: January
+  first_author_last: "Fuller"
+  category: conference
+  authors: "Fuller, Richard A., Walter, Todd, Houck, Sharon W., and Enge, Per K."
+  title: "Flight Trials of a Geostationary Satellite Based Augmentation System at High Latitudes and for Dual Satellite Coverage"
+  citation: "Presented at the ION National Technical Meeting, San Diego, California, January 1999."
+  url: ""
+
+- year: 1999
+  month: January
+  first_author_last: "Gebre-Egziabher"
+  category: conference
+  authors: "Gebre-Egziabher, Demoz, Lo, Sherman C., Powell, J. David, and Enge, Per K."
+  title: "GPS Supplemental Navigation Systems for Use During the Transition to a Sole-Means-GPS National Airspace System"
+  citation: "Presented at the ION National Technical Meeting, San Diego, California, January 1999."
+  url: ""
+
+- year: 1999
+  month: September
+  first_author_last: "Gromov"
+  category: conference
+  authors: "Gromov, Konstantin, Akos, Dennis M., Pullen, Samuel P., Enge, Per K., Parkinson, Bradford W., and Pervan, Boris S."
+  title: "Interference Direction Finding for Aviation Applications of GPS"
+  citation: "Presented at the Institute of Navigation GPS Conference, Nashville, Tennessee, September 1999."
+  url: ""
+
+- year: 1999
+  month: June
+  first_author_last: "Hayward"
+  category: conference
+  authors: "Hayward, Roger C., Marchick, Adam, and Powell, J. David"
+  title: "Single Baseline GPS Based Attitude Heading Reference System (AHRS) for Aircraft Applications"
+  citation: "Presented at the IEEE American Control Conference, San Diego, California, June 1999."
+  url: ""
+
+- year: 1999
+  month: September
+  first_author_last: "Houck"
+  category: conference
+  authors: "Houck, Sharon W., Barrows, Andrew K., Parkinson, Bradford W., Enge, Per K., and Powell, J. David"
+  title: "Flight Testing WAAS for Use in Closely Spaced Parallel Approaches"
+  citation: "Presented at the ION GPS Conference, Nashville, Tennessee, September 1999."
+  url: ""
+
+- year: 1999
+  month: September
+  first_author_last: "Jennings"
+  category: conference
+  authors: "Jennings, Chad W., Alter, Keith W., Barrows, Andrew K., Enge, Per K., and Powell, J. David"
+  title: "3-D Perspective Displays for Guidance and Traffic Awareness"
+  citation: "Presented at the ION GPS Conference, Nashville, Tennessee, September 1999."
+  url: ""
+
+- year: 1999
+  month: September
+  first_author_last: "Jung"
+  category: conference
+  authors: "Jung, Jaewoo"
+  title: "High Integrity Carrier Phase Navigation for Future LAAS Using Multiple Civilian GPS Signals"
+  citation: "Presented at the Institute of Navigation GPS Conference, Nashville, Tennessee, September 1999."
+  url: ""
+
+- year: 1999
+  month: September
+  first_author_last: "LeMaster"
+  category: conference
+  authors: "LeMaster, Edward A. and Rock, Stephen M."
+  title: "Self-Calibration of Pseudolite Arrays Using Self-Differencing Transceivers"
+  citation: "Presented at the ION GPS Conference, Nashville, Tennessee, September 1999."
+  url: ""
+
+- year: 1999
+  month: January
+  first_author_last: "Li"
+  category: conference
+  authors: "Li, Jie, Ndili, Awele, Ward, Lisa, and Buchman, Saps"
+  title: "GPS Receiver Satellite/Antenna Selection Algorithm for the Stanford Gravity Probe B Relativity Mission"
+  citation: "Presented at the ION National Technical Meeting, San Diego, California, January 1999."
+  url: ""
+
+- year: 1999
+  month: January
+  first_author_last: "Mitelman"
+  category: conference
+  authors: "Mitelman, Alexander M., Jung, Jaewoo, and Enge, Per K."
+  title: "LAAS Monitoring for a Most Evil Satellite Failure"
+  citation: "Presented at the ION National Technical Meeting, San Diego, California, January 1999."
+  url: ""
+
+- year: 1999
+  month: November
+  first_author_last: "Olsen"
+  category: theses
+  authors: "Olsen, Eric"
+  title: "GPS Sensing for Formation Flying Vehicles"
+  citation: "Ph.D. Dissertation, Stanford University, November 1999."
+  url: ""
+
+- year: 1999
+  month: July
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric, Stone, Jonathan M., Enge, Per K., and Powell, J. David"
+  title: "Software-Based Multipath Mitigation: Sampling for Multipath Invariance"
+  citation: "Presented at the 4th International Symposium on Satellite Navigation Technology and Applications, Brisbane, Australia, July 1999."
+  url: ""
+
+- year: 1999
+  month: January
+  first_author_last: "Stone"
+  category: conference
+  authors: "Stone, Jonathan M., LeMaster, Edward A., Powell, J. David, and Rock, Stephen M."
+  title: "GPS Pseudolite Transceivers and Their Applications"
+  citation: "Presented at the ION National Technical Meeting, San Diego, California, January 1999."
+  url: ""
+
+- year: 1999
+  month: August
+  first_author_last: "Tsai"
+  category: theses
+  authors: "Tsai, Yeou-Jyh"
+  title: "Wide Area Differential Operation of the Global Positioning System: Ephemeris and Clock Operations"
+  citation: "Ph.D. Dissertation, Stanford University, August 1999."
+  url: ""
+
+- year: 1999
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd F."
+  title: "WAAS MOPS: Practical Examples"
+  citation: "Presented at the ION National Technical Meeting, San Diego, California, January 1999."
+  url: ""
+
+- year: 1999
+  month: June
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Hansen, Andrew J., and Enge, Per K."
+  title: "Validation of the WAAS MOPS Integrity Equation"
+  citation: "Presented at the ION Annual Meeting, Cambridge, Massachusetts, June 1999."
+  url: ""
+
+- year: 1998
+  month: September
+  first_author_last: "Christie"
+  category: conference
+  authors: "Christie, Jock R. I., Ko, Ping-Ya, Pervan, Boris S., Enge, Per K., Powell, J. David, and Parkinson, Bradford W."
+  title: "Analytical and Experimental Observations of Ionospheric and Tropospheric Decorrelation Effects for Differential Satellite Navigation During Precision Approach"
+  citation: "Presented at the ION GPS Conference, Nashville, Tennessee, September 1998."
+  url: ""
+
+- year: 1998
+  month: September
+  first_author_last: "Fuller"
+  category: conference
+  authors: "Fuller, Richard A., Dai, Donghai, Walter, Todd, Comp, Christopher J., Enge, Per K., and Powell, J. David"
+  title: "Interoperation and Integration of Satellite Based Augmentation Systems"
+  citation: "Presented at ION GPS '98, Nashville, Tennessee, September 1998."
+  url: ""
+
+- year: 1998
+  month: April
+  first_author_last: "Gebre-Egziabher"
+  category: conference
+  authors: "Gebre-Egziabher, Demoz, Hayward, Roger C., and Powell, J. David"
+  title: "A Low-Cost GPS/Inertial Attitude Heading Reference System (AHRS) for General Aviation Applications"
+  citation: "Presented at the IEEE Position, Location and Navigation Symposium (PLANS '98), Palm Springs, California, April 1998."
+  url: ""
+
+- year: 1998
+  month: May
+  first_author_last: "Hayward"
+  category: conference
+  authors: "Hayward, Roger C., Gebre-Egziabher, Demoz, and Powell, J. David"
+  title: "GPS-Based Attitude for Aircraft"
+  citation: "Presented at the International Conference on Integrated Navigation Systems, St. Petersburg, Russia, May 1998."
+  url: ""
+
+- year: 1998
+  month: September
+  first_author_last: "Hayward"
+  category: conference
+  authors: "Hayward, Roger C. and Powell, J. David"
+  title: "Real Time Calibration of Antenna Phase Errors for Ultra Short Baseline Attitude Systems"
+  citation: "Presented at ION GPS '98, Nashville, Tennessee, September 1998."
+  url: ""
+
+- year: 1998
+  month: September
+  first_author_last: "LeMaster"
+  category: conference
+  authors: "LeMaster, Edward A. and Rock, Stephen M"
+  title: "Mars Exploration Using Self-Calibrating Pseudolite Arrays"
+  citation: "Presented at the ION GPS Conference, Nashville, Tennessee, September 1998."
+  url: ""
+
+- year: 1998
+  month: August
+  first_author_last: "Ndili"
+  category: theses
+  authors: "Ndili, Awele"
+  title: "Robust GPS Autonomous Signal Quality Monitoring"
+  citation: "Ph.D. Dissertation, Stanford University, August 1998."
+  url: ""
+
+- year: 1998
+  month: April
+  first_author_last: "Ndili"
+  category: conference
+  authors: "Ndili, Awele and Enge, Per K."
+  title: "GPS Receiver Autonomous Interference Detection"
+  citation: "Presented at the IEEE Position, Location and Navigation Symposium (PLANS '98), Palm Springs, California, April 1998."
+  url: ""
+
+- year: 1998
+  season: Spring
+  first_author_last: "Pervan"
+  category: journal
+  authors: "Pervan, Boris, Lawrence, David, Gromov, Konstantin, Opshaug, Guttorm, Christie, Jock, Ko, Ping-Ya, Mitelman, Alexander, Pullen, Sam, Enge, Per, and Parkinson, Bradford"
+  title: "Flight Test Evaluation of an Alternative Local Area Augmentation System Architecture"
+  citation: "Published in NAVIGATION, Vol. 45, No. 1, Spring 1998, pp. 31-38, DOI 10.1002/j.2161-4296.1998.tb02369.x."
+  url: ""
+
+- year: 1998
+  season: Spring
+  first_author_last: "Pervan"
+  category: journal
+  authors: "Pervan, Boris S., Pullen, Samuel P., and Christie, Jock R. I."
+  title: "A Multiple Hypothesis Approach to Satellite Navigation Integrity"
+  citation: "Published in NAVIGATION, Vol. 45, No. 1, Spring 1998, pp. 61-71, DOI 10.1002/j.2161-4296.1998.tb02372.x."
+  url: ""
+
+- year: 1998
+  month: July
+  first_author_last: "Pervan"
+  category: journal
+  authors: "Pervan, Boris S., Pullen, Samuel P., Lawrence, David G., Gromov, Konstantin, Christie, Jock R. I., Opshaug, Guttorm, Lu, Vicky, Ko, Ping-Ya, Enge, Per K., and Parkinson, Bradford W."
+  title: "Prototype LAAS Architecture Design Considerations"
+  citation: "Published in GPS Solutions, Vol. 2, No. 1, July 1998."
+  url: ""
+
+- year: 1997
+  month: March
+  first_author_last: "Abbott"
+  category: theses
+  authors: "Abbott, Eric"
+  title: "Land-Vehicle Navigation Systems: An Examination of the Influence of Individual Navigation Aids on System Performance"
+  citation: "Ph.D. Dissertation, Stanford University, March 1997."
+  url: ""
+
+- year: 1997
+  month: September
+  first_author_last: "Barrows"
+  category: conference
+  authors: "Barrows, Andrew K., Alter, Keith W., Enge, Per K., Parkinson, Bradford W., and Powell, J. David"
+  title: "Operational Experience with and Improvements to a Tunnel-in-the-Sky Display for Light Aircraft"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1997."
+  url: ""
+
+- year: 1997
+  season: Spring
+  first_author_last: "Breivik"
+  category: journal
+  authors: "Breivik, K., Forssell, B., Kee, C., Enge, P., and Walter, T."
+  title: "Estimation of Multipath Error in GPS Pseudorange Measurements"
+  citation: "Published in NAVIGATION, Vol. 44, No. 1, Spring 1997, pp. 43-52, DOI 10.1002/j.2161-4296.1997.tb01938.x."
+  url: ""
+
+- year: 1997
+  month: April
+  first_author_last: "Christie"
+  category: conference
+  authors: "Christie, Jock R. I., Parkinson, Bradford W., and Enge, Per K."
+  title: "A Proposed Signal Design for GNSS2: The Use of Faster and Longer Codes to Provide Real-Time Single Frequency Ionospheric Measurements"
+  citation: "Presented at GNSS-97, Munich, Germany, April 1997."
+  url: ""
+
+- year: 1997
+  month: June
+  first_author_last: "Chao"
+  category: theses
+  authors: "Chao, Yi-Chung"
+  title: "Real Time Implementation of the Wide Area Augmentation System for the Global Positioning System with an Emphasis on Ionospheric Modeling"
+  citation: "Ph.D. Dissertation, Stanford University, June 1997."
+  url: ""
+
+- year: 1997
+  first_author_last: "Cobb"
+  category: theses
+  authors: "Cobb, H. Stewart"
+  title: "GPS Pseudolites: Theory, Design, and Applications"
+  citation: "Ph.D. Dissertation, Stanford University, 1997."
+  url: ""
+
+- year: 1997
+  month: September
+  first_author_last: "Dai"
+  category: conference
+  authors: "Dai, Donghai, Walter, Todd, Comp, Christopher J., Tsai, Yeo-Jyh, Ko, Ping-Ya, Enge, Per K., and Powell, J. David"
+  title: "High Integrity Multipath Mitigation Techniques for Ground Reference Stations"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1997."
+  url: ""
+
+- year: 1997
+  month: September
+  first_author_last: "Elkaim"
+  category: conference
+  authors: "Elkaim, Gabriel H., O'Connor, Michael L., Bell, Thomas, and Parkinson, Bradford W."
+  title: "System Identification and Robust Control of Farm Vehicles Using Carrier-Phase Differential GPS"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1997."
+  url: ""
+
+- year: 1997
+  season: Spring
+  first_author_last: "Enge"
+  category: journal
+  authors: "Enge, Per"
+  title: "WAAS Messaging System: Data Rate, Capacity, and Forward Error Correction"
+  citation: "Published in NAVIGATION, Vol. 44, No. 1, Spring 1997, pp. 63-76, DOI 10.1002/j.2161-4296.1997.tb01940.x."
+  url: ""
+
+- year: 1997
+  month: September
+  first_author_last: "Evans"
+  category: conference
+  authors: "Evans, Jennifer D., Elkaim, Gabriel H., Lo, Sherman C., and Parkinson, Bradford W."
+  title: "System Identification of an Autonomous Aircraft Using GPS"
+  citation: "Presented at the 10th International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GPS 1997), Kansas City, Missouri, September 1997, pp. 1065-1071."
+  url: ""
+
+- year: 1997
+  month: January
+  first_author_last: "Hansen"
+  category: conference
+  authors: "Hansen, Andrew J., Chao, Yi-Chung, Walter, Todd, and Enge, Per K."
+  title: "Ionospheric Estimation and Integrity Threat Detection"
+  citation: "Presented at ION NTM '97, Santa Monica, California, January 1997."
+  url: ""
+
+- year: 1997
+  month: September
+  first_author_last: "Hansen"
+  category: conference
+  authors: "Hansen, Andrew J., Walter, Todd, and Enge, Per K."
+  title: "Ionospheric Correction Using Tomography"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1997."
+  url: ""
+
+- year: 1997
+  month: September
+  first_author_last: "Hayward"
+  category: conference
+  authors: "Hayward, Roger C., Gebre-Egziabher, Demoz, Schwall, Matt, Powell, J. David, and Wilson, John"
+  title: "Inertially Aided GPS Based Attitude Heading Reference System (AHRS) for General Aviation Aircraft"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1997."
+  url: ""
+
+- year: 1997
+  season: Spring
+  first_author_last: "Kee"
+  category: journal
+  authors: "Kee, Changdon, Walter, Todd, Enge, Per, and Parkinson, Bradford"
+  title: "Quality Control Algorithms on WAAS Wide-Area Reference Stations"
+  citation: "Published in NAVIGATION, Vol. 44, No. 1, Spring 1997, pp. 53-62, DOI 10.1002/j.2161-4296.1997.tb01939.x."
+  url: ""
+
+- year: 1997
+  month: February
+  first_author_last: "Lightsey"
+  category: theses
+  authors: "Lightsey, Glenn"
+  title: "Development and Flight Demonstration of a GPS Receiver for Space"
+  citation: "Ph.D. Dissertation, Stanford University, February 1997."
+  url: ""
+
+- year: 1997
+  month: June
+  first_author_last: "Lo"
+  category: journal
+  authors: "Lo, Sherman, Kee, Changdon, and Enge, Per"
+  title: "Algorithms for Crossover Point Determination"
+  citation: "Published in Computers & Mathematics with Applications, Vol. 33, No. 11, pp. 117-131, June 1997. DOI 10.1016/S0898-1221(97)00089-8."
+  url: ""
+
+- year: 1997
+  month: June
+  first_author_last: "Ndili"
+  category: conference
+  authors: "Ndili, Awele and Enge, Per K."
+  title: "Receiver Autonomous Interference Detection"
+  citation: "Presented at the 53rd Annual Meeting of the Institute of Navigation, Albuquerque, New Mexico, June 1997."
+  url: ""
+
+- year: 1997
+  month: December
+  first_author_last: "O'Connor"
+  category: theses
+  authors: "O'Connor, Michael"
+  title: "Carrier-Phase Differential GPS for Automatic Control of Land Vehicles"
+  citation: "Ph.D. Dissertation, Stanford University, December 1997."
+  url: ""
+
+- year: 1997
+  month: April
+  first_author_last: "Pervan"
+  category: conference
+  authors: "Pervan, Boris S., Pullen, Samuel P., Lawrence, David G., Gromov, Konstantin, Christie, Jock R. I., Opshaug, Guttorm, Lu, Vicky, Ko, Ping-Ya, Enge, Per K., and Parkinson, Bradford W."
+  title: "Development, Implementation, and Testing of a Prototype LAAS Architecture"
+  citation: "Presented at GNSS-97, Munich, Germany, April 1997."
+  url: ""
+
+- year: 1997
+  month: July
+  first_author_last: "Pervan"
+  category: journal
+  authors: "Pervan, Boris S. and Parkinson, Bradford W."
+  title: "Cycle Ambiguity Estimation for Aircraft Precision Landing Using the Global Positioning System"
+  citation: "Published in Journal of Guidance, Control, and Dynamics, Vol. 20, No. 4, July 1997."
+  url: ""
+
+- year: 1997
+  month: September
+  first_author_last: "Pervan"
+  category: conference
+  authors: "Pervan, Boris S., Lawrence, David G., Gromov, Konstantin, Opshaug, Guttorm, Christie, Jock R. I., Ko, Ping-Ya, Mitelman, Alexander M., Pullen, Samuel P., Enge, Per K., and Parkinson, Bradford W."
+  title: "Flight Test Evaluation of a Prototype Local Area Augmentation System Architecture"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1997."
+  url: ""
+
+- year: 1997
+  month: May
+  first_author_last: "Teague"
+  category: theses
+  authors: "Teague, Edward Harrison"
+  title: "Flexible Structure Estimation and Control Using the Global Positioning System"
+  citation: "Ph.D. Dissertation, Stanford University, May 1997."
+  url: ""
+
+- year: 1997
+  month: April
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Enge, Per K., and Hansen, Andrew J."
+  title: "An Integrity Equation for Use with Space Based Augmentation Systems"
+  citation: "Presented at GNSS-97, Munich, Germany, April 1997."
+  url: ""
+
+- year: 1997
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Enge, Per K., and Hansen, Andrew J."
+  title: "A Proposed Integrity Equation for WAAS MOPS"
+  citation: "Presented at the 10th International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GPS 1997), Kansas City, Missouri, September 1997, pp. 475-484."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 1996
+  season: Summer
+  first_author_last: "Barrows"
+  category: journal
+  authors: "Barrows, Andrew K., Enge, Per K., Parkinson, Bradford W., and Powell, J. David"
+  title: "Evaluation of a Perspective-View Cockpit Display for General Aviation Using GPS"
+  citation: "Published in NAVIGATION, Vol. 43, No. 2, Summer 1996, pp. 179-190, DOI 10.1002/j.2161-4296.1996.tb01917.x."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Barrows"
+  category: conference
+  authors: "Barrows, Andrew K., Enge, Per K., Parkinson, Bradford W., and Powell, J. David"
+  title: "Flying Curved Approaches and Missed Approaches: 3-D Display Trials Onboard a Light Aircraft"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1996."
+  url: ""
+
+- year: 1996
+  month: November
+  first_author_last: "Barrows"
+  category: conference
+  authors: "Barrows, Andrew K., Gebre-Egziabher, Demoz, Hayward, Roger C., Xia, Renxin, and Powell, J. David"
+  title: "GPS-Based Attitude and Guidance Displays for General Aviation"
+  citation: "Presented at IEEE Emerging Technologies and Factory Automation '96, Kauai, Hawaii, November 1996."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Chao"
+  category: conference
+  authors: "Chao, Yi-Chung, Pullen, Samuel P., Enge, Per K., and Parkinson, Bradford W."
+  title: "Study of WAAS Ionospheric Integrity"
+  citation: "Presented at the 9th International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GPS 1996), Kansas City, Missouri, September 1996, pp. 781-788."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Christie"
+  category: conference
+  authors: "Christie, Jock R. I., Parkinson, Bradford W., and Enge, Per K."
+  title: "The Effect of the Ionosphere and C/A Frequency on GPS Signal Shape: Considerations for GNSS-2"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1996."
+  url: ""
+
+- year: 1996
+  season: Summer
+  first_author_last: "Conway"
+  category: journal
+  authors: "Conway, Andrew, Montgomery, Paul Y., Rock, Stephen M., Cannon, Robert, and Parkinson, Bradford W."
+  title: "A New Motion-Based Algorithm for GPS Attitude Integer Resolution"
+  citation: "Published in NAVIGATION, Vol. 43, No. 2, Summer 1996, pp. 191-202, DOI 10.1002/j.2161-4296.1996.tb01924.x."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Elkaim"
+  category: conference
+  authors: "Elkaim, Gabriel H., O'Connor, Michael L., Bell, Thomas, and Parkinson, Bradford W."
+  title: "System Identification of a Farm Vehicle Using Carrier-Phase Differential GPS"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1996."
+  url: ""
+
+- year: 1996
+  first_author_last: "Enge"
+  category: journal
+  authors: "Enge, Per, Walter, Todd, Pullen, Sam, Kee, Changdon, Chao, Yi-Chung, and Tsai, Yeou-Jyh"
+  title: "Wide Area Augmentation of the Global Positioning System"
+  citation: "Published in Proceedings of the IEEE, Vol. 84, No. 8, pp. 1063-1088, DOI 10.1109/5.533954."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Gazit"
+  category: theses
+  authors: "Gazit, Ran"
+  title: "Aircraft Surveillance and Collision Avoidance Using GPS"
+  citation: "Ph.D. Dissertation, Stanford University, September 1996."
+  url: ""
+
+- year: 1996
+  first_author_last: "Gazit"
+  category: journal
+  authors: "Gazit, Ran Y."
+  title: "Digital Tracking Filters with High Order Correlated Measurement Noise"
+  citation: "Published in IEEE Transactions on Aerospace and Electronic Systems, Vol. 33, No. 1, 1996, pp. 171-177."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Lawrence"
+  category: theses
+  authors: "Lawrence, David"
+  title: "Aircraft Landing Using GPS: Development and Evaluation of a Real Time System for Kinematic Position Using the Global Positioning System"
+  citation: "Ph.D. Dissertation, Stanford University, September 1996."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Lawrence"
+  category: conference
+  authors: "Lawrence, David G., Cobb, H. Stewart, Pervan, Boris S., Opshaug, Guttorm, Enge, Per K., Powell, J. David, and Parkinson, Bradford W."
+  title: "Performance Evaluation of On-Airport Local Area Augmentation System Architectures"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1996."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Lightsey"
+  category: conference
+  authors: "Lightsey, E. Glenn and Parkinson, Bradford W."
+  title: "GPS Based Attitude Determination on Nonaligned Antenna Arrays"
+  citation: "Presented at the 9th International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GPS 1996), Kansas City, Missouri, September 1996, pp. 1081-1090."
+  url: ""
+
+- year: 1996
+  month: December
+  first_author_last: "Montgomery"
+  category: theses
+  authors: "Montgomery, Paul"
+  title: "Carrier Differential GPS as a Sensor for Automatic Control: Development of a Full State Estimation and Flight Control System for an Autonomous Aircraft Based on the Global Positioning System"
+  citation: "Ph.D. Dissertation, Stanford University, December 1996."
+  url: ""
+
+- year: 1996
+  month: January
+  first_author_last: "Montgomery"
+  category: conference
+  authors: "Montgomery, Paul Y. and Parkinson, Bradford W."
+  title: "Carrier Differential GPS for Takeoff to Landing of an Autonomous Aircraft"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Santa Monica, California, January 1996."
+  url: ""
+
+- year: 1996
+  season: Summer
+  first_author_last: "O'Connor"
+  category: journal
+  authors: "O'Connor, Michael L., Elkaim, Gabriel H., and Parkinson, Bradford W."
+  title: "Carrier Phase DGPS for Closed-Loop Control of Farm and Construction Vehicles"
+  citation: "Published in NAVIGATION, Vol. 43, No. 2, Summer 1996, pp. 167-178, DOI 10.1002/j.2161-4296.1996.tb01923.x."
+  url: ""
+
+- year: 1996
+  month: June
+  first_author_last: "O'Connor"
+  category: conference
+  authors: "O'Connor, Michael L., Bell, Thomas, Elkaim, Gabriel H., and Parkinson, Bradford W."
+  title: "Automatic Steering of Farm Vehicles Using GPS"
+  citation: "Presented at the 3rd International Conference on Precision Agriculture, Minneapolis, Minnesota, June 1996."
+  url: ""
+
+- year: 1996
+  month: March
+  first_author_last: "Pervan"
+  category: theses
+  authors: "Pervan, Boris"
+  title: "Navigation Integrity for Aircraft Precision Landing Using the Global Positioning System"
+  citation: "Ph.D. Dissertation, Stanford University, March 1996."
+  url: ""
+
+- year: 1996
+  month: June
+  first_author_last: "Pullen"
+  category: theses
+  authors: "Pullen, Sam"
+  title: "Probabilistic Engineering Design Optimization: Application to Spacecraft and Navigation Systems"
+  citation: "Ph.D. Dissertation, Stanford University, June 1996."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P., Pervan, Boris S., Enge, Per K., and Parkinson, Bradford W."
+  title: "A Comprehensive Integrity Verification Architecture for On-Airport LAAS Category III Precision Landing"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1996."
+  url: ""
+
+- year: 1996
+  month: February
+  first_author_last: "Teague"
+  category: conference
+  authors: "Teague, E. Harrison, How, Jonathan P., Lawson, London G., Boerjes, Michael, and Parkinson, Bradford W."
+  title: "Techniques for Real-Time Control of Flexible Structures Using GPS"
+  citation: "Presented at the American Astronautical Society Guidance, Navigation and Control Conference, Breckenridge, Colorado, February 1996."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Teague"
+  category: conference
+  authors: "Teague, E. Harrison, How, Jonathan P., and Parkinson, Bradford W."
+  title: "Carrier Differential GPS for Real-Time Control of Large Flexible Structures"
+  citation: "Presented at the ION GPS Conference, Kansas City, Missouri, September 1996."
+  url: ""
+
+- year: 1996
+  month: September
+  first_author_last: "Uematsu"
+  category: conference
+  authors: "Uematsu, Hirohiko and Parkinson, Bradford W."
+  title: "GPS Receiver Development and Verification Tests for the Stanford Gravity Probe B Relativity Mission: Verification Test Plan and Preliminary Results"
+  citation: "Presented at the 9th International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GPS 1996), Kansas City, Missouri, September 1996, pp. 1081-1090."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Abbott"
+  category: journal
+  authors: "Abbott, Eric C. and Powell, J. David"
+  title: "An Examination of the Relative Merits of Various Sensors for Vehicle Navigation"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Barrows"
+  category: conference
+  authors: "Barrows, Andrew K., Enge, Per K., Parkinson, Bradford W., and Powell, J. David"
+  title: "Flight Tests of a 3-D Perspective-View Glass-Cockpit Display for General Aviation Using GPS"
+  citation: "Presented at ION GPS, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1995
+  month: January
+  first_author_last: "Buchman"
+  category: conference
+  authors: "Buchman, Saps, Turneaure, John P., Walter, Todd, and Everitt, C. W. Francis"
+  title: "A Low Temperature Gyroscope Clock for Gravitational Redshift Experiments"
+  citation: "Published in Rencontres de Moriond on Dark Matter in Cosmology, Clocks and Tests of Fundamental Laws, Villars-sur-Ollon, Switzerland, January 1995."
+  url: ""
+
+- year: 1995
+  month: January
+  first_author_last: "Chao"
+  category: journal
+  authors: "Chao, Yi-Chung, Tsai, Yeo-Jyh, Walter, Todd, Kee, Changdon, Enge, Per K., and Parkinson, Bradford W."
+  title: "The Ionospheric Model Improvement for the Stanford WAAS Network"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 1995, and the AAS Guidance and Control Conference, Keystone, Colorado, February 1995."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Chao"
+  category: journal
+  authors: "Chao, Yi-Chung, Tsai, Yeo-Jyh, Walter, Todd, Kee, Changdon, Enge, Per K., and Parkinson, Bradford W."
+  title: "An Algorithm for Inter-frequency Bias Calibration and Application to WAAS Ionosphere Modeling"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Cobb"
+  category: conference
+  authors: "Cobb, H. Stewart, Lawrence, David G., Pervan, Boris S., Cohen, Clark E., Powell, J. David, and Parkinson, Bradford W."
+  title: "Precision Landing Tests with Improved Integrity Beacon Pseudolites"
+  citation: "Presented at ION GPS, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Cobb"
+  category: conference
+  authors: "Cobb, H. Stewart, Lawrence, David G., Christie, Jock R. I., Walter, Todd, Chao, Yi-Chung, Powell, J. David, and Parkinson, Bradford W."
+  title: "Observed GPS Signal Continuity Interruptions"
+  citation: "Presented at ION GPS, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1995
+  month: February
+  first_author_last: "Cohen"
+  category: conference
+  authors: "Cohen, Clark E., Cobb, H. Stewart, Lawrence, David G., Pervan, Boris S., et al."
+  title: "Automatic Landing of a 737 Using GNSS Integrity Beacons"
+  citation: "Presented at ISPA, Braunschweig, Germany, February 1995."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Gazit"
+  category: journal
+  authors: "Gazit, Ran Y."
+  title: "Aircraft Tracking Using GPS Position and Velocity Reports"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1995
+  month: June
+  first_author_last: "Lawrence"
+  category: conference
+  authors: "Lawrence, David G., Pervan, Boris S., Cohen, Clark E., Cobb, H. Stewart, Powell, J. David, and Parkinson, Bradford W."
+  title: "A Real-Time Architecture for Kinematic GPS Applied to the Integrity Beacon Landing System"
+  citation: "Presented at the 51st Institute of Navigation Annual Meeting, Colorado Springs, Colorado, June 1995."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Lawrence"
+  category: journal
+  authors: "Lawrence, David G., Cobb, H. Stewart, Cohen, Clark E., Pervan, Boris S., Powell, J. David, and Parkinson, Bradford W."
+  title: "Maintaining GPS Positioning in Steep Turns Using Two Antennas"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1995
+  month: April
+  first_author_last: "Montgomery"
+  category: conference
+  authors: "Montgomery, Paul Y., Uematsu, Hirohiko, and Parkinson, Bradford W."
+  title: "Full State Estimation and Control of a Large Model Aircraft Using Carrier Phase Differential GPS"
+  citation: "Presented at DSNS, Bergen, Norway, April 1995."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "O'Connor"
+  category: conference
+  authors: "O'Connor, Michael L., Elkaim, Gabriel H., and Parkinson, Bradford W."
+  title: "Kinematic GPS for Closed Loop Control of Farm and Construction Vehicles"
+  citation: "Presented at ION GPS '95, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1995
+  season: Spring
+  first_author_last: "Parkinson"
+  category: journal
+  authors: "Parkinson, Bradford W., Stansell, Thomas, Beard, Ronald, and Gromov, Konstantin"
+  title: "A History of Satellite Navigation"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation, Vol. 42, No. 1, Special Issue, Spring 1995, pp. 109-164."
+  url: ""
+
+- year: 1995
+  month: February
+  first_author_last: "Pervan"
+  category: conference
+  authors: "Pervan, Boris S., Cohen, Clark E., Lawrence, David G., Cobb, H. Stewart, Powell, J. David, and Parkinson, Bradford W."
+  title: "High Integrity GPS-Based Precision Landing Using Integrity Beacon Pseudolites"
+  citation: "Presented at ISPA, Braunschweig, Germany, February 1995."
+  url: ""
+
+- year: 1995
+  month: June
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P., Enge, Per K., and Parkinson, Bradford W."
+  title: "A New Method for Coverage Prediction for the Wide Area Augmentation System (WAAS)"
+  citation: "Presented at the ION Annual Meeting, Colorado Springs, Colorado, June 1995."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P., Enge, Per K., and Parkinson, Bradford W."
+  title: "Global Optimization of GPS Augmentation Architectures Using Genetic Algorithms"
+  citation: "Presented at ION GPS '95, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1995
+  month: August
+  first_author_last: "Teague"
+  category: conference
+  authors: "Teague, E. Harrison, How, Jonathan P., Lawson, London G., and Parkinson, Bradford W."
+  title: "GPS as a Structural Deformation Sensor"
+  citation: "Presented at the AIAA Guidance, Navigation and Control Conference, Baltimore, Maryland, August 1995."
+  url: ""
+
+- year: 1995
+  month: January
+  first_author_last: "Tsai"
+  category: journal
+  authors: "Tsai, Yeo-Jyh, Chao, Yi-Chung, Walter, Todd, Kee, Changdon, Powell, J. David, Enge, Per K., and Parkinson, Bradford W."
+  title: "Evaluation of Orbit and Clock Models for Real Time WAAS"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 1995, and the AAS Guidance and Control Conference, Keystone, Colorado, February 1995."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Tsai"
+  category: conference
+  authors: "Tsai, Yeou-Jyh, Enge, Per, Chao, Yi-Chung, Walter, Todd, Kee, Changdon, Evans, Jennifer, Barrows, Andrew, Powell, David, and Parkinson, Bradford"
+  title: "Validation of the RTCA Message Format for WAAS"
+  citation: "Published in Proceedings of the 8th International Technical Meeting of the Satellite Division of The Institute of Navigation (ION GPS 1995), Palm Springs, California, September 1995, pp. 661-670."
+  url: ""
+
+- year: 1995
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd and Enge, Per K."
+  title: "Weighted RAIM for Precision Approach"
+  citation: "Presented at ION GPS '95, Palm Springs, California, September 1995."
+  url: ""
+
+- year: 1994
+  month: January
+  first_author_last: "Cobb"
+  category: journal
+  authors: "Cobb, H. Stewart, Cohen, Clark E., and Parkinson, Bradford W."
+  title: "Theory and Design of Pseudolites"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 1994."
+  url: ""
+
+- year: 1994
+  month: April
+  first_author_last: "Cohen"
+  category: conference
+  authors: "Cohen, Clark E., Pervan, Boris S., Cobb, H. Stewart, Lawrence, David G., Powell, J. David, and Parkinson, Bradford W."
+  title: "Achieving Required Navigation Performance Using GNSS for Category III Precision Landing"
+  citation: "Presented at DSNS-94, London, United Kingdom, April 1994."
+  url: ""
+
+- year: 1994
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E., Lightsey, E. Glenn, Parkinson, Bradford W., and Feess, William A."
+  title: "Space Flight Tests of Attitude Determination Using GPS"
+  citation: "Published in International Journal of Satellite Communications, Vol. 12, pp. 427-433, 1994."
+  url: ""
+
+- year: 1994
+  season: Summer
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E., Pervan, Boris S., Lawrence, David G., Cobb, H. Stewart, Powell, J. David, and Parkinson, Bradford W."
+  title: "Real-Time Flight Testing Using Integrity Beacons for GPS Category III Precision Landing"
+  citation: "Published in NAVIGATION, Vol. 41, No. 2, Summer 1994."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E., Lawrence, David G., Pervan, Boris S., Cobb, H. Stewart, Barrows, Andrew K., Powell, J. David, Parkinson, Bradford W., Wullschleger, Victor, and Kalinowski, S."
+  title: "Flight Test Results of Autocoupled Approaches Using GPS and Integrity Beacons"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '94, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Gazit"
+  category: journal
+  authors: "Gazit, Ran Y. and Powell, J. David"
+  title: "Communication Protocols for GPS-Based Surveillance and TCAS"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '94, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1994
+  month: April
+  first_author_last: "Kee"
+  category: conference
+  authors: "Kee, Changdon and Parkinson, Bradford W."
+  title: "Wide Area Differential GPS as a Future Navigation System in the U.S."
+  citation: "Presented at IEEE PLANS '94, Las Vegas, Nevada, April 1994."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Kee"
+  category: journal
+  authors: "Kee, Changdon and Parkinson, Bradford W."
+  title: "Calibration of Multipath Errors on GPS Pseudorange Measurements"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '94, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1994
+  month: February
+  first_author_last: "Lightsey"
+  category: conference
+  authors: "Lightsey, E. Glenn, Cohen, Clark E., Feess, William A., and Parkinson, Bradford W."
+  title: "Analysis of Spacecraft Attitude Measurements Using Onboard GPS"
+  citation: "Presented at the AAS Conference, Keystone, Colorado, February 1994."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Lightsey"
+  category: journal
+  authors: "Lightsey, E. Glenn, Cohen, Clark E., and Parkinson, Bradford W."
+  title: "Development of a GPS Receiver for Reliable Real-Time Attitude Determination in Space"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '94, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Montgomery"
+  category: journal
+  authors: "Montgomery, Paul Y., Uematsu, Hirohiko, and Parkinson, Bradford W."
+  title: "Analysis of Angular Velocity Determination Using GPS"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '94, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Ndili"
+  category: conference
+  authors: "Ndili, Awele"
+  title: "GPS Pseudolite Signal Design"
+  citation: "Presented at ION GPS '94, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1994
+  month: February
+  first_author_last: "Pervan"
+  category: conference
+  authors: "Pervan, Boris S., Cohen, Clark E., and Parkinson, Bradford W."
+  title: "Autonomous Integrity Monitoring for Precision Approach Using DGPS and a Ground-Based Pseudolite"
+  citation: "Presented at the AAS Conference, Keystone, Colorado, February 1994."
+  url: ""
+
+- year: 1994
+  month: April
+  first_author_last: "Pervan"
+  category: conference
+  authors: "Pervan, Boris S., Cohen, Clark E., and Parkinson, Bradford W."
+  title: "Integrity in Cycle Ambiguity Resolution for GPS-Based Precision Landing"
+  citation: "Presented at DSNS-94, London, United Kingdom, April 1994."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Pervan"
+  category: journal
+  authors: "Pervan, Boris S., Cohen, Clark E., Lawrence, David G., Cobb, H. Stewart, Powell, J. David, and Parkinson, Bradford W."
+  title: "Autonomous Integrity Monitoring for GPS-Based Precision Landing Using Ground-Based Integrity Beacon Pseudolites"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '94, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1994
+  month: April
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P., Pervan, Boris S., and Parkinson, Bradford W."
+  title: "A New Approach to GPS Integrity Monitoring Using Prior Probability Models and Optimal Threshold Search"
+  citation: "Presented at IEEE PLANS '94, Las Vegas, Nevada, April 1994."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P., Enge, Per K., and Parkinson, Bradford W."
+  title: "Simulation-Based Evaluation of WAAS Performance: Risk and Integrity Factors"
+  citation: "Presented at ION GPS '94, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Uematsu"
+  category: journal
+  authors: "Uematsu, Hirohiko and Parkinson, Bradford W."
+  title: "Antenna Baseline and Line Bias Estimation Using Pseudolites for GPS-Based Attitude Determination"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '94, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1994
+  month: January
+  first_author_last: "Walter"
+  category: journal
+  authors: "Walter, Todd, Pervan, Boris S., Enge, Per K., Herendeen, John, and Levin, Peter L."
+  title: "Autonomous Integrity Monitoring and Wide Area DGPS"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at the ION National Technical Meeting, San Diego, California, January 1994."
+  url: ""
+
+- year: 1994
+  month: February
+  first_author_last: "Walter"
+  category: journal
+  authors: "Walter, Todd"
+  title: "Characterizing Frequency Stability: A Continuous Power-Law Model with Discrete Sampling"
+  citation: "Published in IEEE Transactions on Instrumentation and Measurement, Vol. 43, No. 1, pp. 69-79, February 1994. DOI: 10.1109/19.286357."
+  url: ""
+
+- year: 1994
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Kee, Changdon, Chao, Yi-Chung, Tsai, Yeo-Jyh, Peled, Uri, Ceva, Juan G., Barrows, Andrew K., Abbott, Eric C., Powell, J. David, Enge, Per K., and Parkinson, Bradford W."
+  title: "Flight Trials of the Wide-Area Augmentation System (WAAS)"
+  citation: "Presented at ION GPS 1994, Salt Lake City, Utah, September 1994."
+  url: ""
+
+- year: 1993
+  month: September
+  first_author_last: "Ceva"
+  category: journal
+  authors: "Ceva, Juan G. and Parkinson, Bradford W."
+  title: "Multipath Interference in Orbiting Receivers Due to Earth Surface Reflections"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '93, Salt Lake City, Utah, September 1993."
+  url: ""
+
+- year: 1993
+  month: September
+  first_author_last: "Chao"
+  category: journal
+  authors: "Chao, Yi-Chung and Parkinson, Bradford W."
+  title: "The Statistics of Selective Availability and Its Effect on Differential GPS"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '93, Salt Lake City, Utah, September 1993."
+  url: ""
+
+- year: 1993
+  month: January
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E., McNally, B. David, and Parkinson, Bradford W."
+  title: "Flight Tests of Attitude Determination Using GPS Compared Against an Inertial Navigation Unit"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at the ION National Technical Meeting, San Francisco, California, January 1993."
+  url: ""
+
+- year: 1993
+  month: March
+  first_author_last: "Cohen"
+  category: conference
+  authors: "Cohen, Clark E., Pervan, Boris S., Cobb, H. Stewart, Lawrence, David G., Powell, J. David, and Parkinson, Bradford W."
+  title: "Real-Time Cycle Ambiguity Resolution Using a Pseudolite for Precision Landing of Aircraft with GPS"
+  citation: "Presented at the Second International Symposium on Differential Satellite Navigation Systems, Amsterdam, The Netherlands, March 1993."
+  url: ""
+
+- year: 1993
+  month: September
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E., Pervan, Boris S., Lawrence, David G., Cobb, H. Stewart, Powell, J. David, and Parkinson, Bradford W."
+  title: "Real-Time Flight Test Evaluation of the GPS Marker Beacon Concept for Category III Kinematic GPS Precision Landing"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '93, Salt Lake City, Utah, September 1993."
+  url: ""
+
+- year: 1993
+  month: September
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E., Lightsey, E. Glenn, Parkinson, Bradford W., and Feess, William A."
+  title: "Space Flight Tests of Attitude Determination Using GPS: Preliminary Results"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '93, Salt Lake City, Utah, September 1993."
+  url: ""
+
+- year: 1993
+  month: December
+  first_author_last: "Kee"
+  category: theses
+  authors: "Kee, Changdon"
+  title: "Wide Area Differential GPS (WADGPS)"
+  citation: "Ph.D. Dissertation, Stanford University, December 1993."
+  url: ""
+
+- year: 1993
+  month: March
+  first_author_last: "Kee"
+  category: conference
+  authors: "Kee, Changdon and Parkinson, Bradford W."
+  title: "High Accuracy GPS Positioning in the Continent: Wide Area Differential GPS"
+  citation: "Presented at the Second International Symposium on Differential Satellite Navigation Systems, Amsterdam, The Netherlands, March 1993."
+  url: ""
+
+- year: 1993
+  month: September
+  first_author_last: "Kee"
+  category: journal
+  authors: "Kee, Changdon and Parkinson, Bradford W."
+  title: "Static Test Results of Wide Area Differential GPS"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '93, Salt Lake City, Utah, September 1993."
+  url: ""
+
+- year: 1993
+  month: August
+  first_author_last: "Lightsey"
+  category: conference
+  authors: "Lightsey, E. Glenn, Cohen, Clark E., and Parkinson, Bradford W."
+  title: "Application of GPS Attitude Determination to Gravity Gradient Stabilized Spacecraft"
+  citation: "Presented at the AIAA Guidance and Control Conference, Monterey, California, August 1993."
+  url: ""
+
+- year: 1993
+  month: September
+  first_author_last: "Pervan"
+  category: journal
+  authors: "Pervan, Boris S., Cohen, Clark E., and Parkinson, Bradford W."
+  title: "Autonomous Integrity Monitoring for Precision Approach Using DGPS and a Ground-Based Pseudolite"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '93, Salt Lake City, Utah, September 1993."
+  url: ""
+
+- year: 1993
+  month: February
+  first_author_last: "Teague"
+  category: conference
+  authors: "Teague, E. Harrison and Parkinson, Bradford W."
+  title: "Translation, Rotation and Vibration Control of Large Space Structures Using Self-Differential GPS (SDGPS)"
+  citation: "Presented at the 16th Annual AAS Guidance and Control Conference, Keystone, Colorado, February 1993."
+  url: ""
+
+- year: 1993
+  month: October
+  first_author_last: "Uematsu"
+  category: theses
+  authors: "Uematsu, Hirohiko"
+  title: "The Gravity Probe B Niobium Bird Experiment: Experimental Verification of a Data Reduction Scheme with a Prototypical DC SQUID Readout System"
+  citation: "Ph.D. Dissertation, Stanford University, October 1993."
+  url: ""
+
+- year: 1993
+  month: December
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd"
+  title: "A Multi-Variance Analysis in the Time Domain"
+  citation: "Published in the Proceedings of the Frequency Control Symposium, December 1993."
+  url: ""
+
+- year: 1992
+  month: December
+  first_author_last: "Cohen"
+  category: theses
+  authors: "Cohen, Clark"
+  title: "Attitude Determination Using GPS"
+  citation: "Ph.D. Dissertation, Stanford University, December 1992."
+  url: ""
+
+- year: 1992
+  month: February
+  first_author_last: "Cohen"
+  category: conference
+  authors: "Cohen, Clark E. and Parkinson, Bradford W."
+  title: "Integer Ambiguity Resolution of the GPS Carrier for Spacecraft Attitude Determination"
+  citation: "Presented at the 15th Annual AAS Guidance and Control Conference, Keystone, Colorado, February 1992."
+  url: ""
+
+- year: 1992
+  month: September
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E., Pervan, Boris S., and Parkinson, Bradford W."
+  title: "Estimation of Absolute Ionospheric Delay Exclusively through Single-Frequency GPS Measurements"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '92, Albuquerque, New Mexico, September 1992."
+  url: ""
+
+- year: 1992
+  month: September
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E., Cobb, H. Stewart, and Parkinson, Bradford W."
+  title: "Generalizing Wahba's Problem for High Output Rates and Evaluation of Static Accuracy Using a Theodolite"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '92, Albuquerque, New Mexico, September 1992."
+  url: ""
+
+- year: 1992
+  month: September
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E. and Parkinson, Bradford W."
+  title: "Aircraft Applications of GPS-Based Attitude Determination"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '92, Albuquerque, New Mexico, September 1992."
+  url: ""
+
+- year: 1992
+  month: null
+  first_author_last: "Kasdin"
+  category: conference
+  authors: "Kasdin, N. Jeremy and Walter, Todd"
+  title: "Discrete Simulation of Power Law Noise (for Oscillator Stability Evaluation)"
+  citation: "Published in the Proceedings of the 1992 IEEE Frequency Control Symposium."
+  url: ""
+
+- year: 1992
+  month: September
+  first_author_last: "Kee"
+  category: journal
+  authors: "Kee, Changdon and Parkinson, Bradford W."
+  title: "Algorithms and Implementation of Wide Area Differential GPS"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at ION GPS '92, Albuquerque, New Mexico, September 1992."
+  url: ""
+
+- year: 1991
+  month: February
+  first_author_last: "Cohen"
+  category: conference
+  authors: "Cohen, Clark E. and Parkinson, Bradford W."
+  title: "Mitigating Multipath Error in GPS-Based Attitude Determination"
+  citation: "Presented at the 14th Annual AAS Guidance and Control Conference, Keystone, Colorado, February 1991."
+  url: ""
+
+- year: 1991
+  month: September
+  first_author_last: "Cohen"
+  category: journal
+  authors: "Cohen, Clark E. and Parkinson, Bradford W."
+  title: "Expanding the Performance Envelope of GPS-Based Attitude Determination"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at the ION/GPS Conference, Albuquerque, New Mexico, September 1991."
+  url: ""
+
+- year: 1990
+  month: October
+  first_author_last: "Axelrad"
+  category: theses
+  authors: "Axelrad, Penina"
+  title: "A Closed Loop GPS-Based Orbit Trim System for Gravity Probe B"
+  citation: "Ph.D. Dissertation, Stanford University, October 1990."
+  url: ""
+
+- year: 1990
+  month: September
+  first_author_last: "Kee"
+  category: journal
+  authors: "Kee, Changdon, Parkinson, Bradford W., and Axelrad, Penina"
+  title: "Wide Area Differential GPS"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation. Presented at the Institute of Navigation Satellite Division 3rd International Technical Meeting, Colorado Springs, Colorado, September 1990."
+  awards:
+    - "Outstanding Paper Award"
+  url: ""
+
+- year: 1990
+  month: June
+  first_author_last: "Parkinson"
+  category: report
+  authors: "Parkinson, Bradford W. and Axelrad, Penina"
+  title: "Techniques for Autonomous GPS Integrity Monitoring"
+  citation: "Published by the Advisory Group for Aerospace Research and Development as AGARDograph No. 314, June 1990."
+  url: ""
+
+- year: 1990
+  first_author_last: "Walter"
+  category: journal
+  authors: "Walter, Todd, Turneaure, John P., Buchman, Saps, Everitt, C. W. Francis, and Keiser, G. Mac"
+  title: "An Ultra High Vacuum Low Temperature Gyroscope Clock"
+  citation: "Published in Physica B: Condensed Matter, Vols. 165-166, Part 1, pp. 155-156, 1990."
+  url: ""
+
+- year: 1989
+  season: Spring
+  first_author_last: "Axelrad"
+  category: journal
+  authors: "Axelrad, Penina and Parkinson, Bradford W."
+  title: "Closed Loop Navigation and Guidance for Gravity Probe B Orbit Insertion"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation, Vol. 36, No. 1, Spring 1989, pp. 45-62."
+  url: ""
+
+- year: 1988
+  month: January
+  first_author_last: "Parkinson"
+  category: conference
+  authors: "Parkinson, Bradford W. and Axelrad, Penina"
+  title: "A Basis for the Development of Operational Algorithms for Simplified GPS Integrity Checking"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, January 26-29, 1988."
+  url: ""
+
+- year: 1988
+  month: February
+  first_author_last: "Parkinson"
+  category: conference
+  authors: "Parkinson, Bradford W. and Fitzgibbon, Kevin T."
+  title: "Aircraft Automatic Landing Systems Using GPS"
+  citation: "Invited paper published in the Proceedings of the International Congress of Navigation Societies, Sydney, Australia, February 1988."
+  url: ""
+
+- year: 1988
+  month: May
+  first_author_last: "Parkinson"
+  category: report
+  authors: "Parkinson, Bradford W. and Axelrad, Penina"
+  title: "Receiver Autonomous Integrity Monitoring of the Navigation Service Provided by the Global Positioning System"
+  citation: "Report submitted to the U.S. Department of Transportation, May 1988."
+  url: ""
+
+- year: 1988
+  season: Summer
+  first_author_last: "Parkinson"
+  category: journal
+  authors: "Parkinson, Bradford W. and Axelrad, Penina"
+  title: "Autonomous GPS Integrity Monitoring Using the Pseudorange Residual"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation, Vol. 35, No. 2, Summer 1988."
+  url: ""
+
+- year: 1987
+  season: "Winter 1986-1987"
+  first_author_last: "Parkinson"
+  category: journal
+  authors: "Parkinson, Bradford W. and Fitzgibbon, Kevin T."
+  title: "Optimal Locations of Pseudolites for Differential GPS"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation, Vol. 33, No. 4, Winter 1986-1987."
+  url: ""
+
+- year: 1987
+  month: June
+  first_author_last: "Parkinson"
+  category: conference
+  authors: "Parkinson, Bradford W. and Axelrad, Penina"
+  title: "Simplified GPS Integrity Checking with Multiple Satellites"
+  citation: "Published in the Proceedings of the 43rd Annual Meeting of The Institute of Navigation, Dayton, Ohio, June 1987, pp. 78-83."
+  url: ""
+
+- year: 1987
+  month: September
+  first_author_last: "Parkinson"
+  category: conference
+  authors: "Parkinson, Bradford W. and Axelrad, Penina"
+  title: "A Basis for the Development of Operational Algorithms for Simplified GPS Integrity Checking"
+  citation: "Published in the Proceedings of the Satellite Division's First Technical Meeting (ION GPS 1987), Colorado Springs, Colorado, September 1987, pp. 269-276."
+  url: ""
+
+- year: 1985
+  season: "Winter 1984-1985"
+  first_author_last: "Klein"
+  category: journal
+  authors: "Klein, Dale and Parkinson, Bradford W."
+  title: "The Use of Pseudo-Satellites for Improving GPS Performance"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation, Vol. 31, No. 4, Winter 1984-1985."
+  url: ""
+
+- year: 1983
+  month: October
+  first_author_last: "Parkinson"
+  category: journal
+  authors: "Parkinson, Bradford W. and Gilbert, S. W."
+  title: "NAVSTAR: Global Positioning System — Ten Years Later"
+  citation: "Published in Proceedings of the IEEE, Vol. 71, No. 10, pp. 1177-1186, October 1983."
+  url: ""
+
+- year: 1990 and Earlier
+  season: Summer
+  first_author_last: "Beser"
+  category: journal
+  authors: "Beser, Jacques and Parkinson, Bradford W."
+  title: "The Application of NAVSTAR Differential GPS in the Civilian Community"
+  citation: "Published in NAVIGATION, Journal of the Institute of Navigation, Vol. 29, No. 2, Summer 1982."
+  url: ""
