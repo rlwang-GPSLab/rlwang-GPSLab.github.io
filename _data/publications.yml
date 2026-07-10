@@ -373,8 +373,8 @@
   venue: "Stanford University"
   details: "Ph.D. Dissertation"
   awards:
-  - "RTCA Jackson Award Winner"
-  - "Ballhaus Award Winner for Best Ph.D. in Aero/Astro"
+    - "RTCA Jackson Award Winner"
+    - "Ballhaus Award Winner for Best Ph.D. in Aero/Astro"
   citation: Ph.D. Dissertation, Stanford University, December 2024.
   url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/theses/JasonAndersonThesis2024.pdf"
 
@@ -627,7 +627,7 @@
   authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO, September 2023.
   url: ""
 
@@ -782,7 +782,7 @@
   authors: "Patil, Akshata, Phelts, R. Eric, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO, September 2023.
   url: ""
 
@@ -874,7 +874,7 @@
   authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
@@ -926,7 +926,7 @@
   authors: "Liu, Xinwei, Wang, Rebecca, Blanch, Juan, and Walter, Todd"
   venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO, September 2022.
   url: ""
 
@@ -1264,7 +1264,7 @@
   authors: "Rothmaier, Fabian, Taleghani, Leila, Chen, Yu-Hsuan, Lo, Sherman, Phelts, Eric, and Walter, Todd"
   venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO, September 2021.
   url: ""
 
@@ -1368,7 +1368,7 @@
   authors: "Blanch, Juan, Phelts, Eric, Gunning, Kazuma, and Walter, Todd"
   venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual, September 2020.
   url: ""
 
@@ -1486,7 +1486,7 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
+  citation: "Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II, Wiley, December 15, 2020, DOI 10.1002/9781119458449."
   url: ""
 
 - year: 2020
@@ -1550,7 +1550,7 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
+  citation: "Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I, Wiley, December 15, 2020, DOI 10.1002/9781119458449."
   url: ""
 
 - year: 2020
@@ -1604,7 +1604,7 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
+  citation: "Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I, Wiley, December 15, 2020, DOI 10.1002/9781119458449."
   url: ""
 
 - year: 2020
@@ -1617,7 +1617,7 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
+  citation: "Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II, Wiley, December 15, 2020, DOI 10.1002/9781119458449."
   url: ""
 
 - year: 2020
@@ -1630,7 +1630,7 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
+  citation: "Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II, Wiley, December 15, 2020, DOI 10.1002/9781119458449."
   url: ""
 
 - year: 2020
@@ -1641,8 +1641,8 @@
   authors: "Rothmaier, Fabian"
   venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual"
   awards:
-  - "Student Paper Award Winner"
-  - "Best Presentation Award"
+    - "Student Paper Award Winner"
+    - "Best Presentation Award"
   citation: Presented at the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual, September 2020.
   url: ""
 
@@ -1666,7 +1666,7 @@
   venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
   details: "Wiley"
   doi: "10.1002/9781119458449"
-  citation: 'Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I, Wiley, December 15, 2020, DOI 10.1002/9781119458449.'
+  citation: "Published in Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I, Wiley, December 15, 2020, DOI 10.1002/9781119458449."
   url: ""
 
 - year: 2019
@@ -1808,7 +1808,7 @@
   authors: "Neish, Andrew, Walter, Todd, and Powell, J. David"
   venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
   awards:
-  - "Best Paper Award"
+    - "Best Paper Award"
   citation: Presented at the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii, April 2019.
   url: ""
 
@@ -1820,7 +1820,7 @@
   authors: "Neish, Andrew, Walter, Todd, and Powell, J. David"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
   url: ""
 
@@ -1863,7 +1863,7 @@
   authors: "Perkins, Adrien, Chen, Yu-Hsuan, Lo, Sherman, Lee, Chiawei, and Powell, J. David"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
   url: ""
 
@@ -1885,7 +1885,7 @@
   authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, and Powell, J. David"
   venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida, September 2019.
   url: ""
 
@@ -2010,7 +2010,7 @@
   authors: "Gunning, Kazuma, Blanch, Juan, Walter, Todd, de Groot, Lance, and Norman, Laura"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
@@ -2062,7 +2062,7 @@
   authors: "Neish, Andrew, Walter, Todd, and Enge, Per"
   venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida, September 2018.
   url: ""
 
@@ -2252,7 +2252,7 @@
   authors: "Bisnath, S., Uijt de Haag, M., Diggle, D. W., Hegarty, C., Milbert, D., and Walter, T."
   venue: "Understanding GPS/GNSS: Principles and Applications, Third Edition"
   details: "Artech House, ISBN: 9781630810580"
-  citation: 'Published in Understanding GPS/GNSS: Principles and Applications, Third Edition, Artech House, ISBN: 9781630810580, 2017.'
+  citation: "Published in Understanding GPS/GNSS: Principles and Applications, Third Edition, Artech House, ISBN: 9781630810580, 2017."
   url: ""
 
 - year: 2017
@@ -2304,7 +2304,7 @@
   authors: "Hegarty, Chris, Leva, Joe, Van Dyke, Karen, and Walter, Todd"
   venue: "Understanding GPS/GNSS: Principles and Applications, Third Edition"
   details: "Artech House, ISBN: 9781630810580"
-  citation: 'Published in Understanding GPS/GNSS: Principles and Applications, Third Edition, Artech House, ISBN: 9781630810580, 2017.'
+  citation: "Published in Understanding GPS/GNSS: Principles and Applications, Third Edition, Artech House, ISBN: 9781630810580, 2017."
   url: ""
 
 - year: 2017
@@ -2578,7 +2578,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2016.
   url: ""
 
@@ -2613,7 +2613,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon, September 2016.
   url: ""
 
@@ -2863,7 +2863,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2015.
   url: ""
 
@@ -3094,7 +3094,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida, September 2014.
   url: ""
 
@@ -3266,7 +3266,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2013.
   url: ""
 
@@ -3461,7 +3461,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
   awards:
-  - "Student Paper Award Winner"
+    - "Student Paper Award Winner"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
@@ -3494,7 +3494,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
   awards:
-  - "Student Paper Award Winner"
+    - "Student Paper Award Winner"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
@@ -3561,7 +3561,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee, September 2012.
   url: ""
 
@@ -4068,7 +4068,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2011.
   url: ""
 
@@ -4188,7 +4188,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
@@ -4340,7 +4340,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
@@ -4489,7 +4489,7 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
   awards:
-  - "Best Presentation Award"
+    - "Best Presentation Award"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
   url: ""
 
@@ -4512,4 +4512,266 @@
   venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
   details: "Presented at"
   citation: Presented at Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon, September 2010.
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Becker"
+  category: conference
+  authors: "Becker, Georg, Lo, Sherman C., De Lorenzo, David S., Qiu, Di, Paar, Christof, and Enge, Per K."
+  title: "Efficient Authentication Mechanisms for Navigation Systems — a Radio-Navigation Case Study"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Mayer, Christoph, Lo, Sherman C., Walter, Todd, and Enge, Per K."
+  title: "Hysteresis in RAIM"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2009
+  month: January
+  first_author_last: "De Lorenzo"
+  category: conference
+  authors: "De Lorenzo, David S., Lo, Sherman C., Enge, Per K., Feuerstein, Marty, Bhattacharya, Tarun, Spain, Steve, and Kang, Zhengjiu"
+  title: "Design and Performance of a Minimum-Variance Hybrid Location Algorithm Utilizing GPS and Cellular Received Signal Strength for Positioning in Dense Urban Environments"
+  citation: "Presented at the Institute of Navigation (ION) International Technical Meeting, Anaheim, California, January 2009."
+  url: ""
+
+- year: 2009
+  month: October
+  first_author_last: "De Lorenzo"
+  category: conference
+  authors: "De Lorenzo, David S., Lo, Sherman C., Cohen, Morris, Chang, Jeff, Inan, Umran S., and Enge, Per K."
+  title: "A Miniaturized Loran H-field Antenna for Handheld Devices"
+  citation: "Presented at the International Loran Association 38th Annual Meeting, Portland, Maine, October 2009."
+  url: ""
+
+- year: 2009
+  month: March
+  first_author_last: "Ene"
+  category: theses
+  authors: "Ene, Alexandru"
+  title: "Utilization of Modernized Global Navigation Satellite Systems for Aircraft-Based Navigation Integrity"
+  citation: "Ph.D. Dissertation, Stanford University, March 2009."
+  url: ""
+
+- year: 2009
+  season: "May/June"
+  first_author_last: "Gao"
+  category: magazine
+  authors: "Gao, Grace Xingxin, Heng, Liang, De Lorenzo, David S., Lo, Sherman C., Akos, Dennis M., Chen, Alan, Walter, Todd, Enge, Per K., and Parkinson, Bradford W."
+  title: "Modernization Milestone: Observing the First GPS Satellite with an L5 Payload"
+  citation: "Published in Inside GNSS, Vol. 3, No. 4, pp. 60-64, May/June 2009."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Gao"
+  category: conference
+  authors: "Gao, Grace Xingxin, Tang, Haochen, Blanch, Juan A., Lee, Jiyun, Walter, Todd, and Enge, Per K."
+  title: "Methodology and Case Studies of Signal-in-Space Error Calculation: Top-down Meets Bottom-up PRESENTATION (in PDF)"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
+  url: ""
+
+- year: 2009
+  first_author_last: "Gao"
+  category: journal
+  authors: "Gao, Grace Xingxin, Chen, Alan, Lo, Sherman C., De Lorenzo, David S., Walter, Todd, and Enge, Per K."
+  title: "Compass-M1 Broadcast Codes in E2, E5b, and E6 Frequency Bands"
+  citation: "Published in IEEE Journal of Selected Topics in Signal Processing, Vol. 3, No. 4, pp. 599-612."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Jan"
+  category: journal
+  authors: "Jan, Shau-Shiun, Chan, Wyant, and Walter, Todd F."
+  title: "MATLAB Algorithm Availability Simulation Tool"
+  citation: "Published in GPS Solutions, Vol. 13, No. 4, September 2009."
+  url: ""
+
+- year: 2009
+  month: October
+  first_author_last: "Lee"
+  category: journal
+  authors: "Lee, Jiyun, Pullen, Samuel P., and Enge, Per K."
+  title: "Sigma Overbounding using a Position Domain Method for the Local Area Augmentation of GPS"
+  citation: "Published in Proceedings of the IEEE Transactions on Aerospace and Electronic Systems, Vol. 45, No. 4, pp. 1262-1274, October 2009."
+  url: ""
+
+- year: 2009
+  season: Spring
+  first_author_last: "Lo"
+  category: journal
+  authors: "Lo, Sherman C., Wenzel, Robert, Morris, Peter, and Enge, Per K."
+  title: "Developing and Validating the Loran Temporal ASF Bound Model for Aviation"
+  citation: "Published in NAVIGATION, Vol. 56, No. 1, Spring 2009, pp. 9-21, DOI 10.1002/j.2161-4296.2009.tb00440.x."
+  url: ""
+
+- year: 2009
+  month: May
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., Peterson, Benjamin B., and Enge, Per K."
+  title: "Assessing the Security of a Navigation System: A Case Study using Enhanced Loran PRESENTATION (in PDF)"
+  citation: "Presented at the European Navigation Conference GNSS, Naples, Italy, May 2009."
+  url: ""
+
+- year: 2009
+  season: "September/October"
+  first_author_last: "Lo"
+  category: magazine
+  authors: "Lo, Sherman C., De Lorenzo, David S., Enge, Per K., Akos, Dennis M., and Bradley, Paul"
+  title: "Signal Authentication: A Secure Civil GNSS for Today"
+  citation: "Published in Inside GNSS, Sept/Oct 2009, pp. 30-39."
+  url: ""
+
+- year: 2009
+  month: October
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., Peterson, Benjamin, and Enge, Per K."
+  title: "Loran PF, SF, ASF for the Radio Technical Committee Maritime (RTCM)"
+  citation: "Presented at the International Loran Association 38th Annual Meeting, Portland, Maine, October 2009."
+  url: ""
+
+- year: 2009
+  month: October
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., Wenzel, Robert, and Enge, Per K."
+  title: "Analysis and Modeling of Skywave Behavior"
+  citation: "Presented at the International Loran Association 38th Annual Meeting, Portland, Maine, October 2009."
+  url: ""
+
+- year: 2009
+  season: Winter
+  first_author_last: "Lo"
+  category: journal
+  authors: "Lo, Sherman C. and Enge, Per K."
+  title: "Methodology and Design for the Broadcast of GNSS Integrity Information derived from SBAS on Low Bandwidth Data Channels"
+  citation: "Published in NAVIGATION, Vol. 56, No. 4, Winter 2009, pp. 289-307, DOI 10.1002/j.2161-4296.2009.tb01762.x."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Park"
+  category: conference
+  authors: "Park, Young Shin, Pullen, Samuel P., and Enge, Per K."
+  title: "Enabling the LAAS Differentially Corrected Positioning Service (DCPS): Design and Requirements Alternatives"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
+  url: ""
+
+- year: 2009
+  month: May
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric"
+  title: "Sensitivity of Code Tracking Methods to PRN Differences"
+  citation: "Presented at the European Navigation Conference GNSS, Naples, Italy, May 2009."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric, Walter, Todd, and Enge, Per K."
+  title: "Characterizing Nominal Analog Signal Deformation on GNSS Signals"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Samuel P."
+  title: "Providing Integrity for Satellite Navigation: Lessons Learned (Thus Far) from the Financial Collapse of 2008-2009"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2009
+  first_author_last: "Pullen"
+  category: journal
+  authors: "Pullen, Samuel P., Park, Young Shin, and Enge, Per K."
+  title: "Impact and mitigation of ionospheric anomalies on ground-based augmentation of GNSS"
+  citation: "Published in the AGU Electronic Journal, Radio Science, 44, RSOA21, 2009."
+  url: ""
+
+- year: 2009
+  month: December
+  first_author_last: "Qiu"
+  category: theses
+  authors: "Qiu, Di"
+  title: "Security from Location"
+  citation: "Ph.D. Dissertation, Stanford University, December 2009."
+  url: ""
+
+- year: 2009
+  month: January
+  first_author_last: "Qiu"
+  category: conference
+  authors: "Qiu, Di, De Lorenzo, David S., Lo, Sherman C., Boneh, Dan, and Enge, Per K."
+  title: "Physical Pseudo Random Function in Radio Frequency Sources for Security"
+  citation: "Presented at the Institute of Navigation (ION) International Technical Meeting, Anaheim, California, January 2009."
+  url: ""
+
+- year: 2009
+  month: January
+  first_author_last: "Qiu"
+  category: conference
+  authors: "Qiu, Di, Boneh, Dan, Lo, Sherman C., and Enge, Per K."
+  title: "Robust Location Tag Generation from Noisy Location Data for Security Applications"
+  citation: "Presented at the Institute of Navigation (ION) International Technical Meeting, Anaheim, California, January 2009."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Qiu"
+  category: conference
+  authors: "Qiu, Di, Lo, Sherman C., De Lorenzo, David S., and Enge, Per K."
+  title: "Pattern Classification for Geotag Generation"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Seo"
+  category: conference
+  authors: "Seo, Jiwon, Walter, Todd, and Enge, Per K."
+  title: "Availability Benefit of Future Dual Frequency GPS Avionics under Strong Ionospheric Scintillation"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
+  url: ""
+
+- year: 2009
+  first_author_last: "Seo"
+  category: journal
+  authors: "Seo, Jiwon, Walter, Todd, Chiou, Tsung-Yu, and Enge, Per K."
+  title: "Characteristics of deep GPS signal fading due to ionospheric scintillation for aviation receiver design"
+  citation: "Published in the AGU Electronic Journal, Radio Science, 2009."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Tang"
+  category: conference
+  authors: "Tang, Haochen, Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Flight Test Data Validation of Dual-Frequency GPS Measurement Error Characteristics PRESENTATION (in PDF)"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
+  url: ""
+
+- year: 2009
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  title: "Evaluation of Signal in Space Error Bounds to Support Aviation Integrity"
+  citation: "Presented at the Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Savannah, Georgia, September 2009."
   url: ""
