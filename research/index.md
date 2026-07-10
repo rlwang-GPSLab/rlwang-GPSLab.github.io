@@ -19,6 +19,10 @@ permalink: /research/
 
       <div class="resource-grid research-focus-grid">
         <a class="resource-card research-focus-card" href="{{ '/research/current-and-continuing-gpspnt-research/waassbas/' | relative_url }}">
+      <img
+        src="{{ '/assets/img/research/current_research.jpg' | relative_url }}"
+        alt="Current GPS/PNT Research">
+
           <div class="resource-body">
             <h3>WAAS / SBAS</h3>
             <p>Satellite-based augmentation systems that monitor GNSS ranging errors and support high-integrity precision approaches and landings.</p>
@@ -26,6 +30,9 @@ permalink: /research/
         </a>
 
         <a class="resource-card research-focus-card" href="{{ '/research/current-and-continuing-gpspnt-research/laasgbas/' | relative_url }}">
+          <img
+          src="{{ '/assets/img/research/laas_gbas.jpg' | relative_url }}"
+          alt="LAAS / GBAS">
           <div class="resource-body">
             <h3>LAAS / GBAS</h3>
             <p>Ground-based differential GNSS corrections and integrity monitoring for all-weather aircraft navigation and precision landing.</p>
@@ -33,6 +40,11 @@ permalink: /research/
         </a>
 
         <a class="resource-card research-focus-card" href="{{ '/research/current-and-continuing-gpspnt-research/cyber-safety-transportation/' | relative_url }}">
+
+        <img
+          src="{{ '/assets/img/research/cyber_safety.jpg' | relative_url }}"
+          alt="Cyber Safety & Alternative PNT">
+
           <div class="resource-body">
             <h3>Cyber Safety &amp; Alternative PNT</h3>
             <p>Resilient navigation for automated transportation, including anti-spoofing, jamming resistance, geosecurity, and alternative PNT.</p>
@@ -40,13 +52,23 @@ permalink: /research/
         </a>
 
         <a class="resource-card research-focus-card" href="{{ '/research/current-and-continuing-gpspnt-research/time-time-transfer/' | relative_url }}">
+
+        <img
+          src="{{ '/assets/img/research/time_transfer.jpg' | relative_url }}"
+          alt="Time & Time Transfer">
+
           <div class="resource-body">
             <h3>Time &amp; Time Transfer</h3>
             <p>Methods for transferring precise time between ground and space to support advanced clocks and demanding scientific missions.</p>
           </div>
         </a>
 
-        <a class="resource-card research-focus-card" href="{{ '/research/current-and-continuing-gpspnt-research/inertial-measurement-unit-imu-development-testing/' | relative_url }}">
+        <a class="resource-card research-focus-card" href="{{ '/research/current-and-continuing-gpspnt-research/imu-development-testing/' | relative_url }}">
+
+        <img
+            src="{{ '/assets/img/research/imu.jpg' | relative_url }}"
+            alt="IMU Development & Testing">
+
           <div class="resource-body">
             <h3>IMU Development &amp; Testing</h3>
             <p>Inertial sensing and GNSS integration for continued navigation in buildings, tunnels, interference, and other signal-limited environments.</p>
@@ -54,6 +76,11 @@ permalink: /research/
         </a>
 
         <a class="resource-card research-focus-card" href="{{ '/research/current-and-continuing-gpspnt-research/multi-constellation-gnss/' | relative_url }}">
+
+          <img
+          src="{{ '/assets/img/research/multi_constellation.jpg' | relative_url }}"
+          alt="Multi-Constellation GNSS">
+
           <div class="resource-body">
             <h3>Multi-Constellation GNSS</h3>
             <p>Interoperable use of GPS, Galileo, BeiDou, GLONASS, QZSS, NavIC, and emerging satellite navigation signals.</p>
@@ -75,6 +102,10 @@ permalink: /research/
 
       <div class="resource-grid research-focus-grid">
         <a class="resource-card research-focus-card" href="{{ '/research/early-gpspnt-research/gps-spacecraft-attitude-translation-control/' | relative_url }}">
+      <img
+        src="{{ '/assets/img/research/spacecraft.jpg' | relative_url }}"
+        alt="Spacecraft Attitude & Translation Control">
+
           <div class="resource-body">
             <h3>Spacecraft Attitude &amp; Translation Control</h3>
             <p>Pioneering use of GPS aboard Gravity Probe B for precision spacecraft orientation, translation, and orbit control.</p>
@@ -82,13 +113,21 @@ permalink: /research/
         </a>
 
         <a class="resource-card research-focus-card" href="{{ '/research/early-gpspnt-research/autonomous-aircraft/' | relative_url }}">
+        <img
+          src="{{ '/assets/img/research/autonomous_aircraft.jpg' | relative_url }}"
+          alt="Autonomous Aircraft">
+
           <div class="resource-body">
             <h3>Autonomous Aircraft</h3>
             <p>Early demonstrations of non-military GPS-guided autonomous aircraft and the foundations of modern UAV navigation.</p>
           </div>
         </a>
 
-        <a class="resource-card research-focus-card" href="{{ '/research/early-gpspnt-research/gps-airplane-navigation-takeoffs-landings/' | relative_url }}">
+        <a class="resource-card research-focus-card" href="{{ '/research/early-gpspnt-research/gps-airplane-navigation-takeoffs-and-landings/' | relative_url }}">
+            <img
+              src="{{ '/assets/img/research/airplane_navigation.jpg' | relative_url }}"
+              alt="Airplane Navigation & Landing">
+
           <div class="resource-body">
             <h3>Airplane Navigation &amp; Landing</h3>
             <p>Flight tests using GPS, multiple antennas, and pseudolites for aircraft attitude, precision approaches, and automatic landing.</p>
@@ -96,20 +135,32 @@ permalink: /research/
         </a>
 
         <a class="resource-card research-focus-card" href="{{ '/research/early-gpspnt-research/precision-farmingagriculture/' | relative_url }}">
+        <img
+          src="{{ '/assets/img/research/precision_farming.jpg' | relative_url }}"
+          alt="Precision Farming & Agriculture">
+
           <div class="resource-body">
             <h3>Precision Farming &amp; Agriculture</h3>
             <p>GPS-enabled mapping and field management for crop yield, terrain, moisture, nutrients, and other spatially varying conditions.</p>
           </div>
         </a>
 
-        <a class="resource-card research-focus-card" href="{{ '/research/early-gpspnt-research/receiver-autonomous-integrity-monitoring-raim/' | relative_url }}">
+        <a class="resource-card research-focus-card" href="{{ '/research/early-gpspnt-research/raim/' | relative_url }}">
+        <img
+          src="{{ '/assets/img/research/raim.jpg' | relative_url }}"
+          alt="Receiver Autonomous Integrity Monitoring">
+
           <div class="resource-body">
             <h3>Receiver Autonomous Integrity Monitoring</h3>
             <p>Fault detection using redundant GNSS measurements to protect safety-critical aviation and marine navigation applications.</p>
           </div>
         </a>
 
-        <a class="resource-card research-focus-card" href="{{ '/research/early-gpspnt-research/enhanced-long-range-navigation-eloran/' | relative_url }}">
+        <a class="resource-card research-focus-card" href="{{ '/research/early-gpspnt-research/eloran/' | relative_url }}">
+        <img
+          src="{{ '/assets/img/research/eloran.jpg' | relative_url }}"
+          alt="eLORAN">
+
           <div class="resource-body">
             <h3>eLORAN</h3>
             <p>Low-frequency terrestrial navigation and timing as a long-range, resilient complement or backup to satellite-based PNT.</p>

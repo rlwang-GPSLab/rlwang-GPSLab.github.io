@@ -5933,3 +5933,556 @@
   title: "The Advantages of Local Monitoring and VHF Data Broadcast for SBAS"
   citation: "Presented at the European Navigation Conference GNSS 2005, Munich, Germany, July 2005."
   url: ""
+
+- year: 2004
+  month: June
+  first_author_last: "Alban"
+  category: theses
+  authors: "Alban, Santiago"
+  title: "Design and Performance of a Robust GPS/INS Attitude System for Automobile Applications"
+  citation: "Ph.D. Dissertation, Stanford University, June 2004."
+  url: ""
+
+- year: 2004
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., et al."
+  title: "A New Ionospheric Estimation Algorithm for SBAS Combining Kriging and Tomography"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2004."
+  url: ""
+
+- year: 2004
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Ionospheric Estimation Using Extended Kriging for a Low Latitude SBAS"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2004."
+  url: ""
+
+- year: 2004
+  month: May
+  first_author_last: "Carroll"
+  category: conference
+  authors: "Carroll, Kevin M., Hawes, Anthony, Peterson, Benjamin B., Dykstra, Kenneth, Swaszek, Peter, and Lo, Sherman C."
+  title: "Differential Loran-C"
+  citation: "Presented at the European Navigation Conference – GNSS 2004, Rotterdam, The Netherlands, May 2004."
+  url: ""
+
+- year: 2004
+  month: September
+  first_author_last: "Chiou"
+  category: conference
+  authors: "Chiou, Tsung-Yu, Alban, Santiago, Atwater, Sarah, Gautier, Jennifer D., Pullen, Samuel P., Enge, Per K., Akos, Dennis M., Gebre-Egziabher, Demoz, and Pervan, Boris S."
+  title: "Performance Analysis and Experimental Validation of a Doppler-Aided GPS/INS Receiver for JPALS Applications"
+  citation: "Presented at the Institute of Navigation GNSS Meeting, Long Beach, California, September 2004."
+  url: ""
+
+- year: 2004
+  month: September
+  first_author_last: "Datta-Barua"
+  category: conference
+  authors: "Datta-Barua, Seebany"
+  title: "Ionospheric Threats to Space-Based Augmentation System Development"
+  citation: "Presented at the Institute of Navigation GNSS Meeting, Long Beach, California, September 2004."
+  url: ""
+
+- year: 2004
+  month: April
+  first_author_last: "De Lorenzo"
+  category: conference
+  authors: "De Lorenzo, David S., Alban, Santiago, Gautier, Jennifer D., Enge, Per K., and Akos, Dennis M."
+  title: "GPS Attitude Determination for a JPALS Testbed: Integer Initialization and Testing"
+  citation: "Presented at the IEEE Position Location and Navigation Symposium, Monterey, California, April 2004."
+  url: ""
+
+- year: 2004
+  month: September
+  first_author_last: "De Lorenzo"
+  category: conference
+  authors: "De Lorenzo, David S., Gautier, Jennifer D., Enge, Per K., and Akos, Dennis M."
+  title: "GPS Receiver Architecture Effects on Controlled Reception Pattern Antennas for JPALS"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2004."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2004
+  month: April
+  first_author_last: "Do"
+  category: conference
+  authors: "Do, Juyong, Akos, Dennis M., and Enge, Per K."
+  title: "L and S Bands Spectrum Survey in the San Francisco Bay Area"
+  citation: "Presented at the IEEE Position Location and Navigation Symposium, Monterey, California, April 2004."
+  url: ""
+
+- year: 2004
+  month: May
+  first_author_last: "Enge"
+  category: magazine
+  authors: "Enge, Per"
+  title: "Retooling the Global Positioning System"
+  citation: "Published in Scientific American, May 2004."
+  url: ""
+
+- year: 2004
+  season: Fall
+  first_author_last: "Heo"
+  category: journal
+  authors: "Heo, Moon-Beom, Pervan, Boris, Pullen, Sam, Gautier, Jennifer, Enge, Per, and Gebre-Egziabher, Demoz"
+  title: "Autonomous Fault Detection with Carrier-Phase DGPS for Shipboard Landing Navigation"
+  citation: "Published in NAVIGATION, Vol. 51, No. 3, Fall 2004, pp. 185-198."
+  url: ""
+
+- year: 2004
+  month: April
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Ung Souk, De Lorenzo, David S., Gautier, Jennifer D., Enge, Per K., Akos, Dennis M., and Orr, John"
+  title: "Precise Phase Calibration of a Controlled Reception Pattern GPS Antenna for JPALS"
+  citation: "Presented at the IEEE Position Location and Navigation Symposium, Monterey, California, April 2004."
+  url: ""
+
+- year: 2004
+  month: September
+  first_author_last: "Kim"
+  category: conference
+  authors: "Kim, Ung-Souk, De Lorenzo, David S., Gautier, Jennifer D., Enge, Per K., and Orr, John A."
+  title: "Phase Effects Analysis of Patch Antenna CRPAs for JPALS"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2004."
+  url: ""
+
+- year: 2004
+  month: September
+  first_author_last: "Lee"
+  category: conference
+  authors: "Lee, Jiyun"
+  title: "LAAS Position Domain Monitor Analysis and Test Results for CAT II/III Operations"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2004."
+  url: ""
+
+- year: 2004
+  month: May
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "Loran Availability and Continuity Analysis for Required Navigation Performance 0.3"
+  citation: "Presented at the European Navigation Conference – GNSS 2004, Rotterdam, The Netherlands, May 2004."
+  url: ""
+
+- year: 2004
+  month: June
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "Loran Integrity Analysis for Required Navigation Performance 0.3"
+  citation: "Presented at the 5th International Symposium on Integration of LORAN-C/Eurofix and EGNOS/Galileo, Munich, Germany, June 2004."
+  url: ""
+
+- year: 2004
+  month: June
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "Overview of the Safety Analysis of Loran for Aviation"
+  citation: "Presented at the Institute of Navigation Annual Meeting, Dayton, Ohio, June 2004."
+  url: ""
+
+- year: 2004
+  month: January
+  first_author_last: "Luo"
+  category: conference
+  authors: "Luo, Ming, Pullen, Samuel P., Walter, Todd, and Enge, Per K."
+  title: "Ionosphere Spatial Gradient Threat for LAAS: Mitigation and Tolerable Threat Space"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2004."
+  url: ""
+
+- year: 2004
+  month: September
+  first_author_last: "Luo"
+  category: conference
+  authors: "Luo, Ming, Pullen, Samuel P., Ene, Alexander, Qiu, Di, Walter, Todd, and Enge, Per K."
+  title: "Ionosphere Threat to LAAS: Updated Model, User Impact, and Mitigations"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2004."
+  url: ""
+
+- year: 2004
+  month: December
+  first_author_last: "Mitelman"
+  category: theses
+  authors: "Mitelman, Alexander"
+  title: "Signal Quality Monitoring for GPS Augmentation Systems"
+  citation: "Ph.D. Dissertation, Stanford University, December 2004."
+  url: ""
+
+- year: 2004
+  month: January
+  first_author_last: "Mitelman"
+  category: conference
+  authors: "Mitelman, Alexander M., Phelts, R. Eric, Akos, Dennis M., Pullen, Samuel P., and Enge, Per K."
+  title: "Signal Deformations on Nominally Healthy GPS Satellites"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2004."
+  url: ""
+
+- year: 2004
+  month: January
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric, Walter, Todd, and Enge, Per K."
+  title: "Range Biases on the WAAS Geostationary Satellites"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2004."
+  url: ""
+
+- year: 2004
+  month: December
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric and Akos, Dennis M."
+  title: "Nominal Signal Deformations: Limits on GPS Range Accuracy"
+  citation: "Presented at the International Symposium on GNSS/GPS, Sydney, Australia, December 2004."
+  url: ""
+
+- year: 2004
+  month: November
+  first_author_last: "Pullen"
+  category: conference
+  authors: "Pullen, Sam and Enge, Per K."
+  title: "A Civil User Perspective on Near-Term and Long-Term GPS Modernization"
+  citation: "Published in the Proceedings of Japan GPS/GNSS Symposium 2004, Tokyo, Japan, November 17-19, 2004."
+  url: ""
+
+- year: 2004
+  month: January
+  first_author_last: "Rajagopal"
+  category: conference
+  authors: "Rajagopal, Sriram, et al."
+  title: "Correlation Structure of the Equatorial Ionosphere"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2004."
+  url: ""
+
+- year: 2004
+  month: April
+  first_author_last: "Rife"
+  category: conference
+  authors: "Rife, Jason H., Pullen, Samuel P., Pervan, Boris S., and Enge, Per K."
+  title: "Paired Overbounding and Application to GPS Augmentation"
+  citation: "Presented at the IEEE Position Location and Navigation Symposium, Monterey, California, April 2004."
+  url: ""
+
+- year: 2004
+  month: September
+  first_author_last: "Rife"
+  category: conference
+  authors: "Rife, Jason H., Pullen, Samuel P., and Pervan, Boris S."
+  title: "Core Overbounding and Its Implications for LAAS Integrity"
+  citation: "Presented at the Institute of Navigation GNSS Conference, Long Beach, California, September 2004."
+  url: ""
+
+- year: 2004
+  month: December
+  first_author_last: "Rife"
+  category: conference
+  authors: "Rife, Jason H., Walter, Todd, and Blanch, Juan A."
+  title: "Overbounding SBAS and GBAS Error Distributions with Excess-Mass Functions"
+  citation: "Presented at the International Symposium on GNSS/GPS, Sydney, Australia, December 2004."
+  url: ""
+
+- year: 2004
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Datta-Barua, Seebany, Blanch, Juan A., and Enge, Per K."
+  title: "The Effects of Large Ionospheric Gradients on Single Frequency Airborne Smoothing Filters for WAAS and LAAS"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, San Diego, California, January 2004."
+  url: ""
+
+- year: 2004
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Enge, Per K., and Reddan, Pat"
+  title: "Modernizing WAAS"
+  citation: "Presented at the Institute of Navigation GNSS Meeting, Long Beach, California, September 2004."
+  url: ""
+
+- year: 2004
+  month: October
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Rajagopal, Sriram, Datta-Barua, Seebany, and Blanch, Juan A."
+  title: "Protecting Against Unsampled Ionospheric Threats"
+  citation: "Presented at the Beacon Satellite Symposium, Trieste, Italy, October 2004."
+  url: ""
+
+- year: 2004
+  month: December
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Blanch, Juan A., and Rife, Jason H."
+  title: "Treatment of Biased Error Distributions in SBAS"
+  citation: "Presented at the International Symposium on GNSS/GPS, Sydney, Australia, December 2004."
+  url: ""
+
+- year: 2004
+  month: March
+  first_author_last: "Xie"
+  category: theses
+  authors: "Xie, Gang"
+  title: "Optimal On-Airport Monitoring of the Integrity of GPS-Based Landing Systems"
+  citation: "Ph.D. Dissertation, Stanford University, March 2004."
+  url: ""
+
+- year: 2003
+  month: September
+  first_author_last: "Akos"
+  category: conference
+  authors: "Akos, Dennis M., et al."
+  title: "A Prototyping Platform for Multi-Frequency GNSS Receivers"
+  citation: "Presented at the Institute of Navigation GPS/GNSS Meeting, Portland, Oregon, September 2003."
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2003
+  month: January
+  first_author_last: "Alban"
+  category: conference
+  authors: "Alban, Santiago, Akos, Dennis M., Rock, Stephen M., and Gebre-Egziabher, Demoz"
+  title: "Performance Analysis and Architectures for INS-Aided GPS Tracking Loops"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2003."
+  url: ""
+
+- year: 2003
+  month: August
+  first_author_last: "Bauregger"
+  category: theses
+  authors: "Bauregger, Frank"
+  title: "Novel Anti-Jam Antennas for Airborne GPS Navigation"
+  citation: "Ph.D. Dissertation, Stanford University, August 2003."
+  url: ""
+
+- year: 2003
+  month: December
+  first_author_last: "Blanch"
+  category: theses
+  authors: "Blanch, Juan"
+  title: "Using Kriging to Bound Satellite Ranging Errors Due to the Ionosphere"
+  citation: "Ph.D. Dissertation, Stanford University, December 2003."
+  url: ""
+
+- year: 2003
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Adapting Kriging to the WAAS MOPS Ionospheric Grid"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2003."
+  url: ""
+
+- year: 2003
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  title: "Measurement Noise versus Process Noise in Ionosphere Estimation for WAAS"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2003."
+  url: ""
+
+- year: 2003
+  month: November
+  first_author_last: "Boyce"
+  category: conference
+  authors: "Boyce, Lee, et al."
+  title: "A Time Domain Atmospheric Noise Level Analysis"
+  citation: "Presented at the International Loran Association 32nd Annual Meeting, Boulder, Colorado, November 2003."
+  url: ""
+
+- year: 2003
+  month: September
+  first_author_last: "Datta-Barua"
+  category: conference
+  authors: "Datta-Barua, Seebany, Doherty, Patrick, Delay, Susan, Dehel, Thomas, and Klobuchar, John"
+  title: "Ionospheric Scintillation Effects on Single and Dual Frequency GPS Positioning"
+  citation: "Presented at the Institute of Navigation GPS/GNSS Meeting, Portland, Oregon, September 2003."
+  url: ""
+
+- year: 2003
+  month: July
+  first_author_last: "Enge"
+  category: conference
+  authors: "Enge, Per K."
+  title: "GPS Modernization: Capabilities of the New Civil Signals"
+  citation: "Presented at the Australian International Aerospace Congress, Brisbane, Australia, July 29-August 1, 2003."
+  url: ""
+
+- year: 2003
+  month: June
+  first_author_last: "Gautier"
+  category: theses
+  authors: "Gautier, Jennifer D."
+  title: "GPS/INS Generalized Evaluation Tool (GIGET) for the Design and Testing of Integrated Navigation Systems"
+  citation: "Ph.D. Dissertation, Stanford University, June 2003."
+  url: ""
+
+- year: 2003
+  season: "Winter 2003-2004"
+  first_author_last: "Gebre-Egziabher"
+  category: journal
+  authors: "Gebre-Egziabher, Demoz, Jr., Boyce, C. O. Lee, Powell, J. David, and Enge, Per"
+  title: "An Inexpensive DME-Aided Dead Reckoning Navigator"
+  citation: "Published in NAVIGATION, Vol. 50, No. 4, Winter 2003-2004, pp. 247-264."
+  url: ""
+
+- year: 2003
+  month: June
+  first_author_last: "Holforty"
+  category: theses
+  authors: "Holforty, Wendy"
+  title: "Flight-Deck Display of Neighboring Aircraft Wake Vortices"
+  citation: "Ph.D. Dissertation, Stanford University, June 2003."
+  url: ""
+
+- year: 2003
+  month: January
+  first_author_last: "Jan"
+  category: conference
+  authors: "Jan, Shau-Shiun, Walter, Todd, and Enge, Per K."
+  title: "Techniques for Graceful Reversion from Dual to Single Frequency WAAS"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2003."
+  url: ""
+
+- year: 2003
+  month: May
+  first_author_last: "Jan"
+  category: theses
+  authors: "Jan, Shau-Shiun"
+  title: "Aircraft Landing Using a Modernized Global Positioning System and the Wide Area Augmentation System"
+  citation: "Ph.D. Dissertation, Stanford University, May 2003."
+  url: ""
+
+- year: 2003
+  month: March
+  first_author_last: "Jardin"
+  category: theses
+  authors: "Jardin, Matthew Robert"
+  title: "Toward Real-Time En Route Air Traffic Control Optimization"
+  citation: "Ph.D. Dissertation, Stanford University, March 2003."
+  url: ""
+
+- year: 2003
+  month: May
+  first_author_last: "Jennings"
+  category: theses
+  authors: "Jennings, Chad"
+  title: "Threat Displays for Final Approach"
+  citation: "Ph.D. Dissertation, Stanford University, May 2003."
+  url: ""
+
+- year: 2003
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "Loran Fault Trees for Required Navigation Performance 0.3"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2003."
+  url: ""
+
+- year: 2003
+  month: April
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "Loran for Required Navigation Performance 0.3: The Current Work of the Loran Integrity Performance Panel (LORIPP)"
+  citation: "Presented at the European Navigation Conference – Global Navigation Satellite Systems (ENC GNSS), Graz, Austria, April 2003."
+  url: ""
+
+- year: 2003
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "Loran for RNP 0.3 Approach: The Preliminary Conclusions of the Loran Integrity Performance Panel (LORIPP)"
+  citation: "Presented at the Institute of Navigation GPS/GNSS Meeting, Portland, Oregon, September 2003."
+  url: ""
+
+- year: 2003
+  month: November
+  first_author_last: "Lo"
+  category: conference
+  authors: "Lo, Sherman C., et al."
+  title: "Analysis of the Effects of ASF Variations for Loran RNP 0.3"
+  citation: "Presented at the International Loran Association 32nd Annual Meeting, Boulder, Colorado, November 2003."
+  url: ""
+
+- year: 2003
+  month: January
+  first_author_last: "Luo"
+  category: conference
+  authors: "Luo, Ming, Xie, Gang, Akos, Dennis M., Pullen, Samuel P., and Enge, Per K."
+  title: "Radio Frequency Interference Validation Testing for LAAS Using the Stanford Integrity Monitor Testbed"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2003."
+  url: ""
+
+- year: 2003
+  month: September
+  first_author_last: "Luo"
+  category: conference
+  authors: "Luo, Ming, et al."
+  title: "LAAS Ionosphere Spatial Gradient Threat Model and Impact of LGF and Airborne Monitoring"
+  citation: "Presented at the Institute of Navigation GPS/GNSS Meeting, Portland, Oregon, September 2003."
+  url: ""
+
+- year: 2003
+  month: May
+  first_author_last: "Opshaug"
+  category: theses
+  authors: "Opshaug, Guttorm"
+  title: "A Leapfrog Navigation System"
+  citation: "Ph.D. Dissertation, Stanford University, May 2003."
+  url: ""
+
+- year: 2003
+  season: Fall
+  first_author_last: "Pervan"
+  category: journal
+  authors: "Pervan, Boris, Chan, Fang-Cheng, Gebre-Egziabher, Demoz, Pullen, Sam, Enge, Per, and Colby, Glenn"
+  title: "Performance Analysis of Carrier-Phase DGPS Navigation for Shipboard Landing of Aircraft"
+  citation: "Published in NAVIGATION, Vol. 50, No. 3, Fall 2003, pp. 181-192."
+  url: ""
+
+- year: 2003
+  month: September
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric, Walter, Todd, and Enge, Per K."
+  title: "Toward Real-Time SQM for WAAS: Improved Detection Techniques"
+  citation: "Presented at the Institute of Navigation GPS/GNSS Meeting, Portland, Oregon, September 2003."
+  url: ""
+
+- year: 2003
+  month: November
+  first_author_last: "Phelts"
+  category: conference
+  authors: "Phelts, R. Eric, et al."
+  title: "Practical Signal Quality Monitoring for Augmentation Systems"
+  citation: "Presented at the International Symposium on GNSS, Tokyo, Japan, November 2003."
+  url: ""
+
+- year: 2003
+  month: December
+  first_author_last: "Rife"
+  category: theses
+  authors: "Rife, Jason"
+  title: "Automatic Robotic Tracking of Gelatinous Animals in the Deep Ocean"
+  citation: "Ph.D. Dissertation, Stanford University, December 2003."
+  url: ""
+
+- year: 2003
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  authors: "Walter, Todd, Enge, Per K., and DeCleene, Bruce"
+  title: "Integrity Lessons from the WAAS Integrity Performance Panel (WIPP)"
+  citation: "Presented at the Institute of Navigation National Technical Meeting, Anaheim, California, January 2003."
+  url: ""
