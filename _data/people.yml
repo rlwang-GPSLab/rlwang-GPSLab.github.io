@@ -201,20 +201,6 @@
   scholar: "https://scholar.google.com/citations?hl=en&user=hw8CX5YAAAAJ"
   linkedin: "https://www.linkedin.com/in/akriezis/"
 
-- name: "Frank Lai"
-  group: "students"
-  subgroup: "phd"
-  role: "PhD Candidate"
-  education:
-    - "M.S., Stanford University"
-    - "B.S., National Cheng Kung University"
-  interests: ""
-  headshot: "/assets/img/people/profile_lai_frank.jpg"
-  email: "yuflai@stanford.edu"
-  # website: "https://example.com"
-  scholar: "https://scholar.google.com/citations?hl=en&user=IlCFfV0AAAAJ"
-  linkedin: "https://www.linkedin.com/in/yufanglai/"
-
 - name: "Rebecca Wang"
   group: "students"
   subgroup: "phd"
@@ -228,6 +214,19 @@
   # website: "https://example.com"
   scholar: "https://scholar.google.com/citations?hl=en&user=t18weqcAAAAJ"
   linkedin: "https://www.linkedin.com/in/rebeccalwang/"
+
+- name: "Louise (Jia Yi) Zhou"
+  group: "students"
+  subgroup: "phd"
+  role: "PhD Student"
+  education:
+    - "B.Eng., The Hong Kong Polytechnic University"
+  interests: ""
+  headshot: "/assets/img/people/profile_zhou_louise.jpg"
+  email: "zhlouise@stanford.edu"
+  # website: "https://example.com"
+  scholar: "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=RI5_pTwAAAAJ"
+  linkedin: "www.linkedin.com/in/jia-yi-zhou"
 
 - name: "Sukrut Oak"
   group: "students"
@@ -645,10 +644,10 @@
   subgroup: "visiting-scholar-alumni"
   linkedin: ""
 
-# - name: "Yu Lai"
-#   group: "alumni"
-#   subgroup: "phd-alumni"
-#   linkedin: ""
+- name: "Yu-Fang (Frank) Lai"
+  group: "alumni"
+  subgroup: "phd-alumni"
+  linkedin: "https://www.linkedin.com/in/yufanglai/"
 
 - name: "David Lawrence"
   group: "alumni"
