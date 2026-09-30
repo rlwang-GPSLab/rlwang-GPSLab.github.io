@@ -1,0 +1,4190 @@
+# - year: 2026
+#   first_author_last: "Walter"
+#   category: "conference"
+#   title: "Paper Title"
+#   authors: "Todd Walter, Juan Blanch, Sherman Lo"
+#   venue: "ION GNSS+"
+#   url: "..."
+
+- year: 2026
+  month: April
+  first_author_last: "Babcock-Chi"
+  category: conference
+  title: "Geometry-Based Discrimination of Authentic and Spoofed GNSS Signals Using Double Differencing"
+  authors: "Babcock-Chi, Jade and Walter, Todd"
+  venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Babcock-Chi_ION_Pacific_PNT_2026_.DoubleDiff_Spoof.pdf"
+
+- year: 2026
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Efficient Monitoring of Constellation Clock Offset Faults in Advanced RAIM and Related Systems"
+  authors: "Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2026 International Technical Meeting of The Institute of Navigation, Anaheim, CA"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_ITM_2026_Clock_Monitoring.pdf"
+
+- year: 2026
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "Testing Continuity and Integrity for Advanced RAIM and Similar Systems"
+  authors: "Blanch, Juan, Walter, Todd, and Liu, Fan"
+  venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii, April 2026"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_PPNT_2026_ARAIM_testing.pdf"
+
+- year: 2026
+  month: April
+  first_author_last: "Kim"
+  category: conference
+  title: "Framework for Determining Lateral Minimum Separation Distance Using ADS-B Information"
+  authors: "Kim, Junsoo, Nam, Gihun, Lee, Jiyun, Min, Dongchan, and Pullen, Sam"
+  venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kim_ION_PPNT_2026_UAM_Separation.pdf"
+
+- year: 2026
+  month: April
+  first_author_last: "Kriezis"
+  category: conference
+  title: "Power-Based RFI Localization Using a Network of Unmodified COTS GNSS Receivers"
+  authors: "Kriezis, Argyris, Blanch, Juan, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kriezis_ION_PPNT_2026_LCM_PDOA.pdf"
+
+- year: 2026
+  month: April
+  first_author_last: "Lai"
+  category: conference
+  title: "Performance Evaluation for Ground-Based Integrity Monitor Network"
+  authors: "Lai, Yu-Fang, Blanch, Juan, Walter, Todd"
+  venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_PPNT_2026_PPP_Integrity.pdf"
+
+- year: 2026
+  month: March
+  first_author_last: "Liu"
+  category: theses
+  title: "Automated Global Monitoring, Detection, and Localization of GNSS Interference Using ADS-B Data"
+  authors: "Liu, Zixi"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/theses/Zixi_Liu_Dissertation_2026.pdf"
+
+- year: 2026
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Global Incidents of Aviation Spoofing in 2024-2025 Detected with Automatic Dependent Surveillance Broadcast"
+  authors: "Lo, Sherman, Liu, Zixi, Ibrahim, Lyla, Chen, Yu Hsuan, Akos, Dennis, and Walter, Todd"
+  venue: "Proceedings of the 2026 International Technical Meeting of The Institute of Navigation, Anaheim, CA"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lo_ION_ITM_2026_Observations_of_Spoofing.pdf"
+
+- year: 2026
+  month: January
+  first_author_last: "Sparks"
+  category: journal
+  venue: "NAVIGATION"
+  details: "Vol. 73 No. 1"
+  doi: "10.33012/navi.757"
+  title: "WAAS and the ionosphere – a historical perspective: Mitigating Mesoscale Irregularities"
+  authors: "Sparks, Lawrence, Altshuler, Eric, Blanch, Juan, Walter, Todd, McCord, Emily, and Griffin Sanchez, Rhiannon"
+  url: "https://navi.ion.org/content/73/1/navi.757"
+
+- year: 2026
+  month: January
+  first_author_last: "Sparks"
+  category: journal
+  title: "WAAS and the ionosphere – a historical perspective: Threat Model Evolution"
+  authors: "Sparks, Lawrence, Altshuler, Eric, Blanch, Juan, Walter, Todd, McCord, Emily, and Griffin Sanchez, Rhiannon"
+  venue: "NAVIGATION"
+  details: "Vol. 73 No. 1"
+  doi: "10.33012/navi.758"
+  url: "https://navi.ion.org/content/73/1/navi.758"
+
+- year: 2026
+  month: April
+  first_author_last: "Walter"
+  category: conference
+  title: "Limiting the Potential Impact of SBAS Spoofing"
+  authors: "Walter, Todd, Wang, Rebecca, and Blanch, Juan"
+  venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Walter_ION_PPNT_2026_Limiting_SBAS_Spoofing.pdf"
+
+- year: 2026
+  month: April
+  first_author_last: "Wang"
+  category: conference
+  title: "User Domain Overbounding with Integrity of Time-Correlated Errors for Precise Point Positioning"
+  authors: "Wang, Rebecca, Min, Donghan, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the ION 2026 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "http://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_PPNT_2026_Time_Corr_Errs.pdf"
+
+- year: 2025
+  month: March
+  day: 17
+  first_author_last: "Anderson"
+  category: journal
+  title: "Time Synchronization of TESLA-enabled GNSS Receivers"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Early Access"
+  doi: "10.1109/TAES.2025.3552074"
+  url: "https://ieeexplore.ieee.org/document/10930432"
+
+- year: 2025
+  month: June
+  first_author_last: "Anderson"
+  category: journal
+  title: "Combinatorial Watermarking Under Limited SCER Adversarial Models"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "NAVIGATION: Journal of the Institute of Navigation"
+  details: "Vol. 72 No. 2, navi.696"
+  doi: "10.33012/navi.696"
+  url: "https://navi.ion.org/content/72/2/navi.696"
+
+- year: 2025
+  month: September
+  first_author_last: "Babcock-Chi"
+  category: conference
+  title: "TDOA-Based Spoofing Source Localization Using Multi-Constellation Unsynchronized Receivers"
+  authors: "Babcock-Chi, Jade, Lo, Sherman, Chen, Yu-Hsuan, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Babcock-Chi_ION_GNSS_2025_TDOA_Spoofing_Localization.pdf"
+
+- year: 2025
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Gaussian Bounding for Multivariate Distributions with an Application to GNSS Integrity"
+  authors: "Blanch, Juan, Wang, Rebecca, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_ITM_2025_multivariate_bounding.pdf"
+
+- year: 2025
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "Determining Protection Levels Using Multiple Antennas under Spoofing Conditions"
+  authors: "Blanch, Juan, Lo, Sherman, Chen Yu-Hsuan, Kriezis, Argyris, and Walter, Todd"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_IEEE_PLANS_2025_spoofing_protection_level.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Protection Levels Against Spoofing Using Dual Antennas: a Practical Approach"
+  authors: "Blanch, Juan, Lo, Sherman, Chen, Yu-Hsuan, Kreizis, Anargyros, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_GNSS_2025_dual_antennas.pdf"
+
+- year: 2025
+  month: January
+  first_author_last: "Chen"
+  category: conference
+  title: "Combining ADS-B, LCM and DPA to Detect and Locate the Interference in a Massive GNSS Jammer Test"
+  authors: "Chen, Yu-Hsuan, Liu, Zixi, Kriezis, Argyris, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Chen_ION_ITM_2025_Jammertest.pdf"
+
+- year: 2025
+  month: January
+  first_author_last: "Kriezis"
+  category: conference
+  title: "Real-World Spoofing Detection and Characterization Using Low-Cost Receivers"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kreizis_ION_ITM_2025_Real_World_Spoofing_Detection.pdf"
+
+- year: 2025
+  month: March
+  day: 31
+  first_author_last: "Kriezis"
+  category: magazine
+  title: "How Can Measurements of Low-Cost Receivers be Used to Detect and Analyze RF Interference?"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, Pullen, Sam and Akos, Dennis"
+  venue: "Inside GNSS"
+  url: "https://insidegnss.com/how-can-measurements-of-low-cost-receivers-be-used-to-detect-and-analyze-rf-interference/"
+
+- year: 2025
+  month: September
+  first_author_last: "Kriezis"
+  category: conference
+  title: "Utilizing SBAS Signals for RFI Detection and Characterization"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Lo, Akos, Dennis, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kreizis_ION_GNSS_2025_RFI_Detection_SBAS_Satellites.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Kriezis"
+  category: journal
+  title: "GNSS Jamming and Spoofing Monitoring Using Low-Cost COTS Receivers"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
+  venue: "Submitted to NAVIGATION"
+  doi: "10.48550/arXiv.2509.13600"
+  url: "https://arxiv.org/abs/2509.13600"
+
+- year: 2025
+  month: January
+  first_author_last: "Lai"
+  category: conference
+  title: "Protecting Against Receiver Faults to a PPP Ground-Based Integrity Monitor System"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_ITM_2025_PPP_rcvr_fault.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Lai"
+  category: conference
+  title: "User Range Error Corrections with Latency from PPP Ground-Based Integrity Monitor System"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_GNSS_2025_PPP_Integrity.pdf"
+
+- year: 2025
+  month: Fall
+  first_author_last: "Liu"
+  category: journal
+  title: "Locating GNSS Interference Sources using ADS-B with Non-linear Least Squares"
+  authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan, Chen, Yu-Hsuan, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 72 No. 3"
+  doi: "10.33012/navi.716"
+  url: "https://navi.ion.org/content/72/3/navi.716"
+
+- year: 2025
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "A Scalable Pipeline for Real-Time Global Detection and Localization of GNSS Interference Using ADS-B"
+  authors: "Liu, Zixi, Lo, Sherman, Chen, Yu-Hsuan, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Liu_ION_GNSS_2025_ADSB_Interference_Localization.pdf"
+
+- year: 2025
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Observations of GNSS Spoofing in Russia in 2023-2024"
+  authors: "Lo, Sherman, Liu, Zixi, Ibrahim, Lyla, Chen, Yu-Hsuan, and Walter, Todd"
+  venue: "Proceedings of the 2025 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lo_ION_ITM_2025_Russia_Spoofing.pdf"
+
+- year: 2025
+  month: April
+  first_author_last: "Oak"
+  category: conference
+  title: "Exploitation of Modernized GPS Crosslinks to Improve User Integrity and Availability with ARAIM"
+  authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Crews, Mark, Jackson, Robert, and Frey, Charles"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_ION_IEEE_PLANS_2025_crosslinks_araim.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Oak"
+  category: conference
+  title: "Inter-Satellite Ranging Using Modernized GPS Crosslinks for Real-Time Integrity Monitoring and ARAIM ISM"
+  authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Crews, Mark, Jackson, Robert, and Frey, Charles"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_ION_GNSS_2025_Crosslink_Ranging.pdf"
+
+- year: 2025
+  month: April
+  first_author_last: "Wang"
+  category: conference
+  title: "Overbounding Time-correlated Errors for a Multi-constellation Precise Point Positioning Integrity Service"
+  authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Salt Lake City, UT"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_IEEE_PLANS_2025_NonGaussian_Overbound.pdf"
+
+- year: 2025
+  month: September
+  first_author_last: "Wang"
+  category: conference
+  title: "Overbounding Time-Correlated Clock & Ephemeris Errors for Precise Point Positioning"
+  authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 38th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2025), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_GNSS_2025_Overbounding_Time_Correlated.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Anderson"
+  category: conference
+  title: "Combinatorial Watermarking for GNSS Signal Authentication"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Anderson_ION_ITM_2024_Watermark.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Anderson"
+  category: conference
+  title: "Revisiting Combinatorial Watermarking under SCER Adversarial Models"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Anderson_ION_PPNT_2024_Watermark_SCER.pdf"
+
+- year: 2024
+  month: Fall
+  first_author_last: "Anderson"
+  category: journal
+  title: "Authentication Security of Combinatorial Watermarking for GNSS Signal Authentication"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 71 No. 3"
+  doi: "10.33012/navi.655"
+  url: "https://navi.ion.org/content/71/3/navi.655"
+
+- year: 2024
+  month: December
+  first_author_last: "Anderson"
+  category: theses
+  title: "Designing Cryptography Systems for GNSS Data and Ranging Authentication"
+  authors: "Anderson, Jason"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  awards:
+    - "RTCA Jackson Award Winner"
+    - "Ballhaus Award Winner for Best Ph.D. in Aero/Astro"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/theses/JasonAndersonThesis2024.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Advanced RAIM for Mega-Constellations"
+  authors: "Blanch, Juan, Oak, Sukrut, Pullen, Sam, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_ITM_2024_ARAIM_for_Megaconstellations.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "Integrity-based estimators for Precise Point Positioning and other applications"
+  authors: "Blanch, Juan, Lai, Yu_Fang, and Walter, Todd"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Blanch_ION_PPNT2024_Integrity_Estimators_PPP.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Models for the effect of integrity monitors on GNSS user error range distributions"
+  authors: "Blanch, Juan, Lai, Frank, Walter, Todd, and Silva, Pedro"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/blanch_ION_GNSS_2024_integrity_mon.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Capua"
+  category: conference
+  title: "Development of RTCM SC-134 Messages for High-Integrity Precise Positioning"
+  authors: "Capua, Roberto, Pullen, Sam, Joerger, Mathieu, Martini, Ilaria, Neri, Alessandro, and Leahy, Edmond"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Capua_ION_GNSS_2024_RTCM_SC_134_High_Integrity_Messages.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Dennis"
+  category: conference
+  title: "SBAS Authentication Standards"
+  authors: "Dennis, Jed, Walter, Todd, Anderson, Jason, Fernandez-Hernandez, Ignacio, Canestri, Ettore, Mabilleau, Mikael, and Châtre, Eric"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Dennis_ION_GNSS_2024_SBAS_Authentication_Standards.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Headlee"
+  category: conference
+  title: "Exploring the Utility of Doppler Shift Measurements for Enhanced GNSS Positioning"
+  authors: "Headlee, Lennon, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Headlee_ION_GNSS_2024_DopplerUtility.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Kriezis"
+  category: conference
+  title: "Identifying Low Cost GNSS Monitor Metrics for Robust RFI Detection"
+  authors: "Kriezis, Anargyros, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kriezis_ION_ITM_2024_Low_Cost_Monitor_Metrics.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Kriezis"
+  category: conference
+  title: "GNSS RFI Detection and Impact Characterization in Various Interference Environments using Low-Cost Receivers"
+  authors: "Kriezis, Argyris, Chen, Yu-Hsuan, Akos, Dennis, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Kriezis_ION_GNSS_2024_RFI_DetectionLow_Cost_Receivers.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Lai"
+  category: conference
+  title: "PPP Range Error Integrity Using a Network of Ground Monitors"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_ITM_2024_PPP_Ground_Monitoring.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Lai"
+  category: conference
+  title: "Ground-Based Integrity Monitors for PPP Correction Services"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_PPNT_2024_PPP_Integrity.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Lai"
+  category: conference
+  title: "State Determination in EKF using Singular Value Decomposition for PPP Integrity Monitor System"
+  authors: "Lai, Frank, Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Lai_ION_GNSS_2024_GNSS_SVD_EKF.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "Identifying the Source of October 2022 Texas Jamming Incident Using ADS-B Data with an Improvement in the Model Confidence"
+  authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Liu_ION_ITM_2024_Detecting_Dallas_RFI.pdf"
+
+- year: 2024
+  month: March
+  day: 26
+  first_author_last: "Liu"
+  category: magazine
+  title: "GNSS Spoofing and Jamming in Eastern Europe"
+  authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan, Chen, Yu-Hsuan, Walter, Todd, and Pullen, Sam"
+  venue: "Inside GNSS"
+  url: "https://insidegnss.com/gnss-spoofing-and-jamming-in-eastern-europe/"
+
+- year: 2024
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "GNSS Spoofing Detection and Localization Using ADS-B Data"
+  authors: "Liu, Zixi, Lo, Sherman, Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Liu_ION_GNSS_2024_ADSB_Spoof_Detection.pdf"
+
+- year: 2024
+  month: November
+  day: 26
+  first_author_last: "Liu"
+  category: magazine
+  title: "What has been learned recently about GNSS RF jamming and spoofing events? What tools are available online to track and investigate these events?"
+  authors: "Liu, Zixi, Lo, Sherman, Walter, Todd, and Pullen, Sam"
+  venue: "Inside GNSS"
+  url: "https://insidegnss.com/q-what-has-been-learned-recently-about-gnss-rf-jamming-and-spoofing-events-what-tools-are-available-online-to-track-and-investigate-these-events/"
+
+- year: 2024
+  month: April
+  first_author_last: "Oak"
+  category: conference
+  title: "LEO Satellite Augmentation of GNSS: Impact of LEO Ranging Quality on ARAIM"
+  authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Colobong, Isaiah, Blanch, Juan, Walter, Todd, Crews, Mark, and Jackson, Robert"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_ION_PPNT_2024_LEO_Ranging_ARAIM.pdf"
+
+- year: 2024
+  month: May
+  day: 24
+  first_author_last: "Oak"
+  category: magazine
+  title: "Humanity's Journey Towards Precise Navigation"
+  authors: "Oak, Sukrut"
+  venue: "The Overview"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Oak_Overview_2024_Humanitys_Journey_Towards_Precise_Navigation.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Patil"
+  category: conference
+  title: "Detecting and Localizing Space Based Interference on GNSS Signals using Machine Learning"
+  authors: "Patil, Akshata, Phelts, R. Eric, Walter, Todd, and Thoelert, Steffen"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Patil_ION_ITM_2024_Detecting_Space_RFI.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Walter"
+  category: conference
+  title: "Implementation of Data Authentication on SBAS"
+  authors: "Walter, Todd, Anderson, Jason, and Lo, Sherman"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Walter_ION_PPNT_2024_Implementation_SBAS_NMA.pdf"
+
+- year: 2024
+  month: January
+  first_author_last: "Wang"
+  category: conference
+  title: "Characterization of Recent GPS Satellite Clock Jumps"
+  authors: "Wang, Rebecca, Lai, Yu-Fang, Blanch, Juan, Akos, Dennis, Phelts, Eric, and Walter, Todd"
+  venue: "Proceedings of the 2024 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_ITM_2024_GPS_Clock_Jumps.pdf"
+
+- year: 2024
+  month: April
+  first_author_last: "Wang"
+  category: conference
+  title: "Performance Characterization of the BeiDou-3 Constellation"
+  authors: "Wang, Rebecca and Walter, Todd"
+  venue: "Proceedings of the ION 2024 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_PPNT_2024_BDS_Characterization.pdf"
+
+- year: 2024
+  month: September
+  first_author_last: "Wang"
+  category: conference
+  title: "Constellation Fault Monitoring to Support a Precise Point Positioning (PPP) Integrity Service"
+  authors: "Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 37th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2024), Baltimore, MD"
+  url: "https://web.stanford.edu/group/scpnt/gpslab/pubs/papers/Wang_ION_GNSS_2024_Const_Mon_for_PPP.pdf"
+
+- year: 2023
+  month: January
+  first_author_last: "Anderson"
+  category: conference
+  title: "Addressing a Critical Vulnerability in upcoming Broadcast-only TESLA-based GNSS-enabled Systems"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  season: Fall
+  first_author_last: "Anderson"
+  category: journal
+  title: "Authentication of Satellite-Based Augmentation Systems with Over-the-Air Rekeying Schemes"
+  authors: "Anderson, Jason, Lo, Sherman, Neish, Andrew, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 70 No. 3"
+  doi: "10.33012/navi.595"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Anderson"
+  category: conference
+  title: "Authentication Security of Combinatorial Watermarking for GNSS Signal Authentication"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Evaluation of Tropospheric and Mixed Single - Dual Frequency Error Models in Advanced RAIM"
+  authors: "Blanch, Juan, Walter, Todd, and Lai, Yu-Fang"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "An Evaluation of the Advanced RAIM Threat Model"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, CA"
+  details: "pp. 408-413"
+  doi: "10.1109/PLANS53410.2023.10139928"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Approaches to Improve Advanced RAIM Protection Levels"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Chen"
+  category: conference
+  title: "An RFI Testbed for Examining GNSS Integrity in the Various Environments"
+  authors: "Chen, Yu-Hsuan, Liu, Zixi, Blanch, Juan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Dacus"
+  category: conference
+  title: "Approximating Regional GNSS Interference Sources as a Convex Optimization Problem using ADS-B Data"
+  authors: "Dacus, Michael, Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Lai"
+  category: conference
+  title: "Troposphere Delay Model Error Analysis With Application to Vertical Protection Level Calculation"
+  authors: "Lai, Yu-Fang, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Lai"
+  category: conference
+  title: "Prototyping Integrity Monitors for PPP Fault Detections"
+  authors: "Lai, Yu-Fang, Blanch, Juan, Walter, Todd, Kahr, Erin, Leahy, Edmond, Silva, Pedro, and Ellum, Cameron"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "Satellite Clock and Ephemeris Error Bounding Characterization for Galileo and Estimated CNAV"
+  authors: "Liu, Xinwei, Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: June
+  first_author_last: "Liu"
+  category: theses
+  title: "Characterization of the Clock and Ephemeris Error Distributions of the Global Satellite Navigation System (GNSS)"
+  authors: "Liu, Xinwei"
+  venue: "Stanford University"
+  details: "Engineer Degree Dissertation"
+  url: ""
+
+- year: 2023
+  month: May
+  day: 26
+  first_author_last: "Liu"
+  category: magazine
+  title: "GNSS Interference: Getting to the Source"
+  authors: "Liu, Zixi, Lo, Sherman, Walter, Todd, and Blanch, Juan"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "Investigation of GPS interference events with refinement on the localization algorithm"
+  authors: "Liu, Zixi, Blanch, Juan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "Real Time Detection and Estimation of GNSS Interference Affected Region using ADS-B Data and Bayesian Modeling"
+  authors: "Liu, Zixi, Blanch, Juan, Lo, Sherman, Chen, Yu-Hsuan, and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Examining Cross Frequency Interference Effects in Multi-Frequency GNSS Receivers"
+  authors: "Lo, Sherman, Chen, Yu-Hsuan, San Miguel, Nicolas, Walter, Todd and Akos, Dennis"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Oak"
+  category: conference
+  title: "GNSS Augmentation by Low-Earth-Orbit (LEO) Satellites: Integrity Performance Under Non-Ideal Conditions"
+  authors: "Oak, Sukrut, Pullen, Sam, Lo, Sherman, Colobong, Isaiah, Blanch, Juan, Walter, Todd, Crews, Mark, and Jackson, Robert"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  url: ""
+
+- year: 2023
+  month: September
+  first_author_last: "Patil"
+  category: conference
+  title: "Detecting Space Based Interference on GNSS Signals"
+  authors: "Patil, Akshata, Phelts, R. Eric, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 36th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2023), Denver, CO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2023
+  month: November
+  day: 27
+  first_author_last: "Patil"
+  category: magazine
+  title: "Can RF interference to GNSS signals be generated by satellites in orbit? Has this occurred, and how can it be detected?"
+  authors: "Patil, Akshata, Phelts, R. Eric, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Pullen"
+  category: conference
+  title: "GNSS Constellation Performance Using ARAIM with Inclined Geosynchronous Satellite and Low-Earth-Orbit Satellite Augmentation"
+  authors: "Pullen, Sam, Lo, Sherman, Colobong, Isaiah, Oak, Sukrut, Blanch, Juan, Walter, Todd, Crews, Mark, Jackson, Robert, Young, Stephen, and Huttenhoff, Kevin"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: April
+  first_author_last: "San Miguel"
+  category: conference
+  title: "Calibration of RFI Detection Levels in a Low-Cost GNSS Monitor"
+  authors: "San Miguel, Nicolas Roberto, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, and Akos, Dennis"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium, Monterey, CA"
+  url: ""
+
+- year: 2023
+  first_author_last: "Taylor"
+  category: journal
+  title: "Software Defined Radio for GNSS Radio Frequency Interference Localization"
+  authors: "Taylor, Fred, Gattis, Evan, Trapani, Lucca, Akos, Dennis, Lo, Sherman, Walter, Todd, and Chen, Yu-Hsuan"
+  venue: "Sensors"
+  details: "Vol. 24 No. 1: 72"
+  doi: "10.3390/s24010072"
+  url: ""
+
+- year: 2023
+  month: January
+  first_author_last: "Wang"
+  category: conference
+  title: "Characterization and Comparison of Galileo and GPS Anomalies"
+  authors: "Wang, Rebecca and Walter, Todd"
+  venue: "Proceedings of the 2023 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2023
+  month: March
+  day: 20
+  first_author_last: "Wang"
+  category: magazine
+  title: "What are typical features of GNSS satellite faults in recent years? Are there any differences between satellite constellations?"
+  authors: "Wang, Rebecca, Walter, Todd, and Pullen, Sam"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Anderson"
+  category: conference
+  title: "Cryptographic Ranging Authentication with TESLA, Rapid Re-keying, and a PRF"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Anderson"
+  category: conference
+  title: "Efficient and Secure Use of Cryptography for Watermarked Signal Authentication"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Anderson"
+  category: conference
+  title: "Time Synchronization for TESLA-based GNSS-enabled Systems"
+  authors: "Anderson, Jason, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Baseline Advanced RAIM User Algorithm: Proposed Updates"
+  authors: "Blanch, Juan, Walter, Todd, Milner, Carl, Joerger, Mathieu, Pervan, Boris, Bouvet, Denis"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Design of Estimators with Integrity in the Presence of Error Model Uncertainty"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Dacus"
+  category: conference
+  title: "Improved RFI Localization Through Aircraft Position Estimation During Losses in ADS-B Reception"
+  authors: "Dacus, Michael, Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "Investigation into Satellite Clock and Ephemeris Errors Bounding Uncertainty and Predictability"
+  authors: "Liu, Xinwei, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "Evaluation of Satellite Clock and Ephemeris Error Bounding Predictability for Integrity Applications"
+  authors: "Liu, Xinwei, Wang, Rebecca, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Liu"
+  category: conference
+  title: "GNSS Interference Source Localization Using ADS-B data"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: August
+  day: 8
+  first_author_last: "Liu"
+  category: magazine
+  title: "Protecting GNSS for Safe Aviation"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "Real-time Detection and Localization of GNSS Interference Source"
+  authors: "Liu, Zixi, Lo, Sherman, Walter, Todd, and Blanch, Juan"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Demonstrating and Improving the Performance of a GNSS Dual Polarization Antenna (DPA) for Spoof Detection in Flight"
+  authors: "Lo, Sherman, Chen, Yu Hsuan, Rothmaier, Fabian, and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Marini-Pereira"
+  category: conference
+  title: "A Simple and Effective Approach to Real-Time Ionospheric Monitoring for GBAS in Low Latitudes"
+  authors: "Marini-Pereira, Leonardo, de Oliveira Moraes, Alison, and Pullen, Sam"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Nam"
+  category: conference
+  title: "Networked UAV Detection and Alerting of Ionospheric Anomalies within LADGNSS Navigation Framework"
+  authors: "Nam, Gihun, Sun, K. Andrew, Lee, Jiyun, and Pullen, Sam"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Phelts"
+  category: conference
+  title: "Nominal GPS Signal Deformations: 10 years of WAAS Signal Quality Monitoring"
+  authors: "Phelts, R. Eric, Walter, Todd, and Sanchez, Rhiannon"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "Phelts"
+  category: conference
+  title: "Characterizing GPS Signal Deformations using the WAAS Signal Quality Monitor"
+  authors: "Phelts, R. Eric and Walter, Todd"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Pullen"
+  category: conference
+  title: "Inclined Geosynchronous Satellite Augmentation to Maximize Availability of Integrity for Future SBAS and ARAIM Users"
+  authors: "Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Katronick, Andrew, Crews, Mark, Jackson, Robert, and Huttenhoff, Kevin"
+  venue: "2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  details: "Presented at"
+  url: ""
+
+- year: 2022
+  month: May
+  day: 24
+  first_author_last: "Pullen"
+  category: magazine
+  title: "What commitments have the various constellation providers made to GNSS users regarding the integrity of their signals and services? How are these commitments transmitted to users, and how can they be updated if circumstances require?"
+  authors: "Pullen, Sam, Walter, Todd, Blanch, Juan, and Wang, Rebecca"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2022
+  month: September
+  first_author_last: "San Miguel"
+  category: conference
+  title: "Stress Testing of a Low-Cost GNSS RFI Monitor"
+  authors: "San Miguel, Nicolas Roberto, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, and Akos, Dennis"
+  venue: "Proceedings of the 35th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2022), Denver, CO"
+  url: ""
+
+- year: 2022
+  season: Winter
+  first_author_last: "Sparks"
+  category: journal
+  title: "WAAS and the ionosphere – a historical perspective: Monitoring storms"
+  authors: "Sparks, Lawrence, Altshuler, Eric, Pandya, Nitin, Blanch, Juan, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 69 No. 1, pp. 243-258"
+  doi: "10.33012/navi.503"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Taleghani"
+  category: conference
+  title: "Low cost RFI monitor for continuous observation and characterization of localized interference sources"
+  authors: "Taleghani, Leila, Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, Akos, Dennis, and Granite Gattis, Benon"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2022
+  month: August
+  day: 17
+  first_author_last: "Taleghani"
+  category: magazine
+  title: "Innovation: Monitoring GNSS interference and spoofing — a low-cost approach"
+  authors: "Taleghani, Leila, Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, Akos, Dennis, Granite Gattis, Benon, and Langley, Richard B."
+  venue: "GPS World"
+  url: ""
+
+- year: 2022
+  month: January
+  first_author_last: "Yuan"
+  category: conference
+  title: "Examining Reception of GNSS Underwater using a Smartphone"
+  authors: "Yuan, Matthew and Lo, Sherman"
+  venue: "Proceedings of the 2022 International Technical Meeting of The Institute of Navigation, Long Beach, CA"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Anderson"
+  category: conference
+  title: "On SBAS Authentication with OTAR Schemes"
+  authors: "Anderson, Jason, Lo, Sherman, Neish, Andrew, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: February
+  first_author_last: "Blanch"
+  category: journal
+  title: "Fast Protection Levels for Fault Detection With an Application to Advanced RAIM"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 57 No. 1, pp. 55-65"
+  doi: "10.1109/TAES.2020.3011997"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Gaussian Bounding Improvements and an Analysis of the Bias-Sigma Tradeoff for GNSS Integrity"
+  authors: "Blanch, Juan, Liu, Xinwei, and Walter, Todd"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Analysis of GNSS Constellation Performance for Advanced RAIM"
+  authors: "Blanch, Juan, Liu, Xinwei, Gunning, Kaz, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "A Fault Detection and Exclusion Estimator Designed for Integrity"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Fernández-Hernández"
+  category: conference
+  title: "SBAS Message Authentication: A Review of Protocols, Figures of Merit and Standardization Plans"
+  authors: "Fernández-Hernández, Ignacio, Walter, Todd, Neish, Andrew M., Anderson, Jason, Mabilleau, Mikael, Vecchione, Giovanni, and Châtre, Eric"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Fernández-Hernández"
+  category: conference
+  title: "Message Authentication Candidates for the SBAS Dual Frequency Multi-Constellation Standard"
+  authors: "Fernández-Hernández, Ignacio, Walter, Todd, Mabilleau, Mikael, Tosato, Luciano, Dalla Chiara, Andrea, Pozza, Daniele, Pozzobon, Oscar, Calabrese, Alessandra, Anderson, Jason, and Châtre, Eric"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: March
+  first_author_last: "Gunning"
+  category: theses
+  title: "Safety Critical Bounds for Precise Positioning for Aviation and Autonomy"
+  authors: "Gunning, Kazuma"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Hirschberger"
+  category: conference
+  title: "Reevaluating the Message Loss Rate of the Wide Area Augmentation System (WAAS) in Flight"
+  authors: "Hirschberger, Matthew, Lo, Sherman and Walter, Todd"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Katz"
+  category: conference
+  title: "ARAIM for Military Users: ISM Parameters, Constellation-Check Procedure and Performance Estimates"
+  authors: "Katz, Alec, Pullen, Sam, Lo, Sherman, Blanch, Juan, Walter, Todd, Katronick, Andrew, Crews, Mark, and Jackson, Robert"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "GNSS Interference Detection Using Machine Learning Algorithms on ADS-B Data"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Developing a Practical GNSS Spoofing Detection Thresholds for Receiver Power Monitoring"
+  authors: "Lo, Sherman, Rothmaier, Fabian, Miralles, Damian, Akos, Dennis, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: February
+  first_author_last: "Marini-Pereira"
+  category: journal
+  title: "Reexamining Low-Latitude Ionospheric Error Bounds: An SBAS Approach for Brazil"
+  authors: "Marini-Pereira, Leonardo, Pullen, Sam P., and de Oliveira Moraes, Alison"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 57 No. 1, pp. 674-689"
+  doi: "10.1109/TAES.2020.3029623"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Nam"
+  category: conference
+  title: "Enhanced Local-Area DGNSS for Autonomous Vehicle Navigation: Optimal Smoothing Strategy"
+  authors: "Nam, Gihun, Kim, Dongwoo, Kim, Noah Minchan, Jiyun Lee, and Pullen, Sam"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  title: "Ground Monitoring to Support ARAIM for Military Users: Alternatives for Rapid and Rare Update Rates"
+  authors: "Pullen, Sam, Lo, Sherman, Katz, Alec, Blanch, Juan, Walter, Todd, Katronick, Andrew, Crews, Mark, and Johnson, Robert"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "GNSS Spoofing Mitigation in the Position Domain"
+  authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  season: Summer
+  first_author_last: "Rothmaier"
+  category: journal
+  title: "GNSS Spoof Detection through Spatial Processing"
+  authors: "Rothmaier, Fabian, Chen, Yu Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "NAVIGATION"
+  details: "Vol. 68 No. 2, pp. 243-258"
+  doi: "10.1002/navi.420"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "GNSS Spoofing Detection through Metric Combinations: Calibration and Application of a General Framework"
+  authors: "Rothmaier, Fabian, Taleghani, Leila, Chen, Yu-Hsuan, Lo, Sherman, Phelts, Eric, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "Providing Continuity and Integrity in the Presence of GNSS Spoofing"
+  authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2021
+  month: December
+  first_author_last: "Rothmaier"
+  category: journal
+  title: "A Framework for GNSS Spoofing Detection through Combinations of Metrics"
+  authors: "Rothmaier, Fabian, Chen, Yu Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 57 Issue 6, pp. 3633-3647"
+  doi: "10.1109/TAES.2021.3082673"
+  url: ""
+
+- year: 2021
+  month: December
+  first_author_last: "Rothmaier"
+  category: theses
+  title: "Statistical Inference for Safe and Continuous Navigation in the Presence of GNSS Spoofing"
+  authors: "Rothmaier, Fabian"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Investigation into September 2020 GPS SVN 74 Performance Anomaly"
+  authors: "Walter, Todd, Liu, Zixi, Blanch, Juan, Pham, Kristy, Mick, John, and Wanner, William"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Assessment of Ionospheric Correction Behavior for Use with Precise Point Positioning (PPP)"
+  authors: "Walter, Todd, Blanch, Juan, de Groot, Lance, and Norman, Laura"
+  venue: "Proceedings of the 2021 International Technical Meeting of The Institute of Navigation, Virtual"
+  url: ""
+
+- year: 2021
+  month: August
+  day: 1
+  first_author_last: "Walter"
+  category: magazine
+  title: "Innovation: Ionospheric corrections for precise point positioning"
+  authors: "Walter, Todd, Blanch, Juan, and Norman, Laura B."
+  venue: "GPS World"
+  url: ""
+
+- year: 2021
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  title: "SBAS Message Schemes to Support Inline Message Authentication"
+  authors: "Walter, Todd, Anderson, Jason, and Lo, Sherman"
+  venue: "Proceedings of the 34th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2021), St. Louis, MO"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Stress Testing Advanced RAIM Airborne Algorithms"
+  authors: "Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "Solution Separation-based FD to Mitigate the Effects of Local Threats on PPP Integrity"
+  authors: "Blanch, Juan, Gunning, Kazuma, Walter, Todd, de Groot, Lance, and Norman, Laura"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon"
+  url: ""
+
+- year: 2020
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Bounding Temporally Correlated Measurement Noise with an Application to GNSS Integrity"
+  authors: "Blanch, Juan, Phelts, Eric, Gunning, Kazuma, and Walter, Todd"
+  venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2020
+  month: December
+  first_author_last: "de Paula"
+  category: journal
+  title: "Performance of 6 Different Global Navigation Satellite System Receivers at Low Latitude Under Moderate and Strong Scintillation"
+  authors: "de Paula, Eurico R., Martinon, Andre R. F., Moraes, Alison O., Carrano, Charles, Neto, A. C., Doherty, Patricia, Groves, Keith, Valladares, Cesar E., Crowley, Geoff, Azeem, Irfan, Reynolds, Adam, Akos, Dennis M., Walter, Todd, Beach, Ted L., and Slewaegen, Jean-Marie"
+  venue: "Earth and Space Science"
+  details: "8, e2020EA001314"
+  doi: "10.1029/2020EA001314"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Fernandez-Hernandez"
+  category: conference
+  title: "Independent Time Synchronization for Resilient GNSS Receivers"
+  authors: "Fernandez-Hernandez, Ignacio, Walter, Todd, Neish, Andrew, and O'Driscoll, Cillian"
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  month: April
+  first_author_last: "Jheng"
+  category: journal
+  title: "1090 MHz ADS-B Based Wide Area Multilateration System for Alternative Positioning Navigation and Timing"
+  authors: "Jheng, Siang-Lin, Jan, Shau-Shiun, Chen, Yu-Hsuan, and Lo, Sherman"
+  venue: "IEEE Sensors Journal"
+  doi: "10.1109/JSEN.2020.2988514"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Joerger"
+  category: conference
+  title: "ARAIM Continuity and Availability Assertions, Assumptions, and Evaluation Methods"
+  authors: "Joerger, M., Zhai, Y., Martini, I., Blanch, J., and Pervan, B."
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  season: Winter
+  first_author_last: "Lewis"
+  category: journal
+  title: "GNSS Interferometric Reflectometry Signature-based Defense"
+  authors: "Lewis, Steven W., Chow, Edward C., Nievinski, Felipe G., Akos, Dennis M., and Lo, Sherman"
+  venue: "NAVIGATION"
+  details: "Vol. 67 No. 4, pp. 727-743"
+  doi: "10.1002/navi.393"
+  url: ""
+
+- year: 2020
+  month: September
+  first_author_last: "Liu"
+  category: conference
+  title: "Characterization of ADS-B Performance under GNSS Interference"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2020), Virtual"
+  url: ""
+
+- year: 2020
+  month: November
+  first_author_last: "Liu"
+  category: conference
+  title: "GNSS Interference Characterization and Localization Using OpenSky ADS-B Data"
+  authors: "Liu, Zixi, Lo, Sherman, and Walter, Todd"
+  venue: "Proceedings of the OpenSky Symposium"
+  doi: "10.3390/proceedings2020059010"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Developing a Dual Polarization Antenna (DPA) for High Dynamic Applications"
+  authors: "Lo, S., Chen, Y.H., Rothmaier, F., Zhang, G., and Lee, C."
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  season: Fall
+  first_author_last: "Lo"
+  category: journal
+  title: "Flight Test of a Pseudo-Ranging Signal Compatible with Existing Distance Measuring Equipment (DME) Ground Stations"
+  authors: "Lo, Sherman, Chen, Yu-Hsuan, Enge, Per, Pelgrum, Wouter, Li, Kuangmin, Weida, George, and Soelte, Achim"
+  venue: "NAVIGATION"
+  details: "Vol. 67 No. 3, pp. 567-582"
+  doi: "10.1002/navi.376"
+  url: ""
+
+- year: 2020
+  month: November
+  first_author_last: "Lo"
+  category: conference
+  title: "Message Design for a Robust Time Signal Using Distance Measuring Equipment (DME) Pulse Pair Position Modulated (PPPM) Pseudolite"
+  authors: "Lo, Sherman and Chen, Yu-Hsuan"
+  venue: "Proceedings of the 2020 European Navigation Conference, Virtual"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Lo"
+  category: book
+  title: "Chapter 61: Navigation for Aviation"
+  authors: "Lo, Sherman"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: April
+  first_author_last: "Milner"
+  category: conference
+  title: "Evaluating Integrity and Continuity Over Time in Advanced RAIM"
+  authors: "Milner, Carl, Pervan, Boris, Blanch, Juan, and Joerger, Mathieu"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon"
+  url: ""
+
+- year: 2020
+  season: Fall
+  first_author_last: "Miralles"
+  category: journal
+  title: "An Assessment of GPS Spoofing Detection Via Radio Power and Signal Quality Monitoring for Aviation Safety Operations"
+  authors: "Miralles, Damian, Bornot, Aurelie, Rouquette, Paul, Levigne, Nathan, Akos, Dennis M., Chen, Yu-Hsuan, Lo, Sherman, and Walter, Todd"
+  venue: "IEEE Intelligent Transportation Systems Magazine"
+  details: "Vol. 12 No. 3, pp. 136-146"
+  doi: "10.1109/MITS.2020.2994117"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Neish"
+  category: conference
+  title: "Receiver States for SBAS Data Authentication"
+  authors: "Neish, Andrew, Walter, Todd, and Fernandez-Hernandez, Ignacio"
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  month: May
+  first_author_last: "Neish"
+  category: magazine
+  title: "Securing GNSS – A Trip Down Cryptography Lane"
+  authors: "Neish, Andrew and Walter, Todd"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2020
+  month: August
+  first_author_last: "Neish"
+  category: theses
+  title: "Establishing Trust Through Authentication in Satellite Based Augmentation Systems"
+  authors: "Neish, Andrew"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Parkinson"
+  category: book
+  title: "Chapter 1: Introduction, Early History, and Assuring PNT (PTA)"
+  authors: "Parkinson, Bradford W., Morton, Y. T. Jade, van Diggelen, Frank, and Spilker, James J. Jr."
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: March
+  first_author_last: "Perkins"
+  category: theses
+  title: "Fast Interference Localization to Protect Global Navigation Satellite Service Operations"
+  authors: "Perkins, Adrien"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2020
+  month: January
+  first_author_last: "Phelts"
+  category: conference
+  title: "Evaluating the Application of PPP Techniques to ARAIM Using Flight Data"
+  authors: "Phelts, R.E., Gunning, K., Blanch, J., and Walter, T."
+  venue: "Proceedings of the 2020 International Technical Meeting of The Institute of Navigation, San Diego, California"
+  url: ""
+
+- year: 2020
+  month: June
+  day: 13
+  first_author_last: "Phelts"
+  category: magazine
+  title: "Innovation: Improving ARAIM"
+  authors: "Phelts, R. Eric, Gunning, Kazuma, Blanch, Juan, and Walter, Todd"
+  venue: "GPS World"
+  url: ""
+
+- year: 2020
+  month: January
+  day: 26
+  first_author_last: "Pullen"
+  category: magazine
+  title: "What Freeware or Open-Source Software Packages Are Available to Support GNSS Performance Evaluations?"
+  authors: "Pullen, Sam"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Pullen"
+  category: book
+  title: "Chapter 23: GNSS Integrity"
+  authors: "Pullen, Sam and Joerger, Mathieu"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Reid"
+  category: book
+  title: "Chapter 43: Navigation from Low Earth Orbit"
+  authors: "Reid, Tyler G. R., Walter, Todd, Enge, Per K., Lawrence, David, Cobb, H. Stewart, Gutt, Greg, O'Conner, Michael, and Whelan, David"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Reid"
+  category: book
+  title: "Chapter 64: Navigation in the Arctic"
+  authors: "Reid, Tyler G. R., Walter, Todd, Guinness, Robert, Thombre, Sarang, Kuusniemi, Heidi, and Kjerstad, Norvald"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume II"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2020
+  month: September
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "Optimal Sequential Spoof Detection Based on Direction of Arrival Measurements"
+  authors: "Rothmaier, Fabian"
+  venue: "Proceedings of the 33rd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2020), Virtual"
+  awards:
+    - "Student Paper Award Winner"
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2020
+  month: April
+  first_author_last: "Walter"
+  category: conference
+  title: "A Rigid Message Scheduler for SBAS"
+  authors: "Walter, Todd, Neish, Andrew, and Blanch, Juan"
+  venue: "Proceedings of the IEEE/ION Position Location and Navigation Symposium (PLANS), Portland, Oregon"
+  url: ""
+
+- year: 2020
+  month: December
+  day: 15
+  first_author_last: "Walter"
+  category: book
+  title: "Chapter 13: Satellite Based Augmentation Systems"
+  authors: "Walter, Todd"
+  venue: "Position, Navigation, and Timing Technologies in the 21st Century: Integrated Satellite Navigation, Sensor Systems, and Civil Applications, Volume I"
+  details: "Wiley"
+  doi: "10.1002/9781119458449"
+  url: ""
+
+- year: 2019
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Development and Evaluation of Airborne Multipath Error Bounds for L1-L5"
+  authors: "Blanch, Juan, Walter, Todd, and Phelts, R. Eric"
+  venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2019
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Reducing Computational Load in Solution Separation for Kalman Filters and an Application to PPP Integrity"
+  authors: "Blanch, Juan, Gunning, Kaz, Walter, Todd, de Groot, Lance, and Norman, Laura"
+  venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2019
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "Lower Bounds in Optimal Integrity Monitoring"
+  authors: "Blanch, Juan and Walter, Todd"
+  venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: ""
+
+- year: 2019
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Development of Advanced RAIM Minimum Operational Performance Standards"
+  authors: "Blanch, Juan, Walter, Todd, Berz, Gary, Burns, Jason, Clark, Barbara, Joerger, Mathieu, Mabilleau, Mikael, Martini, Ilaria, Milner, Carl, Pervan, Boris, and Lee, Young"
+  venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
+  url: ""
+
+- year: 2019
+  month: January
+  first_author_last: "Fernández-Hernández"
+  category: conference
+  title: "Increasing International Civil Aviation Resilience: A Proposal for Nomenclature, Categorization and Treatment of New Interference Threats"
+  authors: "Fernández-Hernández, Ignacio, Walter, Todd, Alexander, Ken, Clark, Barbara, Châtre, Eric, Hegarty, Chris, Appel, Manuel, and Meurer, Michael"
+  venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2019
+  month: January
+  first_author_last: "Gunning"
+  category: conference
+  title: "SBAS Corrections for PPP Integrity with Solution Separation"
+  authors: "Gunning, Kazuma, Blanch, Juan, and Walter, Todd"
+  venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2019
+  month: April
+  first_author_last: "Gunning"
+  category: conference
+  title: "SIS Monitoring for ARAIM in the Absence of Precise Clock Estimates"
+  authors: "Gunning, Kazuma, Walter, Todd, and Powell, J. David"
+  venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: ""
+
+- year: 2019
+  month: June
+  day: 15
+  first_author_last: "Gunning"
+  category: magazine
+  title: "Design and Evaluation of Integrity Algorithms for PPP in Kinematic Applications"
+  authors: "Gunning, Kaz, Blanch, Juan, Walter, Todd, de Groot, Lance, and Norman, Laura"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2019
+  month: September
+  first_author_last: "Gunning"
+  category: conference
+  title: "Integrity for Tightly Coupled PPP and IMU"
+  authors: "Gunning, Kazuma, Blanch, Juan, Walter, Todd, de Groot, Lance, and Norman, Laura"
+  venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
+  url: ""
+
+- year: 2019
+  month: April
+  first_author_last: "Jain"
+  category: conference
+  title: "Accommodating Direction Ambiguities in Direction of Arrival Based GNSS Spoof Detection"
+  authors: "Jain, Hridayangam, Lo, Sherman, Chen, Yu-Hsuan, Rothmaier, Fabian, and Powell, J. David"
+  venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: ""
+
+- year: 2019
+  month: September
+  first_author_last: "Lee"
+  category: conference
+  title: "Analysis of Raw GNSS Measurements Derived Navigation Solutions from Mobile Devices with Inertial Sensors"
+  authors: "Lee, Dong-Kyeong, Petit, Matthias, Miralles, Damian, Lo, Sherman, and Akos, Dennis"
+  venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
+  url: ""
+
+- year: 2019
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Tests of Crowdsourced Smartphones Measurements to Detect GNSS Spoofing and Other Disruptions"
+  authors: "Lo, Sherman, Chen, Yu-Hsuan, Akos, Dennis, Cotts, Brandon, and Miralles, Damian"
+  venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2019
+  season: Spring
+  first_author_last: "Neish"
+  category: journal
+  title: "Quantum-resistant Authentication Algorithms for Satellite-Based Augmentation Systems"
+  authors: "Neish, Andrew, Walter, Todd, and Enge, Per"
+  venue: "NAVIGATION"
+  details: "Vol. 66 No. 1, pp. 199-209"
+  doi: "10.1002/navi.287"
+  url: ""
+
+- year: 2019
+  month: April
+  first_author_last: "Neish"
+  category: conference
+  title: "Design and Analysis of a Public Key Infrastructure for SBAS Data Authentication"
+  authors: "Neish, Andrew, Walter, Todd, and Powell, J. David"
+  venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
+  awards:
+    - "Best Paper Award"
+  url: ""
+
+- year: 2019
+  month: September
+  first_author_last: "Neish"
+  category: conference
+  title: "SBAS Data Authentication: A Concept of Operations"
+  authors: "Neish, Andrew, Walter, Todd, and Powell, J. David"
+  venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2019
+  season: Winter
+  first_author_last: "Neish"
+  category: journal
+  title: "Design and Analysis of a Public Key Infrastructure for SBAS Data Authentication"
+  authors: "Neish, Andrew, Walter, Todd, and Powell, J. David"
+  venue: "NAVIGATION"
+  details: "Vol. 66 No. 4, pp. 831-844"
+  doi: "10.1002/navi.338"
+  url: ""
+
+- year: 2019
+  month: April
+  first_author_last: "Perkins"
+  category: conference
+  title: "Paper Trends in ION Conferences from 2007–2018"
+  authors: "Perkins, Adrien and Walter, Todd"
+  venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: ""
+
+- year: 2019
+  month: April
+  first_author_last: "Perkins"
+  category: conference
+  title: "Measurement Characterization for Localizing Multiple RFI Sources Simultaneously from a UAS"
+  authors: "Perkins, Adrien, Lo, Sherman, and Powell, J. David"
+  venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: ""
+
+- year: 2019
+  month: September
+  first_author_last: "Perkins"
+  category: conference
+  title: "Real-Time Unmanned Aerial System (UAS) Based Interference Localization in a GNSS Denied Environment"
+  authors: "Perkins, Adrien, Chen, Yu-Hsuan, Lo, Sherman, Lee, Chiawei, and Powell, J. David"
+  venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2019
+  month: April
+  first_author_last: "Phelts"
+  category: conference
+  title: "Signal Deformation Monitoring for Anomalous Multipath Threats"
+  authors: "Phelts, R. Eric and Walter, Todd"
+  venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: ""
+
+- year: 2019
+  month: September
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "Single GNSS Antenna Heading Estimation"
+  authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, Lo, Sherman, and Powell, J. David"
+  venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2019
+  month: September
+  first_author_last: "Rothmaier"
+  category: conference
+  title: "Improvements to Steady State Spoof Detection with Experimental Validation Using a Dual Polarization Antenna"
+  authors: "Rothmaier, Fabian, Chen, Yu-Hsuan, and Lo, Sherman"
+  venue: "Proceedings of the 32nd International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2019), Miami, Florida"
+  url: ""
+
+- year: 2019
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Safety Analysis of Ranging Biases on the WAAS GEOs"
+  authors: "Walter, Todd, Blanch, Juan, and Altshuler, Eric"
+  venue: "Proceedings of the 2019 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2019
+  month: April
+  first_author_last: "Walter"
+  category: conference
+  title: "Standards for ARAIM ISM Data Analysis"
+  authors: "Walter, Todd, Blanch, Juan, and Gunning, Kazuma"
+  venue: "Proceedings of the ION 2019 Pacific PNT Meeting, Honolulu, Hawaii"
+  url: ""
+
+- year: 2019
+  month: December
+  first_author_last: "Walter"
+  category: journal
+  title: "Determination of Fault Probabilities for ARAIM"
+  authors: "Walter, Todd, Blanch, Juan, Gunning, Kazuma, Joerger, Mathieu, and Pervan, Boris"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 55 No. 6, pp. 3505-3516"
+  doi: "10.1109/TAES.2019.2909727"
+  url: ""
+
+- year: 2018
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Fixed Subset Selection to Reduce Advanced RAIM Complexity"
+  authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
+  venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2018
+  month: April
+  first_author_last: "Blanch"
+  category: conference
+  title: "A Formula for Solution Separation without Subset Solutions for Advanced RAIM"
+  authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "A Proposed Concept of Operations for Advanced Receiver Autonomous Integrity Monitoring (ARAIM)"
+  authors: "Blanch, Juan, Walter, Todd, Burns, Jason, Martini, Ilaria, Boyero, Juan Pablo, Mabilleau, Mikael, and Berz, Gerhard"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  url: ""
+
+- year: 2018
+  month: October
+  first_author_last: "Blanch"
+  category: journal
+  title: "Gaussian Bounds of Sample Distributions for Integrity Analysis"
+  authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  doi: "10.1109/TAES.2018.2876583"
+  url: ""
+
+- year: 2018
+  month: January
+  first_author_last: "Chen"
+  category: conference
+  title: "Demonstrating Single Element Null Steering Antenna Direction Finding for Interference Detection"
+  authors: "Chen, Yu-Hsuan, Lo, Sherman, Perkins, Adrien, Rothmaier, Fabian, Akos, Dennis, and Enge, Per"
+  venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2018
+  month: December
+  first_author_last: "Dressel"
+  category: theses
+  title: "Efficient and Low-Cost Localization of Radio Sources with an Autonomous Drone"
+  authors: "Dressel, Louis"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2018
+  month: January
+  first_author_last: "Garbin Manfredini"
+  category: conference
+  title: "Effective GPS Spoofing Detection Utilizing Metrics from Commercial Receivers"
+  authors: "Garbin Manfredini, Esteban, Akos, Dennis M., Chen, Yu-Hsuan, Lo, Sherman, Walter, Todd, and Enge, Per"
+  venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Gunning"
+  category: conference
+  title: "Design and Evaluation of Integrity Algorithms for PPP in Kinematic Applications"
+  authors: "Gunning, Kazuma, Blanch, Juan, Walter, Todd, de Groot, Lance, and Norman, Laura"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Hegarty"
+  category: conference
+  title: "Spoofing Detection for Airborne GNSS Equipment"
+  authors: "Hegarty, Christopher, Odeh, Ali, Shallberg, Karl, Wesson, Kyle, Walter, Todd, and Alexander, Ken"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Miralles"
+  category: conference
+  title: "Android Raw GNSS Measurements as a New Anti-Spoofing and Anti-Jamming Solution"
+  authors: "Miralles, Damian, Levigne, Nathan, Akos, Dennis M., Blanch, Juan, and Lo, Sherman"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Robust GNSS Spoof Detection using Direction of Arrival: Methods and Practice"
+  authors: "Lo, Sherman, Chen, Yu-Hsuan, Jain, Hridayangam, and Enge, Per"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  url: ""
+
+- year: 2018
+  month: January
+  first_author_last: "Neish"
+  category: conference
+  title: "Quantum Resistant Authentication Algorithms for Satellite-Based Augmentation Systems"
+  authors: "Neish, Andrew, Walter, Todd, and Enge, Per"
+  venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Neish"
+  category: conference
+  title: "Parameter Selection for the TESLA Keychain"
+  authors: "Neish, Andrew, Walter, Todd, and Enge, Per"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Neish"
+  category: conference
+  title: "Uncoupled Accelerometer Based GNSS Spoof Detection for Automobiles using Statistic and Wavelet Based Tests"
+  authors: "Neish, Andrew, Lo, Sherman, Chen, Yu-Hsuan, and Enge, Per"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  url: ""
+
+- year: 2018
+  month: April
+  first_author_last: "Perkins"
+  category: conference
+  title: "Unmanned Aerial System for RFI Localization and GPS Denied Navigation"
+  authors: "Perkins, Adrien, Chen, Yu-Hsuan, Lo, Sherman, and Enge, Per"
+  venue: "Proceedings of the International Flight Inspection Symposium (IFIS), Monterey, California"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Perkins"
+  category: conference
+  title: "Vision Based UAS Navigation For RFI Localization"
+  authors: "Perkins, Adrien, Chen, Yu-Hsuan, Lo, Sherman, and Enge, Per"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Phelts"
+  category: conference
+  title: "Effect of Aircraft Banking on ARAIM Performance"
+  authors: "Phelts, R. Eric, Blanch, Juan, Gunning, Kazuma, Walter, Todd, and Enge, Per"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  url: ""
+
+- year: 2018
+  month: October
+  first_author_last: "Ramakrishnan"
+  category: theses
+  title: "Enhancing Satellite Navigation for Low Earth and Geostationary Orbit Missions"
+  authors: "Ramakrishnan, Shankar"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2018
+  season: Summer
+  first_author_last: "Reid"
+  category: journal
+  title: "Broadband LEO Constellations for Navigation"
+  authors: "Reid, Tyler G.R., Neish, Andrew M., Walter, Todd, and Enge, Per K."
+  venue: "NAVIGATION"
+  details: "Vol. 65 No. 2, pp. 205-220"
+  doi: "10.1002/navi.234"
+  url: ""
+
+- year: 2018
+  season: Summer
+  first_author_last: "Schneckenburger"
+  category: journal
+  title: "Characterization and Mitigation of Multipath for Terrestrial Based Aviation Radionavigation"
+  authors: "Schneckenburger, Nicolas, Fiebig, Uwe-Carsten, Lo, Sherman, Enge, Per, and Lilley, Robert"
+  venue: "NAVIGATION"
+  details: "Vol. 65 No. 2, pp. 143-156"
+  doi: "10.1002/navi.235"
+  url: ""
+
+- year: 2018
+  month: January
+  first_author_last: "Strizic"
+  category: conference
+  title: "Crowdsourcing GNSS Jamming Detection and Localization"
+  authors: "Strizic, Luka, Akos, Dennis M., and Lo, Sherman"
+  venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2018
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "WAAS at 15"
+  authors: "Walter, Todd, Shallberg, Karl, Altshuler, Eric, Wanner, William, Harris, Chris, and Stimmler, Robert"
+  venue: "Proceedings of the 2018 International Technical Meeting of The Institute of Navigation, Reston, Virginia"
+  url: ""
+
+- year: 2018
+  season: Spring
+  first_author_last: "Walter"
+  category: journal
+  title: "Validation of the Unfaulted Error Bounds for ARAIM"
+  authors: "Walter, Todd, Gunning, Kazuma, Phelts, R. Eric, and Blanch, Juan"
+  venue: "NAVIGATION"
+  details: "Vol. 65 No. 1, pp. 117-133"
+  doi: "10.1002/navi.214"
+  url: ""
+
+- year: 2018
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  title: "Ionospheric Rates of Change"
+  authors: "Walter, Todd, Blanch, Juan, de Groot, Lance, Norman, Laura, and Joerger, Mathieu"
+  venue: "Proceedings of the 31st International Technical Meeting of The Satellite Division of The Institute of Navigation (ION GNSS+ 2018), Miami, Florida"
+  url: ""
+
+- year: 2018
+  season: Winter
+  first_author_last: "Walter"
+  category: journal
+  title: "WAAS at 15"
+  authors: "Walter, Todd, Shallberg, Karl, Altshuler, Eric, Wanner, William, Harris, Chris, and Stimmler, Robert"
+  venue: "NAVIGATION"
+  details: "Vol. 65 No. 4, pp. 581-600"
+  doi: "10.1002/navi.252"
+  url: ""
+
+- year: 2018
+  month: April
+  first_author_last: "Zhang"
+  category: conference
+  title: "GNSS Multipath Detection in Urban Environment Using 3D Building Model"
+  authors: "Zhang, Shiwen, Lo, Sherman, Chen, Yu-Hsuan, Walter, Todd, and Enge, Per"
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Initial Results of a Multi-Constellation ARAIM Airborne Prototype"
+  authors: "Blanch, Juan, Phelts, R. Eric, Chen, Yu-Hsuan, and Enge, Per"
+  venue: "Proceedings of the 2017 International Technical Meeting of The Institute of Navigation, Monterey, California"
+  url: ""
+
+- year: 2017
+  season: Spring
+  first_author_last: "Blanch"
+  category: journal
+  title: "Theoretical Results on the Optimal Detection Statistics for Autonomous Integrity Monitoring"
+  authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
+  venue: "NAVIGATION"
+  details: "Vol. 64 No. 1, pp. 123-137"
+  doi: "10.1002/navi.175"
+  url: ""
+
+- year: 2017
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "A Method to Determine Strict Gaussian Bounds of a Sample Distribution"
+  authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  season: Winter
+  first_author_last: "Blanch"
+  category: journal
+  title: "Protection Levels after Fault Exclusion for Advanced RAIM"
+  authors: "Blanch, Juan, Walter, Todd, and Enge, Per"
+  venue: "NAVIGATION"
+  details: "Vol. 64 No. 4, pp. 505-514"
+  doi: "10.1002/navi.210"
+  url: ""
+
+- year: 2017
+  first_author_last: "Bisnath"
+  category: book
+  title: "Chapter 12: Differential GNSS and Precise Point Positioning"
+  authors: "Bisnath, S., Uijt de Haag, M., Diggle, D. W., Hegarty, C., Milbert, D., and Walter, T."
+  venue: "Understanding GPS/GNSS: Principles and Applications, Third Edition"
+  details: "Artech House, ISBN: 9781630810580"
+  url: ""
+
+- year: 2017
+  month: January
+  first_author_last: "Chen"
+  category: conference
+  title: "Towards a Practical Single Element Null Steering Antenna"
+  authors: "Chen, Yu-Hsuan, Rothmaier, Fabian, Akos, Dennis, Lo, Sherman, and Enge, Per"
+  venue: "Proceedings of the 2017 International Technical Meeting of The Institute of Navigation, Monterey, California"
+  url: ""
+
+- year: 2017
+  month: September
+  first_author_last: "Closas"
+  category: conference
+  title: "Integrity Measures in Direct-Positioning"
+  authors: "Closas, Pau, Gusi-Amigó, Adrià, and Blanch, Juan"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  month: January
+  first_author_last: "Gunning"
+  category: conference
+  title: "Characterization of GLONASS Broadcast Clock and Ephemeris: Nominal Performance and Fault Trends for ARAIM"
+  authors: "Gunning, Kazuma, Walter, Todd, and Enge, Per"
+  venue: "Proceedings of the 2017 International Technical Meeting of The Institute of Navigation, Monterey, California"
+  url: ""
+
+- year: 2017
+  month: September
+  first_author_last: "Gunning"
+  category: conference
+  title: "Multi-GNSS Constellation Anomaly Detection and Performance Monitoring"
+  authors: "Gunning, Kazuma, Walter, Todd, and Enge, Per"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  first_author_last: "Hegarty"
+  category: book
+  title: "Chapter 11: Performance of Stand-Alone GNSS"
+  authors: "Hegarty, Chris, Leva, Joe, Van Dyke, Karen, and Walter, Todd"
+  venue: "Understanding GPS/GNSS: Principles and Applications, Third Edition"
+  details: "Artech House, ISBN: 9781630810580"
+  url: ""
+
+- year: 2017
+  month: September
+  first_author_last: "Kuusniemi"
+  category: conference
+  title: "Feasibility of Fault Exclusion Related to Advanced RAIM for GNSS Spoofing Detection"
+  authors: "Kuusniemi, Heidi, Blanch, Juan, Chen, Yu-Hsuan, Lo, Sherman, Innac, Anna, Ferrara, Giorgia, Honkala, Salomon, Bhuiyan, M. Zahidul H., Thombre, Sarang, Söderholm, Stefan, Walter, Todd, Phelts, R. Eric, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  month: July
+  first_author_last: "Lawrence"
+  category: magazine
+  title: "Navigation from LEO, Current Capability and Future Promise"
+  authors: "Lawrence, David, Cobb, H. Stewart, Gutt, Greg, O’Connor, Michael, Reid, Tyler G.R., Walter, Todd, and Whelan, David"
+  venue: "GPS World"
+  details: "pp. 42-48"
+  url: ""
+
+- year: 2017
+  month: May
+  first_author_last: "Lo"
+  category: conference
+  title: "The Benefit of Low Cost Accelerometers for GNSS Anti-Spoofing"
+  authors: "Lo, Sherman, Chen, Yu Hsuan, Reid, Tyler, Perkins, Adrien, Walter, Todd, and Enge, Per"
+  venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  season: "September/October"
+  first_author_last: "Lo"
+  category: magazine
+  title: "Consumer Mass Market Accelerometers for GNSS Anti-Spoofing"
+  authors: "Lo, Sherman, Chen, Yu-Hsuan, Reid, Tyler, Perkins, Adrien, Walter, Todd, and Enge, Per"
+  venue: "Inside GNSS"
+  details: "pp. 62-71"
+  url: ""
+
+- year: 2017
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Projected Performance of a Baseline High Integrity GNSS Railway Architecture under Nominal and Faulted Conditions"
+  authors: "Lo, Sherman, Pullen, Sam, Blanch, Juan, Enge, Per, Neri, Alessandro, Palma, Veronica, Salvitti, Maurizio, and Stallo, Cosimo"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  month: September
+  first_author_last: "Perkins"
+  category: conference
+  title: "Development of a Three-Element Beam Steering Antenna for Bearing Determination Onboard a UAV Capable of GNSS RFI Localization"
+  authors: "Perkins, Adrien, Chen, Yu-Hsuan, Lee, Wei, Lo, Sherman, and Enge, Per"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  month: May
+  first_author_last: "Phelts"
+  category: conference
+  title: "WAAS Signal Deformation Monitor Performance: Beyond the ICAO Threat Model"
+  authors: "Phelts, R. Eric, Shallberg, Karl, Walter, Todd, and Enge, Per"
+  venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  title: "Impact of Ionospheric Anomalies on GBAS GAST D Service and Validation of Relevant ICAO SARPs Requirements"
+  authors: "Pullen, Sam, Cassell, Rick, Johnson, Bruce, Brenner, Mats, Weed, Doug, Cypriano, Lucas, Topland, Morten, Stakkeland, Morten, Pervan, Boris, Harris, Matt, Saito, Susumu, Lee, Jiyun, Clark, Barbara, Beauchamp, Shelly, and Dennis, Joseph"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  month: May
+  first_author_last: "Reid"
+  category: theses
+  title: "Orbital Diversity for Global Navigation Satellite Systems"
+  authors: "Reid, Tyler"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2017
+  season: Summer
+  first_author_last: "Schneckenburger"
+  category: journal
+  title: "Geometric Rules for Terrestrial Radionavigation Multipath Mitigation by Averaging"
+  authors: "Schneckenburger, Nicolas, Walter, Michael, Fiebig, Uwe-Carsten, and Lo, Sherman"
+  venue: "NAVIGATION"
+  details: "Vol. 64 No. 2, pp. 231-236"
+  doi: "10.1002/navi.201"
+  url: ""
+
+- year: 2017
+  month: January
+  first_author_last: "Shallberg"
+  category: conference
+  title: "Catalog and Description of GPS and WAAS L1 C/A Signal Deformation Events"
+  authors: "Shallberg, Karl W., Ericson, Swen D., Phelts, Eric, Walter, Todd, Kovach, Karl, and Altshuler, Eric"
+  venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
+  details: "Presented at, pp. 508-520"
+  url: ""
+
+- year: 2017
+  month: May
+  first_author_last: "Walter"
+  category: conference
+  title: "Validation of the Unfaulted Error Bounds for ARAIM"
+  authors: "Walter, Todd, Gunning, Kazuma, Phelts, R. Eric, and Blanch, Juan"
+  venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
+  details: "Presented at"
+  url: ""
+
+- year: 2017
+  season: Spring
+  first_author_last: "Walter"
+  category: journal
+  title: "Improved User Position Monitor for WAAS"
+  authors: "Walter, Todd and Blanch, Juan"
+  venue: "NAVIGATION"
+  details: "Vol. 64 No. 1, pp. 165-175"
+  doi: "10.1002/navi.180"
+  url: ""
+
+- year: 2017
+  first_author_last: "Walter"
+  category: book
+  title: "Chapter 12: Satellite Based Augmentation Systems"
+  authors: "Walter, Todd"
+  venue: "Springer Handbook of Global Navigation Satellite Systems"
+  details: "Springer International Publishing Switzerland"
+  doi: "10.1007/978-3-319-42928-1"
+  url: ""
+
+- year: 2017
+  season: Fall
+  first_author_last: "Yoon"
+  category: journal
+  title: "Equatorial Plasma Bubble Threat Parameterization to Support GBAS Operations in the Brazilian Region"
+  authors: "Yoon, Moonseok, Lee, Jiyun, Pullen, Sam, Gillespie, Joseph, Mathur, Navin, Cole, Rich, de Souza, Jonas Rodrigues, Doherty, Patricia, and Pradipta, Rezy"
+  venue: "NAVIGATION"
+  details: "Vol. 64 No. 3, pp. 309-321"
+  doi: "10.1002/navi.203"
+  url: ""
+
+- year: 2016
+  month: July
+  first_author_last: "Bang"
+  category: journal
+  title: "Preliminary Availability Assessment to Support Single-Frequency SBAS Development in the Korean Region"
+  authors: "Bang, Eugene, Lee, Jinsil, Walter, Todd, and Lee, Jiyun"
+  venue: "GPS Solutions"
+  details: "Vol. 20 No. 3, pp. 299-312"
+  doi: "10.1007/s10291-016-0522-4"
+  url: ""
+
+- year: 2016
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "A Simple Satellite Exclusion Algorithm for Advanced RAIM"
+  authors: "Blanch, Juan, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Mitigation of Short Duration Satellite Outages for Advanced RAIM and Other Integrity Systems Based on GNSS"
+  authors: "Blanch, Juan, Chen, Yu-Hsuan, Phelts, R. Eric, Walter, Todd, and Enge, Per"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: January
+  first_author_last: "Chen"
+  category: conference
+  title: "Demonstrating ARAIM on UAS using Software Defined Radio and Civilian Signal GPS L1/L2C and GLONASS G1/G2"
+  authors: "Chen, Yu-Hsuan, Perkins, Adrien L. H., Lo, Sherman C., Akos, Dennis M., Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Flight Test of a Pseudo Ranging Signal Compatible with Existing Distance Measuring Equipment (DME) Ground Stations"
+  authors: "Lo, Sherman C., Chen, Yu-Hsuan, Pelgrum, Wouter, Li, Kuangmin, Weida, George, Soelter, Achim, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: April
+  first_author_last: "Lo"
+  category: conference
+  title: "Using Traffic Information Services Broadcast (TIS-B) Signals for Aviation Navigation"
+  authors: "Lo, Sherman C., Chen, Yu-Hsuan, Barrows, Andrew K., Perkins, Adrien L. H., Reid, Tyler G. R., Jan, Shau-Shiun, and Enge, Per K."
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Savannah, Georgia"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: March
+  first_author_last: "McMilin"
+  category: theses
+  title: "Single Antenna Null-Steering for GPS & GNSS Aerial Applications"
+  authors: "McMilin, Emily"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2016
+  month: September
+  first_author_last: "Neri"
+  category: conference
+  title: "A Method for Multipath Detection and Mitigation in Railway Control Applications"
+  authors: "Neri, Alessandro, Palma, Veronica, Rispoli, Francesco, Pullen, Sam, Zhang, Shiwen, Lo, Sherman, and Enge, Per"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: August
+  first_author_last: "Park"
+  category: theses
+  title: "Design of Airport Surface Movement Using Single-Frequency GPS"
+  authors: "Park, Young Shin"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2016
+  month: September
+  first_author_last: "Perkins"
+  category: conference
+  title: "Demonstration of UAV-Based GPS Jammer Localization During A Live Interference Exercise"
+  authors: "Perkins, Adrien, Dressel, Louis, Lo, Sherman, Reid, Tyler, Gunning, Kazuma, and Enge, Per"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2016
+  month: June
+  first_author_last: "Perkins"
+  category: conference
+  title: "GPS Jammer Localization Using Unmanned Aerial Vehicle"
+  authors: "Perkins, Adrien and Enge, Per"
+  venue: "International Flight Inspection Symposium (IFIS), Belgrade, Serbia"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: September
+  first_author_last: "Phelts"
+  category: conference
+  title: "ARAIM in Flight Using GPS and GLONASS: Initial Results from a Real-time Implementation"
+  authors: "Phelts, R. Eric, Blanch, Juan, Chen, Yu-Hsuan, Enge, Per, and Riley, Stuart"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: September
+  first_author_last: "Reid"
+  category: conference
+  title: "Leveraging Commercial Broadband LEO Constellations for Navigation"
+  authors: "Reid, Tyler G. R., Neish, Andrew M., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2016
+  month: October
+  first_author_last: "Reid"
+  category: journal
+  title: "Orbital Representations for the Next Generation of Satellite-Based Augmentation Systems"
+  authors: "Reid, Tyler G. R., Walter, Todd, Enge, Per K., and Sakai, T."
+  venue: "GPS Solutions"
+  details: "Vol. 20 No. 4, pp. 737-750"
+  doi: "10.1007/s10291-015-0485-x"
+  url: ""
+
+- year: 2016
+  season: Winter
+  first_author_last: "Reid"
+  category: journal
+  title: "GNSS Integrity in the Arctic"
+  authors: "Reid, Tyler G. R., Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  venue: "NAVIGATION"
+  details: "Vol. 63 No. 3, pp. 467-490"
+  doi: "10.1002/navi.169"
+  url: ""
+
+- year: 2016
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Improved Ephemeris Monitoring for GNSS"
+  authors: "Walter, Todd, Gunning, Kazuma, and Blanch, Juan"
+  venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Improved User Position Monitor for WAAS"
+  authors: "Walter, Todd and Blanch, Juan"
+  venue: "Institute of Navigation (ION) International Technical Meeting, Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: April
+  first_author_last: "Walter"
+  category: conference
+  title: "Determination of Fault Probabilities for ARAIM"
+  authors: "Walter, Todd, Blanch, Juan, Joerger, Mathieu, and Pervan, Boris S."
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Savannah, Georgia"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  title: "Satellite Selection for Multi-Constellation SBAS"
+  authors: "Walter, Todd, Blanch, Juan, and Kropp, Victoria"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2016
+  season: "November/December"
+  first_author_last: "Walter"
+  category: magazine
+  title: "Satellite Selection for Aviation Users of Multi-Constellation SBAS"
+  authors: "Walter, Todd, Blanch, Juan, and Kropp, Victoria"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2015
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Fast Multiple Fault Exclusion with a Large Number of Measurements"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Dana Point, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: January
+  first_author_last: "Blanch"
+  category: journal
+  title: "Baseline Advanced RAIM User Algorithm and Possible Improvements"
+  authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Lee, Y., Pervan, Boris S., Rippl, M., Spletter, A., and Kropp, V."
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 51 No. 1"
+  url: ""
+
+- year: 2015
+  month: July
+  first_author_last: "Blanch"
+  category: journal
+  title: "A Simple Position Estimator that Improves Advanced RAIM Performance"
+  authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., and Kropp, V."
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 51 No. 3"
+  url: ""
+
+- year: 2015
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Progress on Working Group-C Activities on Advanced RAIM"
+  authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Pervan, Boris, Joerger, Mathieu, Khanafseh, S., Burns, J., Alexander, K., Boyero, J. P., Lee, Y., Kropp, V., Macabiau, C., Suard, N., Berz, G., Rippl, M., Martini, I., and Perea, S."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: March
+  first_author_last: "Enge"
+  category: journal
+  title: "Aviation Benefits from Satellite Navigation"
+  authors: "Enge, P., Enge, N., Walter, T., and Eldredge, L."
+  venue: "New Space"
+  details: "Vol. 3 No. 1, pp. 19-35"
+  doi: "10.1089/space.2014.0011"
+  url: ""
+
+- year: 2015
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Techniques to Provide Resilient Alternative Positioning, Navigation, and Timing (APNT) Using Automatic Dependent Surveillance - Broadcast (ADS-B) Ground Stations"
+  authors: "Lo, Sherman C., Chen, Yu-Hsuan, Enge, Per K., and Narins, Mitchell J."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Dana Point, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Combining L1 Signals for Improved Sensitivity"
+  authors: "Lo, Sherman C., Chen, Yu-Hsuan, Enge, Per K., and Akos, Dennis M."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Dana Point, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  season: Summer
+  first_author_last: "Lo"
+  category: journal
+  title: "Design of a Passive Ranging System Using Existing Distance Measuring Equipment (DME) Signals & Transmitters"
+  authors: "Lo, Sherman, Enge, Per, and Narins, Mitchell."
+  venue: "NAVIGATION"
+  details: "Vol. 62 No. 2, pp. 131-149"
+  doi: "10.1002/navi.83"
+  url: ""
+
+- year: 2015
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Flight Test of Universal Access Transceiver (UAT) Transmissions to Provide Alternative Positioning Navigation and Timing (APNT)"
+  authors: "Lo, Sherman, Chen, Yu-Hsuan, and Enge, Per."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: April
+  first_author_last: "McMilin"
+  category: conference
+  title: "GPS Anti-Jam: A Simple Method of Single Antenna Null-Steering for Aerial Applications"
+  authors: "McMilin, Emily B., Chen, Yu-Hsuan, De Lorenzo, David S., Lo, Sherman C., Akos, Dennis M., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: September
+  first_author_last: "McMilin"
+  category: conference
+  title: "Field Test Validation of Single-Element Antenna with Anti-Jam and Spoof Detection"
+  authors: "McMilin, Emily B. and De Lorenzo, David S."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  season: "September/October"
+  first_author_last: "McMilin"
+  category: magazine
+  title: "Single Antenna, Dual Use: Theory and Field Trial Results for Aerial Applications of Anti-Jam and Spoof Detection"
+  authors: "McMilin, Emily B., Chen, Yu-Hsuan, De Lorenzo, David S., Akos, Dennis M., Walter, Todd, Lee, Thomas H., and Enge, Per K."
+  venue: "Inside GNSS"
+  details: "pp. 40-53"
+  url: ""
+
+- year: 2015
+  month: April
+  first_author_last: "Narins"
+  category: conference
+  title: "A Holistic Approach to the Provision of Communications, Navigation, and Surveillance Services in the 21st Century National Airspace System"
+  authors: "Narins, Mitchell J., Lo, Sherman C., Chen, Yu-Hsuan, and Enge, Per K."
+  venue: "European Navigation Conference (ENC GNSS 2015), Bordeaux, France"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: September
+  first_author_last: "Perkins"
+  category: conference
+  title: "Antenna Characterization for UAV Based GPS Jammer Localization"
+  authors: "Perkins, Adrien L. H., Dressel, Louis K., Lo, Sherman C., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: April
+  first_author_last: "Phelts"
+  category: conference
+  title: "Validating Nominal Bias Error Limits Using 4 Years of WAAS Signal Quality Monitoring Data"
+  authors: "Phelts, R. Eric, Altshuler, Eric, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: September
+  first_author_last: "Reid"
+  category: conference
+  title: "GNSS Integrity in the Arctic"
+  authors: "Reid, Tyler G. R., Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2015
+  month: May
+  first_author_last: "Spicer"
+  category: magazine
+  title: "Jammer Hunting with a UAV"
+  authors: "Spicer, James, Perkins, Adrien L. H., Dressel, Louis K., James, Mark, Chen, Yu-Hsuan, Lo, Sherman C., De Lorenzo, David S., and Enge, Per K."
+  venue: "GPS World"
+  details: "pp. 30-38"
+  url: ""
+
+- year: 2015
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Airborne Mitigation Of Constellation Wide Faults"
+  authors: "Walter, Todd and Blanch, Juan A."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Dana Point, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: April
+  first_author_last: "Walter"
+  category: conference
+  title: "Characterization of GPS Clock and Ephemeris Errors to Support ARAIM"
+  authors: "Walter, Todd and Blanch, Juan A."
+  venue: "Institute of Navigation (ION) Positioning, Navigation and Timing Conference, Honolulu, Hawaii"
+  details: "Presented at"
+  url: ""
+
+- year: 2015
+  month: October
+  first_author_last: "Walter"
+  category: magazine
+  title: "GNSS Augmentations"
+  authors: "Walter, Todd"
+  venue: "Inside GNSS"
+  details: "Published October 15, 2015"
+  url: ""
+
+- year: 2014
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Exclusion for Advanced RAIM: Requirements and a Baseline Algorithm"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Evaluation of a Covariance-based Clock and Ephemeris Error Bounding Algorithm for SBAS"
+  authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Stern, Abe, and Altshuler, Eric"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Architectures for Advanced RAIM: Offline and Online"
+  authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Pervan, Boris S., Joerger, Mathieu, Khanafseh, Samer, Burns, Jason, Alexander, Ken, Boyero, Juan Pablo, Lee, Young, Kropp, Victoria, Milner, Carl, Macabiau, Christophe, Suard, Norbert, Berz, Gerhard, and Rippl, Markus"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: January
+  first_author_last: "Chen"
+  category: conference
+  title: "Development of a Real-time GNSS Software Receiver for Evaluating RAIM in Multi-constellation"
+  authors: "Chen, Yu-Hsuan, Lo, Sherman C., Akos, Dennis M., Choi, Myungjun, Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: May
+  first_author_last: "Chen"
+  category: conference
+  title: "Direct Comparison of the Multipath Performance of L1 BOC and C/A Using On-Air Galileo and QZSS Transmissions"
+  authors: "Chen, Yu-Hsuan, Lo, Sherman C., Akos, Dennis M., and Enge, Per K."
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: May
+  first_author_last: "Chen"
+  category: conference
+  title: "Evaluation & Comparison of Ranging Using Universal Access Transceiver (UAT) and 1090 MHz Mode S Extended Squitter (Mode S ES)"
+  authors: "Chen, Yu-Hsuan, Lo, Sherman C., Jan, Shau-Shiun, and Enge, Per K."
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: September
+  first_author_last: "Chen"
+  category: conference
+  title: "Design and Test of Algorithms and Real-Time Receiver to Use Universal Access Transceiver (UAT) for Alternative Positioning Navigation and Timing (APNT)"
+  authors: "Chen, Yu-Hsuan, Lo, Sherman C., Jan, Shau-Shiun, Liou, Guan-Jhih, Akos, Dennis M., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: December
+  first_author_last: "Choi"
+  category: theses
+  title: "Evaluation of Advanced Receiver Autonomous Integrity Monitoring for Vertical Guidance Using GPS and GLONASS Signals"
+  authors: "Choi, Myungjun"
+  venue: "Stanford University"
+  details: "Engineer Degree Dissertation"
+  url: ""
+
+- year: 2014
+  month: January
+  first_author_last: "Datta Baura"
+  category: journal
+  title: "Effects of Solar Cycle 24 Activity on WAAS Navigation"
+  authors: "Datta Baura, S., Walter, T., Bust, G., and Wanner, B."
+  venue: "Space Weather"
+  details: "Vol. 12 No. 1, pp. 46-63"
+  doi: "10.1002/2013SW000982"
+  url: ""
+
+- year: 2014
+  month: September
+  first_author_last: "Jan"
+  category: conference
+  title: "Wide Area Multilateration Using 1090 MHz ADS-B Signal for Alternative Position Navigation and Timing (APNT)"
+  authors: "Jan, Shau-Shiun, Jheng, Siang-Lin, Chen, Yu-Hsuan, and Lo, Sherman C."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Techniques for Mitigating DME Multipath to Alternative Position Navigation and Timing (APNT)"
+  authors: "Lo, Sherman C., Chen, Yu-Hsuan, Segal, Benjamin, Peterson, Benjamin B., Lilley, Robert, Erikson, Robert, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Hybrid APNT: Terrestrial Radionavigation to Support Future Aviation Needs"
+  authors: "Lo, Sherman C., Chen, Yu-Hsuan, Zhang, Shiwen, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: September
+  first_author_last: "McMilin"
+  category: conference
+  title: "Single Antenna GPS Spoof Detection That Is Simple, Static, Instantaneous and Backwards Compatible for Aerial Applications"
+  authors: "McMilin, Emily B., De Lorenzo, David S., Walter, Todd, Lee, Thomas H., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: April
+  first_author_last: "Narins"
+  category: conference
+  title: "The Need for a Robust Resilient Position, Navigation, and Timing for the US National Airspace System"
+  authors: "Narins, Mitchell J., Enge, Per K., Lo, Sherman C., Chen, Yu-Hsuan, and Harrison, Michael"
+  venue: "European Navigation Conference (ENC GNSS 2014), Rotterdam, Netherlands"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: January
+  first_author_last: "Phelts"
+  category: conference
+  title: "The Effect of Nominal Signal Deformations on ARAIM User Performance"
+  authors: "Phelts, R. Eric, Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: December
+  first_author_last: "Reid"
+  category: conference
+  title: "Arctic Sea Ice Extent Forecasting Using Support Vector Regression"
+  authors: "Reid, Tyler G. R. and Tarantino, Paul M."
+  venue: "International Conference on Machine Learning Applications (ICMLA), Detroit, Michigan"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  month: September
+  first_author_last: "Reid"
+  category: conference
+  title: "Crowdsourcing Arctic Navigation Using Multispectral Ice Classification & GNSS"
+  authors: "Reid, Tyler G. R., Walter, Todd, Enge, Per K., and Fowler, Ananda"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS+) Conference, Tampa, Florida"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2014
+  month: April
+  first_author_last: "Seo"
+  category: journal
+  title: "Future Dual-Frequency GPS Navigation System for Intelligent Air Transportation Under Strong Ionospheric Scintillation"
+  authors: "Seo, Jiwon and Walter, Todd"
+  venue: "IEEE Transactions on Intelligent Transportation Systems"
+  details: "Vol. 15 No. 5, pp. 2224-2236"
+  url: ""
+
+- year: 2014
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Reduced Subset Analysis for Multi-Constellation ARAIM"
+  authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2014
+  first_author_last: "Wolff"
+  category: journal
+  title: "Potential Radio Frequency Interference with the GPS L5 Band for Radio Occultation Measurements"
+  authors: "Wolff, A. M., Akos, D. M., and Lo, S."
+  venue: "Atmospheric Measurement Techniques"
+  details: "Vol. 7 No. 11, pp. 3801-3811"
+  doi: "10.5194/amt-7-3801-2014"
+  url: ""
+
+- year: 2014
+  month: June
+  first_author_last: "Wong"
+  category: theses
+  title: "Impact of Nominal Signal Deformations on Satellite Navigation Systems"
+  authors: "Wong, Gabriel"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2014
+  month: September
+  first_author_last: "Wong"
+  category: conference
+  title: "Mitigation of Nominal Signal Deformations on Dual-Frequency WAAS Position Errors"
+  authors: "Wong, Gabriel H. W., Chen, Yu-Hsuan, Phelts, R. Eric, Walter, Todd, and Enge, Per K."
+  venue: "Proceedings of the 27th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS+ 2014), Tampa, Florida"
+  details: "pp. 3129-3147"
+  url: ""
+
+- year: 2013
+  month: April
+  first_author_last: "Bang"
+  category: conference
+  title: "Constructing Ionospheric Irregularity Threat Model for Korean SBAS"
+  authors: "Bang, Eugene, Lee, Jinsil, Lee, Jiyun, Seo, Jiwon, and Walter, Todd F."
+  venue: "Institute of Navigation (ION) Pacific PNT Meeting, Honolulu, Hawaii"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Results on the Optimal Detection Statistic for Integrity Monitoring"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Near Term Improvements to WAAS Availability"
+  authors: "Blanch, Juan A., Walter, Todd, Phelts, R. Eric, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  season: Spring
+  first_author_last: "Blanch"
+  category: journal
+  title: "Critical Elements for Multi-Constellation Advanced RAIM for Vertical Guidance"
+  authors: "Blanch, J., Walter, T., Enge, P., Wallner, S., Fernandez, F., Dellago, R., Ioannides, R., Pervan, Boris S., Hernandez, I., Belabbas, B., Spletter, A., and Rippl, M."
+  venue: "NAVIGATION"
+  details: "Vol. 60 No. 1, pp. 53-69"
+  url: ""
+
+- year: 2013
+  season: Winter
+  first_author_last: "Blanch"
+  category: journal
+  title: "Optimal Positioning for Advanced RAIM"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "NAVIGATION"
+  details: "Vol. 60 No. 4, pp. 279-290"
+  url: ""
+
+- year: 2013
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Advanced RAIM System Architecture with a Long Latency Integrity Support Message"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems (GNSS) Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: January
+  first_author_last: "Chen"
+  category: conference
+  title: "Validation of a Controlled Reception Pattern Antenna (CRPA) Receiver Built from Inexpensive General-purpose Elements During Several Live Jamming Test Campaigns"
+  authors: "Chen, Yu-Hsuan, Lo, Sherman C., Akos, Dennis M., De Lorenzo, David S., and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: February
+  first_author_last: "Chen"
+  category: magazine
+  title: "Getting Control: Off-the-Shelf Antennas for Controlled-Reception-Pattern Antenna Arrays"
+  authors: "Chen, Yu-Hsuan, Lo, Sherman, Akos, Dennis, De Lorenzo, David, and Enge, Per"
+  venue: "GPS World"
+  url: ""
+
+- year: 2013
+  month: September
+  first_author_last: "Chen"
+  category: conference
+  title: "A Testbed for Studying Automatic Dependent Surveillance Broadcast (ADS-B) Based Range and Positioning Performance to Support Alternative Position Navigation and Timing (APNT)"
+  authors: "Chen, Yu-Hsuan, Lo, Sherman C., Akos, Dennis M., Wong, Gabriel H. W., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: January
+  first_author_last: "Lee"
+  category: conference
+  title: "Multipath Benefits of BOC vs. BPSK Modulated Signals Using On-Air Measurements"
+  authors: "Lee, Chiawei, Chen, Yu-Hsuan, Wong, Gabriel H. W., Lo, Sherman C., and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Distance Measuring Equipment Accuracy Performance Today and for Future Alternative Position Navigation and Timing (APNT)"
+  authors: "Lo, Sherman C., Chen, Yu-Hsuan, Enge, Per K., Peterson, Benjamin B., Erikson, Robert, and Lilley, Robert"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2013
+  month: January
+  first_author_last: "Phelts"
+  category: conference
+  title: "Signal Deformation Monitoring for Dual-Frequency WAAS"
+  authors: "Phelts, R. Eric, Wong, Gabriel H. W., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: January
+  first_author_last: "Pullen"
+  category: conference
+  title: "Local-Area Differential GNSS Architectures Optimized to Support Unmanned Aerial Vehicles (UAVs)"
+  authors: "Pullen, Samuel P., Enge, Per K., and Lee, Jiyun"
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: February
+  first_author_last: "Pullen"
+  category: conference
+  title: "Managing Separation of Unmanned Aerial Vehicles Using High-Integrity GNSS Navigation"
+  authors: "Pullen, Samuel P."
+  venue: "ENRI International Workshop on ATM/CNS (EIWAC 2013), Tokyo, Japan"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: April
+  first_author_last: "Pullen"
+  category: conference
+  title: "Guidance, Navigation, and Separation Assurance for Local-Area UAV Networks: Putting the Pieces Together"
+  authors: "Pullen, Samuel P. and Lee, Jiyun"
+  venue: "Institute of Navigation (ION) Pacific PNT Meeting, Honolulu, Hawaii"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  season: Spring
+  first_author_last: "Pullen"
+  category: journal
+  title: "Using Outage History to Exclude High-Risk Satellites from GBAS Corrections"
+  authors: "Pullen, Samuel P. and Enge, Per K."
+  venue: "NAVIGATION"
+  details: "Vol. 60 No. 1, pp. 41-51"
+  url: ""
+
+- year: 2013
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  title: "The Impact of GPS Modernization on Standalone User Performance and Integrity with ARAIM"
+  authors: "Pullen, Samuel P., Enge, Per K., Shaw, Stuart, Frey, Charles, Frye, John, and Souder, Michael"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: September
+  first_author_last: "Ramakrishnan"
+  category: conference
+  title: "Leveraging the L1Composite Signal to Enable Autonomous Navigation at GEO and Beyond"
+  authors: "Ramakrishnan, Shankararaman, Reid, Tyler G. R., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: January
+  first_author_last: "Reid"
+  category: conference
+  title: "L1/L5 SBAS MOPS Ephemeris Message to Support Multiple Orbit Classes"
+  authors: "Reid, Tyler G. R., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: September
+  first_author_last: "Reid"
+  category: conference
+  title: "Qualifying an L5 SBAS MOPS Ephemeris Message to Support Multiple Orbit Classes"
+  authors: "Reid, Tyler G. R., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Incorporating GLONASS into Aviation RAIM Receivers"
+  authors: "Walter, Todd, Blanch, Juan A., Choi, Myungjun, Reid, Tyler G. R., and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2013
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  title: "Implementation of the L5 SBAS MOPS"
+  authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Azoulai"
+  category: conference
+  title: "SBAS Error Modeling for Category I Autoland"
+  authors: "Azoulai, Laurent, Neri, Pierre, Milner, Carl, Macabiau, Christophe, and Walter, Todd F."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: January
+  first_author_last: "Bang"
+  category: conference
+  title: "Automated Ionosphere Front Velocity Estimation Algorithm for Ground-Based Augmentation Systems"
+  authors: "Bang, Eugene, Lee, Jiyun, Seo, Jiwon, Pullen, Samuel P., and Close, Sigrid"
+  venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Optimal Positioning for Advanced RAIM"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  first_author_last: "Blanch"
+  category: journal
+  title: "Satellite Navigation for Aviation in 2025"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Proceedings of the IEEE"
+  details: "Vol. 100, Special Centennial Issue, pp. 1821-1830"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Advanced RAIM User Algorithm Description: Integrity Support Message Processing, Fault Detection, Exclusion, and Protection Level Calculation"
+  authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Lee, Young, Pervan, Boris S., Rippl, Markus, and Spletter, Alex"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: April
+  first_author_last: "Borowski"
+  category: magazine
+  title: "Detection of False GNSS Signals Using AGC"
+  authors: "Borowski, Holly, Isoz, Oscar, Eklöf, Fredrik Marsten, Lo, Sherman C., and Akos, Dennis M."
+  venue: "GPS World"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Chen"
+  category: conference
+  title: "A Study of Geometry and Commercial-Off-The-Shelf (COTS) Antennas for Controlled Reception Pattern Antenna (CRPA) Arrays"
+  authors: "Chen, Yu-Hsuan"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  awards:
+    - "Student Paper Award Winner"
+  url: ""
+
+- year: 2012
+  first_author_last: "Chen"
+  category: journal
+  title: "Design and Implementation of Real-Time a Software Radio for Anti-Interference GPS/WAAS Sensors"
+  authors: "Chen, Yu-Hsuan, Juang, Jyh-Ching, Seo, Jiwon, Lo, Sherman C., Akos, Dennis M., De Lorenzo, David S., and Enge, Per K."
+  venue: "Sensors"
+  details: "No. 12, pp. 13417-13440"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Choi"
+  category: conference
+  title: "Evaluation of Multi-constellation Advanced RAIM for Vertical Guidance Using GPS and GLONASS Signals with Multiple Faults"
+  authors: "Choi, Myungjun, Blanch, Juan A., Walter, Todd, Akos, Dennis M., and Enge, Per K."
+  venue: "Proceedings of the 25th International Technical Meeting of The Satellite Division of the Institute of Navigation (ION GNSS 2012), Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Chu"
+  category: conference
+  title: "Mixed One-way and Two-way Ranging to Support Alternative Position Navigation and Timing"
+  authors: "Chu, Jiangping"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  awards:
+    - "Student Paper Award Winner"
+  url: ""
+
+- year: 2012
+  first_author_last: "De Lorenzo"
+  category: journal
+  title: "Calibrating Adaptive Antenna Arrays for High-Integrity GPS"
+  authors: "De Lorenzo, David S., Rife, Jason H., Lo, Sherman C., and Enge, Per K."
+  venue: "GPS Solutions"
+  details: "Vol. 16 No. 2, pp. 221-230"
+  doi: "10.1007/s10291-011-0224-x"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Gao"
+  category: conference
+  title: "Impact of Personal Privacy Devices for WAAS Aviation Users"
+  authors: "Gao, Grace Xingxin, Gunning, Kazuma, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: December
+  first_author_last: "Heng"
+  category: theses
+  title: "Safe Satellite Navigation with Multiple Constellations: Global Monitoring of GPS and GLONASS Signal-In-Space Anomalies"
+  authors: "Heng, Liang"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2012
+  month: January
+  first_author_last: "Heng"
+  category: conference
+  title: "Statistical Characterization of GLONASS Broadcast Clock Errors and Signal-In-Space Errors"
+  authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: May
+  first_author_last: "Heng"
+  category: conference
+  title: "Automated Verification of Potential Signal-In-Space Anomalies Using Ground Observation Data"
+  authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Monterey, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Heng"
+  category: conference
+  title: "GLONASS Signal-in-Space Anomalies Since 2009"
+  authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2012
+  month: October
+  first_author_last: "Heng"
+  category: journal
+  title: "GPS Signal-in-Space Integrity Performance Evolution in the Last Decade: Data Mining 400,000,000 Navigation Messages from a Global Network of 400 Receivers"
+  authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 48 No. 4"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Kim"
+  category: conference
+  title: "Data Quality Improvements and Applications of Long-Term Monitoring of Ionospheric Anomalies for GBAS"
+  authors: "Kim, M., Lee, Jiyun, Pullen, Samuel P., and Gillespie, J."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: January
+  first_author_last: "Lee"
+  category: conference
+  title: "Results from Automated Ionospheric Data Analysis for Ground-Based Augmentation Systems (GBAS)"
+  authors: "Lee, Jiyun, Jung, Sungwook, Kim, Minchan, Seo, Jiwon, Pullen, Samuel P., and Close, Sigrid"
+  venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Signal Structure Study for a Passive Ranging System Using Existing Distance Measuring Equipment (DME)"
+  authors: "Lo, Sherman C. and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, Newport Beach, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  season: Winter
+  first_author_last: "Lo"
+  category: journal
+  title: "Assessing the Capability of Distance Measuring Equipment (DME) to Support Future Air Traffic Capacity"
+  authors: "Lo, Sherman and Enge, Per"
+  venue: "NAVIGATION"
+  details: "Vol. 59 No. 4, pp. 249-261"
+  doi: "10.1002/navi.24"
+  url: ""
+
+- year: 2012
+  season: Winter
+  first_author_last: "Lo"
+  category: journal
+  title: "Capacity Study of Multilateration (MLAT) Based Navigation for Alternative Position Navigation and Timing (APNT) Services for Aviation"
+  authors: "Lo, Sherman and Enge, Per"
+  venue: "NAVIGATION"
+  details: "Vol. 59 No. 4, pp. 263-279"
+  doi: "10.1002/navi.25"
+  url: ""
+
+- year: 2012
+  month: April
+  first_author_last: "Narins"
+  category: conference
+  title: "The Benefit of Alternative Position, Navigation, and Timing (APNT) to Aviation and Other User Communities for Precise Time and Frequency Services"
+  authors: "Narins, Mitchell J. and Lo, Sherman C."
+  venue: "Integrated Communications Navigation and Surveillance (ICNS) Conference, Alexandria, Virginia"
+  details: "Published in proceedings"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Narins"
+  category: conference
+  title: "The Need for a Robust Precise Time and Frequency Alternative to Global Navigation Satellite Systems"
+  authors: "Narins, Mitchell J. and Lo, Sherman C."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: November
+  first_author_last: "Narins"
+  category: magazine
+  title: "The Need for a Robust Precise Time and Frequency Alternative to Global Navigation Satellite Systems"
+  authors: "Narins, Mitch, Lombardi, Michael, Enge, Per, Peterson, Ben, Lo, Sherman C., and Akos, Dennis M."
+  venue: "GPS World"
+  url: ""
+
+- year: 2012
+  season: Winter
+  first_author_last: "Narins"
+  category: journal
+  title: "The Need for a Robust Precise Time and Frequency Alternative to Global Navigation Satellite Systems"
+  authors: "Narins, Mitch, Lombardi, Michael, Enge, Per, Peterson, Ben, Lo, Sherman, and Akos, Dennis"
+  venue: "The Journal of Air Traffic Control"
+  details: "Vol. 55 No. 1"
+  url: ""
+
+- year: 2012
+  month: January
+  first_author_last: "Pullen"
+  category: conference
+  title: "The Impact of Uninformed RF Interference on GBAS and Potential Mitigations"
+  authors: "Pullen, Samuel P., Gao, Grace Xingxin, Tedeschi, Carmen, and Warburton, John"
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  season: "March/April"
+  first_author_last: "Pullen"
+  category: magazine
+  title: "GNSS Jamming in the Name of Privacy: Potential Threat to GPS Aviation"
+  authors: "Pullen, Samuel P. and Gao, Grace X."
+  venue: "Inside GNSS"
+  details: "pp. 34-43"
+  url: ""
+
+- year: 2012
+  season: "March/April"
+  first_author_last: "Seo"
+  category: journal
+  title: "Targeted Parameter Inflation Within Ground-Based Augmentation Systems to Minimize Anomalous Ionospheric Impact"
+  authors: "Seo, Jiwon, Lee, Jiyun, Pullen, Samuel P., Enge, Per K., and Close, Sigrid"
+  venue: "Journal of Aircraft"
+  details: "Vol. 49 No. 2"
+  url: ""
+
+- year: 2012
+  month: October
+  first_author_last: "Sundlisæter"
+  category: conference
+  title: "GNSS and SBAS System of Systems: Considerations for Applications in the Arctic"
+  authors: "Sundlisæter, Tale, Reid, Tyler G. R., Johnson, Christopher, and Wan, Stephanie"
+  venue: "63rd International Astronautical Congress, Naples, Italy"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: April
+  first_author_last: "Walter"
+  category: magazine
+  title: "Innovation: Ionospheric Scintillations"
+  authors: "Walter, Todd, et al."
+  venue: "GPS World"
+  details: "pp. 44-50"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  title: "A Framework for Analyzing Architectures that Support ARAIM"
+  authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  title: "L1/L5 SBAS MOPS to Support Multiple Constellations"
+  authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2012
+  season: "September/October"
+  first_author_last: "Walter"
+  category: magazine
+  title: "GNSS Augmentations: When A Signal in Space Isn't Enough"
+  authors: "Walter, Todd F."
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2012
+  season: Winter
+  first_author_last: "Walter"
+  category: journal
+  title: "Evolving WAAS to Serve L1/L5 Users"
+  authors: "Walter, Todd, Blanch, Juan, Phelts, R. Eric, and Enge, Per"
+  venue: "NAVIGATION"
+  details: "Vol. 59 No. 4, pp. 317-327"
+  doi: "10.1002/navi.21"
+  url: ""
+
+- year: 2012
+  month: September
+  first_author_last: "Wong"
+  category: conference
+  title: "Measuring Code-Phase Differences Due to Inter-Satellite Hardware Differences"
+  authors: "Wong, Gabriel H. W., Chen, Yu-Hsuan, Phelts, R. Eric, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Nashville, Tennessee"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: January
+  first_author_last: "Blanch"
+  category: conference
+  title: "Optimization of a Vertical Protection Level Equation for Dual Frequency SBAS"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "A Clock and Ephemeris Algorithm for Dual Frequency SBAS"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "A Proposal for Multi-Constellation Advanced RAIM for Vertical Guidance"
+  authors: "Blanch, Juan A., Walter, Todd, Enge, Per K., Waller, Stefan, Fernandez, Francisco, Dellago, Riccardo, Ioannides, Pervan, Boris S., Hernandez, Ignacio, Belabbas, Boubeker, Spletter, Alexandru, and Rippl, Markus"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Carroll"
+  category: conference
+  title: "Commercial GPS in the Stratosphere: Cell Phone GPS Receiver Performance on a High Altitude Weather Balloon"
+  authors: "Carroll, Jonathan, Chan, Bryan, Harner, Charles, Reid, Tyler G. R., Tarantino, Paul M., and Yu, Chi Yau Tony"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: November
+  first_author_last: "Chen"
+  category: theses
+  title: "Design and Implementation of a Real-Time GNSS Receiver and its Applications in the Presence of Interference and Ionospheric Scintillation"
+  authors: "Chen, Yu-Hsuan"
+  venue: "National Cheng Kung University, Tainan, Taiwan, R.O.C."
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Chen"
+  category: conference
+  title: "Real-Time Dual-Frequency (L1/L5) GPS/WAAS Software Receiver"
+  authors: "Chen, Yu-Hsuan, Juang, Jyh-Ching, De Lorenzo, David S., Seo, Jiwon, Lo, Sherman C., Enge, Per K., and Akos, Dennis M."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: January
+  first_author_last: "Choi"
+  category: conference
+  title: "Advanced RAIM Demonstration Using Four Months of Ground Data"
+  authors: "Choi, Myungjun, Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Choi"
+  category: conference
+  title: "Demonstrations of Multi-Constellation Advanced RAIM for Vertical Guidance Using GPS and GLONASS Signals"
+  authors: "Choi, Myungjun, Blanch, Juan A., Akos, Dennis M., Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  season: "September/October"
+  first_author_last: "Gao"
+  category: magazine
+  title: "Breaking the Ice: Navigation in the Arctic"
+  authors: "Gao, Grace Xingxin, Heng, Liang, Walter, Todd, and Enge, Per K."
+  venue: "Inside GNSS"
+  details: "Vol. 6 No. 5, pp. 60-64"
+  url: ""
+
+- year: 2011
+  month: January
+  first_author_last: "Heng"
+  category: conference
+  title: "Statistical Characterization of GPS Signal-In-Space Errors"
+  authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Heng"
+  category: conference
+  title: "Statistical Characterization of GLONASS Broadcast Ephemeris Errors"
+  authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: November
+  first_author_last: "Heng"
+  category: magazine
+  title: "Digging into GPS Integrity: Charting the Evolution of Signal-in-Space Performance by Data Mining 400,000,000 Navigation Messages"
+  authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "GPS World"
+  details: "Vol. 22 No. 11, pp. 44-49"
+  url: ""
+
+- year: 2011
+  month: January
+  first_author_last: "Lee"
+  category: conference
+  title: "Enhancements of Long Term Ionospheric Anomaly Monitoring for the Ground-Based Augmentation System"
+  authors: "Lee, Jiyun, Jung, Sungwook, and Pullen, Samuel P."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  first_author_last: "Lee"
+  category: journal
+  title: "Ionospheric Threat Mitigation by Geometry Screening in Ground-Based Augmentation Systems"
+  authors: "Lee, Jiyun, Seo, Jiwon, Park, Young Shin, Pullen, Samuel P., and Enge, Per K."
+  venue: "Journal of Aircraft"
+  details: "Published in 2011"
+  url: ""
+
+- year: 2011
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Capacity Study of Two Potential Alternative Position Navigation and Timing (APNT) Technologies for Aviation"
+  authors: "Lo, Sherman C. and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Lo"
+  category: conference
+  title: "Alternative Position Navigation & Timing (APNT) Based on Existing DME and UAT Ground Signals"
+  authors: "Lo, Sherman C., Peterson, Benjamin B., Akos, Dennis M., Narins, Mitchell J., Loh, Robert, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  first_author_last: "Misra"
+  category: textbook
+  title: "Global Positioning System: Signals, Measurements and Performance"
+  authors: "Misra, Pratap and Enge, Per"
+  venue: "Ganga-Jamuna Press"
+  details: "Revised 2nd Edition"
+  url: ""
+
+- year: 2011
+  month: January
+  first_author_last: "Pullen"
+  category: conference
+  title: "SBAS and GBAS Integrity for Non-Aviation Users: Moving Away from Specific Risk"
+  authors: "Pullen, Samuel P., Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: July
+  first_author_last: "Pullen"
+  category: magazine
+  title: "Integrity for Non-Aviation Users"
+  authors: "Pullen, Samuel P., Walter, Todd, and Enge, Per K."
+  venue: "GPS World"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  title: "Using Outage History to Exclude High-Risk Satellites from GBAS Corrections"
+  authors: "Pullen, Samuel P. and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: January
+  first_author_last: "Seo"
+  category: conference
+  title: "Real-Time Software Receiver Using Massively Parallel Processors for GPS Adaptive Antenna Array Processing"
+  authors: "Seo, Jiwon, Chen, Yu-Hsuan, De Lorenzo, David S., Lo, Sherman C., Enge, Per K., and Akos, Dennis M."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: July
+  first_author_last: "Seo"
+  category: journal
+  title: "Correlation of GPS Signal Fades Due to Ionospheric Scintillation for Aviation Applications"
+  authors: "Seo, Jiwon, Walter, Todd, and Enge, Per K."
+  venue: "Advances in Space Research"
+  details: "No. 47, pp. 1777-1788"
+  url: ""
+
+- year: 2011
+  first_author_last: "Seo"
+  category: journal
+  title: "Availability Impact on GPS Aviation Due to Strong Ionospheric Scintillation"
+  authors: "Seo, Jiwon, Walter, Todd, and Enge, Per K."
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Published in 2011"
+  url: ""
+
+- year: 2011
+  first_author_last: "Seo"
+  category: journal
+  title: "A Real-Time Capable Software-Defined Receiver Using GPU for Adaptive Anti-Jam GPS Sensors"
+  authors: "Seo, Jiwon, Chen, Yu-Hsuan, De Lorenzo, David S., Lo, Sherman C., Walter, Todd, Enge, Per K., Akos, Dennis M., and Lee, Jiyun"
+  venue: "Sensors"
+  details: "Published in 2011"
+  url: ""
+
+- year: 2011
+  month: October
+  first_author_last: "Sparks"
+  category: journal
+  title: "Estimating Ionospheric Delay Using Kriging: 1. Methodology"
+  authors: "Sparks, Lawrence, Blanch, Juan, and Pandya, Nitin"
+  venue: "Radio Science"
+  details: "Vol. 46, RS0D21"
+  url: ""
+
+- year: 2011
+  month: October
+  first_author_last: "Sparks"
+  category: journal
+  title: "Estimating Ionospheric Delay Using Kriging: 2. Impact on Satellite-Based Augmentation System Availability"
+  authors: "Sparks, Lawrence, Blanch, Juan, and Pandya, Nitin"
+  venue: "Radio Science"
+  details: "Vol. 46, RS0D22"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Thoelert"
+  category: conference
+  title: "First Signal in Space Analysis of GLONASS K-1"
+  authors: "Thoelert, Steffen, Erker, Stefan, Furthner, Johann, Meurer, Michael, Gao, Grace Xingxin, Heng, Liang, Walter, Todd, and Enge, Per"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  title: "Evolving WAAS to Serve L1/L5 Users"
+  authors: "Walter, Todd, Blanch, Juan A., Phelts, R. Eric, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2011
+  month: January
+  first_author_last: "Wong"
+  category: conference
+  title: "Alternative Characterization of Analog Signal Deformation for GNSS-GPS Satellites"
+  authors: "Wong, Gabriel H. W., Phelts, R. Eric, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2011
+  month: September
+  first_author_last: "Wong"
+  category: conference
+  title: "Bounding Errors Caused by Nominal GNSS Signal Deformations"
+  authors: "Wong, Gabriel H. W., Phelts, R. Eric, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  first_author_last: "Becker"
+  category: conference
+  title: "Secure Location Verification -- A Security Analysis of GPS Signal Authentication"
+  authors: "Becker, Georg T., Lo, Sherman C., De Lorenzo, David S., Enge, Per K., and Paar, Christof"
+  venue: "Proceedings of DBSec 2010, the IFIP WG 11.3 Conference on Data and Applications Security"
+  details: "pp. 366-373"
+  url: ""
+
+- year: 2010
+  month: July
+  first_author_last: "Blanch"
+  category: journal
+  title: "RAIM with Optimal Integrity and Continuity Allocations Under Multiple Failures"
+  authors: "Blanch, Juan A., Walter, Todd, and Enge, Per K."
+  venue: "IEEE Transactions on Aerospace and Electronic Systems"
+  details: "Vol. 46 No. 3, pp. 1235-1247"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Blanch"
+  category: conference
+  title: "Prototyping Advanced RAIM for Vertical Guidance"
+  authors: "Blanch, Juan A., Choi, Myungjun, Walter, Todd, Enge, Per K., and Suzuki, Kazushi"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Chen"
+  category: conference
+  title: "Real-Time Software Receiver for GPS Controlled Reception Pattern Antenna Array Processing"
+  authors: "Chen, Yu-Hsuan, Juang, Jyh-Ching, De Lorenzo, David S., Seo, Jiwon, Lo, Sherman C., Enge, Per K., and Akos, Dennis M."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: May
+  first_author_last: "Chiou"
+  category: theses
+  title: "Design of a Doppler-Aided GPS Navigation System for Weak Signals Caused By Strong Ionospheric Scintillation"
+  authors: "Chiou, Tsung-Yu"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2010
+  season: "July-August"
+  first_author_last: "Datta-Barua"
+  category: journal
+  title: "Ionospheric Threat Parameterization for Local Area Global-Positioning-System-Based Aircraft Landing Systems"
+  authors: "Datta-Barua, Seebany, Lee, Jiyun, Pullen, Samuel P., Luo, Ming, Ene, Alexandru, Qiu, Di, Zhang, Godwin, and Enge, Per K."
+  venue: "AIAA Journal of Aircraft"
+  details: "Vol. 47 No. 4, pp. 1141-1151"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "De Lorenzo"
+  category: conference
+  title: "The WAAS/L5 Signal for Robust Time Transfer: Adaptive Beamsteering Antennas for Satellite Time Synchronization"
+  authors: "De Lorenzo, David S., Lo, Sherman C., Seo, Jiwon, Chen, Yu-Hsuan, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: May
+  first_author_last: "Eldredge"
+  category: conference
+  title: "Alternative Positioning, Navigation, and Timing (PNT) Study"
+  authors: "Eldredge, Leo, Enge, Per K., Harrison, Mike, Kenagy, Randy, Lo, Sherman C., Loh, Robert, Lilly, Robert, Narins, Mitchell J., and Niles, Rick"
+  venue: "International Civil Aviation Organization (ICAO) Navigation Systems Panel (NSP) Working Group Meetings, Montreal, Canada"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Gao"
+  category: conference
+  title: "GPS in Mid-life with an International Team of Doctors: Analyzing IIF-1 Satellite Performance and Backward-Compatibility"
+  authors: "Gao, Grace Xingxin, Heng, Liang, Wong, Gabriel, Phelts, Eric, Blanch, Juan A., Walter, Todd, Enge, Per K., Erker, Stefan, and Thoelert, Steffen"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2010
+  month: January
+  first_author_last: "Heng"
+  category: conference
+  title: "GPS Ephemeris Error Screening and Results for 2006-2009"
+  authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Heng"
+  category: conference
+  title: "GPS Signal-in-Space Anomalies in the Last Decade: Data Mining of 400,000,000 GPS Navigation Messages"
+  authors: "Heng, Liang, Gao, Grace Xingxin, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Khanafseh"
+  category: conference
+  title: "Carrier Phase Ionospheric Gradient Ground Monitor for GBAS with Experimental Validation"
+  authors: "Khanafseh, Samer, Yang, Fan, Pervan, Boris S., Pullen, Samuel P., and Warburton, John"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: April
+  first_author_last: "Kim"
+  category: journal
+  title: "Unaugmented GPS-Based Flight Inspection System"
+  authors: "Kim, Euiho, Walter, Todd, and Enge, Per K."
+  venue: "IEEE Transactions on Aerospace and Electronics Systems"
+  details: "Vol. 46 No. 2"
+  url: ""
+
+- year: 2010
+  month: March
+  first_author_last: "Koenig"
+  category: theses
+  title: "Optimizing the Decision Rule of a GPS Integrity Monitoring System for Improved Availability"
+  authors: "Koenig, Michael"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Lee"
+  category: conference
+  title: "Long Term Monitoring of Ionospheric Anomalies to Support the Local Area Augmentation System"
+  authors: "Lee, Jiyun, Jung, Sungwook, Bang, Eugene, Pullen, Samuel P., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: January
+  first_author_last: "Lo"
+  category: conference
+  title: "Preliminary Assessment of Alternative Navigation Means for Civil Aviation"
+  authors: "Lo, Sherman C., Enge, Per K., Niles, Frederick, Loh, Robert, Eldredge, Leo, and Narins, Mitchell J."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: May
+  first_author_last: "Lo"
+  category: conference
+  title: "Authenticating Aviation Augmentation System Broadcasts"
+  authors: "Lo, Sherman C. and Enge, Per K."
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Palm Springs, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  first_author_last: "Lo"
+  category: journal
+  title: "Assessing the Security of a Navigation System: A Case Study Using Enhanced Loran"
+  authors: "Lo, Sherman, Peterson, Benjamin, and Enge, Per"
+  venue: "ATTI Dell'Istituto Italiano Di Navigazione"
+  details: "Vol. 190, ISSN:1120-6977"
+  url: ""
+
+- year: 2010
+  month: January
+  first_author_last: "Lo"
+  category: journal
+  title: "Improving Loran Coverage with Low Power Transmitters"
+  authors: "Lo, Sherman, Peterson, Benjamin, Hardy, Tim, and Enge, Per"
+  venue: "The Journal of Navigation"
+  details: "Vol. 63 No. 1, pp. 23-38"
+  url: ""
+
+- year: 2010
+  month: January
+  first_author_last: "Murphy"
+  category: conference
+  title: "GBAS Differentially Corrected Positioning Service Ionospheric Anomaly Errors Evaluated in an Operational Context"
+  authors: "Murphy, Tim, Harris, Matt, Park, Young Shin, and Pullen, Samuel P."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  season: "November-December"
+  first_author_last: "Narins"
+  category: conference
+  title: "Alternative Positioning Navigation and Timing -- The Need for Robust Radionavigation"
+  authors: "Narins, Mitchell J., Eldredge, Leo, Enge, Per K., Harrison, Mike, Kenagy, Randy, and Lo, Sherman C."
+  venue: "Royal Institute of Navigation, Westminster, London, UK"
+  details: "Published in proceedings"
+  url: ""
+
+- year: 2010
+  month: May
+  first_author_last: "Park"
+  category: conference
+  title: "Enabling LAAS Airport Surface Movement: Mitigating the Anomalous Ionospheric Threat"
+  authors: "Park, Young Shin, Pullen, Samuel P., and Enge, Per K."
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Palm Springs, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Park"
+  category: conference
+  title: "A Study of Severe Multipath Errors for the Proposed GBAS Airport Surface Movement Application"
+  authors: "Park, Young Shin, Pullen, Samuel P., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2010
+  month: January
+  first_author_last: "Peterson"
+  category: conference
+  title: "Simple Loran Cycle Error Detection Algorithms for Maritime Harbor Entrance Approach Operations"
+  authors: "Peterson, Benjamin B., Lo, Sherman C., and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  season: "July/August"
+  first_author_last: "Phelts"
+  category: magazine
+  title: "Aviation Grade: Chips off the Block IIF (Evaluating the IIF-1 for Aviation Users)"
+  authors: "Phelts, R. Eric, Gao, Grace Xingxin, Wong, Gabriel H. W., Heng, Liang, Walter, Todd, Enge, Per K., Erker, Stafen, and Thoelert, Steffen"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2010
+  month: June
+  first_author_last: "Powell"
+  category: conference
+  title: "Space Weather: Its Effect on GNSS, DGNSS, SBAS, and Flight Inspection"
+  authors: "Powell, J. David, and Walter, Todd F."
+  venue: "International Flight Inspection Symposium (IFIS), Beijing, China"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Pullen"
+  category: conference
+  title: "Using SBAS to Enhance GBAS User Availability: Results and Extensions to Enhance Air Traffic Management"
+  authors: "Pullen, Samuel P., Luo, Ming, Walter, Todd, and Enge, Per K."
+  venue: "ENRI International Workshop on ATM/CNS, Tokyo, Japan"
+  details: "Published in proceedings"
+  url: ""
+
+- year: 2010
+  month: December
+  first_author_last: "Qiu"
+  category: journal
+  title: "Reliable Location-Based Services from Radio Navigation Systems"
+  authors: "Qiu, Di, Boneh, Dan, Lo, Sherman, and Enge, Per"
+  venue: "Sensors"
+  details: "Vol. 10 No. 12, pp. 11369-11389"
+  doi: "10.3390/s101211369"
+  url: ""
+
+- year: 2010
+  month: June
+  first_author_last: "Seo"
+  category: theses
+  title: "Overcoming Ionospheric Scintillation for Worldwide GPS Aviation"
+  authors: "Seo, Jiwon"
+  venue: "Stanford University"
+  details: "Ph.D. Dissertation"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Sparks"
+  category: conference
+  title: "Kriging as a Means of Improving WAAS Availability"
+  authors: "Sparks, Lawrence, Blanch, Juan, and Pandya, Nitin"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Suzuki"
+  category: conference
+  title: "Evaluation of Dual-Frequency GBAS Performance Using Data from Public Receiver Networks"
+  authors: "Suzuki, Kazushi, Pullen, Samuel P., Enge, Per K., and Ono, Takeshi"
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: May
+  first_author_last: "Tang"
+  category: conference
+  title: "Ephemeris Type A Fault Analysis and Mitigation for LAAS"
+  authors: "Tang, Haochen, Pullen, Samuel P., Enge, Per K., Grattton, Livio, Pervan, Boris S., Brenner, Mats, Scheitlin, Joe, and Kline, Paul"
+  venue: "IEEE/ION Position Location and Navigation Symposium (PLANS), Indian Wells, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  season: "July/August"
+  first_author_last: "Thoelert"
+  category: magazine
+  title: "On the Air: New Signals from the First GPS IIF Satellite"
+  authors: "Thoelert, Steffen, Erker, Stafen, Heng, Liang, Phelts, R. Eric, Gao, Grace Xingxin, Wong, Gabriel H. W., Walter, Todd, and Enge, Per"
+  venue: "Inside GNSS"
+  url: ""
+
+- year: 2010
+  month: January
+  first_author_last: "Walter"
+  category: conference
+  title: "Coverage Improvement for Dual Frequency SBAS"
+  authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  venue: "Institute of Navigation (ION) International Technical Meeting, San Diego, California"
+  details: "Presented at"
+  url: ""
+
+- year: 2010
+  month: March
+  first_author_last: "Walter"
+  category: magazine
+  title: "Future Augmented"
+  authors: "Walter, Todd, Enge, Per, and Blanch, Juan A."
+  venue: "GPS World"
+  url: ""
+
+- year: 2010
+  season: Summer
+  first_author_last: "Walter"
+  category: journal
+  title: "Evaluation of Signal in Space Error Bounds to Support Aviation Integrity"
+  authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  venue: "NAVIGATION"
+  details: "Vol. 57 No. 2, pp. 101-113"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Walter"
+  category: conference
+  title: "Vertical Protection Level Equations for Dual Frequency SBAS"
+  authors: "Walter, Todd, Blanch, Juan A., and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  awards:
+    - "Best Presentation Award"
+  url: ""
+
+- year: 2010
+  first_author_last: "Walter"
+  category: reference
+  title: "Wide-Area Augmentation System"
+  authors: "Walter, Todd"
+  venue: "Yearbook of Science & Technology"
+  details: "Published by McGraw-Hill"
+  url: ""
+
+- year: 2010
+  month: September
+  first_author_last: "Wong"
+  category: conference
+  title: "Characterization of Signal Deformations for GPS and WAAS Satellites"
+  authors: "Wong, Gabriel H. W., Phelts, Eric, Walter, Todd, and Enge, Per K."
+  venue: "Institute of Navigation (ION) Global Navigation Satellite Systems Conference, Portland, Oregon"
+  details: "Presented at"
+  url: ""
