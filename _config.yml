@@ -1,0 +1,24 @@
+title: "GPS Lab"
+description: "Research lab at Stanford University"
+url: "https://rlwang-GPSLab.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  news:
+    output: true
+    permalink: /news/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+exclude:
+  - README.md
+  - vendor
+  - Gemfile
+  - Gemfile.lock
