@@ -1,0 +1,198 @@
+---
+layout: page
+title: Publications
+# subtitle: "GPS Lab published documents"
+permalink: /publications/
+---
+
+{% assign pubs = site.data.publications %}
+{% assign categories = "journal|Journal,conference|Conference,magazine|Magazine,theses|Theses,books|Books" | split: "," %}
+{% assign current_year = "now" | date: "%Y" | plus: 0 %}
+
+<div class="pub-layout">
+
+  <aside class="pub-sidebar" aria-label="Publication filters">
+    <h3>Category</h3>
+    <button class="pub-filter is-active" type="button" data-filter="all">All</button>
+
+    {% for c in categories %}
+      {% assign parts = c | split: "|" %}
+      <button class="pub-filter" type="button" data-filter="{{ parts[0] }}">
+        {{ parts[1] }}
+      </button>
+    {% endfor %}
+
+<h3>Year</h3>
+
+<details class="pub-sidebar-group">
+  <summary>2020s</summary>
+  {% for y in (2020..current_year) reversed %}
+    <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
+  {% endfor %}
+</details>
+
+<details class="pub-sidebar-group">
+  <summary>2010s</summary>
+  {% for y in (2010..2019) reversed %}
+    <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
+  {% endfor %}
+</details>
+
+<details class="pub-sidebar-group">
+  <summary>2000s</summary>
+  {% for y in (2000..2009) reversed %}
+    <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
+  {% endfor %}
+</details>
+
+<details class="pub-sidebar-group">
+  <summary>1990s</summary>
+  {% for y in (1991..1999) reversed %}
+    <button class="pub-filter" type="button" data-filter="year-{{ y }}">{{ y }}</button>
+  {% endfor %}
+</details>
+
+<button class="pub-filter" type="button" data-filter="year-1990-earlier">
+  1990 and Earlier
+</button>
+
+  </aside>
+
+  <div class="pub-content">
+  <div class="pub-list">
+
+{% for y in (1991..current_year) reversed %}
+
+{% assign year_pubs = pubs
+      | where: "year", y
+      | sort: "first_author_last" %}
+
+{% if year_pubs.size > 0 %}
+
+    <h2 class="pub-year-heading"
+        data-year-heading="year-{{ y }}">
+      {{ y }}
+    </h2>
+
+    {% for p in year_pubs %}
+
+      <div class="pub-item"
+           data-category="{{ p.category }}"
+           data-year="year-{{ y }}">
+
+        {% if p.authors %}
+        <p class="pub-authors">{{ p.authors }}</p>
+        {% endif %}
+
+        <p class="pub-title">
+          {% if p.url %}
+          <a href="{{ p.url }}" target="_blank" rel="noopener">
+            {{ p.title }}
+          </a>
+          {% else %}
+          {{ p.title }}
+          {% endif %}
+        </p>
+
+        {% if p.citation %}
+        <p class="pub-meta">
+          {{ p.citation }}
+          {% if p.awards %}
+            {% for award in p.awards %}
+              <strong class="pub-award"> * {{ award }}</strong>
+            {% endfor %}
+          {% endif %}
+        </p>
+        {% else %}
+        <p class="pub-meta">
+          {% if p.category == "conference" %}
+            Presented at
+          {% else %}
+            Published in
+          {% endif %}
+          <span class="muted">{{ p.venue }}</span>{% if p.details %}, {{ p.details }}{% endif %}{% if p.month %}, {{ p.month }}{% endif %}{% if p.day %} {{ p.day }},{% endif %}{% if p.year %} {{ p.year }}{% endif %}{% if p.doi %}, DOI {{ p.doi }}{% endif %}.
+          {% if p.awards %}
+            {% for award in p.awards %}
+              <strong class="pub-award"> * {{ award }}</strong>
+            {% endfor %}
+          {% endif %}
+        </p>
+        {% endif %}
+
+      </div>
+
+    {% endfor %}
+
+{% endif %}
+
+{% endfor %}
+
+{% assign sorted_early_pubs = pubs | sort: "first_author_last" %}
+{% assign has_early_pubs = false %}
+
+{% for p in sorted_early_pubs %}
+{% if p.year <= 1990 %}
+{% assign has_early_pubs = true %}
+{% endif %}
+{% endfor %}
+
+{% if has_early_pubs %}
+
+  <h2 class="pub-year-heading"
+      data-year-heading="year-1990-earlier">
+    1990 and Earlier
+  </h2>
+
+{% for p in sorted_early_pubs %}
+{% if p.year <= 1990 %}
+
+      <div class="pub-item"
+           data-category="{{ p.category }}"
+           data-year="year-1990-earlier">
+
+        {% if p.authors %}
+        <p class="pub-authors">{{ p.authors }}</p>
+        {% endif %}
+
+        <p class="pub-title">
+          {% if p.url %}
+          <a href="{{ p.url }}" target="_blank" rel="noopener">
+            {{ p.title }}
+          </a>
+          {% else %}
+          {{ p.title }}
+          {% endif %}
+        </p>
+
+        {% if p.citation %}
+        <p class="pub-meta">
+          {{ p.citation }}
+          {% if p.awards %}
+            {% for award in p.awards %}
+              <strong class="pub-award"> * {{ award }}</strong>
+            {% endfor %}
+          {% endif %}
+        </p>
+        {% else %}
+        <p class="pub-meta">
+          {% if p.category == "conference" %}
+            Presented at
+          {% else %}
+            Published in
+          {% endif %}
+          <span class="muted">{{ p.venue }}</span>{% if p.details %}, {{ p.details }}{% endif %}{% if p.month %}, {{ p.month }}{% endif %}{% if p.day %} {{ p.day }},{% endif %}{% if p.year %} {{ p.year }}{% endif %}{% if p.doi %}, DOI {{ p.doi }}{% endif %}.
+        </p>
+        {% endif %}
+
+      </div>
+
+    {% endif %}
+
+{% endfor %}
+
+{% endif %}
+
+  </div>
+</div>
+
+</div>
