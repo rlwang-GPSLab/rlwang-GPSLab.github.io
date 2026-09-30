@@ -1,0 +1,18 @@
+<div class="pub-item">
+  <p class="pub-title">
+    {% if include.p.url %}
+    <a href="{{ include.p.url }}" target="_blank" rel="noopener"
+      >{{ include.p.title }}</a
+    >
+    {% else %} {{ include.p.title }} {% endif %}
+  </p>
+
+  {% if include.p.authors %}
+  <p class="pub-meta">{{ include.p.authors }}</p>
+  {% endif %}
+
+  <p class="pub-meta">
+    {% if include.p.venue %}<span class="muted">{{ include.p.venue }}</span>{%
+    endif %} {% if include.p.year %} · {{ include.p.year }}{% endif %}
+  </p>
+</div>

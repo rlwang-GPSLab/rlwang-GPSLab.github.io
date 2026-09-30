@@ -1,0 +1,54 @@
+{% assign resources = site.data.resources %} {% assign categories = resources |
+map: "category" | uniq | sort %}
+
+<aside class="resource-sidebar" aria-label="Resource navigation">
+  <h3>Resources</h3>
+
+  <a href="{{ '/resources/' | relative_url }}"> All Resources </a>
+
+  {% for category in categories %} {% assign category_resources = resources |
+  where: "category", category | sort: "title" %}
+
+  <details class="resource-sidebar-group">
+    <summary>{{ category }}</summary>
+
+    {% for r in category_resources %}
+
+    <a
+      href="{{ '/resources/' | append: r.slug | append: '/' | relative_url }}"
+      {%
+      if
+      page.url
+      contains
+      r.slug
+      %}class="is-active"
+      {%
+      endif
+      %}
+    >
+      {{ r.title }}
+    </a>
+
+    {% if r.children %}
+    <div class="resource-submenu">
+      {% for child in r.children %}
+      <a
+        href="{{ '/resources/' | append: child.slug | append: '/' | relative_url }}"
+        {%
+        if
+        page.url
+        contains
+        child.slug
+        %}class="is-active"
+        {%
+        endif
+        %}
+      >
+        {{ child.title }}
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %} {% endfor %}
+  </details>
+  {% endfor %}
+</aside>

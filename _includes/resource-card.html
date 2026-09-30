@@ -1,0 +1,17 @@
+<div class="resource-card">
+  {% if include.r.image %}
+  <img src="{{ include.r.image | relative_url }}" alt="{{ include.r.title }}" />
+  {% endif %}
+
+  <div class="resource-body">
+    <h3>
+      <a href="{{ include.r.url }}" target="_blank" rel="noopener">
+        {{ include.r.title }}
+      </a>
+    </h3>
+
+    {% if include.r.description %}
+    <p>{{ include.r.description }}</p>
+    {% endif %}
+  </div>
+</div>

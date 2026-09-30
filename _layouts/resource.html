@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<h1>Resources</h1>
+
+<div class="resource-layout">
+  {% include resource-sidebar.html %}
+
+  <div class="resource-content">
+    <h1>{{ page.resource_title | default: page.title }}</h1>
+
+    {{ content }}
+  </div>
+</div>
