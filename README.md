@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Lab Website Starter (Jekyll + YAML-driven)
 
 This starter repo builds a clean, Stanford-academic-style lab website using **Jekyll** and **YAML data files**.
@@ -47,7 +46,3 @@ Images:
 - Projects: `projects/index.md`
 - News: `news/index.md`
 - Contact: `contact/index.md`
-=======
-# lab-website-test
-testing new gps lab website
->>>>>>> e75658713857082f12c7729c7ab8dc8d8c2a4c6a
