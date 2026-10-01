@@ -22,7 +22,6 @@ layout: default
   </div>
 </section>
 
-
 <!-- Lab History -->
 <section class="section lab-intro">
   <div class="container">
@@ -160,7 +159,8 @@ layout: default
 
   </div>
 
-  {% if item.image %}
+{% if item.image %}
+
   <div class="news-list-image">
     <a href="{{ item.url | relative_url }}">
       <img
@@ -266,6 +266,12 @@ layout: default
           </div>
           <div class="lab-carousel-slide">
             <img src="{{ '/assets/img/carousel/08.jpg' | relative_url }}" alt="dana retirement">
+          </div>
+          <div class="lab-carousel-slide">
+            <img src="{{ '/assets/img/carousel/09.jpg' | relative_url }}" alt="dana retirement">
+          </div>
+          <div class="lab-carousel-slide">
+            <img src="{{ '/assets/img/carousel/10.jpg' | relative_url }}" alt="dana retirement">
           </div>
         </div>
       </div>
