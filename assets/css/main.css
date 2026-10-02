@@ -573,7 +573,7 @@ a:hover {
 
 .lab-carousel-slide img {
   width: 100%;
-  height: clamp(500px, 45vw, 700px);
+  height: min(clamp(340px, 36vw, 540px), 65vh);
   object-fit: cover;
   object-position: center center;
   display: block;
@@ -646,7 +646,7 @@ a:hover {
 
 @media (max-width: 860px) {
   .lab-carousel-slide img {
-    height: clamp(320px, 65vw, 480px);
+    height: min(clamp(240px, 56vw, 380px), 60vh);
   }
 
   .lab-carousel-btn {
