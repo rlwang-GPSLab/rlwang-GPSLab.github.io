@@ -32,7 +32,7 @@ permalink: /resources/software-tools/sugl/
   <ul class="resource-link-list">
     {% for year in (2007..2025) reversed %}
     <li>
-      <a href="{{ '/assets/files/software/sugl/gps-' | append: year | append: '.zip' | relative_url }}">
+      <a href="http://web.stanford.edu/group/scpnt/gpslab/website_files/sugl/GPS_{{ year }}.zip" target="_blank" rel="noopener">
         {{ year }} GPS Ephemeris Files ZIP Archive
       </a>
     </li>
