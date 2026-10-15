@@ -42,13 +42,13 @@ permalink: /resources/software-tools/sugl/
   <h2 class="resource-subheading">Galileo Ephemeris Files</h2>
 
   <p>
-    Below are links to annual ZIP archives of the RINEX-format Galileo Ephemeris Files for the years 2018–2022.
+    Below are links to annual ZIP archives of the RINEX-format Galileo Ephemeris Files for the years 2018–2025.
   </p>
 
   <ul class="resource-link-list">
-    {% for year in (2018..2022) reversed %}
+    {% for year in (2018..2025) reversed %}
     <li>
-      <a href="{{ '/assets/files/software/sugl/galileo-' | append: year | append: '.zip' | relative_url }}">
+      <a href="https://web.stanford.edu/group/scpnt/gpslab/website_files/sugl/GAL_{{ year }}.zip" target="_blank" rel="noopener">
         {{ year }} Galileo Ephemeris Files ZIP Archive
       </a>
     </li>
